@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <!-- From: file:/Users/Ann/Downloads/Antox-master/app/src/main/res/values-pt-rPT/strings_activity_settings.xml -->
+    <!-- From: file:/Users/Ann/Desktop/Wildfire-master/app/src/main/res/values-pt-rPT/strings_activity_settings.xml -->
     <eat-comment/>
     <string-array name="pref_status_list_titles">
     <item>Disponivel</item>
     <item>Ausente</item>
     <item>Ocupado</item>
   </string-array>
-    <!-- From: file:/Users/Ann/Downloads/Antox-master/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/res/values-pt-rPT/values-pt-rPT.xml -->
+    <!-- From: file:/Users/Ann/Desktop/Wildfire-master/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/res/values-pt-rPT/values-pt-rPT.xml -->
     <eat-comment/>
     <string msgid="4600421777120114993" name="abc_action_bar_home_description">"Navegar para a página inicial"</string>
     <string msgid="1397052879051804371" name="abc_action_bar_home_description_format">"%1$s, %2$s"</string>
@@ -26,7 +26,7 @@
     <string msgid="3421042268587513524" name="abc_shareactionprovider_share_with">"Partilhar com"</string>
     <string msgid="7165123711973476752" name="abc_shareactionprovider_share_with_application">"Partilhar com %s"</string>
     <string msgid="1603543279005712093" name="abc_toolbar_collapse_description">"Reduzir"</string>
-    <!-- From: file:/Users/Ann/Downloads/Antox-master/app/src/main/res/values-pt-rPT/strings.xml -->
+    <!-- From: file:/Users/Ann/Desktop/Wildfire-master/app/src/main/res/values-pt-rPT/strings.xml -->
     <eat-comment/>
     <string name="about">Sobre</string>
     <string name="about_antox_1">Com o incremento de programas de monitorização governamental, Tox disponibiliza uma aplicação de uso fácil que possibilita a comunicação entre familiares e amigos de forma privada.</string>
@@ -83,10 +83,10 @@
     <string name="contacts_delimiter_online">Online</string>
     <string name="contacts_delimiter_requests">Pedidos</string>
     <string name="contacts_resend_friend_request">Reenviar Pedido de Amizade</string>
-    <!-- From: file:/Users/Ann/Downloads/Antox-master/app/src/main/res/values-pt-rPT/strings_activity_settings.xml -->
+    <!-- From: file:/Users/Ann/Desktop/Wildfire-master/app/src/main/res/values-pt-rPT/strings_activity_settings.xml -->
     <eat-comment/>
     <string name="copy_tox_id">Copiar Identidade Tox</string>
-    <!-- From: file:/Users/Ann/Downloads/Antox-master/app/src/main/res/values-pt-rPT/strings.xml -->
+    <!-- From: file:/Users/Ann/Desktop/Wildfire-master/app/src/main/res/values-pt-rPT/strings.xml -->
     <eat-comment/>
     <string name="create_account_encrypted_profile_error">Antox ainda não suporta perfis encriptados</string>
     <string name="create_account_exists">Este nome já existe</string>
@@ -192,7 +192,7 @@ não estarão disponíveis, a menos que esteja a utilizar o Antox na rede local<
     <string name="n_settings">Definições</string>
     <string name="no_camera_intent_error">Erro: Não foi encontrada aplicação de camera valida.</string>
     <string name="open_source_license">Licença open source</string>
-    <!-- From: file:/Users/Ann/Downloads/Antox-master/app/src/main/res/values-pt-rPT/strings_activity_settings.xml -->
+    <!-- From: file:/Users/Ann/Desktop/Wildfire-master/app/src/main/res/values-pt-rPT/strings_activity_settings.xml -->
     <eat-comment/>
     <string name="pref_advanced">Avançado</string>
     <string name="pref_autostart">Inicializar o Antox no Arranque</string>
@@ -225,7 +225,7 @@ não estarão disponíveis, a menos que esteja a utilizar o Antox na rede local<
     <string name="pref_title_toxme">Endereço ToxMe</string>
     <string name="pref_title_wifi_only">Apenas em Wi-Fi</string>
     <string name="pref_udp">Ligar UDP</string>
-    <!-- From: file:/Users/Ann/Downloads/Antox-master/app/src/main/res/values-pt-rPT/strings.xml -->
+    <!-- From: file:/Users/Ann/Desktop/Wildfire-master/app/src/main/res/values-pt-rPT/strings.xml -->
     <eat-comment/>
     <string name="profile_info_description">Obter Informação de Utilizador</string>
     <string name="qr_button_no">Não</string>
@@ -240,10 +240,10 @@ Será capaz de manter os seus contactos, mas outras pessoas não o poderão adic
     <string name="scanqr_button">Digitalize um codigo QR</string>
     <string name="search_all_contacts">Procurar entre todos os contactos</string>
     <string name="share_with">Partilhar com</string>
-    <!-- From: file:/Users/Ann/Downloads/Antox-master/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/res/values-pt-rPT/values-pt-rPT.xml -->
+    <!-- From: file:/Users/Ann/Desktop/Wildfire-master/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/res/values-pt-rPT/values-pt-rPT.xml -->
     <eat-comment/>
     <string msgid="2869576371154716097" name="status_bar_notification_info_overflow">"+999"</string>
-    <!-- From: file:/Users/Ann/Downloads/Antox-master/app/src/main/res/values-pt-rPT/strings.xml -->
+    <!-- From: file:/Users/Ann/Desktop/Wildfire-master/app/src/main/res/values-pt-rPT/strings.xml -->
     <eat-comment/>
     <string name="title_activity_add">Adicionar Contacto</string>
     <string name="title_activity_call">Registo de Chamadas</string>
@@ -251,10 +251,10 @@ Será capaz de manter os seus contactos, mas outras pessoas não o poderão adic
     <string name="title_activity_friend_profile">Perfil de Amigo</string>
     <string name="title_activity_group_profile">Informação de Grupo</string>
     <string name="title_activity_profile_settings">Opções de Perfil</string>
-    <!-- From: file:/Users/Ann/Downloads/Antox-master/app/src/main/res/values-pt-rPT/strings_activity_settings.xml -->
+    <!-- From: file:/Users/Ann/Desktop/Wildfire-master/app/src/main/res/values-pt-rPT/strings_activity_settings.xml -->
     <eat-comment/>
     <string name="title_activity_settings">Configurações</string>
-    <!-- From: file:/Users/Ann/Downloads/Antox-master/app/src/main/res/values-pt-rPT/strings.xml -->
+    <!-- From: file:/Users/Ann/Desktop/Wildfire-master/app/src/main/res/values-pt-rPT/strings.xml -->
     <eat-comment/>
     <string name="titles_contacts">Contactos</string>
     <string name="titles_recent">Recente</string>

@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <!-- From: file:/Users/Ann/Downloads/Antox-master/app/src/main/res/values/strings_activity_settings.xml -->
+    <!-- From: file:/Users/Ann/Desktop/Wildfire-master/app/src/main/res/values/strings_activity_settings.xml -->
     <eat-comment/>
     <string-array name="pref_language_list_titles" translatable="false">
         <item>العربية</item>
@@ -74,7 +74,7 @@
         <item>away</item>
         <item>busy</item>
     </string-array>
-    <!-- From: file:/Users/Ann/Downloads/Antox-master/app/src/main/res/values/arrays.xml -->
+    <!-- From: file:/Users/Ann/Desktop/Wildfire-master/app/src/main/res/values/arrays.xml -->
     <eat-comment/>
     <array name="theme_colors">
         <item>@color/brand_primary</item>
@@ -98,7 +98,7 @@
         <item>#FF9800</item>
         <item>#FF5722</item>
     </array>
-    <!-- From: file:/Users/Ann/Downloads/Antox-master/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/res/values/values.xml -->
+    <!-- From: file:/Users/Ann/Desktop/Wildfire-master/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/res/values/values.xml -->
     <eat-comment/>
     <attr format="reference" name="drawerArrowStyle"/>
     <attr format="dimension" name="height"/>
@@ -117,20 +117,20 @@
     <color name="abc_search_url_text_selected">@android:color/black</color>
     <color name="accent_material_dark">@color/material_deep_teal_200</color>
     <color name="accent_material_light">@color/material_deep_teal_500</color>
-    <!-- From: file:/Users/Ann/Downloads/Antox-master/app/src/main/res/values/colors.xml -->
+    <!-- From: file:/Users/Ann/Desktop/Wildfire-master/app/src/main/res/values/colors.xml -->
     <eat-comment/>
     <color name="action_bar_background">@color/brand_primary</color>
     <color name="away">@color/orange</color>
-    <!-- From: file:/Users/Ann/Downloads/Antox-master/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/res/values/values.xml -->
+    <!-- From: file:/Users/Ann/Desktop/Wildfire-master/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/res/values/values.xml -->
     <eat-comment/>
     <color name="background_floating_material_dark">@color/material_grey_800</color>
     <color name="background_floating_material_light">@android:color/white</color>
     <color name="background_material_dark">@color/material_grey_850</color>
     <color name="background_material_light">@color/material_grey_50</color>
-    <!-- From: file:/Users/Ann/Downloads/Antox-master/app/build/intermediates/exploded-aar/com.jpardogo.materialtabstrip/library/1.0.3/res/values/values.xml -->
+    <!-- From: file:/Users/Ann/Desktop/Wildfire-master/app/build/intermediates/exploded-aar/com.jpardogo.materialtabstrip/library/1.0.3/res/values/values.xml -->
     <eat-comment/>
     <color name="background_tab_pressed">#6633B5E5</color>
-    <!-- From: file:/Users/Ann/Downloads/Antox-master/app/src/main/res/values/colors.xml -->
+    <!-- From: file:/Users/Ann/Desktop/Wildfire-master/app/src/main/res/values/colors.xml -->
     <eat-comment/>
     <color name="black">#222222</color>
     <color name="brand_primary">@color/purple_dark</color>
@@ -138,7 +138,7 @@
     <color name="brand_secondary">@color/green</color>
     <color name="brand_secondary_dark">@color/green_dark</color>
     <color name="brand_secondary_darker">@color/green_darker</color>
-    <!-- From: file:/Users/Ann/Downloads/Antox-master/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/res/values/values.xml -->
+    <!-- From: file:/Users/Ann/Desktop/Wildfire-master/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/res/values/values.xml -->
     <eat-comment/>
     <color name="bright_foreground_disabled_material_dark">#80ffffff</color>
     <color name="bright_foreground_disabled_material_light">#80000000</color>
@@ -146,14 +146,14 @@
     <color name="bright_foreground_inverse_material_light">@color/bright_foreground_material_dark</color>
     <color name="bright_foreground_material_dark">@android:color/white</color>
     <color name="bright_foreground_material_light">@android:color/black</color>
-    <!-- From: file:/Users/Ann/Downloads/Antox-master/app/src/main/res/values/colors.xml -->
+    <!-- From: file:/Users/Ann/Desktop/Wildfire-master/app/src/main/res/values/colors.xml -->
     <eat-comment/>
     <color name="busy">@color/red</color>
-    <!-- From: file:/Users/Ann/Downloads/Antox-master/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/res/values/values.xml -->
+    <!-- From: file:/Users/Ann/Desktop/Wildfire-master/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/res/values/values.xml -->
     <eat-comment/>
     <color name="button_material_dark">#ff5a595b</color>
     <color name="button_material_light">#ffd6d7d7</color>
-    <!-- From: file:/Users/Ann/Downloads/Antox-master/app/build/intermediates/exploded-aar/com.android.support/design/23.0.1/res/values/values.xml -->
+    <!-- From: file:/Users/Ann/Desktop/Wildfire-master/app/build/intermediates/exploded-aar/com.android.support/design/23.0.1/res/values/values.xml -->
     <eat-comment/>
     <color name="design_fab_shadow_end_color">@android:color/transparent</color>
     <color name="design_fab_shadow_mid_color">#14000000</color>
@@ -164,21 +164,21 @@
     <color name="design_fab_stroke_top_outer_color">#2EFFFFFF</color>
     <color name="design_snackbar_background_color">#323232</color>
     <color name="design_textinput_error_color">#FFDD2C00</color>
-    <!-- From: file:/Users/Ann/Downloads/Antox-master/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/res/values/values.xml -->
+    <!-- From: file:/Users/Ann/Desktop/Wildfire-master/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/res/values/values.xml -->
     <eat-comment/>
     <color name="dim_foreground_disabled_material_dark">#80bebebe</color>
     <color name="dim_foreground_disabled_material_light">#80323232</color>
     <color name="dim_foreground_material_dark">#ffbebebe</color>
     <color name="dim_foreground_material_light">#ff323232</color>
-    <!-- From: file:/Users/Ann/Downloads/Antox-master/app/src/main/res/values/colors.xml -->
+    <!-- From: file:/Users/Ann/Desktop/Wildfire-master/app/src/main/res/values/colors.xml -->
     <eat-comment/>
     <color name="fab_normal">@color/brand_secondary</color>
     <color name="fab_pressed">@color/brand_secondary_dark</color>
-    <!-- From: file:/Users/Ann/Downloads/Antox-master/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/res/values/values.xml -->
+    <!-- From: file:/Users/Ann/Desktop/Wildfire-master/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/res/values/values.xml -->
     <eat-comment/>
     <color name="foreground_material_dark">@android:color/white</color>
     <color name="foreground_material_light">@android:color/black</color>
-    <!-- From: file:/Users/Ann/Downloads/Antox-master/app/src/main/res/values/colors.xml -->
+    <!-- From: file:/Users/Ann/Desktop/Wildfire-master/app/src/main/res/values/colors.xml -->
     <eat-comment/>
     <color name="green">#339554</color>
     <color name="green_dark">#2e7d32</color>
@@ -189,7 +189,7 @@
     <color name="grey_darker">#666666</color>
     <color name="grey_darkest">#444444</color>
     <color name="grey_light">#EAEAEA</color>
-    <!-- From: file:/Users/Ann/Downloads/Antox-master/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/res/values/values.xml -->
+    <!-- From: file:/Users/Ann/Desktop/Wildfire-master/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/res/values/values.xml -->
     <eat-comment/>
     <color name="highlighted_text_material_dark">#6680cbc4</color>
     <color name="highlighted_text_material_light">#66009688</color>
@@ -207,14 +207,14 @@
     <color name="material_grey_800">#ff424242</color>
     <color name="material_grey_850">#ff303030</color>
     <color name="material_grey_900">#ff212121</color>
-    <!-- From: file:/Users/Ann/Downloads/Antox-master/app/src/main/res/values/colors.xml -->
+    <!-- From: file:/Users/Ann/Desktop/Wildfire-master/app/src/main/res/values/colors.xml -->
     <eat-comment/>
     <color name="material_orange_700">#f57c00</color>
     <color name="material_red_a700">#d50000</color>
     <color name="offline">@color/grey_dark</color>
     <color name="online">@color/green</color>
     <color name="orange">#FF9900</color>
-    <!-- From: file:/Users/Ann/Downloads/Antox-master/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/res/values/values.xml -->
+    <!-- From: file:/Users/Ann/Desktop/Wildfire-master/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/res/values/values.xml -->
     <eat-comment/>
     <color name="primary_dark_material_dark">@android:color/black</color>
     <color name="primary_dark_material_light">@color/material_grey_600</color>
@@ -224,12 +224,12 @@
     <color name="primary_text_default_material_light">#de000000</color>
     <color name="primary_text_disabled_material_dark">#4Dffffff</color>
     <color name="primary_text_disabled_material_light">#39000000</color>
-    <!-- From: file:/Users/Ann/Downloads/Antox-master/app/src/main/res/values/colors.xml -->
+    <!-- From: file:/Users/Ann/Desktop/Wildfire-master/app/src/main/res/values/colors.xml -->
     <eat-comment/>
     <color name="purple_dark">#5e35b1</color>
     <color name="purple_darker">#512da8</color>
     <color name="red">#FF3333</color>
-    <!-- From: file:/Users/Ann/Downloads/Antox-master/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/res/values/values.xml -->
+    <!-- From: file:/Users/Ann/Desktop/Wildfire-master/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/res/values/values.xml -->
     <eat-comment/>
     <color name="ripple_material_dark">#42ffffff</color>
     <color name="ripple_material_light">#1f000000</color>
@@ -237,23 +237,23 @@
     <color name="secondary_text_default_material_light">#8a000000</color>
     <color name="secondary_text_disabled_material_dark">#36ffffff</color>
     <color name="secondary_text_disabled_material_light">#24000000</color>
-    <!-- From: file:/Users/Ann/Downloads/Antox-master/app/src/main/res/values/colors.xml -->
+    <!-- From: file:/Users/Ann/Desktop/Wildfire-master/app/src/main/res/values/colors.xml -->
     <eat-comment/>
     <color name="sent_message_background">@color/brand_primary</color>
-    <!-- From: file:/Users/Ann/Downloads/Antox-master/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/res/values/values.xml -->
+    <!-- From: file:/Users/Ann/Desktop/Wildfire-master/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/res/values/values.xml -->
     <eat-comment/>
     <color name="switch_thumb_disabled_material_dark">#ff616161</color>
     <color name="switch_thumb_disabled_material_light">#ffbdbdbd</color>
     <color name="switch_thumb_normal_material_dark">#ffbdbdbd</color>
     <color name="switch_thumb_normal_material_light">#fff1f1f1</color>
-    <!-- From: file:/Users/Ann/Downloads/Antox-master/app/src/main/res/values/colors.xml -->
+    <!-- From: file:/Users/Ann/Desktop/Wildfire-master/app/src/main/res/values/colors.xml -->
     <eat-comment/>
     <color name="tab_highlight">#aaaaaaaa</color>
     <color name="tab_selected">@color/white</color>
-    <!-- From: file:/Users/Ann/Downloads/Antox-master/app/build/intermediates/exploded-aar/com.balysv/material-ripple/1.0.2/res/values/values.xml -->
+    <!-- From: file:/Users/Ann/Desktop/Wildfire-master/app/build/intermediates/exploded-aar/com.balysv/material-ripple/1.0.2/res/values/values.xml -->
     <eat-comment/>
     <color name="transparent">#00FFFFFF</color>
-    <!-- From: file:/Users/Ann/Downloads/Antox-master/app/src/main/res/values/colors.xml -->
+    <!-- From: file:/Users/Ann/Desktop/Wildfire-master/app/src/main/res/values/colors.xml -->
     <eat-comment/>
     <color name="unread_indicator_background">@color/brand_secondary</color>
     <color name="white">#f3f3f3</color>
@@ -304,7 +304,7 @@
     <declare-styleable name="View"><attr format="dimension" name="paddingStart"/><attr format="dimension" name="paddingEnd"/><attr name="android:focusable"/><attr format="reference" name="theme"/><attr name="android:theme"/></declare-styleable>
     <declare-styleable name="ViewBackgroundHelper"><attr name="android:background"/><attr format="color" name="backgroundTint"/><attr name="backgroundTintMode"><enum name="src_over" value="3"/><enum name="src_in" value="5"/><enum name="src_atop" value="9"/><enum name="multiply" value="14"/><enum name="screen" value="15"/></attr></declare-styleable>
     <declare-styleable name="ViewStubCompat"><attr name="android:layout"/><attr name="android:inflatedId"/><attr name="android:id"/></declare-styleable>
-    <!-- From: file:/Users/Ann/Downloads/Antox-master/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/res/values/values.xml -->
+    <!-- From: file:/Users/Ann/Desktop/Wildfire-master/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/res/values/values.xml -->
     <eat-comment/>
     <dimen name="abc_action_bar_content_inset_material">16dp</dimen>
     <dimen name="abc_action_bar_default_height_material">56dp</dimen>
@@ -366,14 +366,14 @@
     <dimen name="abc_text_size_subtitle_material_toolbar">16dp</dimen>
     <dimen name="abc_text_size_title_material">20sp</dimen>
     <dimen name="abc_text_size_title_material_toolbar">20dp</dimen>
-    <!-- From: file:/Users/Ann/Downloads/Antox-master/app/src/main/res/values/dimens.xml -->
+    <!-- From: file:/Users/Ann/Desktop/Wildfire-master/app/src/main/res/values/dimens.xml -->
     <eat-comment/>
     <dimen name="activity_horizontal_margin">16dp</dimen>
     <dimen name="activity_vertical_margin">16dp</dimen>
-    <!-- From: file:/Users/Ann/Downloads/Antox-master/app/build/intermediates/exploded-aar/com.android.support/gridlayout-v7/23.0.1/res/values/values.xml -->
+    <!-- From: file:/Users/Ann/Desktop/Wildfire-master/app/build/intermediates/exploded-aar/com.android.support/gridlayout-v7/23.0.1/res/values/values.xml -->
     <eat-comment/>
     <dimen name="default_gap">8dip</dimen>
-    <!-- From: file:/Users/Ann/Downloads/Antox-master/app/build/intermediates/exploded-aar/com.android.support/design/23.0.1/res/values/values.xml -->
+    <!-- From: file:/Users/Ann/Desktop/Wildfire-master/app/build/intermediates/exploded-aar/com.android.support/design/23.0.1/res/values/values.xml -->
     <eat-comment/>
     <dimen name="design_appbar_elevation">4dp</dimen>
     <dimen name="design_fab_border_width">0.5dp</dimen>
@@ -401,7 +401,7 @@
     <dimen name="design_snackbar_text_size">14sp</dimen>
     <dimen name="design_tab_max_width">264dp</dimen>
     <dimen name="design_tab_min_width">72dp</dimen>
-    <!-- From: file:/Users/Ann/Downloads/Antox-master/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/res/values/values.xml -->
+    <!-- From: file:/Users/Ann/Desktop/Wildfire-master/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/res/values/values.xml -->
     <eat-comment/>
     <item name="dialog_fixed_height_major" type="dimen">80%</item>
     <item name="dialog_fixed_height_minor" type="dimen">100%</item>
@@ -409,28 +409,28 @@
     <item name="dialog_fixed_width_minor" type="dimen">320dp</item>
     <item format="float" name="disabled_alpha_material_dark" type="dimen">0.30</item>
     <item format="float" name="disabled_alpha_material_light" type="dimen">0.26</item>
-    <!-- From: file:/Users/Ann/Downloads/Antox-master/app/src/main/res/values/dimens.xml -->
+    <!-- From: file:/Users/Ann/Desktop/Wildfire-master/app/src/main/res/values/dimens.xml -->
     <eat-comment/>
     <dimen name="fab_margin">20dp</dimen>
-    <!-- From: file:/Users/Ann/Downloads/Antox-master/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/res/values/values.xml -->
+    <!-- From: file:/Users/Ann/Desktop/Wildfire-master/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/res/values/values.xml -->
     <eat-comment/>
     <item format="float" name="highlight_alpha_material_colored" type="dimen">0.26</item>
     <item format="float" name="highlight_alpha_material_dark" type="dimen">0.20</item>
     <item format="float" name="highlight_alpha_material_light" type="dimen">0.12</item>
-    <!-- From: file:/Users/Ann/Downloads/Antox-master/app/build/intermediates/exploded-aar/com.android.support/recyclerview-v7/23.0.1/res/values/values.xml -->
+    <!-- From: file:/Users/Ann/Desktop/Wildfire-master/app/build/intermediates/exploded-aar/com.android.support/recyclerview-v7/23.0.1/res/values/values.xml -->
     <eat-comment/>
     <dimen name="item_touch_helper_max_drag_scroll_per_frame">20dp</dimen>
-    <!-- From: file:/Users/Ann/Downloads/Antox-master/app/src/main/res/values/dimens.xml -->
+    <!-- From: file:/Users/Ann/Desktop/Wildfire-master/app/src/main/res/values/dimens.xml -->
     <eat-comment/>
     <dimen name="margin_large">16dp</dimen>
     <dimen name="margin_medium">8dp</dimen>
     <dimen name="margin_small">4dp</dimen>
-    <!-- From: file:/Users/Ann/Downloads/Antox-master/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/res/values/values.xml -->
+    <!-- From: file:/Users/Ann/Desktop/Wildfire-master/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/res/values/values.xml -->
     <eat-comment/>
     <dimen name="notification_large_icon_height">64dp</dimen>
     <dimen name="notification_large_icon_width">64dp</dimen>
     <dimen name="notification_subtext_size">12dp</dimen>
-    <!-- From: file:/Users/Ann/Downloads/Antox-master/app/src/main/res/values/dimens.xml -->
+    <!-- From: file:/Users/Ann/Desktop/Wildfire-master/app/src/main/res/values/dimens.xml -->
     <eat-comment/>
     <dimen name="padding">16dp</dimen>
     <dimen name="padding_small">8dp</dimen>
@@ -440,7 +440,7 @@
     <dimen name="text_small">14sp</dimen>
     <dimen name="text_smallish">16sp</dimen>
     <dimen name="text_tiny">10sp</dimen>
-    <!-- From: file:/Users/Ann/Downloads/Antox-master/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/res/values/values.xml -->
+    <!-- From: file:/Users/Ann/Desktop/Wildfire-master/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/res/values/values.xml -->
     <eat-comment/>
     <drawable name="notification_template_icon_bg">#3333B5E5</drawable>
     <item name="action_bar_activity_content" type="id"/>
@@ -448,28 +448,28 @@
     <item name="action_menu_divider" type="id"/>
     <item name="action_menu_presenter" type="id"/>
     <item name="home" type="id"/>
-    <!-- From: file:/Users/Ann/Downloads/Antox-master/app/build/intermediates/exploded-aar/com.android.support/recyclerview-v7/23.0.1/res/values/values.xml -->
+    <!-- From: file:/Users/Ann/Desktop/Wildfire-master/app/build/intermediates/exploded-aar/com.android.support/recyclerview-v7/23.0.1/res/values/values.xml -->
     <eat-comment/>
     <item name="item_touch_helper_previous_elevation" type="id"/>
-    <!-- From: file:/Users/Ann/Downloads/Antox-master/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/res/values/values.xml -->
+    <!-- From: file:/Users/Ann/Desktop/Wildfire-master/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/res/values/values.xml -->
     <eat-comment/>
     <item name="progress_circular" type="id"/>
     <item name="progress_horizontal" type="id"/>
     <item name="split_action_bar" type="id"/>
     <item name="up" type="id"/>
-    <!-- From: file:/Users/Ann/Downloads/Antox-master/app/build/intermediates/exploded-aar/com.android.support/design/23.0.1/res/values/values.xml -->
+    <!-- From: file:/Users/Ann/Desktop/Wildfire-master/app/build/intermediates/exploded-aar/com.android.support/design/23.0.1/res/values/values.xml -->
     <eat-comment/>
     <item name="view_offset_helper" type="id"/>
-    <!-- From: file:/Users/Ann/Downloads/Antox-master/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/res/values/values.xml -->
+    <!-- From: file:/Users/Ann/Desktop/Wildfire-master/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/res/values/values.xml -->
     <eat-comment/>
     <integer name="abc_config_activityDefaultDur">220</integer>
     <integer name="abc_config_activityShortDur">150</integer>
     <integer name="abc_max_action_buttons">2</integer>
     <integer name="cancel_button_image_alpha">127</integer>
-    <!-- From: file:/Users/Ann/Downloads/Antox-master/app/build/intermediates/exploded-aar/com.android.support/design/23.0.1/res/values/values.xml -->
+    <!-- From: file:/Users/Ann/Desktop/Wildfire-master/app/build/intermediates/exploded-aar/com.android.support/design/23.0.1/res/values/values.xml -->
     <eat-comment/>
     <integer name="design_snackbar_text_max_lines">2</integer>
-    <!-- From: file:/Users/Ann/Downloads/Antox-master/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/res/values/values.xml -->
+    <!-- From: file:/Users/Ann/Desktop/Wildfire-master/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/res/values/values.xml -->
     <eat-comment/>
     <integer name="status_bar_notification_info_maxnum">999</integer>
     <string name="abc_action_bar_home_description">Navigate home</string>
@@ -489,7 +489,7 @@
     <string name="abc_shareactionprovider_share_with">Share with</string>
     <string name="abc_shareactionprovider_share_with_application">Share with %s</string>
     <string name="abc_toolbar_collapse_description">Collapse</string>
-    <!-- From: file:/Users/Ann/Downloads/Antox-master/app/src/main/res/values/strings.xml -->
+    <!-- From: file:/Users/Ann/Desktop/Wildfire-master/app/src/main/res/values/strings.xml -->
     <eat-comment/>
     <string name="about">About</string>
     <string name="about_antox_1">With the rise of government monitoring programs, Tox provides an easy to use application that allows you to connect with friends and family without anyone else listening in.</string>
@@ -523,10 +523,10 @@
     <string name="addpane_friend_label">Friend</string>
     <string name="addpane_group_label">Group</string>
     <string name="app_name" translatable="false">Antox</string>
-    <!-- From: file:/Users/Ann/Downloads/Antox-master/app/build/intermediates/exploded-aar/com.android.support/design/23.0.1/res/values/values.xml -->
+    <!-- From: file:/Users/Ann/Desktop/Wildfire-master/app/build/intermediates/exploded-aar/com.android.support/design/23.0.1/res/values/values.xml -->
     <eat-comment/>
     <string name="appbar_scrolling_view_behavior" translatable="false">android.support.design.widget.AppBarLayout$ScrollingViewBehavior</string>
-    <!-- From: file:/Users/Ann/Downloads/Antox-master/app/src/main/res/values/strings.xml -->
+    <!-- From: file:/Users/Ann/Desktop/Wildfire-master/app/src/main/res/values/strings.xml -->
     <eat-comment/>
     <string name="attachment_file">Attach File</string>
     <string name="attachment_photo">Attach photo</string>
@@ -552,10 +552,10 @@
     <string name="contacts_delimiter_online">Online</string>
     <string name="contacts_delimiter_requests">Requests</string>
     <string name="contacts_resend_friend_request">Resend Friend Request</string>
-    <!-- From: file:/Users/Ann/Downloads/Antox-master/app/src/main/res/values/strings_activity_settings.xml -->
+    <!-- From: file:/Users/Ann/Desktop/Wildfire-master/app/src/main/res/values/strings_activity_settings.xml -->
     <eat-comment/>
     <string name="copy_tox_id">Copy Tox ID</string>
-    <!-- From: file:/Users/Ann/Downloads/Antox-master/app/src/main/res/values/strings.xml -->
+    <!-- From: file:/Users/Ann/Desktop/Wildfire-master/app/src/main/res/values/strings.xml -->
     <eat-comment/>
     <string name="create_account_connection_error">Registration Failed: Could not connect to the internet.</string>
     <string name="create_account_encrypted_profile_error">Antox does not support encrypted profiles yet</string>
@@ -668,7 +668,7 @@
     <string name="n_settings">Settings</string>
     <string name="no_camera_intent_error">Error: No valid camera application found.</string>
     <string name="open_source_license">Open source license</string>
-    <!-- From: file:/Users/Ann/Downloads/Antox-master/app/src/main/res/values/strings_activity_settings.xml -->
+    <!-- From: file:/Users/Ann/Desktop/Wildfire-master/app/src/main/res/values/strings_activity_settings.xml -->
     <eat-comment/>
     <string name="pref_advanced">Advanced</string>
     <string name="pref_autostart">Start Antox On Boot</string>
@@ -709,7 +709,7 @@
     <string name="pref_title_wifi_only">Wi-Fi Only</string>
     <string name="pref_udp">Enable UDP</string>
     <string name="pref_unsupported">Your device does not support this option</string>
-    <!-- From: file:/Users/Ann/Downloads/Antox-master/app/src/main/res/values/strings.xml -->
+    <!-- From: file:/Users/Ann/Desktop/Wildfire-master/app/src/main/res/values/strings.xml -->
     <eat-comment/>
     <string name="profile_info_description">Get User Info</string>
     <string name="qr_button_no">No</string>
@@ -725,10 +725,10 @@
     <string name="search_all_contacts">Search all contacts</string>
     <string name="share_with">Share with</string>
     <string name="status_away">Away</string>
-    <!-- From: file:/Users/Ann/Downloads/Antox-master/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/res/values/values.xml -->
+    <!-- From: file:/Users/Ann/Desktop/Wildfire-master/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/res/values/values.xml -->
     <eat-comment/>
     <string name="status_bar_notification_info_overflow">999+</string>
-    <!-- From: file:/Users/Ann/Downloads/Antox-master/app/src/main/res/values/strings.xml -->
+    <!-- From: file:/Users/Ann/Desktop/Wildfire-master/app/src/main/res/values/strings.xml -->
     <eat-comment/>
     <string name="status_busy">Busy</string>
     <string name="status_offline">Offline</string>
@@ -739,10 +739,10 @@
     <string name="title_activity_friend_profile">Friend Profile</string>
     <string name="title_activity_group_profile">Group Info</string>
     <string name="title_activity_profile_settings">Profile options</string>
-    <!-- From: file:/Users/Ann/Downloads/Antox-master/app/src/main/res/values/strings_activity_settings.xml -->
+    <!-- From: file:/Users/Ann/Desktop/Wildfire-master/app/src/main/res/values/strings_activity_settings.xml -->
     <eat-comment/>
     <string name="title_activity_settings">Settings</string>
-    <!-- From: file:/Users/Ann/Downloads/Antox-master/app/src/main/res/values/strings.xml -->
+    <!-- From: file:/Users/Ann/Desktop/Wildfire-master/app/src/main/res/values/strings.xml -->
     <eat-comment/>
     <string name="titles_contacts">Contacts</string>
     <string name="titles_recent">Recent</string>
@@ -752,7 +752,7 @@
     <string name="ver">Version</string>
     <string name="you_sent_file">You sent a file.</string>
     <string name="you_sent_image">You sent an image.</string>
-    <!-- From: file:/Users/Ann/Downloads/Antox-master/app/src/main/res/values/styles.xml -->
+    <!-- From: file:/Users/Ann/Desktop/Wildfire-master/app/src/main/res/values/styles.xml -->
     <eat-comment/>
     <style name="ActionBar" parent="@style/Widget.AppCompat.Light.ActionBar.Solid.Inverse">
         <item name="android:titleTextStyle">@style/ActionBarTitleText</item>
@@ -774,13 +774,13 @@
         <item name="android:textColor">@color/white</item>
         <!-- The textColor property is backward compatible with the Support Library -->
     </style>
-    <!-- From: file:/Users/Ann/Downloads/Antox-master/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/res/values/values.xml -->
+    <!-- From: file:/Users/Ann/Desktop/Wildfire-master/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/res/values/values.xml -->
     <eat-comment/>
     <style name="AlertDialog.AppCompat" parent="Base.AlertDialog.AppCompat"/>
     <style name="AlertDialog.AppCompat.Light" parent="Base.AlertDialog.AppCompat.Light"/>
     <style name="Animation.AppCompat.Dialog" parent="Base.Animation.AppCompat.Dialog"/>
     <style name="Animation.AppCompat.DropDownUp" parent="Base.Animation.AppCompat.DropDownUp"/>
-    <!-- From: file:/Users/Ann/Downloads/Antox-master/app/src/main/res/values/styles.xml -->
+    <!-- From: file:/Users/Ann/Desktop/Wildfire-master/app/src/main/res/values/styles.xml -->
     <eat-comment/>
     <style name="AntoxTheme" parent="@style/Theme.AppCompat.Light.DarkActionBar">
         <!-- colorPrimaryDark is used for the status bar -->
@@ -811,7 +811,7 @@
     </style>
     <style name="AppTheme" parent="AntoxTheme">
     </style>
-    <!-- From: file:/Users/Ann/Downloads/Antox-master/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/res/values/values.xml -->
+    <!-- From: file:/Users/Ann/Desktop/Wildfire-master/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/res/values/values.xml -->
     <eat-comment/>
     <style name="Base.AlertDialog.AppCompat" parent="android:Widget">
         <item name="android:layout">@layout/abc_alert_dialog_material</item>
@@ -1726,7 +1726,7 @@
         <item name="android:minWidth">56dp</item>
         <item name="android:scaleType">center</item>
     </style>
-    <!-- From: file:/Users/Ann/Downloads/Antox-master/app/build/intermediates/exploded-aar/com.android.support/design/23.0.1/res/values/values.xml -->
+    <!-- From: file:/Users/Ann/Desktop/Wildfire-master/app/build/intermediates/exploded-aar/com.android.support/design/23.0.1/res/values/values.xml -->
     <eat-comment/>
     <style name="Base.Widget.Design.TabLayout" parent="android:Widget">
         <item name="tabMaxWidth">@dimen/design_tab_max_width</item>
@@ -1738,7 +1738,7 @@
         <item name="tabTextAppearance">@style/TextAppearance.Design.Tab</item>
         <item name="tabSelectedTextColor">?android:textColorPrimary</item>
     </style>
-    <!-- From: file:/Users/Ann/Downloads/Antox-master/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/res/values/values.xml -->
+    <!-- From: file:/Users/Ann/Desktop/Wildfire-master/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/res/values/values.xml -->
     <eat-comment/>
     <style name="Platform.AppCompat" parent="android:Theme">
         <item name="android:windowNoTitle">true</item>
@@ -1936,7 +1936,7 @@
     </style>
     <style name="TextAppearance.AppCompat.Widget.Switch" parent="Base.TextAppearance.AppCompat.Widget.Switch"/>
     <style name="TextAppearance.AppCompat.Widget.TextView.SpinnerItem" parent="Base.TextAppearance.AppCompat.Widget.TextView.SpinnerItem"/>
-    <!-- From: file:/Users/Ann/Downloads/Antox-master/app/build/intermediates/exploded-aar/com.android.support/design/23.0.1/res/values/values.xml -->
+    <!-- From: file:/Users/Ann/Desktop/Wildfire-master/app/build/intermediates/exploded-aar/com.android.support/design/23.0.1/res/values/values.xml -->
     <eat-comment/>
     <style name="TextAppearance.Design.CollapsingToolbar.Expanded" parent="TextAppearance.AppCompat.Display1">
         <item name="android:textColor">?android:attr/textColorPrimary</item>
@@ -1956,7 +1956,7 @@
         <item name="android:textColor">?android:textColorSecondary</item>
         <item name="textAllCaps">true</item>
     </style>
-    <!-- From: file:/Users/Ann/Downloads/Antox-master/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/res/values/values.xml -->
+    <!-- From: file:/Users/Ann/Desktop/Wildfire-master/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/res/values/values.xml -->
     <eat-comment/>
     <style name="TextAppearance.StatusBar.EventContent" parent=""/>
     <style name="TextAppearance.StatusBar.EventContent.Info" parent=""/>
@@ -1991,7 +1991,7 @@
         <item name="windowActionBar">false</item>
         <item name="windowNoTitle">true</item>
     </style>
-    <!-- From: file:/Users/Ann/Downloads/Antox-master/app/src/main/res/values/styles.xml -->
+    <!-- From: file:/Users/Ann/Desktop/Wildfire-master/app/src/main/res/values/styles.xml -->
     <eat-comment/>
     <style name="Theme.AppCompat.Translucent">
         <item name="android:windowBackground">@android:color/transparent</item>
@@ -1999,7 +1999,7 @@
         <item name="android:windowIsTranslucent">true</item>
         <item name="android:windowAnimationStyle">@android:style/Animation</item>
     </style>
-    <!-- From: file:/Users/Ann/Downloads/Antox-master/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/res/values/values.xml -->
+    <!-- From: file:/Users/Ann/Desktop/Wildfire-master/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/res/values/values.xml -->
     <eat-comment/>
     <style name="ThemeOverlay.AppCompat" parent="Base.ThemeOverlay.AppCompat"/>
     <style name="ThemeOverlay.AppCompat.ActionBar" parent="Base.ThemeOverlay.AppCompat.ActionBar"/>
@@ -2097,7 +2097,7 @@
     <style name="Widget.AppCompat.TextView.SpinnerItem" parent="Base.Widget.AppCompat.TextView.SpinnerItem"/>
     <style name="Widget.AppCompat.Toolbar" parent="Base.Widget.AppCompat.Toolbar"/>
     <style name="Widget.AppCompat.Toolbar.Button.Navigation" parent="Base.Widget.AppCompat.Toolbar.Button.Navigation"/>
-    <!-- From: file:/Users/Ann/Downloads/Antox-master/app/build/intermediates/exploded-aar/com.android.support/design/23.0.1/res/values/values.xml -->
+    <!-- From: file:/Users/Ann/Desktop/Wildfire-master/app/build/intermediates/exploded-aar/com.android.support/design/23.0.1/res/values/values.xml -->
     <eat-comment/>
     <style name="Widget.Design.AppBarLayout" parent="android:Widget">
         <item name="elevation">@dimen/design_appbar_elevation</item>

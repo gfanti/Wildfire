@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="scodec-core_2.11-1.8.2">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.scodec/scodec-core_2.11/1.8.2/1dc944e3adb262f831cdaf7a2ea2e181584579d5/scodec-core_2.11-1.8.2.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.scodec/scodec-core_2.11/1.8.2/19e557366a372d9a8653967530d9727917d832d5/scodec-core_2.11-1.8.2-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

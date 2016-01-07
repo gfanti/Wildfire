@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <!-- From: file:/Users/Ann/Downloads/Antox-master/app/src/main/res/values-ms/strings_activity_settings.xml -->
+    <!-- From: file:/Users/Ann/Desktop/Wildfire-master/app/src/main/res/values-ms/strings_activity_settings.xml -->
     <eat-comment/>
     <string-array name="pref_status_list_titles">
     <item>Ada</item>
     <item>Melahu</item>
     <item>Sibuk</item>
   </string-array>
-    <!-- From: file:/Users/Ann/Downloads/Antox-master/app/src/main/res/values-ms/strings.xml -->
+    <!-- From: file:/Users/Ann/Desktop/Wildfire-master/app/src/main/res/values-ms/strings.xml -->
     <eat-comment/>
     <string name="about">Tentang</string>
     <string name="about_antox_1">Dengan kebangkitan program pemantauan oleh pihak kerajaan, Tox menyediakan aplikasi yang amat mudah yang membolehkan anda berhubung dengan rakan dan keluarga tanpa bimbang perbualan atau percakap terdedah kepada pihak yang memantau.</string>
@@ -44,10 +44,10 @@
     <string name="contacts_delimiter_online">Tersambung</string>
     <string name="contacts_delimiter_requests">Permintaan</string>
     <string name="contacts_resend_friend_request">Hantar Kembali Permintaan Untuk Menambah Sebagai Kenalan</string>
-    <!-- From: file:/Users/Ann/Downloads/Antox-master/app/src/main/res/values-ms/strings_activity_settings.xml -->
+    <!-- From: file:/Users/Ann/Desktop/Wildfire-master/app/src/main/res/values-ms/strings_activity_settings.xml -->
     <eat-comment/>
     <string name="copy_tox_id">Salin Tox ID</string>
-    <!-- From: file:/Users/Ann/Downloads/Antox-master/app/src/main/res/values-ms/strings.xml -->
+    <!-- From: file:/Users/Ann/Desktop/Wildfire-master/app/src/main/res/values-ms/strings.xml -->
     <eat-comment/>
     <string name="create_bad_profile_name">Nama profil tidak boleh mengandungi tanda palang atau ruang atau kosong</string>
     <string name="create_must_fill_in">Anda mesti isi kesemua tempat kosong</string>
@@ -90,7 +90,7 @@
     <string name="message_copy">Salin mesej</string>
     <string name="message_delete">Padam mesej</string>
     <string name="open_source_license">Lesen sumber terbuka</string>
-    <!-- From: file:/Users/Ann/Downloads/Antox-master/app/src/main/res/values-ms/strings_activity_settings.xml -->
+    <!-- From: file:/Users/Ann/Desktop/Wildfire-master/app/src/main/res/values-ms/strings_activity_settings.xml -->
     <eat-comment/>
     <string name="pref_advanced">Aturan Lanjut</string>
     <string name="pref_default_nickname">Pengguna Antox</string>
@@ -111,7 +111,7 @@
     <string name="pref_title_tox_id">Tox ID</string>
     <string name="pref_title_wifi_only">Hanya Wi-Fi</string>
     <string name="pref_udp">Aktifkan UDP</string>
-    <!-- From: file:/Users/Ann/Downloads/Antox-master/app/src/main/res/values-ms/strings.xml -->
+    <!-- From: file:/Users/Ann/Desktop/Wildfire-master/app/src/main/res/values-ms/strings.xml -->
     <eat-comment/>
     <string name="qr_button_no">Tidak</string>
     <string name="qr_button_yes">Ya</string>
@@ -123,10 +123,10 @@
     <string name="title_activity_create_account">Cipta Aktiviti Akaun</string>
     <string name="title_activity_friend_profile">Profil Kenalan</string>
     <string name="title_activity_profile_settings">Aturan profil</string>
-    <!-- From: file:/Users/Ann/Downloads/Antox-master/app/src/main/res/values-ms/strings_activity_settings.xml -->
+    <!-- From: file:/Users/Ann/Desktop/Wildfire-master/app/src/main/res/values-ms/strings_activity_settings.xml -->
     <eat-comment/>
     <string name="title_activity_settings">Aturan</string>
-    <!-- From: file:/Users/Ann/Downloads/Antox-master/app/src/main/res/values-ms/strings.xml -->
+    <!-- From: file:/Users/Ann/Desktop/Wildfire-master/app/src/main/res/values-ms/strings.xml -->
     <eat-comment/>
     <string name="titles_contacts">Kenalan</string>
     <string name="titles_recent">Terdahulu</string>

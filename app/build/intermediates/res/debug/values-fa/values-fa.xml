@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <!-- From: file:/Users/Ann/Downloads/Antox-master/app/src/main/res/values-fa/strings_activity_settings.xml -->
+    <!-- From: file:/Users/Ann/Desktop/Wildfire-master/app/src/main/res/values-fa/strings_activity_settings.xml -->
     <eat-comment/>
     <string-array name="pref_status_list_titles">
     <item>آنلاین</item>
     <item>دور از دسترس</item>
     <item>مشغول</item>
   </string-array>
-    <!-- From: file:/Users/Ann/Downloads/Antox-master/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/res/values-fa/values-fa.xml -->
+    <!-- From: file:/Users/Ann/Desktop/Wildfire-master/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/res/values-fa/values-fa.xml -->
     <eat-comment/>
     <string msgid="4600421777120114993" name="abc_action_bar_home_description">"پیمایش به صفحه اصلی"</string>
     <string msgid="1397052879051804371" name="abc_action_bar_home_description_format">"‏%1$s‏، %2$s"</string>
@@ -26,7 +26,7 @@
     <string msgid="3421042268587513524" name="abc_shareactionprovider_share_with">"اشتراک‌گذاری با"</string>
     <string msgid="7165123711973476752" name="abc_shareactionprovider_share_with_application">"‏اشتراک‌گذاری با %s"</string>
     <string msgid="1603543279005712093" name="abc_toolbar_collapse_description">"کوچک کردن"</string>
-    <!-- From: file:/Users/Ann/Downloads/Antox-master/app/src/main/res/values-fa/strings.xml -->
+    <!-- From: file:/Users/Ann/Desktop/Wildfire-master/app/src/main/res/values-fa/strings.xml -->
     <eat-comment/>
     <string name="about">درباره</string>
     <string name="about_antox_1">با ظهور برنامه‌های شنود توسط دولت‌ها و شرکت‌های تجاری، تاکس نرم افزار ساده و راحتی است که به شما امکان می‌دهد با دوستان و خانواده در تماس باشید بدون اینکه کس دیگری به صحبت‌های شما گوش دهد.</string>
@@ -81,10 +81,10 @@
     <string name="contacts_delimiter_online">آنلاین</string>
     <string name="contacts_delimiter_requests">درخواست‌ها</string>
     <string name="contacts_resend_friend_request">ارسال مجدد درخواست دوستی</string>
-    <!-- From: file:/Users/Ann/Downloads/Antox-master/app/src/main/res/values-fa/strings_activity_settings.xml -->
+    <!-- From: file:/Users/Ann/Desktop/Wildfire-master/app/src/main/res/values-fa/strings_activity_settings.xml -->
     <eat-comment/>
     <string name="copy_tox_id">کپی کردن شناسه تاکس</string>
-    <!-- From: file:/Users/Ann/Downloads/Antox-master/app/src/main/res/values-fa/strings.xml -->
+    <!-- From: file:/Users/Ann/Desktop/Wildfire-master/app/src/main/res/values-fa/strings.xml -->
     <eat-comment/>
     <string name="create_account_encrypted_profile_error">انتاکس هنوز پروفایل‌های رمزگذاری شده را پشتیبانی نمی‌کند</string>
     <string name="create_account_exists">این نام از پیش گرفته شده</string>
@@ -172,7 +172,7 @@ https://github.com/subliun/Antox</string>
     <string name="mute_mic">بی‌صدا کردن میکروفن</string>
     <string name="no_camera_intent_error">خطا: هیچ برنامه دوربین معتبری پیدا نشد.</string>
     <string name="open_source_license">پروانه منبع باز</string>
-    <!-- From: file:/Users/Ann/Downloads/Antox-master/app/src/main/res/values-fa/strings_activity_settings.xml -->
+    <!-- From: file:/Users/Ann/Desktop/Wildfire-master/app/src/main/res/values-fa/strings_activity_settings.xml -->
     <eat-comment/>
     <string name="pref_advanced">پیشرفته</string>
     <string name="pref_autostart">اجرا کردن انتاکس هنگام بوت</string>
@@ -200,7 +200,7 @@ https://github.com/subliun/Antox</string>
     <string name="pref_title_tox_id">شناسه تاکس</string>
     <string name="pref_title_wifi_only">فقط Wi-Fi</string>
     <string name="pref_udp">فعال کردن UDP</string>
-    <!-- From: file:/Users/Ann/Downloads/Antox-master/app/src/main/res/values-fa/strings.xml -->
+    <!-- From: file:/Users/Ann/Desktop/Wildfire-master/app/src/main/res/values-fa/strings.xml -->
     <eat-comment/>
     <string name="profile_info_description">گرفتن اطلاعات کاربر</string>
     <string name="qr_button_no">خیر</string>
@@ -214,19 +214,19 @@ https://github.com/subliun/Antox</string>
     <string name="scanqr_button">اسکن کد QR</string>
     <string name="search_all_contacts">جستجو در تمام مخاطبان تماس</string>
     <string name="share_with">اشتراک‌گذاری با</string>
-    <!-- From: file:/Users/Ann/Downloads/Antox-master/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/res/values-fa/values-fa.xml -->
+    <!-- From: file:/Users/Ann/Desktop/Wildfire-master/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/res/values-fa/values-fa.xml -->
     <eat-comment/>
     <string msgid="2869576371154716097" name="status_bar_notification_info_overflow">"۹۹۹+"</string>
-    <!-- From: file:/Users/Ann/Downloads/Antox-master/app/src/main/res/values-fa/strings.xml -->
+    <!-- From: file:/Users/Ann/Desktop/Wildfire-master/app/src/main/res/values-fa/strings.xml -->
     <eat-comment/>
     <string name="title_activity_add">افزودن مخاطب تماس</string>
     <string name="title_activity_friend_profile">پروفایل دوست</string>
     <string name="title_activity_group_profile">اطلاعات گروه</string>
     <string name="title_activity_profile_settings">گزینه‌های پروفایل</string>
-    <!-- From: file:/Users/Ann/Downloads/Antox-master/app/src/main/res/values-fa/strings_activity_settings.xml -->
+    <!-- From: file:/Users/Ann/Desktop/Wildfire-master/app/src/main/res/values-fa/strings_activity_settings.xml -->
     <eat-comment/>
     <string name="title_activity_settings">تنظیمات</string>
-    <!-- From: file:/Users/Ann/Downloads/Antox-master/app/src/main/res/values-fa/strings.xml -->
+    <!-- From: file:/Users/Ann/Desktop/Wildfire-master/app/src/main/res/values-fa/strings.xml -->
     <eat-comment/>
     <string name="titles_contacts">مخاطبان تماس</string>
     <string name="titles_recent">تازه</string>

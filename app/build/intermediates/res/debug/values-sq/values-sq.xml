@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <!-- From: file:/Users/Ann/Downloads/Antox-master/app/src/main/res/values-sq/strings_activity_settings.xml -->
+    <!-- From: file:/Users/Ann/Desktop/Wildfire-master/app/src/main/res/values-sq/strings_activity_settings.xml -->
     <eat-comment/>
     <string-array name="pref_status_list_titles">
     <item>Në linjë</item>
     <item>Jo i pranishëm</item>
     <item>I zënë</item>
   </string-array>
-    <!-- From: file:/Users/Ann/Downloads/Antox-master/app/src/main/res/values-sq/strings.xml -->
+    <!-- From: file:/Users/Ann/Desktop/Wildfire-master/app/src/main/res/values-sq/strings.xml -->
     <eat-comment/>
     <string name="about">Rreth</string>
     <string name="about_antox_1">Me shtimin e programeve qeveritare të monitorimit, Tox-i ofron një aplikacion të lehtë për t\'u përdorur, që ju lejon të lidheni me miqtë dhe familjen pa ju dëgjuar askush tjetër.</string>
@@ -45,10 +45,10 @@
     <string name="contacts_delimiter_online">Në linjë</string>
     <string name="contacts_delimiter_requests">Kërkesat</string>
     <string name="contacts_resend_friend_request">Ridërgojeni Kërkesën për Mik</string>
-    <!-- From: file:/Users/Ann/Downloads/Antox-master/app/src/main/res/values-sq/strings_activity_settings.xml -->
+    <!-- From: file:/Users/Ann/Desktop/Wildfire-master/app/src/main/res/values-sq/strings_activity_settings.xml -->
     <eat-comment/>
     <string name="copy_tox_id">Kopjojeni ID Tox</string>
-    <!-- From: file:/Users/Ann/Downloads/Antox-master/app/src/main/res/values-sq/strings.xml -->
+    <!-- From: file:/Users/Ann/Desktop/Wildfire-master/app/src/main/res/values-sq/strings.xml -->
     <eat-comment/>
     <string name="create_bad_profile_name">Emri i profilit s\'mund të përmbajë hapësira, vija të pjerrëta ose të jetë i zbrazët</string>
     <string name="create_must_fill_in">Duhet t\'i plotësoni të gjitha fushat</string>
@@ -96,7 +96,7 @@ funksionim të kufizuar, nëse nuk jeni duke përdorur Antox-in vetëm për LAN<
     <string name="mute_call">Heshteni</string>
     <string name="mute_mic">Heshteni Mikrofonin</string>
     <string name="open_source_license">Licencë me burim të hapur</string>
-    <!-- From: file:/Users/Ann/Downloads/Antox-master/app/src/main/res/values-sq/strings_activity_settings.xml -->
+    <!-- From: file:/Users/Ann/Desktop/Wildfire-master/app/src/main/res/values-sq/strings_activity_settings.xml -->
     <eat-comment/>
     <string name="pref_advanced">I përparuar</string>
     <string name="pref_default_nickname">Përdorues i Antox-it</string>
@@ -117,7 +117,7 @@ funksionim të kufizuar, nëse nuk jeni duke përdorur Antox-in vetëm për LAN<
     <string name="pref_title_tox_id">ID Tox</string>
     <string name="pref_title_wifi_only">Vetëm Wi-Fi</string>
     <string name="pref_udp">Mundësoni UDP</string>
-    <!-- From: file:/Users/Ann/Downloads/Antox-master/app/src/main/res/values-sq/strings.xml -->
+    <!-- From: file:/Users/Ann/Desktop/Wildfire-master/app/src/main/res/values-sq/strings.xml -->
     <eat-comment/>
     <string name="profile_info_description">Merrni Informacionin e Përdoruesit</string>
     <string name="qr_button_no">Jo</string>
@@ -132,10 +132,10 @@ funksionim të kufizuar, nëse nuk jeni duke përdorur Antox-in vetëm për LAN<
     <string name="title_activity_friend_profile">Profili i Mikut</string>
     <string name="title_activity_group_profile">Informacioni i Grupit </string>
     <string name="title_activity_profile_settings">Opsionet e Profilit</string>
-    <!-- From: file:/Users/Ann/Downloads/Antox-master/app/src/main/res/values-sq/strings_activity_settings.xml -->
+    <!-- From: file:/Users/Ann/Desktop/Wildfire-master/app/src/main/res/values-sq/strings_activity_settings.xml -->
     <eat-comment/>
     <string name="title_activity_settings">Konfigurimi</string>
-    <!-- From: file:/Users/Ann/Downloads/Antox-master/app/src/main/res/values-sq/strings.xml -->
+    <!-- From: file:/Users/Ann/Desktop/Wildfire-master/app/src/main/res/values-sq/strings.xml -->
     <eat-comment/>
     <string name="titles_contacts">Kontaktet</string>
     <string name="titles_recent">Më të fundit</string>

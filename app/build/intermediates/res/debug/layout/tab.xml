@@ -5,4 +5,4 @@
     android:layout_width="match_parent"
     android:layout_height="match_parent"
     android:gravity="center"
-    android:singleLine="true" /><!-- From: file:/Users/jpardogo/Documents/workspace/personal_projects/PagerSlidingTabStrip/library/res/layout/tab.xml --><!-- From: file:/Users/Ann/Downloads/Antox-master/app/build/intermediates/exploded-aar/com.jpardogo.materialtabstrip/library/1.0.3/res/layout/tab.xml -->
+    android:singleLine="true" /><!-- From: file:/Users/jpardogo/Documents/workspace/personal_projects/PagerSlidingTabStrip/library/res/layout/tab.xml --><!-- From: file:/Users/Ann/Desktop/Wildfire-master/app/build/intermediates/exploded-aar/com.jpardogo.materialtabstrip/library/1.0.3/res/layout/tab.xml -->

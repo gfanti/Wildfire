@@ -8,4 +8,4 @@
     android:numColumns="auto_fit"
     android:orientation="vertical"
     android:stretchMode="columnWidth"
-    android:verticalSpacing="10dp" /><!-- From: file:/Users/Ann/Downloads/Antox-master/app/src/main/res/layout/dialog_color_chooser.xml -->
+    android:verticalSpacing="10dp" /><!-- From: file:/Users/Ann/Desktop/Wildfire-master/app/src/main/res/layout/dialog_color_chooser.xml -->

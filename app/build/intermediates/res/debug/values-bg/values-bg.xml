@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <!-- From: file:/Users/Ann/Downloads/Antox-master/app/src/main/res/values-bg/strings_activity_settings.xml -->
+    <!-- From: file:/Users/Ann/Desktop/Wildfire-master/app/src/main/res/values-bg/strings_activity_settings.xml -->
     <eat-comment/>
     <string-array name="pref_status_list_titles">
     <item>На линия</item>
     <item>Отсъства</item>
     <item>Зает</item>
   </string-array>
-    <!-- From: file:/Users/Ann/Downloads/Antox-master/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/res/values-bg/values-bg.xml -->
+    <!-- From: file:/Users/Ann/Desktop/Wildfire-master/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/res/values-bg/values-bg.xml -->
     <eat-comment/>
     <string msgid="4600421777120114993" name="abc_action_bar_home_description">"Придвижване към „Начало“"</string>
     <string msgid="1397052879051804371" name="abc_action_bar_home_description_format">"„%1$s“ – %2$s"</string>
@@ -26,7 +26,7 @@
     <string msgid="3421042268587513524" name="abc_shareactionprovider_share_with">"Споделяне със:"</string>
     <string msgid="7165123711973476752" name="abc_shareactionprovider_share_with_application">"Споделяне със: %s"</string>
     <string msgid="1603543279005712093" name="abc_toolbar_collapse_description">"Свиване"</string>
-    <!-- From: file:/Users/Ann/Downloads/Antox-master/app/src/main/res/values-bg/strings.xml -->
+    <!-- From: file:/Users/Ann/Desktop/Wildfire-master/app/src/main/res/values-bg/strings.xml -->
     <eat-comment/>
     <string name="about">За Програмата</string>
     <string name="about_antox_1">С разрастването на правителствените програми за наблюдение, Tox предоставя лесна за употреба програма, която ти позволява да се свързваш с приятели и семейство без никой да те подслушва.</string>
@@ -68,10 +68,10 @@
     <string name="contacts_delimiter_online">На линия</string>
     <string name="contacts_delimiter_requests">Покани</string>
     <string name="contacts_resend_friend_request">Изпрати Повторна Покана за Приятелство</string>
-    <!-- From: file:/Users/Ann/Downloads/Antox-master/app/src/main/res/values-bg/strings_activity_settings.xml -->
+    <!-- From: file:/Users/Ann/Desktop/Wildfire-master/app/src/main/res/values-bg/strings_activity_settings.xml -->
     <eat-comment/>
     <string name="copy_tox_id">Копирай Tox ID</string>
-    <!-- From: file:/Users/Ann/Downloads/Antox-master/app/src/main/res/values-bg/strings.xml -->
+    <!-- From: file:/Users/Ann/Desktop/Wildfire-master/app/src/main/res/values-bg/strings.xml -->
     <eat-comment/>
     <string name="create_bad_profile_name">Името на профила не може да има интервали, наклонени черти или да бъде празно</string>
     <string name="create_must_fill_in">Трябва да попълниш всички полета</string>
@@ -123,7 +123,7 @@
     <string name="n_profile_options">ПРОФИЛ</string>
     <string name="n_settings">НАСТРОЙКИ</string>
     <string name="open_source_license">Open source лиценз</string>
-    <!-- From: file:/Users/Ann/Downloads/Antox-master/app/src/main/res/values-bg/strings_activity_settings.xml -->
+    <!-- From: file:/Users/Ann/Desktop/Wildfire-master/app/src/main/res/values-bg/strings_activity_settings.xml -->
     <eat-comment/>
     <string name="pref_advanced">Допълнителни</string>
     <string name="pref_autostart">Стартирай Антох при рестартиране</string>
@@ -156,7 +156,7 @@
     <string name="pref_title_toxme">ToxMe адрес</string>
     <string name="pref_title_wifi_only">Само през Wi-Fi</string>
     <string name="pref_udp">Разреши UDP</string>
-    <!-- From: file:/Users/Ann/Downloads/Antox-master/app/src/main/res/values-bg/strings.xml -->
+    <!-- From: file:/Users/Ann/Desktop/Wildfire-master/app/src/main/res/values-bg/strings.xml -->
     <eat-comment/>
     <string name="qr_button_no">Не</string>
     <string name="qr_button_yes">Да</string>
@@ -165,19 +165,19 @@
     <string name="scanqr_button">Сканирай QR код</string>
     <string name="search_all_contacts">Търси всички контакти</string>
     <string name="share_with">Сподели с</string>
-    <!-- From: file:/Users/Ann/Downloads/Antox-master/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/res/values-bg/values-bg.xml -->
+    <!-- From: file:/Users/Ann/Desktop/Wildfire-master/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/res/values-bg/values-bg.xml -->
     <eat-comment/>
     <string msgid="2869576371154716097" name="status_bar_notification_info_overflow">"999+"</string>
-    <!-- From: file:/Users/Ann/Downloads/Antox-master/app/src/main/res/values-bg/strings.xml -->
+    <!-- From: file:/Users/Ann/Desktop/Wildfire-master/app/src/main/res/values-bg/strings.xml -->
     <eat-comment/>
     <string name="title_activity_add">Добави Приятел</string>
     <string name="title_activity_create_account">Създай Акаунт</string>
     <string name="title_activity_friend_profile">Профил на Приятеля</string>
     <string name="title_activity_profile_settings">Настройки на профила</string>
-    <!-- From: file:/Users/Ann/Downloads/Antox-master/app/src/main/res/values-bg/strings_activity_settings.xml -->
+    <!-- From: file:/Users/Ann/Desktop/Wildfire-master/app/src/main/res/values-bg/strings_activity_settings.xml -->
     <eat-comment/>
     <string name="title_activity_settings">Настройки</string>
-    <!-- From: file:/Users/Ann/Downloads/Antox-master/app/src/main/res/values-bg/strings.xml -->
+    <!-- From: file:/Users/Ann/Desktop/Wildfire-master/app/src/main/res/values-bg/strings.xml -->
     <eat-comment/>
     <string name="titles_contacts">Контакти</string>
     <string name="titles_recent">Скорошни</string>

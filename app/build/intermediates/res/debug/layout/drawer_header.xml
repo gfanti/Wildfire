@@ -51,4 +51,4 @@
         android:layout_alignStart="@+id/name"
         android:paddingTop="5dp"/>
 
-</RelativeLayout><!-- From: file:/Users/Ann/Downloads/Antox-master/app/src/main/res/layout/drawer_header.xml -->
+</RelativeLayout><!-- From: file:/Users/Ann/Desktop/Wildfire-master/app/src/main/res/layout/drawer_header.xml -->

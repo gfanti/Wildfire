@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <!-- From: file:/Users/Ann/Downloads/Antox-master/app/src/main/res/values-uk/strings_activity_settings.xml -->
+    <!-- From: file:/Users/Ann/Desktop/Wildfire-master/app/src/main/res/values-uk/strings_activity_settings.xml -->
     <eat-comment/>
     <string-array name="pref_status_list_titles">
     <item>В мережі</item>
     <item>Відійшов</item>
     <item>Не в мережі</item>
   </string-array>
-    <!-- From: file:/Users/Ann/Downloads/Antox-master/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/res/values-uk/values-uk.xml -->
+    <!-- From: file:/Users/Ann/Desktop/Wildfire-master/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/res/values-uk/values-uk.xml -->
     <eat-comment/>
     <string msgid="4600421777120114993" name="abc_action_bar_home_description">"Перейти на головний"</string>
     <string msgid="1397052879051804371" name="abc_action_bar_home_description_format">"%1$s, %2$s"</string>
@@ -26,7 +26,7 @@
     <string msgid="3421042268587513524" name="abc_shareactionprovider_share_with">"Надіслати через"</string>
     <string msgid="7165123711973476752" name="abc_shareactionprovider_share_with_application">"Надіслати через %s"</string>
     <string msgid="1603543279005712093" name="abc_toolbar_collapse_description">"Згорнути"</string>
-    <!-- From: file:/Users/Ann/Downloads/Antox-master/app/src/main/res/values-uk/strings.xml -->
+    <!-- From: file:/Users/Ann/Desktop/Wildfire-master/app/src/main/res/values-uk/strings.xml -->
     <eat-comment/>
     <string name="about">Про Antox</string>
     <string name="about_antox_1">Поки уряди багатьох країн по всьому світу впроваджують різноманітні програми спостереження, Tox дозволяє бути на зв’язку зі знайомими та близькими, не боячись підслуховування.</string>
@@ -83,10 +83,10 @@
     <string name="contacts_delimiter_online">В мережі</string>
     <string name="contacts_delimiter_requests">Запити</string>
     <string name="contacts_resend_friend_request">Повторно відправити запит на додавання в друзі</string>
-    <!-- From: file:/Users/Ann/Downloads/Antox-master/app/src/main/res/values-uk/strings_activity_settings.xml -->
+    <!-- From: file:/Users/Ann/Desktop/Wildfire-master/app/src/main/res/values-uk/strings_activity_settings.xml -->
     <eat-comment/>
     <string name="copy_tox_id">Скопіювати Tox ID</string>
-    <!-- From: file:/Users/Ann/Downloads/Antox-master/app/src/main/res/values-uk/strings.xml -->
+    <!-- From: file:/Users/Ann/Desktop/Wildfire-master/app/src/main/res/values-uk/strings.xml -->
     <eat-comment/>
     <string name="create_account_encrypted_profile_error">Antox наразі не підтримує зашифровані профілі</string>
     <string name="create_account_exists">Це ім\'я вже зайнято</string>
@@ -190,7 +190,7 @@
     <string name="n_settings">Налаштування</string>
     <string name="no_camera_intent_error">Помилка: Не знайдено жодної програми для камери</string>
     <string name="open_source_license">Ліцензія</string>
-    <!-- From: file:/Users/Ann/Downloads/Antox-master/app/src/main/res/values-uk/strings_activity_settings.xml -->
+    <!-- From: file:/Users/Ann/Desktop/Wildfire-master/app/src/main/res/values-uk/strings_activity_settings.xml -->
     <eat-comment/>
     <string name="pref_advanced">Розширені налаштування</string>
     <string name="pref_autostart">Запускати Antox при завантаженні</string>
@@ -220,7 +220,7 @@
     <string name="pref_title_tox_id">Tox ID</string>
     <string name="pref_title_wifi_only">Тільки через Wi-Fi</string>
     <string name="pref_udp">Використовувати UDP</string>
-    <!-- From: file:/Users/Ann/Downloads/Antox-master/app/src/main/res/values-uk/strings.xml -->
+    <!-- From: file:/Users/Ann/Desktop/Wildfire-master/app/src/main/res/values-uk/strings.xml -->
     <eat-comment/>
     <string name="profile_info_description">Отримати інформацію про користувача</string>
     <string name="qr_button_no">Ні</string>
@@ -234,10 +234,10 @@
     <string name="scanqr_button">Сканувати QR-код</string>
     <string name="search_all_contacts">Пошук в контактах</string>
     <string name="share_with">Поділитися з</string>
-    <!-- From: file:/Users/Ann/Downloads/Antox-master/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/res/values-uk/values-uk.xml -->
+    <!-- From: file:/Users/Ann/Desktop/Wildfire-master/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/res/values-uk/values-uk.xml -->
     <eat-comment/>
     <string msgid="2869576371154716097" name="status_bar_notification_info_overflow">"999+"</string>
-    <!-- From: file:/Users/Ann/Downloads/Antox-master/app/src/main/res/values-uk/strings.xml -->
+    <!-- From: file:/Users/Ann/Desktop/Wildfire-master/app/src/main/res/values-uk/strings.xml -->
     <eat-comment/>
     <string name="title_activity_add">Додати контакт</string>
     <string name="title_activity_call">Активність дзвінка</string>
@@ -245,10 +245,10 @@
     <string name="title_activity_friend_profile">Профіль друга</string>
     <string name="title_activity_group_profile">Інформація про групу</string>
     <string name="title_activity_profile_settings">Персональні налаштування</string>
-    <!-- From: file:/Users/Ann/Downloads/Antox-master/app/src/main/res/values-uk/strings_activity_settings.xml -->
+    <!-- From: file:/Users/Ann/Desktop/Wildfire-master/app/src/main/res/values-uk/strings_activity_settings.xml -->
     <eat-comment/>
     <string name="title_activity_settings">Налаштування</string>
-    <!-- From: file:/Users/Ann/Downloads/Antox-master/app/src/main/res/values-uk/strings.xml -->
+    <!-- From: file:/Users/Ann/Desktop/Wildfire-master/app/src/main/res/values-uk/strings.xml -->
     <eat-comment/>
     <string name="titles_contacts">Контакти</string>
     <string name="titles_recent">Недавні</string>

@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <!-- From: file:/Users/Ann/Downloads/Antox-master/app/src/main/res/values-pt-rBR/strings_activity_settings.xml -->
+    <!-- From: file:/Users/Ann/Desktop/Wildfire-master/app/src/main/res/values-pt-rBR/strings_activity_settings.xml -->
     <eat-comment/>
     <string-array name="pref_status_list_titles">
     <item>Online</item>
     <item>Longe</item>
     <item>Ocupado</item>
   </string-array>
-    <!-- From: file:/Users/Ann/Downloads/Antox-master/app/src/main/res/values-pt-rBR/strings.xml -->
+    <!-- From: file:/Users/Ann/Desktop/Wildfire-master/app/src/main/res/values-pt-rBR/strings.xml -->
     <eat-comment/>
     <string name="about">Sobre</string>
     <string name="about_antox_1">Com o aumento de programas de monitoração dos governos, o Tox fornece uma aplicação fácil de usar que permite que você se conecte com amigos e familiares sem mais ninguém escutando.</string>
@@ -64,10 +64,10 @@
     <string name="contacts_delimiter_online">Online</string>
     <string name="contacts_delimiter_requests">Pedidos</string>
     <string name="contacts_resend_friend_request">Reenviar pedido de amizade</string>
-    <!-- From: file:/Users/Ann/Downloads/Antox-master/app/src/main/res/values-pt-rBR/strings_activity_settings.xml -->
+    <!-- From: file:/Users/Ann/Desktop/Wildfire-master/app/src/main/res/values-pt-rBR/strings_activity_settings.xml -->
     <eat-comment/>
     <string name="copy_tox_id">Copiar ID Tox</string>
-    <!-- From: file:/Users/Ann/Downloads/Antox-master/app/src/main/res/values-pt-rBR/strings.xml -->
+    <!-- From: file:/Users/Ann/Desktop/Wildfire-master/app/src/main/res/values-pt-rBR/strings.xml -->
     <eat-comment/>
     <string name="create_account_connection_error">Falha no registro: não foi possível se conectar à internet.</string>
     <string name="create_account_encrypted_profile_error">Antox ainda não possuí suporte para perfis criptografados</string>
@@ -175,7 +175,7 @@
     <string name="n_settings">Configurações</string>
     <string name="no_camera_intent_error">Erro: o aplicativo de câmera não é suportado</string>
     <string name="open_source_license">Licença de código aberto</string>
-    <!-- From: file:/Users/Ann/Downloads/Antox-master/app/src/main/res/values-pt-rBR/strings_activity_settings.xml -->
+    <!-- From: file:/Users/Ann/Desktop/Wildfire-master/app/src/main/res/values-pt-rBR/strings_activity_settings.xml -->
     <eat-comment/>
     <string name="pref_advanced">Avançado</string>
     <string name="pref_autostart">Iniciar Antox no Boot</string>
@@ -208,7 +208,7 @@
     <string name="pref_title_toxme">Endereço ToxMe</string>
     <string name="pref_title_wifi_only">Apenas WiFi</string>
     <string name="pref_udp">Habilitar UDP</string>
-    <!-- From: file:/Users/Ann/Downloads/Antox-master/app/src/main/res/values-pt-rBR/strings.xml -->
+    <!-- From: file:/Users/Ann/Desktop/Wildfire-master/app/src/main/res/values-pt-rBR/strings.xml -->
     <eat-comment/>
     <string name="profile_info_description">Ver informações do usuário</string>
     <string name="qr_button_no">Não</string>
@@ -229,10 +229,10 @@ mantem a atual lista de contatos, mas outras pessoas não serão capazes de adic
     <string name="title_activity_friend_profile">Perfil do amigo</string>
     <string name="title_activity_group_profile">Informações do grupo</string>
     <string name="title_activity_profile_settings">Opções de perfil</string>
-    <!-- From: file:/Users/Ann/Downloads/Antox-master/app/src/main/res/values-pt-rBR/strings_activity_settings.xml -->
+    <!-- From: file:/Users/Ann/Desktop/Wildfire-master/app/src/main/res/values-pt-rBR/strings_activity_settings.xml -->
     <eat-comment/>
     <string name="title_activity_settings">Configurações</string>
-    <!-- From: file:/Users/Ann/Downloads/Antox-master/app/src/main/res/values-pt-rBR/strings.xml -->
+    <!-- From: file:/Users/Ann/Desktop/Wildfire-master/app/src/main/res/values-pt-rBR/strings.xml -->
     <eat-comment/>
     <string name="titles_contacts">Contatos</string>
     <string name="titles_recent">Recentes</string>

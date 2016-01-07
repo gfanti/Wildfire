@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <!-- From: file:/Users/Ann/Downloads/Antox-master/app/src/main/res/values-hu/strings_activity_settings.xml -->
+    <!-- From: file:/Users/Ann/Desktop/Wildfire-master/app/src/main/res/values-hu/strings_activity_settings.xml -->
     <eat-comment/>
     <string-array name="pref_status_list_titles">
     <item>Elérhető</item>
     <item>Távol</item>
     <item>Elfoglalt</item>
   </string-array>
-    <!-- From: file:/Users/Ann/Downloads/Antox-master/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/res/values-hu/values-hu.xml -->
+    <!-- From: file:/Users/Ann/Desktop/Wildfire-master/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/res/values-hu/values-hu.xml -->
     <eat-comment/>
     <string msgid="4600421777120114993" name="abc_action_bar_home_description">"Ugrás a főoldalra"</string>
     <string msgid="1397052879051804371" name="abc_action_bar_home_description_format">"%1$s, %2$s"</string>
@@ -26,7 +26,7 @@
     <string msgid="3421042268587513524" name="abc_shareactionprovider_share_with">"Megosztás a következővel:"</string>
     <string msgid="7165123711973476752" name="abc_shareactionprovider_share_with_application">"Megosztás a következővel: %s"</string>
     <string msgid="1603543279005712093" name="abc_toolbar_collapse_description">"Összecsukás"</string>
-    <!-- From: file:/Users/Ann/Downloads/Antox-master/app/src/main/res/values-hu/strings.xml -->
+    <!-- From: file:/Users/Ann/Desktop/Wildfire-master/app/src/main/res/values-hu/strings.xml -->
     <eat-comment/>
     <string name="about">Névjegy</string>
     <string name="about_antox_1">A kormányzati ellenőrzőprogramok elterjedése miatt a Toxot úgy alkották meg, hogy könnyen kapcsolatba tudjunk lépni barátainkkal és a családunkkal, anélkül, hogy bárki lehallgathatná.</string>
@@ -83,10 +83,10 @@
     <string name="contacts_delimiter_online">Elérhető</string>
     <string name="contacts_delimiter_requests">Kérelmek</string>
     <string name="contacts_resend_friend_request">Partnerkérelem újraküldése</string>
-    <!-- From: file:/Users/Ann/Downloads/Antox-master/app/src/main/res/values-hu/strings_activity_settings.xml -->
+    <!-- From: file:/Users/Ann/Desktop/Wildfire-master/app/src/main/res/values-hu/strings_activity_settings.xml -->
     <eat-comment/>
     <string name="copy_tox_id">Tox ID másolása</string>
-    <!-- From: file:/Users/Ann/Downloads/Antox-master/app/src/main/res/values-hu/strings.xml -->
+    <!-- From: file:/Users/Ann/Desktop/Wildfire-master/app/src/main/res/values-hu/strings.xml -->
     <eat-comment/>
     <string name="create_account_encrypted_profile_error">Az Antox még nem támogatja a titkosított profilokat</string>
     <string name="create_account_exists">Ez a név már foglalt</string>
@@ -180,7 +180,7 @@ kivéve, ha az Antoxot csak LAN-kapcsolaton használja</string>
     <string name="n_settings">Beállítások</string>
     <string name="no_camera_intent_error">Hiba: Nem található érvényes webkamera alkalmazás</string>
     <string name="open_source_license">Nyílt forrású licensz</string>
-    <!-- From: file:/Users/Ann/Downloads/Antox-master/app/src/main/res/values-hu/strings_activity_settings.xml -->
+    <!-- From: file:/Users/Ann/Desktop/Wildfire-master/app/src/main/res/values-hu/strings_activity_settings.xml -->
     <eat-comment/>
     <string name="pref_advanced">Továbbiak</string>
     <string name="pref_autostart">Antox indítása rendszerinduláskor</string>
@@ -208,7 +208,7 @@ kivéve, ha az Antoxot csak LAN-kapcsolaton használja</string>
     <string name="pref_title_tox_id">Tox ID</string>
     <string name="pref_title_wifi_only">Csak Wi-Fi</string>
     <string name="pref_udp">UDP engedélyezése</string>
-    <!-- From: file:/Users/Ann/Downloads/Antox-master/app/src/main/res/values-hu/strings.xml -->
+    <!-- From: file:/Users/Ann/Desktop/Wildfire-master/app/src/main/res/values-hu/strings.xml -->
     <eat-comment/>
     <string name="profile_info_description">Felhasználó infó lekérés</string>
     <string name="qr_button_no">Nem</string>
@@ -223,10 +223,10 @@ megtartja a jelenlegi partnerlistáját, de mások nem tudják majd hozzáadni �
     <string name="scanqr_button">QR-kód leolvasása</string>
     <string name="search_all_contacts">Keresés a partnerek között</string>
     <string name="share_with">Megosztás ezzel:</string>
-    <!-- From: file:/Users/Ann/Downloads/Antox-master/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/res/values-hu/values-hu.xml -->
+    <!-- From: file:/Users/Ann/Desktop/Wildfire-master/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/res/values-hu/values-hu.xml -->
     <eat-comment/>
     <string msgid="2869576371154716097" name="status_bar_notification_info_overflow">"999+"</string>
-    <!-- From: file:/Users/Ann/Downloads/Antox-master/app/src/main/res/values-hu/strings.xml -->
+    <!-- From: file:/Users/Ann/Desktop/Wildfire-master/app/src/main/res/values-hu/strings.xml -->
     <eat-comment/>
     <string name="title_activity_add">Partner hozzáadása</string>
     <string name="title_activity_call">HívásAktivitás</string>
@@ -234,10 +234,10 @@ megtartja a jelenlegi partnerlistáját, de mások nem tudják majd hozzáadni �
     <string name="title_activity_friend_profile">Partnerprofil</string>
     <string name="title_activity_group_profile">Csoport infó</string>
     <string name="title_activity_profile_settings">Profil beállítások</string>
-    <!-- From: file:/Users/Ann/Downloads/Antox-master/app/src/main/res/values-hu/strings_activity_settings.xml -->
+    <!-- From: file:/Users/Ann/Desktop/Wildfire-master/app/src/main/res/values-hu/strings_activity_settings.xml -->
     <eat-comment/>
     <string name="title_activity_settings">Beállítások</string>
-    <!-- From: file:/Users/Ann/Downloads/Antox-master/app/src/main/res/values-hu/strings.xml -->
+    <!-- From: file:/Users/Ann/Desktop/Wildfire-master/app/src/main/res/values-hu/strings.xml -->
     <eat-comment/>
     <string name="titles_contacts">Kapcsolatok</string>
     <string name="titles_recent">Legutóbbi</string>

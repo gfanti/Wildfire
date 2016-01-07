@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <!-- From: file:/Users/Ann/Downloads/Antox-master/app/src/main/res/values-ru/strings_activity_settings.xml -->
+    <!-- From: file:/Users/Ann/Desktop/Wildfire-master/app/src/main/res/values-ru/strings_activity_settings.xml -->
     <eat-comment/>
     <string-array name="pref_status_list_titles">
     <item>В сети</item>
     <item>Отошел</item>
     <item>Занят</item>
   </string-array>
-    <!-- From: file:/Users/Ann/Downloads/Antox-master/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/res/values-ru/values-ru.xml -->
+    <!-- From: file:/Users/Ann/Desktop/Wildfire-master/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/res/values-ru/values-ru.xml -->
     <eat-comment/>
     <string msgid="4600421777120114993" name="abc_action_bar_home_description">"Перейти на главный экран"</string>
     <string msgid="1397052879051804371" name="abc_action_bar_home_description_format">"%1$s, %2$s"</string>
@@ -26,7 +26,7 @@
     <string msgid="3421042268587513524" name="abc_shareactionprovider_share_with">"Открыть доступ"</string>
     <string msgid="7165123711973476752" name="abc_shareactionprovider_share_with_application">"Открыть доступ пользователю %s"</string>
     <string msgid="1603543279005712093" name="abc_toolbar_collapse_description">"Свернуть"</string>
-    <!-- From: file:/Users/Ann/Downloads/Antox-master/app/src/main/res/values-ru/strings.xml -->
+    <!-- From: file:/Users/Ann/Desktop/Wildfire-master/app/src/main/res/values-ru/strings.xml -->
     <eat-comment/>
     <string name="action_settings">Настройки</string>
     <string name="add_contact">Добавить контакт</string>
@@ -74,10 +74,10 @@
     <string name="contacts_delimiter_online">В сети</string>
     <string name="contacts_delimiter_requests">Запросы</string>
     <string name="contacts_resend_friend_request">Повторно отправить запрос на добавление в друзья.</string>
-    <!-- From: file:/Users/Ann/Downloads/Antox-master/app/src/main/res/values-ru/strings_activity_settings.xml -->
+    <!-- From: file:/Users/Ann/Desktop/Wildfire-master/app/src/main/res/values-ru/strings_activity_settings.xml -->
     <eat-comment/>
     <string name="copy_tox_id">Скопировать Tox ID</string>
-    <!-- From: file:/Users/Ann/Downloads/Antox-master/app/src/main/res/values-ru/strings.xml -->
+    <!-- From: file:/Users/Ann/Desktop/Wildfire-master/app/src/main/res/values-ru/strings.xml -->
     <eat-comment/>
     <string name="create_account_encrypted_profile_error">Antox does not support encrypted profiles yet</string>
     <string name="create_account_exists">Это имя уже занято</string>
@@ -164,7 +164,7 @@
     <string name="n_profile_options">Профиль</string>
     <string name="n_settings">Настройки</string>
     <string name="no_camera_intent_error">Ошибка: No valid camera application found.</string>
-    <!-- From: file:/Users/Ann/Downloads/Antox-master/app/src/main/res/values-ru/strings_activity_settings.xml -->
+    <!-- From: file:/Users/Ann/Desktop/Wildfire-master/app/src/main/res/values-ru/strings_activity_settings.xml -->
     <eat-comment/>
     <string name="pref_advanced">Дополнительно</string>
     <string name="pref_autostart">Автозапуск</string>
@@ -192,7 +192,7 @@
     <string name="pref_title_tox_id">Tox ID</string>
     <string name="pref_title_wifi_only">Только через Wi-Fi</string>
     <string name="pref_udp">Использовать UDP</string>
-    <!-- From: file:/Users/Ann/Downloads/Antox-master/app/src/main/res/values-ru/strings.xml -->
+    <!-- From: file:/Users/Ann/Desktop/Wildfire-master/app/src/main/res/values-ru/strings.xml -->
     <eat-comment/>
     <string name="profile_info_description">Информация о пользователе</string>
     <string name="qr_button_no">Отмена</string>
@@ -207,20 +207,20 @@
     <string name="scanqr_button">Сканировать QR-код</string>
     <string name="search_all_contacts">Поиск контактов</string>
     <string name="share_with">Поделиться с</string>
-    <!-- From: file:/Users/Ann/Downloads/Antox-master/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/res/values-ru/values-ru.xml -->
+    <!-- From: file:/Users/Ann/Desktop/Wildfire-master/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/res/values-ru/values-ru.xml -->
     <eat-comment/>
     <string msgid="2869576371154716097" name="status_bar_notification_info_overflow">">999"</string>
-    <!-- From: file:/Users/Ann/Downloads/Antox-master/app/src/main/res/values-ru/strings.xml -->
+    <!-- From: file:/Users/Ann/Desktop/Wildfire-master/app/src/main/res/values-ru/strings.xml -->
     <eat-comment/>
     <string name="title_activity_add">Добавить контакт</string>
     <string name="title_activity_call">Вызов</string>
     <string name="title_activity_friend_profile">Профиль</string>
     <string name="title_activity_group_profile">Информация о группе</string>
     <string name="title_activity_profile_settings">Настройки профиля</string>
-    <!-- From: file:/Users/Ann/Downloads/Antox-master/app/src/main/res/values-ru/strings_activity_settings.xml -->
+    <!-- From: file:/Users/Ann/Desktop/Wildfire-master/app/src/main/res/values-ru/strings_activity_settings.xml -->
     <eat-comment/>
     <string name="title_activity_settings">Настройки</string>
-    <!-- From: file:/Users/Ann/Downloads/Antox-master/app/src/main/res/values-ru/strings.xml -->
+    <!-- From: file:/Users/Ann/Desktop/Wildfire-master/app/src/main/res/values-ru/strings.xml -->
     <eat-comment/>
     <string name="titles_contacts">Контакты</string>
     <string name="titles_recent">Недавние</string>

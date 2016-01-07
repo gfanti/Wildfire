@@ -16,4 +16,4 @@
         android:gravity="center"
         android:text="@string/main_mobile_disabled"
         android:background="@color/material_orange_700"/>
-</LinearLayout><!-- From: file:/Users/Ann/Downloads/Antox-master/app/src/main/res/layout/fragment_wifi_warning.xml -->
+</LinearLayout><!-- From: file:/Users/Ann/Desktop/Wildfire-master/app/src/main/res/layout/fragment_wifi_warning.xml -->

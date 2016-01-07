@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <!-- From: file:/Users/Ann/Downloads/Antox-master/app/src/main/res/values-fi/strings_activity_settings.xml -->
+    <!-- From: file:/Users/Ann/Desktop/Wildfire-master/app/src/main/res/values-fi/strings_activity_settings.xml -->
     <eat-comment/>
     <string-array name="pref_status_list_titles">
     <item>Online</item>
     <item>Poissa</item>
     <item>Kiireinen</item>
   </string-array>
-    <!-- From: file:/Users/Ann/Downloads/Antox-master/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/res/values-fi/values-fi.xml -->
+    <!-- From: file:/Users/Ann/Desktop/Wildfire-master/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/res/values-fi/values-fi.xml -->
     <eat-comment/>
     <string msgid="4600421777120114993" name="abc_action_bar_home_description">"Siirry etusivulle"</string>
     <string msgid="1397052879051804371" name="abc_action_bar_home_description_format">"%1$s, %2$s"</string>
@@ -26,7 +26,7 @@
     <string msgid="3421042268587513524" name="abc_shareactionprovider_share_with">"Jakaminen:"</string>
     <string msgid="7165123711973476752" name="abc_shareactionprovider_share_with_application">"Jakaminen: %s"</string>
     <string msgid="1603543279005712093" name="abc_toolbar_collapse_description">"Kutista"</string>
-    <!-- From: file:/Users/Ann/Downloads/Antox-master/app/src/main/res/values-fi/strings.xml -->
+    <!-- From: file:/Users/Ann/Desktop/Wildfire-master/app/src/main/res/values-fi/strings.xml -->
     <eat-comment/>
     <string name="about">Tietoja</string>
     <string name="about_antox_1">Valtioiden seurantaohjelmat lisääntyvät, joten Tox tarjoaa helppokäyttöisen ohjelman, joka yhdistää sinut ystäviesi ja perheesi kanssa ilman, että kukaan pääsee kuuntelemaan.</string>
@@ -82,10 +82,10 @@
     <string name="contacts_delimiter_online">Online</string>
     <string name="contacts_delimiter_requests">Pyynnöt</string>
     <string name="contacts_resend_friend_request">Uudellenlähetä ystäväpyyntö</string>
-    <!-- From: file:/Users/Ann/Downloads/Antox-master/app/src/main/res/values-fi/strings_activity_settings.xml -->
+    <!-- From: file:/Users/Ann/Desktop/Wildfire-master/app/src/main/res/values-fi/strings_activity_settings.xml -->
     <eat-comment/>
     <string name="copy_tox_id">Kopioi Tox ID</string>
-    <!-- From: file:/Users/Ann/Downloads/Antox-master/app/src/main/res/values-fi/strings.xml -->
+    <!-- From: file:/Users/Ann/Desktop/Wildfire-master/app/src/main/res/values-fi/strings.xml -->
     <eat-comment/>
     <string name="create_account_encrypted_profile_error">Antox ei vielä tue salattuja profiileja</string>
     <string name="create_account_exists">Tämä nimi on jo käytössä</string>
@@ -181,7 +181,7 @@ pyyntöjä heiltä.\n\nOletko varma, että haluat jatkaa?</string>
     <string name="n_settings">Asetukset</string>
     <string name="no_camera_intent_error">Virhe: Kamera-sovellusta ei löytynyt</string>
     <string name="open_source_license">Avoimen lähdekoodin lisenssi</string>
-    <!-- From: file:/Users/Ann/Downloads/Antox-master/app/src/main/res/values-fi/strings_activity_settings.xml -->
+    <!-- From: file:/Users/Ann/Desktop/Wildfire-master/app/src/main/res/values-fi/strings_activity_settings.xml -->
     <eat-comment/>
     <string name="pref_advanced">Lisäasetukset</string>
     <string name="pref_autostart">Käynnistä Antox laitteen käynnistyessä</string>
@@ -209,7 +209,7 @@ pyyntöjä heiltä.\n\nOletko varma, että haluat jatkaa?</string>
     <string name="pref_title_tox_id">Tox ID</string>
     <string name="pref_title_wifi_only">Vain Wi-Fi</string>
     <string name="pref_udp">Käytä UDP:tä</string>
-    <!-- From: file:/Users/Ann/Downloads/Antox-master/app/src/main/res/values-fi/strings.xml -->
+    <!-- From: file:/Users/Ann/Desktop/Wildfire-master/app/src/main/res/values-fi/strings.xml -->
     <eat-comment/>
     <string name="profile_info_description">Hae käyttäjätiedot</string>
     <string name="qr_button_no">Ei</string>
@@ -224,10 +224,10 @@ nykyiset yhteystiedot, mutta vanhaa ID:täsi ei voi enää käyttää sinun lis�
     <string name="scanqr_button">Skannaa QR-koodi</string>
     <string name="search_all_contacts">Etsi kaikista kontakteista</string>
     <string name="share_with">Jaa seuraavan kanssa</string>
-    <!-- From: file:/Users/Ann/Downloads/Antox-master/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/res/values-fi/values-fi.xml -->
+    <!-- From: file:/Users/Ann/Desktop/Wildfire-master/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/res/values-fi/values-fi.xml -->
     <eat-comment/>
     <string msgid="2869576371154716097" name="status_bar_notification_info_overflow">"999+"</string>
-    <!-- From: file:/Users/Ann/Downloads/Antox-master/app/src/main/res/values-fi/strings.xml -->
+    <!-- From: file:/Users/Ann/Desktop/Wildfire-master/app/src/main/res/values-fi/strings.xml -->
     <eat-comment/>
     <string name="title_activity_add">Lisää yhteyshenkilö</string>
     <string name="title_activity_call">CallActivity</string>
@@ -235,10 +235,10 @@ nykyiset yhteystiedot, mutta vanhaa ID:täsi ei voi enää käyttää sinun lis�
     <string name="title_activity_friend_profile">Ystävän profiili</string>
     <string name="title_activity_group_profile">Ryhmän tiedot</string>
     <string name="title_activity_profile_settings">Profiilin asetukset</string>
-    <!-- From: file:/Users/Ann/Downloads/Antox-master/app/src/main/res/values-fi/strings_activity_settings.xml -->
+    <!-- From: file:/Users/Ann/Desktop/Wildfire-master/app/src/main/res/values-fi/strings_activity_settings.xml -->
     <eat-comment/>
     <string name="title_activity_settings">Asetukset</string>
-    <!-- From: file:/Users/Ann/Downloads/Antox-master/app/src/main/res/values-fi/strings.xml -->
+    <!-- From: file:/Users/Ann/Desktop/Wildfire-master/app/src/main/res/values-fi/strings.xml -->
     <eat-comment/>
     <string name="titles_contacts">Yhteystiedot</string>
     <string name="titles_recent">Viimeisimmät</string>

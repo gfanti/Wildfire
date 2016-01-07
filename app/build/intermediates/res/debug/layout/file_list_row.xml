@@ -24,4 +24,4 @@
         android:paddingTop="2dp"
         android:text="file name here.jpeg"
         android:textSize="@dimen/text_medium" />
-</LinearLayout><!-- From: file:/Users/Ann/Downloads/Antox-master/app/src/main/res/layout/file_list_row.xml -->
+</LinearLayout><!-- From: file:/Users/Ann/Desktop/Wildfire-master/app/src/main/res/layout/file_list_row.xml -->

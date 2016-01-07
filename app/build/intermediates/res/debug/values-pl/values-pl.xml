@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <!-- From: file:/Users/Ann/Downloads/Antox-master/app/src/main/res/values-pl/strings_activity_settings.xml -->
+    <!-- From: file:/Users/Ann/Desktop/Wildfire-master/app/src/main/res/values-pl/strings_activity_settings.xml -->
     <eat-comment/>
     <string-array name="pref_status_list_titles">
     <item>Online</item>
     <item>Nieobecny</item>
     <item>Zajęty</item>
   </string-array>
-    <!-- From: file:/Users/Ann/Downloads/Antox-master/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/res/values-pl/values-pl.xml -->
+    <!-- From: file:/Users/Ann/Desktop/Wildfire-master/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/res/values-pl/values-pl.xml -->
     <eat-comment/>
     <string msgid="4600421777120114993" name="abc_action_bar_home_description">"Przejdź do strony głównej"</string>
     <string msgid="1397052879051804371" name="abc_action_bar_home_description_format">"%1$s, %2$s"</string>
@@ -26,7 +26,7 @@
     <string msgid="3421042268587513524" name="abc_shareactionprovider_share_with">"Udostępnij dla"</string>
     <string msgid="7165123711973476752" name="abc_shareactionprovider_share_with_application">"Udostępnij dla %s"</string>
     <string msgid="1603543279005712093" name="abc_toolbar_collapse_description">"Zwiń"</string>
-    <!-- From: file:/Users/Ann/Downloads/Antox-master/app/src/main/res/values-pl/strings.xml -->
+    <!-- From: file:/Users/Ann/Desktop/Wildfire-master/app/src/main/res/values-pl/strings.xml -->
     <eat-comment/>
     <string name="about">Informacje</string>
     <string name="about_antox_1">Wraz ze wzrostem państwowych programów monitorujących, Tox stanowi łatwy w użyciu program, który pozwala łączyć się z rodziną i znajomymi bez obawy o podsłuch.</string>
@@ -83,10 +83,10 @@
     <string name="contacts_delimiter_online">Online</string>
     <string name="contacts_delimiter_requests">Zaproszenia</string>
     <string name="contacts_resend_friend_request">Wyślij ponownie zapytania do znajomych</string>
-    <!-- From: file:/Users/Ann/Downloads/Antox-master/app/src/main/res/values-pl/strings_activity_settings.xml -->
+    <!-- From: file:/Users/Ann/Desktop/Wildfire-master/app/src/main/res/values-pl/strings_activity_settings.xml -->
     <eat-comment/>
     <string name="copy_tox_id">Skopiuj Tox ID</string>
-    <!-- From: file:/Users/Ann/Downloads/Antox-master/app/src/main/res/values-pl/strings.xml -->
+    <!-- From: file:/Users/Ann/Desktop/Wildfire-master/app/src/main/res/values-pl/strings.xml -->
     <eat-comment/>
     <string name="create_account_exists">Ta nazwa jest już zajęta</string>
     <string name="create_account_internal_error">Wewnętrzny błąd Antoxa. Proszę zrestartować i spróbować ponownie</string>
@@ -178,7 +178,7 @@
     <string name="n_settings">USTAWIENIA</string>
     <string name="no_camera_intent_error">Błąd: nie znaleziono aplikacji do obsługi kamery.</string>
     <string name="open_source_license">Licencja open source</string>
-    <!-- From: file:/Users/Ann/Downloads/Antox-master/app/src/main/res/values-pl/strings_activity_settings.xml -->
+    <!-- From: file:/Users/Ann/Desktop/Wildfire-master/app/src/main/res/values-pl/strings_activity_settings.xml -->
     <eat-comment/>
     <string name="pref_advanced">Zaawansowane</string>
     <string name="pref_default_nickname">Użytkownik Antoxa</string>
@@ -201,7 +201,7 @@
     <string name="pref_title_tox_id">Tox ID</string>
     <string name="pref_title_wifi_only">Tylko przez Wi-Fi</string>
     <string name="pref_udp">Włącz UDP</string>
-    <!-- From: file:/Users/Ann/Downloads/Antox-master/app/src/main/res/values-pl/strings.xml -->
+    <!-- From: file:/Users/Ann/Desktop/Wildfire-master/app/src/main/res/values-pl/strings.xml -->
     <eat-comment/>
     <string name="profile_info_description">Info o użytkowniku</string>
     <string name="qr_button_no">Nie</string>
@@ -216,10 +216,10 @@
     <string name="scanqr_button">Skanuj kod QR</string>
     <string name="search_all_contacts">Przeszukaj wszystkie kontakty</string>
     <string name="share_with">Podziel się z</string>
-    <!-- From: file:/Users/Ann/Downloads/Antox-master/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/res/values-pl/values-pl.xml -->
+    <!-- From: file:/Users/Ann/Desktop/Wildfire-master/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/res/values-pl/values-pl.xml -->
     <eat-comment/>
     <string msgid="2869576371154716097" name="status_bar_notification_info_overflow">"999+"</string>
-    <!-- From: file:/Users/Ann/Downloads/Antox-master/app/src/main/res/values-pl/strings.xml -->
+    <!-- From: file:/Users/Ann/Desktop/Wildfire-master/app/src/main/res/values-pl/strings.xml -->
     <eat-comment/>
     <string name="title_activity_add">Dodaj znajomego</string>
     <string name="title_activity_call">CallActivity</string>
@@ -227,10 +227,10 @@
     <string name="title_activity_friend_profile">Profil znajomego</string>
     <string name="title_activity_group_profile">Informacje o grupie</string>
     <string name="title_activity_profile_settings">Opcje profilu</string>
-    <!-- From: file:/Users/Ann/Downloads/Antox-master/app/src/main/res/values-pl/strings_activity_settings.xml -->
+    <!-- From: file:/Users/Ann/Desktop/Wildfire-master/app/src/main/res/values-pl/strings_activity_settings.xml -->
     <eat-comment/>
     <string name="title_activity_settings">Ustawienia</string>
-    <!-- From: file:/Users/Ann/Downloads/Antox-master/app/src/main/res/values-pl/strings.xml -->
+    <!-- From: file:/Users/Ann/Desktop/Wildfire-master/app/src/main/res/values-pl/strings.xml -->
     <eat-comment/>
     <string name="titles_contacts">Kontakty</string>
     <string name="titles_recent">Ostatnie</string>

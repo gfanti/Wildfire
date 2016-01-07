@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="rxscala_2.11-0.25.0">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/io.reactivex/rxscala_2.11/0.25.0/2870b857a26dd70d665a227bfcfe34cd9a67f225/rxscala_2.11-0.25.0.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/io.reactivex/rxscala_2.11/0.25.0/1d140419e276f95fe903acbf8a15d5ebb5f96739/rxscala_2.11-0.25.0-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

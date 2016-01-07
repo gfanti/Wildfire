@@ -91,4 +91,4 @@
             android:title="@string/pref_autostart" />
     </PreferenceCategory>
 </PreferenceScreen>
-<!-- From: file:/Users/Ann/Downloads/Antox-master/app/src/main/res/xml/settings_main.xml -->
+<!-- From: file:/Users/Ann/Desktop/Wildfire-master/app/src/main/res/xml/settings_main.xml -->

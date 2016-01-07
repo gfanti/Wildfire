@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <!-- From: file:/Users/Ann/Downloads/Antox-master/app/src/main/res/values-fr/strings_activity_settings.xml -->
+    <!-- From: file:/Users/Ann/Desktop/Wildfire-master/app/src/main/res/values-fr/strings_activity_settings.xml -->
     <eat-comment/>
     <string-array name="pref_status_list_titles">
     <item>Connecté</item>
     <item>Absent</item>
     <item>Occupé</item>
   </string-array>
-    <!-- From: file:/Users/Ann/Downloads/Antox-master/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/res/values-fr/values-fr.xml -->
+    <!-- From: file:/Users/Ann/Desktop/Wildfire-master/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/res/values-fr/values-fr.xml -->
     <eat-comment/>
     <string msgid="4600421777120114993" name="abc_action_bar_home_description">"Revenir à l\'accueil"</string>
     <string msgid="1397052879051804371" name="abc_action_bar_home_description_format">"%1$s, %2$s"</string>
@@ -26,7 +26,7 @@
     <string msgid="3421042268587513524" name="abc_shareactionprovider_share_with">"Partager avec"</string>
     <string msgid="7165123711973476752" name="abc_shareactionprovider_share_with_application">"Partager avec %s"</string>
     <string msgid="1603543279005712093" name="abc_toolbar_collapse_description">"Réduire"</string>
-    <!-- From: file:/Users/Ann/Downloads/Antox-master/app/src/main/res/values-fr/strings.xml -->
+    <!-- From: file:/Users/Ann/Desktop/Wildfire-master/app/src/main/res/values-fr/strings.xml -->
     <eat-comment/>
     <string name="about">À propos</string>
     <string name="about_antox_1">Avec l\'omniprésence des programmes gouvernementaux de surveillance d\'internet, Tox vous procure une une application facile à utiliser qui vous permet de discuter avec vos amis et votre famille sans être écouté par quelqu\'un d\'autre</string>
@@ -81,10 +81,10 @@
     <string name="contacts_delimiter_online">Connecté</string>
     <string name="contacts_delimiter_requests">Demandes d’ajout à la liste des contactes</string>
     <string name="contacts_resend_friend_request">Ré-envoyer la demande d\'ami</string>
-    <!-- From: file:/Users/Ann/Downloads/Antox-master/app/src/main/res/values-fr/strings_activity_settings.xml -->
+    <!-- From: file:/Users/Ann/Desktop/Wildfire-master/app/src/main/res/values-fr/strings_activity_settings.xml -->
     <eat-comment/>
     <string name="copy_tox_id">Copier l\'identifiant Tox</string>
-    <!-- From: file:/Users/Ann/Downloads/Antox-master/app/src/main/res/values-fr/strings.xml -->
+    <!-- From: file:/Users/Ann/Desktop/Wildfire-master/app/src/main/res/values-fr/strings.xml -->
     <eat-comment/>
     <string name="create_account_encrypted_profile_error">Antox est pas encore capable de créer des profils chiffrés.</string>
     <string name="create_account_exists">Ce nom est déjà utilisé</string>
@@ -182,7 +182,7 @@ Sans connexion à internet, les fonctionnalités auxquelles vous avez accès son
     <string name="n_settings">Paramètres</string>
     <string name="no_camera_intent_error">Erreur: aucune application de caméra valide détectée.</string>
     <string name="open_source_license">Licence libre</string>
-    <!-- From: file:/Users/Ann/Downloads/Antox-master/app/src/main/res/values-fr/strings_activity_settings.xml -->
+    <!-- From: file:/Users/Ann/Desktop/Wildfire-master/app/src/main/res/values-fr/strings_activity_settings.xml -->
     <eat-comment/>
     <string name="pref_advanced">Paramètres Avancés</string>
     <string name="pref_autostart">Lancer Antox au démarrage</string>
@@ -211,7 +211,7 @@ Sans connexion à internet, les fonctionnalités auxquelles vous avez accès son
     <string name="pref_title_tox_id">Identifiant Tox</string>
     <string name="pref_title_wifi_only">Se connecter exclusivement en Wi-Fi</string>
     <string name="pref_udp">Activer UDP</string>
-    <!-- From: file:/Users/Ann/Downloads/Antox-master/app/src/main/res/values-fr/strings.xml -->
+    <!-- From: file:/Users/Ann/Desktop/Wildfire-master/app/src/main/res/values-fr/strings.xml -->
     <eat-comment/>
     <string name="profile_info_description">Récupérer les infos de l\'utilisateur</string>
     <string name="qr_button_no">Non</string>
@@ -225,19 +225,19 @@ Sans connexion à internet, les fonctionnalités auxquelles vous avez accès son
     <string name="scanqr_button">Scanner un code QR</string>
     <string name="search_all_contacts">Chercher dans les contacts</string>
     <string name="share_with">Partager avec</string>
-    <!-- From: file:/Users/Ann/Downloads/Antox-master/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/res/values-fr/values-fr.xml -->
+    <!-- From: file:/Users/Ann/Desktop/Wildfire-master/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/res/values-fr/values-fr.xml -->
     <eat-comment/>
     <string msgid="2869576371154716097" name="status_bar_notification_info_overflow">">999"</string>
-    <!-- From: file:/Users/Ann/Downloads/Antox-master/app/src/main/res/values-fr/strings.xml -->
+    <!-- From: file:/Users/Ann/Desktop/Wildfire-master/app/src/main/res/values-fr/strings.xml -->
     <eat-comment/>
     <string name="title_activity_add">Ajouter un contact</string>
     <string name="title_activity_friend_profile">Profil de l\'ami</string>
     <string name="title_activity_group_profile">Infos sur le Groupe</string>
     <string name="title_activity_profile_settings">Options du profil</string>
-    <!-- From: file:/Users/Ann/Downloads/Antox-master/app/src/main/res/values-fr/strings_activity_settings.xml -->
+    <!-- From: file:/Users/Ann/Desktop/Wildfire-master/app/src/main/res/values-fr/strings_activity_settings.xml -->
     <eat-comment/>
     <string name="title_activity_settings">Paramètres</string>
-    <!-- From: file:/Users/Ann/Downloads/Antox-master/app/src/main/res/values-fr/strings.xml -->
+    <!-- From: file:/Users/Ann/Desktop/Wildfire-master/app/src/main/res/values-fr/strings.xml -->
     <eat-comment/>
     <string name="titles_contacts">Contacts</string>
     <string name="titles_recent">Récents</string>

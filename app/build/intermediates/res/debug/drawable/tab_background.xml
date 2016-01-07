@@ -6,4 +6,4 @@
 <item android:state_selected="false" android:state_pressed="true" android:drawable="@color/tab_highlight"/>
 <item android:state_selected="true" android:state_pressed="true" android:drawable="@drawable/tab_background_selected_pressed"/>
 </selector>
-<!-- From: file:/Users/Ann/Downloads/Antox-master/app/src/main/res/drawable/tab_background.xml -->
+<!-- From: file:/Users/Ann/Desktop/Wildfire-master/app/src/main/res/drawable/tab_background.xml -->

@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <!-- From: file:/Users/Ann/Downloads/Antox-master/app/src/main/res/values-cs/strings_activity_settings.xml -->
+    <!-- From: file:/Users/Ann/Desktop/Wildfire-master/app/src/main/res/values-cs/strings_activity_settings.xml -->
     <eat-comment/>
     <string-array name="pref_status_list_titles">
     <item>Online</item>
     <item>Pryč</item>
     <item>Zaneprázdněn</item>
   </string-array>
-    <!-- From: file:/Users/Ann/Downloads/Antox-master/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/res/values-cs/values-cs.xml -->
+    <!-- From: file:/Users/Ann/Desktop/Wildfire-master/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/res/values-cs/values-cs.xml -->
     <eat-comment/>
     <string msgid="4600421777120114993" name="abc_action_bar_home_description">"Přejít na plochu"</string>
     <string msgid="1397052879051804371" name="abc_action_bar_home_description_format">"%1$s – %2$s"</string>
@@ -26,7 +26,7 @@
     <string msgid="3421042268587513524" name="abc_shareactionprovider_share_with">"Sdílet pomocí"</string>
     <string msgid="7165123711973476752" name="abc_shareactionprovider_share_with_application">"Sdílet pomocí %s"</string>
     <string msgid="1603543279005712093" name="abc_toolbar_collapse_description">"Sbalit"</string>
-    <!-- From: file:/Users/Ann/Downloads/Antox-master/app/src/main/res/values-cs/strings.xml -->
+    <!-- From: file:/Users/Ann/Desktop/Wildfire-master/app/src/main/res/values-cs/strings.xml -->
     <eat-comment/>
     <string name="about">O aplikaci</string>
     <string name="about_antox_1">S nástupem vládních monitorovacích programů Tox poskytuje jednoduše použitelnou aplikaci, která vám umožňuje propojení s přáteli a rodinou bez cizího odposlechu.</string>
@@ -83,10 +83,10 @@
     <string name="contacts_delimiter_online">Online</string>
     <string name="contacts_delimiter_requests">Požadavky</string>
     <string name="contacts_resend_friend_request">Znovu odeslat žádost o přidání</string>
-    <!-- From: file:/Users/Ann/Downloads/Antox-master/app/src/main/res/values-cs/strings_activity_settings.xml -->
+    <!-- From: file:/Users/Ann/Desktop/Wildfire-master/app/src/main/res/values-cs/strings_activity_settings.xml -->
     <eat-comment/>
     <string name="copy_tox_id">Zkopírovat Tox ID</string>
-    <!-- From: file:/Users/Ann/Downloads/Antox-master/app/src/main/res/values-cs/strings.xml -->
+    <!-- From: file:/Users/Ann/Desktop/Wildfire-master/app/src/main/res/values-cs/strings.xml -->
     <eat-comment/>
     <string name="create_account_connection_error">Registrace selhala: Nelze se připojit k internetu.</string>
     <string name="create_account_encrypted_profile_error">Antox ještě nepodporuje šifrované profily</string>
@@ -195,7 +195,7 @@ pouze omezené funkce, pokud nepoužíváte Antox pouze pro LAN</string>
     <string name="n_settings">Nastavení</string>
     <string name="no_camera_intent_error">Chyba: Nebyla nalezena aplikace fotografování</string>
     <string name="open_source_license">Open source licence</string>
-    <!-- From: file:/Users/Ann/Downloads/Antox-master/app/src/main/res/values-cs/strings_activity_settings.xml -->
+    <!-- From: file:/Users/Ann/Desktop/Wildfire-master/app/src/main/res/values-cs/strings_activity_settings.xml -->
     <eat-comment/>
     <string name="pref_advanced">Pokročilé</string>
     <string name="pref_autostart">Spustit Antox při startu</string>
@@ -228,7 +228,7 @@ pouze omezené funkce, pokud nepoužíváte Antox pouze pro LAN</string>
     <string name="pref_title_toxme">ToxMe adresa</string>
     <string name="pref_title_wifi_only">Pouze na Wi-Fi</string>
     <string name="pref_udp">Povolit UDP</string>
-    <!-- From: file:/Users/Ann/Downloads/Antox-master/app/src/main/res/values-cs/strings.xml -->
+    <!-- From: file:/Users/Ann/Desktop/Wildfire-master/app/src/main/res/values-cs/strings.xml -->
     <eat-comment/>
     <string name="profile_info_description">Zobrazit informace o uživateli</string>
     <string name="qr_button_no">Ne</string>
@@ -242,10 +242,10 @@ pouze omezené funkce, pokud nepoužíváte Antox pouze pro LAN</string>
     <string name="scanqr_button">Načíst QR kód</string>
     <string name="search_all_contacts">Hledat ve všech kontaktech</string>
     <string name="share_with">Sdílet s</string>
-    <!-- From: file:/Users/Ann/Downloads/Antox-master/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/res/values-cs/values-cs.xml -->
+    <!-- From: file:/Users/Ann/Desktop/Wildfire-master/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/res/values-cs/values-cs.xml -->
     <eat-comment/>
     <string msgid="2869576371154716097" name="status_bar_notification_info_overflow">"999+"</string>
-    <!-- From: file:/Users/Ann/Downloads/Antox-master/app/src/main/res/values-cs/strings.xml -->
+    <!-- From: file:/Users/Ann/Desktop/Wildfire-master/app/src/main/res/values-cs/strings.xml -->
     <eat-comment/>
     <string name="title_activity_add">Přidat kontakt</string>
     <string name="title_activity_call">Aktivita volání</string>
@@ -253,10 +253,10 @@ pouze omezené funkce, pokud nepoužíváte Antox pouze pro LAN</string>
     <string name="title_activity_friend_profile">Profil přítele</string>
     <string name="title_activity_group_profile">Informace o skupině</string>
     <string name="title_activity_profile_settings">Možnosti profilu</string>
-    <!-- From: file:/Users/Ann/Downloads/Antox-master/app/src/main/res/values-cs/strings_activity_settings.xml -->
+    <!-- From: file:/Users/Ann/Desktop/Wildfire-master/app/src/main/res/values-cs/strings_activity_settings.xml -->
     <eat-comment/>
     <string name="title_activity_settings">Nastavení</string>
-    <!-- From: file:/Users/Ann/Downloads/Antox-master/app/src/main/res/values-cs/strings.xml -->
+    <!-- From: file:/Users/Ann/Desktop/Wildfire-master/app/src/main/res/values-cs/strings.xml -->
     <eat-comment/>
     <string name="titles_contacts">Kontakty</string>
     <string name="titles_recent">Nedávné</string>

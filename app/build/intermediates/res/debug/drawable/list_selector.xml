@@ -5,4 +5,4 @@
     <item android:drawable="@color/grey_light" android:state_focused="true"></item>
     <item android:drawable="@color/white_absolute"/>
 </selector>
-<!-- From: file:/Users/Ann/Downloads/Antox-master/app/src/main/res/drawable/list_selector.xml -->
+<!-- From: file:/Users/Ann/Desktop/Wildfire-master/app/src/main/res/drawable/list_selector.xml -->

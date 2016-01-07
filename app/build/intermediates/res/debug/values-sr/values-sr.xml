@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <!-- From: file:/Users/Ann/Downloads/Antox-master/app/src/main/res/values-sr/strings_activity_settings.xml -->
+    <!-- From: file:/Users/Ann/Desktop/Wildfire-master/app/src/main/res/values-sr/strings_activity_settings.xml -->
     <eat-comment/>
     <string-array name="pref_status_list_titles">
     <item>Присутан</item>
     <item>Одсутан</item>
     <item>Заузет</item>
   </string-array>
-    <!-- From: file:/Users/Ann/Downloads/Antox-master/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/res/values-sr/values-sr.xml -->
+    <!-- From: file:/Users/Ann/Desktop/Wildfire-master/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/res/values-sr/values-sr.xml -->
     <eat-comment/>
     <string msgid="4600421777120114993" name="abc_action_bar_home_description">"Одлазак на Почетну"</string>
     <string msgid="1397052879051804371" name="abc_action_bar_home_description_format">"%1$s, %2$s"</string>
@@ -26,7 +26,7 @@
     <string msgid="3421042268587513524" name="abc_shareactionprovider_share_with">"Дели са"</string>
     <string msgid="7165123711973476752" name="abc_shareactionprovider_share_with_application">"Дели са апликацијом %s"</string>
     <string msgid="1603543279005712093" name="abc_toolbar_collapse_description">"Скупи"</string>
-    <!-- From: file:/Users/Ann/Downloads/Antox-master/app/src/main/res/values-sr/strings.xml -->
+    <!-- From: file:/Users/Ann/Desktop/Wildfire-master/app/src/main/res/values-sr/strings.xml -->
     <eat-comment/>
     <string name="about">О програму</string>
     <string name="about_antox_1">Са успоном владиних програма за праћење, Токс пружа апликацију лаку за коришћење која вам омогућује да се повежете са пријатељима и породицом а да вас нико не прислушкује.</string>
@@ -83,10 +83,10 @@
     <string name="contacts_delimiter_online">Присутан</string>
     <string name="contacts_delimiter_requests">Захтеви</string>
     <string name="contacts_resend_friend_request">Поново пошаљи захтев</string>
-    <!-- From: file:/Users/Ann/Downloads/Antox-master/app/src/main/res/values-sr/strings_activity_settings.xml -->
+    <!-- From: file:/Users/Ann/Desktop/Wildfire-master/app/src/main/res/values-sr/strings_activity_settings.xml -->
     <eat-comment/>
     <string name="copy_tox_id">Копирај Токс ИД</string>
-    <!-- From: file:/Users/Ann/Downloads/Antox-master/app/src/main/res/values-sr/strings.xml -->
+    <!-- From: file:/Users/Ann/Desktop/Wildfire-master/app/src/main/res/values-sr/strings.xml -->
     <eat-comment/>
     <string name="create_account_connection_error">Регистрација није успела: немогуће повезивање на интернет.</string>
     <string name="create_account_encrypted_profile_error">Антокс још не подржава шифроване профиле</string>
@@ -194,7 +194,7 @@
     <string name="n_settings">Поставке</string>
     <string name="no_camera_intent_error">Грешка: није нађена апликација за камеру.</string>
     <string name="open_source_license">Лиценца отвореног кода</string>
-    <!-- From: file:/Users/Ann/Downloads/Antox-master/app/src/main/res/values-sr/strings_activity_settings.xml -->
+    <!-- From: file:/Users/Ann/Desktop/Wildfire-master/app/src/main/res/values-sr/strings_activity_settings.xml -->
     <eat-comment/>
     <string name="pref_advanced">Напредно</string>
     <string name="pref_autostart">Покрени Антокс при подизању система</string>
@@ -227,7 +227,7 @@
     <string name="pref_title_toxme">„ToxMe“ адреса</string>
     <string name="pref_title_wifi_only">Само бежична</string>
     <string name="pref_udp">Омогући УДП</string>
-    <!-- From: file:/Users/Ann/Downloads/Antox-master/app/src/main/res/values-sr/strings.xml -->
+    <!-- From: file:/Users/Ann/Desktop/Wildfire-master/app/src/main/res/values-sr/strings.xml -->
     <eat-comment/>
     <string name="profile_info_description">Добави податке о кориснику</string>
     <string name="qr_button_no">Не</string>
@@ -242,10 +242,10 @@
     <string name="scanqr_button">Очитај бар-код</string>
     <string name="search_all_contacts">Претражи све контакте</string>
     <string name="share_with">Подели са</string>
-    <!-- From: file:/Users/Ann/Downloads/Antox-master/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/res/values-sr/values-sr.xml -->
+    <!-- From: file:/Users/Ann/Desktop/Wildfire-master/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/res/values-sr/values-sr.xml -->
     <eat-comment/>
     <string msgid="2869576371154716097" name="status_bar_notification_info_overflow">">999"</string>
-    <!-- From: file:/Users/Ann/Downloads/Antox-master/app/src/main/res/values-sr/strings.xml -->
+    <!-- From: file:/Users/Ann/Desktop/Wildfire-master/app/src/main/res/values-sr/strings.xml -->
     <eat-comment/>
     <string name="title_activity_add">Додавање контакта</string>
     <string name="title_activity_call">Активност позива</string>
@@ -253,10 +253,10 @@
     <string name="title_activity_friend_profile">Пријатељев профил</string>
     <string name="title_activity_group_profile">Подаци о групи</string>
     <string name="title_activity_profile_settings">Опције профила</string>
-    <!-- From: file:/Users/Ann/Downloads/Antox-master/app/src/main/res/values-sr/strings_activity_settings.xml -->
+    <!-- From: file:/Users/Ann/Desktop/Wildfire-master/app/src/main/res/values-sr/strings_activity_settings.xml -->
     <eat-comment/>
     <string name="title_activity_settings">Поставке</string>
-    <!-- From: file:/Users/Ann/Downloads/Antox-master/app/src/main/res/values-sr/strings.xml -->
+    <!-- From: file:/Users/Ann/Desktop/Wildfire-master/app/src/main/res/values-sr/strings.xml -->
     <eat-comment/>
     <string name="titles_contacts">Контакти</string>
     <string name="titles_recent">Недавно</string>

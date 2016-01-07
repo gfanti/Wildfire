@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="tox4j_2.11">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/app/libs/tox4j_2.11.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

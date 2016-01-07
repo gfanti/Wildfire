@@ -99,4 +99,4 @@
         android:layout_marginBottom="40dp"
         android:onClick="onClickImportProfile"/>
 </RelativeLayout>
-<!-- From: file:/Users/Ann/Downloads/Antox-master/app/src/main/res/layout/activity_create_account.xml -->
+<!-- From: file:/Users/Ann/Desktop/Wildfire-master/app/src/main/res/layout/activity_create_account.xml -->

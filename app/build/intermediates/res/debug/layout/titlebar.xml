@@ -17,4 +17,4 @@
             android:textColor="@color/white"
             android:textSize="@dimen/text_large"/-->
     </android.support.v7.widget.Toolbar>
-</merge><!-- From: file:/Users/Ann/Downloads/Antox-master/app/src/main/res/layout/titlebar.xml -->
+</merge><!-- From: file:/Users/Ann/Desktop/Wildfire-master/app/src/main/res/layout/titlebar.xml -->

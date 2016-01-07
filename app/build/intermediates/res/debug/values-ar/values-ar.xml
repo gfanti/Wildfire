@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <!-- From: file:/Users/Ann/Downloads/Antox-master/app/src/main/res/values-ar/strings_activity_settings.xml -->
+    <!-- From: file:/Users/Ann/Desktop/Wildfire-master/app/src/main/res/values-ar/strings_activity_settings.xml -->
     <eat-comment/>
     <string-array name="pref_status_list_titles"/>
-    <!-- From: file:/Users/Ann/Downloads/Antox-master/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/res/values-ar/values-ar.xml -->
+    <!-- From: file:/Users/Ann/Desktop/Wildfire-master/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/res/values-ar/values-ar.xml -->
     <eat-comment/>
     <string msgid="4600421777120114993" name="abc_action_bar_home_description">"التنقل إلى الشاشة الرئيسية"</string>
     <string msgid="1397052879051804371" name="abc_action_bar_home_description_format">"%1$s، %2$s"</string>
@@ -22,7 +22,7 @@
     <string msgid="3421042268587513524" name="abc_shareactionprovider_share_with">"مشاركة مع"</string>
     <string msgid="7165123711973476752" name="abc_shareactionprovider_share_with_application">"‏مشاركة مع %s"</string>
     <string msgid="1603543279005712093" name="abc_toolbar_collapse_description">"تصغير"</string>
-    <!-- From: file:/Users/Ann/Downloads/Antox-master/app/src/main/res/values-ar/strings.xml -->
+    <!-- From: file:/Users/Ann/Desktop/Wildfire-master/app/src/main/res/values-ar/strings.xml -->
     <eat-comment/>
     <string name="about">عن</string>
     <string name="about_antox_1">بسبب زيادة برامج المراقبة الحكومبة, Tox يقدم وسيلة سهلة لإستخدام تطبيق يسمح بالتواصل مع الاصدقاء و الأهل بدون مرقبة احد اخر.</string>
@@ -79,10 +79,10 @@
     <string name="contacts_delimiter_online">مرتبط</string>
     <string name="contacts_delimiter_requests">الطلبات</string>
     <string name="contacts_resend_friend_request">اعد ارسال طلب الصداقة</string>
-    <!-- From: file:/Users/Ann/Downloads/Antox-master/app/src/main/res/values-ar/strings_activity_settings.xml -->
+    <!-- From: file:/Users/Ann/Desktop/Wildfire-master/app/src/main/res/values-ar/strings_activity_settings.xml -->
     <eat-comment/>
     <string name="copy_tox_id">انسخ معرف Tox</string>
-    <!-- From: file:/Users/Ann/Downloads/Antox-master/app/src/main/res/values-ar/strings.xml -->
+    <!-- From: file:/Users/Ann/Desktop/Wildfire-master/app/src/main/res/values-ar/strings.xml -->
     <eat-comment/>
     <string name="create_account_connection_error">فشل بالتسجيل: لا يمكن الوصول للإنترنت.</string>
     <string name="create_account_encrypted_profile_error">لا يقبل انتوكس الملفات الشخصية المشفرة حاليا</string>
@@ -189,7 +189,7 @@
     <string name="n_settings">الإعدادات</string>
     <string name="no_camera_intent_error">خطأ: لا يوجد تطبيق كاميرا صالح.</string>
     <string name="open_source_license">ترخيص مفتوح المصدر</string>
-    <!-- From: file:/Users/Ann/Downloads/Antox-master/app/src/main/res/values-ar/strings_activity_settings.xml -->
+    <!-- From: file:/Users/Ann/Desktop/Wildfire-master/app/src/main/res/values-ar/strings_activity_settings.xml -->
     <eat-comment/>
     <string name="pref_advanced">متقدم</string>
     <string name="pref_autostart">ابدأ انتوكس عند التشغيل</string>
@@ -222,7 +222,7 @@
     <string name="pref_title_toxme">عنوان ToxMe</string>
     <string name="pref_title_wifi_only">فقط Wi-Fi</string>
     <string name="pref_udp">فعل UDP</string>
-    <!-- From: file:/Users/Ann/Downloads/Antox-master/app/src/main/res/values-ar/strings.xml -->
+    <!-- From: file:/Users/Ann/Desktop/Wildfire-master/app/src/main/res/values-ar/strings.xml -->
     <eat-comment/>
     <string name="profile_info_description">اجلب معلومات المستخدم</string>
     <string name="qr_button_no">لا</string>
@@ -236,10 +236,10 @@
     <string name="scanqr_button">امسح شيفرة QR</string>
     <string name="search_all_contacts">ابحث في كل جهات الاتصال</string>
     <string name="share_with">شارك مع</string>
-    <!-- From: file:/Users/Ann/Downloads/Antox-master/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/res/values-ar/values-ar.xml -->
+    <!-- From: file:/Users/Ann/Desktop/Wildfire-master/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/res/values-ar/values-ar.xml -->
     <eat-comment/>
     <string msgid="2869576371154716097" name="status_bar_notification_info_overflow">"+999"</string>
-    <!-- From: file:/Users/Ann/Downloads/Antox-master/app/src/main/res/values-ar/strings.xml -->
+    <!-- From: file:/Users/Ann/Desktop/Wildfire-master/app/src/main/res/values-ar/strings.xml -->
     <eat-comment/>
     <string name="title_activity_add">أضف جهة إتصال</string>
     <string name="title_activity_call">فعالية المكالمة</string>
@@ -247,10 +247,10 @@
     <string name="title_activity_friend_profile">ملف شخصي لصديق</string>
     <string name="title_activity_group_profile">معلومات المجموعة</string>
     <string name="title_activity_profile_settings">خيارات الملف الشخصي</string>
-    <!-- From: file:/Users/Ann/Downloads/Antox-master/app/src/main/res/values-ar/strings_activity_settings.xml -->
+    <!-- From: file:/Users/Ann/Desktop/Wildfire-master/app/src/main/res/values-ar/strings_activity_settings.xml -->
     <eat-comment/>
     <string name="title_activity_settings">الإعدادات</string>
-    <!-- From: file:/Users/Ann/Downloads/Antox-master/app/src/main/res/values-ar/strings.xml -->
+    <!-- From: file:/Users/Ann/Desktop/Wildfire-master/app/src/main/res/values-ar/strings.xml -->
     <eat-comment/>
     <string name="titles_contacts">جهات الاتصال</string>
     <string name="titles_recent">الاخيرة</string>
