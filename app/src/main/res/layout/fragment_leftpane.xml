@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/leftpane_linear"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    android:background="@color/white"
+    android:orientation="vertical">
+
+    <android.support.v7.widget.Toolbar
+        android:id="@+id/toolbar"
+        android:minHeight="?attr/actionBarSize"
+        android:background="@color/brand_primary"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:theme="@style/AntoxTheme.ActionBar"/>
+
+    <fragment android:name="chat.tox.antox.fragments.WifiWarningFragment"
+        android:id="@+id/wifi_warning_bar"
+        android:layout_width="match_parent"
+        android:layout_height="@dimen/abc_action_bar_default_height_material"
+        tools:layout="@layout/fragment_wifi_warning" />
+
+    <com.astuetz.PagerSlidingTabStrip
+        android:id="@+id/pager_tabs"
+        android:layout_width="match_parent"
+        android:layout_height="48dp"
+        android:background="@color/brand_primary"
+        android:textColor="@color/white_absolute"
+        app:pstsShouldExpand="true"
+        />
+
+    <android.support.v4.view.ViewPager
+        android:background="@color/white_absolute"
+        android:id="@+id/pager"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+    </android.support.v4.view.ViewPager>
+</LinearLayout>

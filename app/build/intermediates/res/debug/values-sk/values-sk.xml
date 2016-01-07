@@ -1,0 +1,117 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- From: file:/Users/Ann/Downloads/Antox-master/app/src/main/res/values-sk/strings_activity_settings.xml -->
+    <eat-comment/>
+    <string-array name="pref_status_list_titles">
+    <item>Online</item>
+    <item>Preč</item>
+    <item>Zaneprázdnený</item>
+  </string-array>
+    <!-- From: file:/Users/Ann/Downloads/Antox-master/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/res/values-sk/values-sk.xml -->
+    <eat-comment/>
+    <string msgid="4600421777120114993" name="abc_action_bar_home_description">"Prejsť na plochu"</string>
+    <string msgid="1397052879051804371" name="abc_action_bar_home_description_format">"%1$s, %2$s"</string>
+    <string msgid="6623331958280229229" name="abc_action_bar_home_subtitle_description_format">"%1$s, %2$s, %3$s"</string>
+    <string msgid="1594238315039666878" name="abc_action_bar_up_description">"Prejsť hore"</string>
+    <string msgid="3588849162933574182" name="abc_action_menu_overflow_description">"Ďalšie možnosti"</string>
+    <string msgid="4076576682505996667" name="abc_action_mode_done">"Hotovo"</string>
+    <string msgid="7468859129482906941" name="abc_activity_chooser_view_see_all">"Zobraziť všetko"</string>
+    <string msgid="2031811694353399454" name="abc_activitychooserview_choose_application">"Zvoľte aplikáciu"</string>
+    <string msgid="7723749260725869598" name="abc_search_hint">"Vyhľadať…"</string>
+    <string msgid="3691816814315814921" name="abc_searchview_description_clear">"Vymazať dopyt"</string>
+    <string msgid="2550479030709304392" name="abc_searchview_description_query">"Vyhľadávací dopyt"</string>
+    <string msgid="8264924765203268293" name="abc_searchview_description_search">"Hľadať"</string>
+    <string msgid="8928215447528550784" name="abc_searchview_description_submit">"Odoslať dopyt"</string>
+    <string msgid="893419373245838918" name="abc_searchview_description_voice">"Hlasové vyhľadávanie"</string>
+    <string msgid="3421042268587513524" name="abc_shareactionprovider_share_with">"Zdieľať pomocou"</string>
+    <string msgid="7165123711973476752" name="abc_shareactionprovider_share_with_application">"Zdieľať pomocou %s"</string>
+    <string msgid="1603543279005712093" name="abc_toolbar_collapse_description">"Zbaliť"</string>
+    <!-- From: file:/Users/Ann/Downloads/Antox-master/app/src/main/res/values-sk/strings.xml -->
+    <eat-comment/>
+    <string name="about_antox_2">Čo v súčasnosti funguje:</string>
+    <string name="add_contact">Pridať kontakt</string>
+    <string name="addfriend_friend_key">Tox ID vášho priateľa</string>
+    <string name="addpane_friend_label">Priateľ</string>
+    <string name="addpane_group_label">Skupina</string>
+    <string name="chat_enter_message">Poslať správu</string>
+    <string name="chat_file_transfer">Prenos súborov</string>
+    <string name="chat_ft_failed_friend_offline">Odoslanie zlyhalo - nemožno poslať priateľovi, ktorý je offline</string>
+    <string name="chat_message_too_long">Táto správa je dlhá a nemôže byť odoslaná</string>
+    <!-- From: file:/Users/Ann/Downloads/Antox-master/app/src/main/res/values-sk/strings_activity_settings.xml -->
+    <eat-comment/>
+    <string name="copy_tox_id">Kopírovať Tox ID</string>
+    <!-- From: file:/Users/Ann/Downloads/Antox-master/app/src/main/res/values-sk/strings.xml -->
+    <eat-comment/>
+    <string name="create_account_exists">Toto meno sa už používa</string>
+    <string name="create_account_internal_error">Interná chyba programu Antox. Prosím reštartujte a skúste znovu</string>
+    <string name="create_account_reached_registration_limit">Môžte zaregistrovať najviac 13 účtov za hodinu. Tento limit ste dosiahli.</string>
+    <string name="create_account_unknown_error">Neznáma chyba registrácie, prosím skúste znovu neskôr.</string>
+    <string name="create_bad_profile_name">Názov profilu nemôže obsahovať medzery alebo lomky alebo byť prázdny</string>
+    <string name="create_import_profile">Importovať profil</string>
+    <string name="create_must_fill_in">Musíte vyplniť všetky polia.</string>
+    <string name="create_name_hint">Názov profilu</string>
+    <string name="create_profile_exists">Meno tohto profilu už existuje</string>
+    <string name="create_register">Registrovať</string>
+    <string name="create_register_incog">Registrovať inkognito</string>
+    <string name="create_skip">Umožniť každému pridať si vás na základe vášho názvu profilu.</string>
+    <string name="create_text">Bezpečné posielanie správ pre každého.</string>
+    <string name="end_call">Ukončiť hovor</string>
+    <string name="import_profile_invalid_file">Vybraný súbor nie je platný tox profil</string>
+    <string name="login_account_hint">Názov profilu</string>
+    <string name="login_bad_login">Názov profilu nebol rozpoznaný</string>
+    <string name="login_create_account_text">Vytvoriť Tox profil</string>
+    <string name="login_login">Login</string>
+    <string name="login_must_fill_in">Musíte vyplňiť názov profilu</string>
+    <string name="main_group_coming_soon">Bude čoskoro...</string>
+    <string name="main_mobile_disabled">V súčastnosti Offline ak je zapnutý mód iba cez Wi-Fi. Dotykom otvoríte nastavenia.</string>
+    <string name="main_no_active_chat">Nie je aktívny chat. Začnite nejaký výberom priateľa z panelu naľavo.</string>
+    <string name="main_no_internet">Bez pripojenia na internet</string>
+    <string name="main_not_connected">Nebolo zistené spojenie na internet. Bez pripojenia na internet máte limitovanú
+funkcionalitu pokiaľ Antox nepoužívate len na LAN sieti.</string>
+    <string name="main_recent_no">Žiadne nedávne konverzácie</string>
+    <string name="mute_call">Stlmiť zvuk</string>
+    <string name="mute_mic">Stlmiť mikrofón</string>
+    <!-- From: file:/Users/Ann/Downloads/Antox-master/app/src/main/res/values-sk/strings_activity_settings.xml -->
+    <eat-comment/>
+    <string name="pref_advanced">Pokročilé</string>
+    <string name="pref_default_nickname">Antox použivateľ</string>
+    <string name="pref_default_password">Nenastavené heslo</string>
+    <string name="pref_default_status_message">Hej! Používam Antox.</string>
+    <string name="pref_default_tox_id">Prednastavené Tox ID - Toto by ste nemali vidieť</string>
+    <string name="pref_header_notifications">Notifikácie</string>
+    <string name="pref_header_other">Iné</string>
+    <string name="pref_header_profile">Profil</string>
+    <string name="pref_title_account_name">Názov profilu</string>
+    <string name="pref_title_avatar">Avatar</string>
+    <string name="pref_title_connection_status_messages">Správy o akciách</string>
+    <string name="pref_title_enable_notifications">Povoliť notifikácie</string>
+    <string name="pref_title_export">Exportovať profil</string>
+    <string name="pref_title_language">Jazyk</string>
+    <string name="pref_title_logging_enabled">Zachovať históriu chatu pri odhlásení</string>
+    <string name="pref_title_logout">Odhlásiť sa</string>
+    <string name="pref_title_new_friend_notifications">Notifikácie požiadaviek o priateľstvo</string>
+    <string name="pref_title_new_message_notifications">Notifikácie správ</string>
+    <string name="pref_title_nickname">Meno</string>
+    <string name="pref_title_status">Status</string>
+    <string name="pref_title_status_message">Správa statusu</string>
+    <string name="pref_title_tox_id">Tox ID</string>
+    <string name="pref_title_wifi_only">Iba cez Wi-Fi</string>
+    <string name="pref_udp">Povoliť UDP</string>
+    <!-- From: file:/Users/Ann/Downloads/Antox-master/app/src/main/res/values-sk/strings.xml -->
+    <eat-comment/>
+    <string name="profile_info_description">Získať info o používateľovi</string>
+    <string name="search_all_contacts">Hľadať všetky kontakty</string>
+    <!-- From: file:/Users/Ann/Downloads/Antox-master/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/res/values-sk/values-sk.xml -->
+    <eat-comment/>
+    <string msgid="2869576371154716097" name="status_bar_notification_info_overflow">"999+"</string>
+    <!-- From: file:/Users/Ann/Downloads/Antox-master/app/src/main/res/values-sk/strings.xml -->
+    <eat-comment/>
+    <string name="title_activity_add">Pridať kontakt</string>
+    <string name="title_activity_call">Aktivita hovoru</string>
+    <string name="title_activity_friend_profile">Profil priateľa</string>
+    <string name="title_activity_group_profile">Info o skupine</string>
+    <string name="title_activity_profile_settings">Možnosti profilu</string>
+    <!-- From: file:/Users/Ann/Downloads/Antox-master/app/src/main/res/values-sk/strings_activity_settings.xml -->
+    <eat-comment/>
+    <string name="title_activity_settings">Nastavenia</string>
+</resources>

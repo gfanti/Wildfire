@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    xmlns:tools="http://schemas.android.com/tools">
+
+    <TextView
+        android:id="@+id/title"
+        style="@android:style/TextAppearance.Large.Inverse"
+        android:textColor="@android:color/primary_text_light"
+        android:textSize="24sp"
+        android:textStyle="bold"
+        android:fontFamily="sans-serif-condensed"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:text="Title"
+        android:padding="10dp"/>
+    <TextView
+        android:id="@+id/message"
+        style="@android:style/TextAppearance.Large.Inverse"
+        android:textColor="@android:color/primary_text_light"
+        android:textSize="24sp"
+        android:textStyle="bold"
+        android:fontFamily="sans-serif-condensed"
+        android:layout_below="@id/title"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:text="Title"
+        android:padding="10dp"
+        />
+    <Button
+        android:id="@+id/dislikeButton"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Dislike"/>
+    <Button
+        android:id="@+id/likeButton"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Like"/>
+
+</LinearLayout>

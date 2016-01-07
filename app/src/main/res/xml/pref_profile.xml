@@ -1,0 +1,85 @@
+<PreferenceScreen xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <!-- NOTE: EditTextPreference accepts EditText attributes. -->
+    <!-- NOTE: EditTextPreference's summary should be set to its value by the activity code. -->
+    <EditTextPreference
+        android:capitalize="words"
+        android:defaultValue="@string/pref_default_nickname"
+        android:inputType="textCapWords"
+        android:key="nickname"
+        android:maxLines="1"
+        android:selectAllOnFocus="true"
+        android:singleLine="true"
+        android:title="@string/pref_title_nickname" />
+
+    <!-- NOTE: Hide buttons to simplify the UI. Users can touch outside the dialog to
+         dismiss it. -->
+    <!-- NOTE: ListPreference's summary should be set to its value by the activity code. -->
+    <ListPreference
+        android:key="status"
+        android:defaultValue="1"
+        android:entries="@array/pref_status_list_titles"
+        android:entryValues="@array/pref_status_list_values"
+        android:negativeButtonText="@null"
+        android:positiveButtonText="@null"
+        android:title="@string/pref_title_status" />
+
+    <Preference
+        android:key="avatar"
+        android:editable="false"
+        android:title="@string/pref_title_avatar" />
+
+    <EditTextPreference
+        android:defaultValue="@string/pref_default_status_message"
+        android:inputType="textAutoComplete"
+        android:key="status_message"
+        android:maxLines="1"
+        android:selectAllOnFocus="true"
+        android:singleLine="true"
+        android:title="@string/pref_title_status_message" />
+
+    <EditTextPreference
+        android:enabled="false"
+        android:key="active_account"
+        android:title="@string/pref_title_account_name" />
+
+    <Preference
+        android:defaultValue="@string/pref_default_tox_id"
+        android:editable="false"
+        android:key="tox_id"
+        android:maxLines="1"
+        android:selectAllOnFocus="true"
+        android:singleLine="true"
+        android:textIsSelectable="true"
+        android:title="@string/pref_title_tox_id" />
+
+    <Preference
+        android:defaultValue="@string/pref_default_toxme"
+        android:title="@string/pref_title_toxme"
+        android:editable="false"
+        android:key="toxme_info" />
+
+    <Preference
+        android:defaultValue="@string/pref_default_password"
+        android:key="password"
+        android:singleLine="true"
+        android:title="@string/pref_title_password"/>
+
+    <CheckBoxPreference
+        android:defaultValue="true"
+        android:key="logging_enabled"
+        android:title="@string/pref_title_logging_enabled" />
+
+    <Preference
+        android:key="nospam"
+        android:title="@string/pref_nospam" />
+
+    <Preference
+        android:key="export"
+        android:title="@string/pref_title_export" />
+
+    <Preference
+        android:key="delete"
+        android:title="@string/pref_title_delete" />
+
+</PreferenceScreen>

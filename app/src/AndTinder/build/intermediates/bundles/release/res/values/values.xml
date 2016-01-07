@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="card_bg">#EBEBEB</color>
+    <color name="card_outline">#D0D0CE</color>
+    <declare-styleable name="CardContainer"><attr name="android:gravity"/><attr format="enum" name="orientation"><enum name="ordered" value="0"/><enum name="disordered" value="1"/></attr></declare-styleable>
+    <dimen name="activity_horizontal_margin">16dp</dimen>
+    <dimen name="activity_vertical_margin">16dp</dimen>
+    <string name="action_settings">Settings</string>
+    <string name="app_name">TinderView_Demo</string>
+    <string name="hello_world">Hello world!</string>
+</resources>

@@ -1,0 +1,9 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:antonx="http://schemas.android.com/apk/res-auto">
+    <item
+        android:id="@+id/scanFriend"
+        antonx:showAsAction="ifRoom"
+        android:icon="@drawable/ic_action_barcode_2"
+        android:title="@string/scanqr_button"
+        />
+</menu>

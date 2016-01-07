@@ -1,0 +1,149 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    package="chat.tox.antox"
+    android:versionCode="47"
+    android:versionName="0.23" >
+
+    <uses-sdk
+        android:minSdkVersion="9"
+        android:targetSdkVersion="21"
+        tools:overrideLibrary="com.astuetz.pagerslidingtabstrip, com.balysv.materialripple, jp.wasabeef.recyclerview" />
+
+    <uses-permission android:name="android.permission.INTERNET" />
+    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
+    <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" />
+    <uses-permission android:name="android.permission.READ_EXTERNAL_STORAGE" />
+    <uses-permission android:name="android.permission.VIBRATE" />
+    <uses-permission android:name="android.permission.RECEIVE_BOOT_COMPLETED" />
+    <uses-permission android:name="android.permission.CAMERA" />
+    <uses-permission android:name="android.permission.RECORD_AUDIO" />
+
+    <uses-feature android:name="android.hardware.camera.autofocus" android:required="false"/>
+
+    <instrumentation
+        android:name="android.test.InstrumentationTestRunner"
+        android:targetPackage="chat.tox.antox"/>
+
+    <supports-screens
+        android:anyDensity="true"
+        android:largeScreens="true"
+        android:normalScreens="true"
+        android:resizeable="true"
+        android:smallScreens="true" />
+
+    <application
+        android:allowBackup="true"
+        android:hardwareAccelerated="false"
+        android:icon="@drawable/ic_launcher"
+        android:label="@string/app_name"
+        android:logo="@drawable/ic_actionbar"
+        android:theme="@style/AntoxTheme" >
+        <service
+            android:name="chat.tox.antox.tox.ToxService"
+            android:exported="false"
+            android:label="Antox" />
+
+        <receiver android:name="chat.tox.antox.utils.BootReceiver">
+            <intent-filter>
+                <action android:name="android.intent.action.BOOT_COMPLETED"/>
+            </intent-filter>
+        </receiver>
+
+        <activity
+            android:name="chat.tox.antox.activities.MainActivity"
+            android:configChanges="orientation|screenSize"
+            android:theme="@style/AntoxTheme.ActionBar"
+            android:windowSoftInputMode="stateAlwaysHidden">
+        </activity>
+        <activity
+            android:name="chat.tox.antox.activities.LoginActivity"
+            android:label="@string/app_name"
+            android:screenOrientation="portrait"
+            android:theme="@style/Theme.AppCompat.Translucent" >
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity
+            android:name=".activities.ChatActivity"
+            android:windowSoftInputMode="stateHidden|adjustResize"
+            android:parentActivityName="chat.tox.antox.activities.MainActivity">
+            <meta-data
+                android:name="android.support.PARENT_ACTIVITY"
+                android:value="chat.tox.antox.activities.MainActivity" />
+        </activity>
+        <activity
+            android:name="chat.tox.antox.activities.GroupChatActivity"
+            android:parentActivityName="chat.tox.antox.activities.MainActivity">
+            <meta-data
+                android:name="android.support.PARENT_ACTIVITY"
+                android:value="chat.tox.antox.activities.MainActivity" />
+        </activity>
+        <activity
+            android:name="chat.tox.antox.activities.EvalActivity"
+            android:parentActivityName="chat.tox.antox.activities.MainActivity">
+            <meta-data
+                android:name="android.support.PARENT_ACTIVITY"
+                android:value="chat.tox.antox.activities.MainActivity" />
+        </activity>
+        <activity
+            android:name="chat.tox.antox.activities.AddActivity"
+            android:label="@string/title_activity_add" >
+            <meta-data
+                android:name="android.support.PARENT_ACTIVITY"
+                android:value="chat.tox.antox.activities.MainActivity" />
+
+            <!-- Intent filter for handling tox: links -->
+            <intent-filter>
+                <action android:name="android.intent.action.VIEW" />
+
+                <category android:name="android.intent.category.DEFAULT" />
+                <category android:name="android.intent.category.BROWSABLE" />
+
+                <data android:scheme="tox" />
+            </intent-filter>
+        </activity>
+        <activity
+            android:name=".activities.FriendProfileActivity"
+            android:label="@string/title_activity_friend_profile"
+            android:windowSoftInputMode="stateAlwaysHidden" >
+            <meta-data
+                android:name="android.support.PARENT_ACTIVITY"
+                android:value="chat.tox.antox.activities.MainActivity" />
+        </activity>
+
+        <activity
+            android:name="chat.tox.antox.activities.GroupProfileActivity"
+            android:label="@string/title_activity_group_profile"
+            android:windowSoftInputMode="stateAlwaysHidden" >
+            <meta-data
+                android:name="android.support.PARENT_ACTIVITY"
+                android:value="chat.tox.antox.activities.GroupChatActivity" />
+        </activity>
+
+        <receiver
+            android:name=".utils.ConnectionManager"
+            android:label="NetworkConnection" >
+            <intent-filter>
+                <action android:name="android.net.conn.CONNECTIVITY_CHANGE" />
+            </intent-filter>
+        </receiver>
+
+        <activity
+            android:name="chat.tox.antox.activities.CreateAccountActivity"
+            android:label="@string/title_activity_create_account"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name="chat.tox.antox.activities.ProfileSettingsActivity"
+            android:label="@string/title_activity_profile_settings" />
+        <activity
+            android:name="chat.tox.antox.activities.AboutActivity"
+            android:label="@string/about" />
+        <activity
+            android:name="chat.tox.antox.activities.SettingsActivity"
+            android:label="@string/title_activity_settings" />
+    </application>
+
+</manifest>

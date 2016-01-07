@@ -1,0 +1,240 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- From: file:/Users/Ann/Downloads/Antox-master/app/src/main/res/values-pl/strings_activity_settings.xml -->
+    <eat-comment/>
+    <string-array name="pref_status_list_titles">
+    <item>Online</item>
+    <item>Nieobecny</item>
+    <item>Zajęty</item>
+  </string-array>
+    <!-- From: file:/Users/Ann/Downloads/Antox-master/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/res/values-pl/values-pl.xml -->
+    <eat-comment/>
+    <string msgid="4600421777120114993" name="abc_action_bar_home_description">"Przejdź do strony głównej"</string>
+    <string msgid="1397052879051804371" name="abc_action_bar_home_description_format">"%1$s, %2$s"</string>
+    <string msgid="6623331958280229229" name="abc_action_bar_home_subtitle_description_format">"%1$s, %2$s, %3$s"</string>
+    <string msgid="1594238315039666878" name="abc_action_bar_up_description">"Przejdź wyżej"</string>
+    <string msgid="3588849162933574182" name="abc_action_menu_overflow_description">"Więcej opcji"</string>
+    <string msgid="4076576682505996667" name="abc_action_mode_done">"Gotowe"</string>
+    <string msgid="7468859129482906941" name="abc_activity_chooser_view_see_all">"Zobacz wszystkie"</string>
+    <string msgid="2031811694353399454" name="abc_activitychooserview_choose_application">"Wybierz aplikację"</string>
+    <string msgid="7723749260725869598" name="abc_search_hint">"Szukaj…"</string>
+    <string msgid="3691816814315814921" name="abc_searchview_description_clear">"Wyczyść zapytanie"</string>
+    <string msgid="2550479030709304392" name="abc_searchview_description_query">"Wyszukiwane hasło"</string>
+    <string msgid="8264924765203268293" name="abc_searchview_description_search">"Szukaj"</string>
+    <string msgid="8928215447528550784" name="abc_searchview_description_submit">"Wyślij zapytanie"</string>
+    <string msgid="893419373245838918" name="abc_searchview_description_voice">"Wyszukiwanie głosowe"</string>
+    <string msgid="3421042268587513524" name="abc_shareactionprovider_share_with">"Udostępnij dla"</string>
+    <string msgid="7165123711973476752" name="abc_shareactionprovider_share_with_application">"Udostępnij dla %s"</string>
+    <string msgid="1603543279005712093" name="abc_toolbar_collapse_description">"Zwiń"</string>
+    <!-- From: file:/Users/Ann/Downloads/Antox-master/app/src/main/res/values-pl/strings.xml -->
+    <eat-comment/>
+    <string name="about">Informacje</string>
+    <string name="about_antox_1">Wraz ze wzrostem państwowych programów monitorujących, Tox stanowi łatwy w użyciu program, który pozwala łączyć się z rodziną i znajomymi bez obawy o podsłuch.</string>
+    <string name="about_antox_2">Co obecnie działa:</string>
+    <string name="about_antox_3">- Jeden na jeden wiadomości</string>
+    <string name="about_antox_4">- Powiadomienia</string>
+    <string name="about_antox_5">- Transfer plików</string>
+    <string name="about_antox_6">Nie działa:</string>
+    <string name="about_antox_7">- Audio/Wideo</string>
+    <string name="about_antox_8">- Grupy</string>
+    <string name="action_settings">Ustawienia</string>
+    <string name="add_contact">Dodaj kontakt</string>
+    <string name="addfriend_button">Dodaj kontakt</string>
+    <string name="addfriend_default_message">Hej! Proszę, zaakceptuj moją prośbę o dodanie Cię do kontaktów</string>
+    <string name="addfriend_friend_added">Dodano kontakt</string>
+    <string name="addfriend_friend_exists">Kontakt już istnieje</string>
+    <string name="addfriend_friend_key">Tox ID Twojego znajomego</string>
+    <string name="addfriend_friend_message">Dołącz wiadomość</string>
+    <string name="addfriend_friend_pin_text">Wpisz Pin kontaktu</string>
+    <string name="addfriend_friend_pin_title">Wpisz Pin kontaktu</string>
+    <string name="addfriend_invalid_pin">Nieprawidłowy Pin</string>
+    <string name="addfriend_nick_hint">Ustaw nick dla kontaktu</string>
+    <string name="addfriend_optional_title">Dodatkowe</string>
+    <string name="addfriend_own_key">Nie możesz dodać samego siebie</string>
+    <string name="addgroup_alias_hint">Ustaw alias dla tej grupy</string>
+    <string name="addgroup_button">Dołącz do grupy</string>
+    <string name="addgroup_group_added">Dołączono do grupy</string>
+    <string name="addgroup_group_exists">Grupa już istnieje</string>
+    <string name="addgroup_group_id">ID grupy</string>
+    <string name="addgroup_optional_title">Dodatkowe opcje</string>
+    <string name="addpane_friend_label">Znajoma/y</string>
+    <string name="addpane_group_label">Grupa</string>
+    <string name="attachment_file">Załącz plik</string>
+    <string name="attachment_photo">Dołącz zdjęcie</string>
+    <string name="attachment_takephoto">Zrób zdjęcie</string>
+    <string name="avatar_too_large_error">Błąd: wybrany awatar jest zbyt duży.</string>
+    <string name="button_cancel">Anuluj</string>
+    <string name="button_confirm">Potwierdź</string>
+    <string name="button_no">Nie</string>
+    <string name="button_ok">OK</string>
+    <string name="button_yes">Tak</string>
+    <string name="chat_enter_message">Wyślij wiadomość</string>
+    <string name="chat_file_transfer">Przesyłanie plików</string>
+    <string name="chat_ft_failed_friend_offline">Wysyłanie nieudane - nie można wysłać pliku do znajomego będącego offline</string>
+    <string name="chat_message_too_long">Ta wiadomość jest zbyt długa i nie może zostać wysłana</string>
+    <string name="connection_has">jest</string>
+    <string name="connection_offline">offline</string>
+    <string name="connection_online">online</string>
+    <string name="contacts_actions_on">Akcja na</string>
+    <string name="contacts_delimiter_friends">Znajomi</string>
+    <string name="contacts_delimiter_groups">Grupy</string>
+    <string name="contacts_delimiter_invites">Zaproszenia do grup</string>
+    <string name="contacts_delimiter_offline">Offline</string>
+    <string name="contacts_delimiter_online">Online</string>
+    <string name="contacts_delimiter_requests">Zaproszenia</string>
+    <string name="contacts_resend_friend_request">Wyślij ponownie zapytania do znajomych</string>
+    <!-- From: file:/Users/Ann/Downloads/Antox-master/app/src/main/res/values-pl/strings_activity_settings.xml -->
+    <eat-comment/>
+    <string name="copy_tox_id">Skopiuj Tox ID</string>
+    <!-- From: file:/Users/Ann/Downloads/Antox-master/app/src/main/res/values-pl/strings.xml -->
+    <eat-comment/>
+    <string name="create_account_exists">Ta nazwa jest już zajęta</string>
+    <string name="create_account_internal_error">Wewnętrzny błąd Antoxa. Proszę zrestartować i spróbować ponownie</string>
+    <string name="create_account_kalium_link_error">Nie udało się załadować jednej z wymaganych bibliotek. Nie da się utworzyć nie-incognito konta</string>
+    <string name="create_account_reached_registration_limit">Możesz utworzyć tylko 13 profili na godzinę. Osiągnięto ten limit.</string>
+    <string name="create_account_unknown_error">Nieznany błąd rejestracji, proszę spróbować ponownie później</string>
+    <string name="create_bad_profile_name">Nazwa profilu nie może być pusta lub zawierać spacji lub ukośników</string>
+    <string name="create_group_dialog_cancel">Anuluj</string>
+    <string name="create_group_dialog_create_group">Utwórz grupę</string>
+    <string name="create_group_dialog_message">Utwórz nowy czat grupowy</string>
+    <string name="create_group_dialog_name_header">Nazwa grupy</string>
+    <string name="create_import_profile">Zaimportuj profil</string>
+    <string name="create_must_fill_in">Musisz uzupełnić wszystkie pola</string>
+    <string name="create_name_hint">Nazwa profilu</string>
+    <string name="create_profile_exists">Profil z tą nazwą już istnieje</string>
+    <string name="create_register">Zarejestruj</string>
+    <string name="create_register_incog">Zarejestruj w trybie prywatnym</string>
+    <string name="create_skip">Pozwól każdemu na dodanie do listy z twoją nazwą profilu</string>
+    <string name="create_text">Twój slogan</string>
+    <string name="dialog_avatar_description">awatar</string>
+    <string name="dialog_avatar_take_photo">Zrób zdjęcie</string>
+    <string name="dialog_avatar_use_file">Użyj plik</string>
+    <string name="dialog_pin">Wprowadź Pin kontaktu</string>
+    <string name="dialog_tox_id">Kopiuj Tox ID do schowka</string>
+    <string name="drawer_close">Zamknij pasek nawigacyjny</string>
+    <string name="drawer_open">Otwórz pasek nawigacyjny</string>
+    <string name="end_call">Zakończ rozmowę</string>
+    <string name="file_failed">Nieudany</string>
+    <string name="file_finished">Zakończony</string>
+    <string name="file_in_progress">W trakcie</string>
+    <string name="file_rejected">Odrzucony</string>
+    <string name="file_request_sent">Wyślij zapytanie</string>
+    <string name="file_time_remaining">pozostało %s sekund</string>
+    <string name="friend_action_block">Zablokuj</string>
+    <string name="friend_action_block_friend_confirmation">Zablokowanie tego kontaktu usunie go z listy i uniemożliwi dodawanie cię do
+            jego kontaktów.\n\nCzy na pewno chcesz kontynuować?</string>
+    <string name="friend_action_chat_log_export_failed">Nie udało się wyeksportować historii rozmów. </string>
+    <string name="friend_action_chat_log_exported">Pomyślnie wyeksportowano historię rozmów do %s</string>
+    <string name="friend_action_delete">Usuń kontakt</string>
+    <string name="friend_action_delete_chat">Usuń historię czatu</string>
+    <string name="friend_action_delete_chat_confirmation">Jesteś pewien, że chcesz usunąć historię rozmów?</string>
+    <string name="friend_action_delete_friend_confirmation">Czy na pewno chcesz usunąć ten kontakt?</string>
+    <string name="friend_action_export_chat">Eksportuj historię czatu</string>
+    <string name="friend_action_profile">Profil</string>
+    <string name="friend_profile_button">Aktualizuj</string>
+    <string name="friend_profile_copied">ID skopiowany</string>
+    <string name="friend_profile_key">Tox ID</string>
+    <string name="friend_profile_nick">Nick</string>
+    <string name="friend_profile_note">Opis</string>
+    <string name="friend_profile_title">Profil użytkownika %1$s</string>
+    <string name="friend_profile_updated">Profil został zaktualizowany</string>
+    <string name="friend_request">Nowa prośba o dodanie do kontaktów</string>
+    <string name="friendrequest_accept">Zaakceptuj</string>
+    <string name="friendrequest_reject">Odrzuć</string>
+    <string name="group_action_delete">Opuść grupę</string>
+    <string name="group_default_part_message">Do widzenia</string>
+    <string name="group_default_peer_name">Anonimowa/y</string>
+    <string name="group_invite">Nowe zaproszenie do grupy</string>
+    <string name="group_profile_peer_list_head">Członkowie</string>
+    <string name="groupinvite_accept">Zaakceptuj</string>
+    <string name="groupinvite_reject">Odrzuć</string>
+    <string name="import_profile_invalid_file">Wybrany plik nie jeset poprawnym profilem Tox </string>
+    <string name="invalid_friend_ID">Nieprawidłowy Tox ID</string>
+    <string name="invalid_group_ID">Nieprawidłowy ID grupy</string>
+    <string name="invited_by">Zaproszono przez </string>
+    <string name="license1">Rozpowszechniany pod GNU GPL v3.</string>
+    <string name="license2">Kod źródłowy jest dostępny na\nhttps://github.com/subliun/Antox</string>
+    <string name="login_account_hint">Nazwa profilu</string>
+    <string name="login_bad_login">Nazwa profilu nie została rozpoznana</string>
+    <string name="login_create_account_text">Utwórz profil Tox</string>
+    <string name="login_login">Zaloguj</string>
+    <string name="login_must_fill_in">Musisz uzupełnić nazwę użytkownika</string>
+    <string name="main_group_coming_soon">"Wkrótce…"</string>
+    <string name="main_mobile_disabled">Obecnie offline, ze względu na tryb Wi-Fi-only. Dotknij by otworzyć ustawienia. </string>
+    <string name="main_no_active_chat">Brak aktywnego czatu. Uruchom jakiś wybierając znajomego z panelu po lewej.</string>
+    <string name="main_no_internet">Brak połączenia z Internetem</string>
+    <string name="main_not_connected">Nie wykryto połączenia z Internetem. Bez połączenia z Internetem funkcjonalność Antoxa jest ograniczona do sieci lokalnej</string>
+    <string name="main_recent_no">Brak niedawnych rozmów</string>
+    <string name="message_copy">Skopiuj wiadomość</string>
+    <string name="message_delete">Usuń wiadomość</string>
+    <string name="mute_call">Wycisz</string>
+    <string name="mute_mic">Wycisz mikrofon</string>
+    <string name="n_about">INFORMACJE</string>
+    <string name="n_add_person">DODAJ OSOBĘ</string>
+    <string name="n_create_group">UTWÓRZ GRUPĘ</string>
+    <string name="n_logout">WYLOGUJ SIĘ</string>
+    <string name="n_open_source">LICENCJA OPEN SOURCE</string>
+    <string name="n_profile_options">PROFIL</string>
+    <string name="n_settings">USTAWIENIA</string>
+    <string name="no_camera_intent_error">Błąd: nie znaleziono aplikacji do obsługi kamery.</string>
+    <string name="open_source_license">Licencja open source</string>
+    <!-- From: file:/Users/Ann/Downloads/Antox-master/app/src/main/res/values-pl/strings_activity_settings.xml -->
+    <eat-comment/>
+    <string name="pref_advanced">Zaawansowane</string>
+    <string name="pref_default_nickname">Użytkownik Antoxa</string>
+    <string name="pref_default_status_message">Hej! Używam Antoxa</string>
+    <string name="pref_default_tox_id">Domyślny Tox ID - Nie powinno tego widać</string>
+    <string name="pref_header_notifications">Powiadomienia</string>
+    <string name="pref_header_other">Inne</string>
+    <string name="pref_header_profile">Profil</string>
+    <string name="pref_nospam">Wygeneruj nową wartość Nospam</string>
+    <string name="pref_title_account_name">Nazwa profilu</string>
+    <string name="pref_title_connection_status_messages">Wiadomości online/offline</string>
+    <string name="pref_title_enable_notifications">Włącz powiadomienia</string>
+    <string name="pref_title_language">Język</string>
+    <string name="pref_title_logout">Wyloguj</string>
+    <string name="pref_title_new_friend_notifications">Powiadomienia o zaproszeniu</string>
+    <string name="pref_title_new_message_notifications">Powiadomienia o wiadomościach</string>
+    <string name="pref_title_nickname">Nazwa</string>
+    <string name="pref_title_status">Status</string>
+    <string name="pref_title_status_message">Opis</string>
+    <string name="pref_title_tox_id">Tox ID</string>
+    <string name="pref_title_wifi_only">Tylko przez Wi-Fi</string>
+    <string name="pref_udp">Włącz UDP</string>
+    <!-- From: file:/Users/Ann/Downloads/Antox-master/app/src/main/res/values-pl/strings.xml -->
+    <eat-comment/>
+    <string name="profile_info_description">Info o użytkowniku</string>
+    <string name="qr_button_no">Nie</string>
+    <string name="qr_button_yes">Tak</string>
+    <string name="qr_default_message">Ta aplikacja wymaga skanera kodów QR. Czy chciałbyś go zainstalować?</string>
+    <string name="qr_default_title">Zainstalować skaner kodów QR?</string>
+    <string name="reset_tox_id_dialog_cancel">Anuluj</string>
+    <string name="reset_tox_id_dialog_confirm">Zresetuj ID</string>
+    <string name="reset_tox_id_dialog_message">Reset twojego Tox ID zmieni twój ID permamentnie. Obecna lista
+        znajomych zostanie zachowana, lecz inni nie będą mogli dodać cię używając twojego starego Tox ID. </string>
+    <string name="reset_tox_id_dialog_title">Potwierdź reset Tox ID</string>
+    <string name="scanqr_button">Skanuj kod QR</string>
+    <string name="search_all_contacts">Przeszukaj wszystkie kontakty</string>
+    <string name="share_with">Podziel się z</string>
+    <!-- From: file:/Users/Ann/Downloads/Antox-master/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/res/values-pl/values-pl.xml -->
+    <eat-comment/>
+    <string msgid="2869576371154716097" name="status_bar_notification_info_overflow">"999+"</string>
+    <!-- From: file:/Users/Ann/Downloads/Antox-master/app/src/main/res/values-pl/strings.xml -->
+    <eat-comment/>
+    <string name="title_activity_add">Dodaj znajomego</string>
+    <string name="title_activity_call">CallActivity</string>
+    <string name="title_activity_create_account">CreateAccountActivity</string>
+    <string name="title_activity_friend_profile">Profil znajomego</string>
+    <string name="title_activity_group_profile">Informacje o grupie</string>
+    <string name="title_activity_profile_settings">Opcje profilu</string>
+    <!-- From: file:/Users/Ann/Downloads/Antox-master/app/src/main/res/values-pl/strings_activity_settings.xml -->
+    <eat-comment/>
+    <string name="title_activity_settings">Ustawienia</string>
+    <!-- From: file:/Users/Ann/Downloads/Antox-master/app/src/main/res/values-pl/strings.xml -->
+    <eat-comment/>
+    <string name="titles_contacts">Kontakty</string>
+    <string name="titles_recent">Ostatnie</string>
+    <string name="titles_settings">Ustawienia</string>
+    <string name="tox_id_reset">Twój Tox ID został zresetowany</string>
+    <string name="ver">Wersja</string>
+</resources>

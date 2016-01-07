@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="white_absolute">#ffffff</color>
+    <color name="white">#f3f3f3</color>
+    <color name="grey_light">#EAEAEA</color>
+    <color name="grey">#dcdcdc</color>
+    <color name="grey_dark">@android:color/darker_gray</color>
+    <color name="grey_darker">#666666</color>
+    <color name="grey_darkest">#444444</color>
+    <color name="black">#222222</color>
+    <color name="green">#339554</color>
+    <color name="green_light">#ff31cb37</color>
+    <color name="green_dark">#2e7d32</color>
+    <color name="green_darker">#1b5e20</color>
+    <color name="orange">#FF9900</color>
+    <color name="material_orange_700">#f57c00</color>
+    <color name="red">#FF3333</color>
+    <color name="material_red_a700">#d50000</color>
+    <color name="purple_dark">#5e35b1</color>
+    <color name="purple_darker">#512da8</color>
+
+    <color name="brand_primary">@color/purple_dark</color>
+    <color name="brand_primary_dark">@color/purple_darker</color>
+    <color name="brand_secondary">@color/green</color>
+    <color name="brand_secondary_dark">@color/green_dark</color>
+    <color name="brand_secondary_darker">@color/green_darker</color>
+
+    <color name="online">@color/green</color>
+    <color name="away">@color/orange</color>
+    <color name="busy">@color/red</color>
+    <color name="offline">@color/grey_dark</color>
+    
+    <color name="action_bar_background">@color/brand_primary</color>
+    <color name="sent_message_background">@color/brand_primary</color>
+    <color name="unread_indicator_background">@color/brand_secondary</color>
+    
+    <color name="fab_normal">@color/brand_secondary</color>
+    <color name="fab_pressed">@color/brand_secondary_dark</color>
+
+    <color name="tab_selected">@color/white</color>
+    <color name="tab_highlight">#aaaaaaaa</color>
+
+</resources>

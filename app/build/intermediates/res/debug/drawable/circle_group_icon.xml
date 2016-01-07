@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="utf-8"?>
+<layer-list xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:drawable="@drawable/ic_group"/>
+</layer-list ><!-- From: file:/Users/Ann/Downloads/Antox-master/app/src/main/res/drawable/circle_group_icon.xml -->

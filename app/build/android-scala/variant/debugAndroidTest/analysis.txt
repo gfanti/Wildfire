@@ -1,0 +1,495 @@
+format version: 5
+output mode:
+1 items
+0 -> single
+output directories:
+1 items
+output dir -> /Users/Ann/Downloads/Antox-master/app/build/intermediates/classes/androidTest/debug
+compile options:
+4 items
+0 -> -deprecation
+1 -> -unchecked
+2 -> -encoding
+3 -> UTF-8
+javac options:
+12 items
+00 -> -source
+01 -> 1.7
+02 -> -target
+03 -> 1.7
+04 -> -d
+05 -> /Users/Ann/Downloads/Antox-master/app/build/intermediates/classes/androidTest/debug
+06 -> -g
+07 -> -encoding
+08 -> UTF-8
+09 -> -bootclasspath
+10 -> /Users/Ann/Library/Android/sdk/platforms/android-23/android.jar
+11 -> -XDuseUnsharedTable=true
+compiler version:
+1 items
+0 -> 2.11.7
+compile order:
+1 items
+0 -> Mixed
+name hashing:
+1 items
+0 -> true
+products:
+18 items
+/Users/Ann/Downloads/Antox-master/app/build/generated/source/buildConfig/androidTest/debug/chat/tox/antox/tests/BuildConfig.java -> /Users/Ann/Downloads/Antox-master/app/build/intermediates/classes/androidTest/debug/chat/tox/antox/tests/BuildConfig.class
+/Users/Ann/Downloads/Antox-master/app/build/generated/source/r/androidTest/debug/android/support/test/espresso/R.java -> /Users/Ann/Downloads/Antox-master/app/build/intermediates/classes/androidTest/debug/android/support/test/espresso/R$string.class
+/Users/Ann/Downloads/Antox-master/app/build/generated/source/r/androidTest/debug/android/support/test/espresso/R.java -> /Users/Ann/Downloads/Antox-master/app/build/intermediates/classes/androidTest/debug/android/support/test/espresso/R.class
+/Users/Ann/Downloads/Antox-master/app/build/generated/source/r/androidTest/debug/android/support/test/rule/R.java -> /Users/Ann/Downloads/Antox-master/app/build/intermediates/classes/androidTest/debug/android/support/test/rule/R$string.class
+/Users/Ann/Downloads/Antox-master/app/build/generated/source/r/androidTest/debug/android/support/test/rule/R.java -> /Users/Ann/Downloads/Antox-master/app/build/intermediates/classes/androidTest/debug/android/support/test/rule/R.class
+/Users/Ann/Downloads/Antox-master/app/build/generated/source/r/androidTest/debug/chat/tox/antox/tests/R.java -> /Users/Ann/Downloads/Antox-master/app/build/intermediates/classes/androidTest/debug/chat/tox/antox/tests/R$attr.class
+/Users/Ann/Downloads/Antox-master/app/build/generated/source/r/androidTest/debug/chat/tox/antox/tests/R.java -> /Users/Ann/Downloads/Antox-master/app/build/intermediates/classes/androidTest/debug/chat/tox/antox/tests/R$string.class
+/Users/Ann/Downloads/Antox-master/app/build/generated/source/r/androidTest/debug/chat/tox/antox/tests/R.java -> /Users/Ann/Downloads/Antox-master/app/build/intermediates/classes/androidTest/debug/chat/tox/antox/tests/R.class
+/Users/Ann/Downloads/Antox-master/app/src/androidTest/scala/chat/tox/antox/tests/AntoxDBTest.scala -> /Users/Ann/Downloads/Antox-master/app/build/intermediates/classes/androidTest/debug/chat/tox/antox/tests/AntoxDBTest$$anonfun$testAddFriend$1$$anonfun$apply$1.class
+/Users/Ann/Downloads/Antox-master/app/src/androidTest/scala/chat/tox/antox/tests/AntoxDBTest.scala -> /Users/Ann/Downloads/Antox-master/app/build/intermediates/classes/androidTest/debug/chat/tox/antox/tests/AntoxDBTest$$anonfun$testAddFriend$1$$anonfun$apply$2.class
+/Users/Ann/Downloads/Antox-master/app/src/androidTest/scala/chat/tox/antox/tests/AntoxDBTest.scala -> /Users/Ann/Downloads/Antox-master/app/build/intermediates/classes/androidTest/debug/chat/tox/antox/tests/AntoxDBTest$$anonfun$testAddFriend$1$$anonfun$apply$3.class
+/Users/Ann/Downloads/Antox-master/app/src/androidTest/scala/chat/tox/antox/tests/AntoxDBTest.scala -> /Users/Ann/Downloads/Antox-master/app/build/intermediates/classes/androidTest/debug/chat/tox/antox/tests/AntoxDBTest$$anonfun$testAddFriend$1$$anonfun$apply$4.class
+/Users/Ann/Downloads/Antox-master/app/src/androidTest/scala/chat/tox/antox/tests/AntoxDBTest.scala -> /Users/Ann/Downloads/Antox-master/app/build/intermediates/classes/androidTest/debug/chat/tox/antox/tests/AntoxDBTest$$anonfun$testAddFriend$1$$anonfun$apply$5.class
+/Users/Ann/Downloads/Antox-master/app/src/androidTest/scala/chat/tox/antox/tests/AntoxDBTest.scala -> /Users/Ann/Downloads/Antox-master/app/build/intermediates/classes/androidTest/debug/chat/tox/antox/tests/AntoxDBTest$$anonfun$testAddFriend$1.class
+/Users/Ann/Downloads/Antox-master/app/src/androidTest/scala/chat/tox/antox/tests/AntoxDBTest.scala -> /Users/Ann/Downloads/Antox-master/app/build/intermediates/classes/androidTest/debug/chat/tox/antox/tests/AntoxDBTest.class
+/Users/Ann/Downloads/Antox-master/app/src/androidTest/scala/chat/tox/antox/tests/MessageHelperTest.scala -> /Users/Ann/Downloads/Antox-master/app/build/intermediates/classes/androidTest/debug/chat/tox/antox/tests/MessageHelperTest.class
+/Users/Ann/Downloads/Antox-master/app/src/androidTest/scala/chat/tox/antox/tests/ToxMeTest.scala -> /Users/Ann/Downloads/Antox-master/app/build/intermediates/classes/androidTest/debug/chat/tox/antox/tests/ToxMeTest$$anonfun$testSearch$1.class
+/Users/Ann/Downloads/Antox-master/app/src/androidTest/scala/chat/tox/antox/tests/ToxMeTest.scala -> /Users/Ann/Downloads/Antox-master/app/build/intermediates/classes/androidTest/debug/chat/tox/antox/tests/ToxMeTest.class
+binary dependencies:
+48 items
+/Users/Ann/Downloads/Antox-master/app/build/generated/source/buildConfig/androidTest/debug/chat/tox/antox/tests/BuildConfig.java -> /Library/Java/JavaVirtualMachines/jdk1.8.0_65.jdk/Contents/Home/jre/lib/rt.jar
+/Users/Ann/Downloads/Antox-master/app/build/generated/source/r/androidTest/debug/android/support/test/espresso/R.java -> /Library/Java/JavaVirtualMachines/jdk1.8.0_65.jdk/Contents/Home/jre/lib/rt.jar
+/Users/Ann/Downloads/Antox-master/app/build/generated/source/r/androidTest/debug/android/support/test/rule/R.java -> /Library/Java/JavaVirtualMachines/jdk1.8.0_65.jdk/Contents/Home/jre/lib/rt.jar
+/Users/Ann/Downloads/Antox-master/app/build/generated/source/r/androidTest/debug/chat/tox/antox/tests/R.java -> /Library/Java/JavaVirtualMachines/jdk1.8.0_65.jdk/Contents/Home/jre/lib/rt.jar
+/Users/Ann/Downloads/Antox-master/app/src/androidTest/scala/chat/tox/antox/tests/AntoxDBTest.scala -> /Library/Java/JavaVirtualMachines/jdk1.8.0_65.jdk/Contents/Home/jre/lib/rt.jar
+/Users/Ann/Downloads/Antox-master/app/src/androidTest/scala/chat/tox/antox/tests/AntoxDBTest.scala -> /Users/Ann/.gradle/caches/modules-2/files-2.1/io.reactivex/rxscala_2.11/0.25.0/2870b857a26dd70d665a227bfcfe34cd9a67f225/rxscala_2.11-0.25.0.jar
+/Users/Ann/Downloads/Antox-master/app/src/androidTest/scala/chat/tox/antox/tests/AntoxDBTest.scala -> /Users/Ann/.gradle/caches/modules-2/files-2.1/junit/junit/4.12/2973d150c0dc1fefe998f834810d68f278ea58ec/junit-4.12.jar
+/Users/Ann/Downloads/Antox-master/app/src/androidTest/scala/chat/tox/antox/tests/AntoxDBTest.scala -> /Users/Ann/.gradle/caches/modules-2/files-2.1/org.scala-lang/scala-library/2.11.7/f75e7acabd57b213d6f61483240286c07213ec0e/scala-library-2.11.7.jar
+/Users/Ann/Downloads/Antox-master/app/src/androidTest/scala/chat/tox/antox/tests/AntoxDBTest.scala -> /Users/Ann/Downloads/Antox-master/app/build/intermediates/classes/debug/chat/tox/antox/data/AntoxDB$.class
+/Users/Ann/Downloads/Antox-master/app/src/androidTest/scala/chat/tox/antox/tests/AntoxDBTest.scala -> /Users/Ann/Downloads/Antox-master/app/build/intermediates/classes/debug/chat/tox/antox/data/AntoxDB.class
+/Users/Ann/Downloads/Antox-master/app/src/androidTest/scala/chat/tox/antox/tests/AntoxDBTest.scala -> /Users/Ann/Downloads/Antox-master/app/build/intermediates/classes/debug/chat/tox/antox/wrapper/ContactInfo.class
+/Users/Ann/Downloads/Antox-master/app/src/androidTest/scala/chat/tox/antox/tests/AntoxDBTest.scala -> /Users/Ann/Downloads/Antox-master/app/build/intermediates/classes/debug/chat/tox/antox/wrapper/FriendInfo.class
+/Users/Ann/Downloads/Antox-master/app/src/androidTest/scala/chat/tox/antox/tests/AntoxDBTest.scala -> /Users/Ann/Downloads/Antox-master/app/build/intermediates/classes/debug/chat/tox/antox/wrapper/FriendKey$.class
+/Users/Ann/Downloads/Antox-master/app/src/androidTest/scala/chat/tox/antox/tests/AntoxDBTest.scala -> /Users/Ann/Downloads/Antox-master/app/build/intermediates/classes/debug/chat/tox/antox/wrapper/FriendKey.class
+/Users/Ann/Downloads/Antox-master/app/src/androidTest/scala/chat/tox/antox/tests/AntoxDBTest.scala -> /Users/Ann/Downloads/Antox-master/app/build/intermediates/classes/debug/chat/tox/antox/wrapper/Message$.class
+/Users/Ann/Downloads/Antox-master/app/src/androidTest/scala/chat/tox/antox/tests/AntoxDBTest.scala -> /Users/Ann/Downloads/Antox-master/app/build/intermediates/classes/debug/chat/tox/antox/wrapper/Message.class
+/Users/Ann/Downloads/Antox-master/app/src/androidTest/scala/chat/tox/antox/tests/AntoxDBTest.scala -> /Users/Ann/Downloads/Antox-master/app/build/intermediates/classes/debug/chat/tox/antox/wrapper/SelfKey$.class
+/Users/Ann/Downloads/Antox-master/app/src/androidTest/scala/chat/tox/antox/tests/AntoxDBTest.scala -> /Users/Ann/Downloads/Antox-master/app/build/intermediates/classes/debug/chat/tox/antox/wrapper/SelfKey.class
+/Users/Ann/Downloads/Antox-master/app/src/androidTest/scala/chat/tox/antox/tests/AntoxDBTest.scala -> /Users/Ann/Downloads/Antox-master/app/build/intermediates/classes/debug/chat/tox/antox/wrapper/ToxKey$.class
+/Users/Ann/Downloads/Antox-master/app/src/androidTest/scala/chat/tox/antox/tests/AntoxDBTest.scala -> /Users/Ann/Downloads/Antox-master/app/build/intermediates/classes/debug/chat/tox/antox/wrapper/ToxKey.class
+/Users/Ann/Downloads/Antox-master/app/src/androidTest/scala/chat/tox/antox/tests/AntoxDBTest.scala -> /Users/Ann/Downloads/Antox-master/app/build/intermediates/exploded-aar/com.android.support.test/runner/0.4.1/jars/classes.jar
+/Users/Ann/Downloads/Antox-master/app/src/androidTest/scala/chat/tox/antox/tests/AntoxDBTest.scala -> /Users/Ann/Downloads/Antox-master/app/libs/tox4j_2.11.jar
+/Users/Ann/Downloads/Antox-master/app/src/androidTest/scala/chat/tox/antox/tests/AntoxDBTest.scala -> /Users/Ann/Library/Android/sdk/platforms/android-23/android.jar
+/Users/Ann/Downloads/Antox-master/app/src/androidTest/scala/chat/tox/antox/tests/MessageHelperTest.scala -> /Library/Java/JavaVirtualMachines/jdk1.8.0_65.jdk/Contents/Home/jre/lib/rt.jar
+/Users/Ann/Downloads/Antox-master/app/src/androidTest/scala/chat/tox/antox/tests/MessageHelperTest.scala -> /Users/Ann/.gradle/caches/modules-2/files-2.1/junit/junit/4.12/2973d150c0dc1fefe998f834810d68f278ea58ec/junit-4.12.jar
+/Users/Ann/Downloads/Antox-master/app/src/androidTest/scala/chat/tox/antox/tests/MessageHelperTest.scala -> /Users/Ann/.gradle/caches/modules-2/files-2.1/org.scala-lang/scala-library/2.11.7/f75e7acabd57b213d6f61483240286c07213ec0e/scala-library-2.11.7.jar
+/Users/Ann/Downloads/Antox-master/app/src/androidTest/scala/chat/tox/antox/tests/MessageHelperTest.scala -> /Users/Ann/Downloads/Antox-master/app/build/intermediates/classes/debug/chat/tox/antox/tox/MessageHelper$.class
+/Users/Ann/Downloads/Antox-master/app/src/androidTest/scala/chat/tox/antox/tests/MessageHelperTest.scala -> /Users/Ann/Downloads/Antox-master/app/build/intermediates/classes/debug/chat/tox/antox/tox/MessageHelper.class
+/Users/Ann/Downloads/Antox-master/app/src/androidTest/scala/chat/tox/antox/tests/MessageHelperTest.scala -> /Users/Ann/Downloads/Antox-master/app/build/intermediates/exploded-aar/com.android.support.test/runner/0.4.1/jars/classes.jar
+/Users/Ann/Downloads/Antox-master/app/src/androidTest/scala/chat/tox/antox/tests/MessageHelperTest.scala -> /Users/Ann/Library/Android/sdk/platforms/android-23/android.jar
+/Users/Ann/Downloads/Antox-master/app/src/androidTest/scala/chat/tox/antox/tests/ToxMeTest.scala -> /Library/Java/JavaVirtualMachines/jdk1.8.0_65.jdk/Contents/Home/jre/lib/rt.jar
+/Users/Ann/Downloads/Antox-master/app/src/androidTest/scala/chat/tox/antox/tests/ToxMeTest.scala -> /Users/Ann/.gradle/caches/modules-2/files-2.1/io.reactivex/rxscala_2.11/0.25.0/2870b857a26dd70d665a227bfcfe34cd9a67f225/rxscala_2.11-0.25.0.jar
+/Users/Ann/Downloads/Antox-master/app/src/androidTest/scala/chat/tox/antox/tests/ToxMeTest.scala -> /Users/Ann/.gradle/caches/modules-2/files-2.1/junit/junit/4.12/2973d150c0dc1fefe998f834810d68f278ea58ec/junit-4.12.jar
+/Users/Ann/Downloads/Antox-master/app/src/androidTest/scala/chat/tox/antox/tests/ToxMeTest.scala -> /Users/Ann/.gradle/caches/modules-2/files-2.1/org.scala-lang/scala-library/2.11.7/f75e7acabd57b213d6f61483240286c07213ec0e/scala-library-2.11.7.jar
+/Users/Ann/Downloads/Antox-master/app/src/androidTest/scala/chat/tox/antox/tests/ToxMeTest.scala -> /Users/Ann/Downloads/Antox-master/app/build/intermediates/classes/debug/chat/tox/antox/toxme/ToxData.class
+/Users/Ann/Downloads/Antox-master/app/src/androidTest/scala/chat/tox/antox/tests/ToxMeTest.scala -> /Users/Ann/Downloads/Antox-master/app/build/intermediates/classes/debug/chat/tox/antox/toxme/ToxMe$.class
+/Users/Ann/Downloads/Antox-master/app/src/androidTest/scala/chat/tox/antox/tests/ToxMeTest.scala -> /Users/Ann/Downloads/Antox-master/app/build/intermediates/classes/debug/chat/tox/antox/toxme/ToxMe.class
+/Users/Ann/Downloads/Antox-master/app/src/androidTest/scala/chat/tox/antox/tests/ToxMeTest.scala -> /Users/Ann/Downloads/Antox-master/app/build/intermediates/classes/debug/chat/tox/antox/toxme/ToxMeError$.class
+/Users/Ann/Downloads/Antox-master/app/src/androidTest/scala/chat/tox/antox/tests/ToxMeTest.scala -> /Users/Ann/Downloads/Antox-master/app/build/intermediates/classes/debug/chat/tox/antox/toxme/ToxMeError.class
+/Users/Ann/Downloads/Antox-master/app/src/androidTest/scala/chat/tox/antox/tests/ToxMeTest.scala -> /Users/Ann/Downloads/Antox-master/app/build/intermediates/classes/debug/chat/tox/antox/toxme/ToxMeName$.class
+/Users/Ann/Downloads/Antox-master/app/src/androidTest/scala/chat/tox/antox/tests/ToxMeTest.scala -> /Users/Ann/Downloads/Antox-master/app/build/intermediates/classes/debug/chat/tox/antox/toxme/ToxMeName.class
+/Users/Ann/Downloads/Antox-master/app/src/androidTest/scala/chat/tox/antox/tests/ToxMeTest.scala -> /Users/Ann/Downloads/Antox-master/app/build/intermediates/classes/debug/chat/tox/antox/utils/Options$.class
+/Users/Ann/Downloads/Antox-master/app/src/androidTest/scala/chat/tox/antox/tests/ToxMeTest.scala -> /Users/Ann/Downloads/Antox-master/app/build/intermediates/classes/debug/chat/tox/antox/utils/Options.class
+/Users/Ann/Downloads/Antox-master/app/src/androidTest/scala/chat/tox/antox/tests/ToxMeTest.scala -> /Users/Ann/Downloads/Antox-master/app/build/intermediates/classes/debug/chat/tox/antox/wrapper/ToxAddress$.class
+/Users/Ann/Downloads/Antox-master/app/src/androidTest/scala/chat/tox/antox/tests/ToxMeTest.scala -> /Users/Ann/Downloads/Antox-master/app/build/intermediates/classes/debug/chat/tox/antox/wrapper/ToxAddress.class
+/Users/Ann/Downloads/Antox-master/app/src/androidTest/scala/chat/tox/antox/tests/ToxMeTest.scala -> /Users/Ann/Downloads/Antox-master/app/build/intermediates/exploded-aar/com.android.support.test/runner/0.4.1/jars/classes.jar
+/Users/Ann/Downloads/Antox-master/app/src/androidTest/scala/chat/tox/antox/tests/ToxMeTest.scala -> /Users/Ann/Downloads/Antox-master/app/libs/tox4j_2.11.jar
+/Users/Ann/Downloads/Antox-master/app/src/androidTest/scala/chat/tox/antox/tests/ToxMeTest.scala -> /Users/Ann/Library/Android/sdk/platforms/android-23/android.jar
+direct source dependencies:
+0 items
+direct external dependencies:
+0 items
+public inherited source dependencies:
+0 items
+public inherited external dependencies:
+0 items
+member reference internal dependencies:
+4 items
+/Users/Ann/Downloads/Antox-master/app/build/generated/source/buildConfig/androidTest/debug/chat/tox/antox/tests/BuildConfig.java -> /Users/Ann/Downloads/Antox-master/app/build/generated/source/buildConfig/androidTest/debug/chat/tox/antox/tests/BuildConfig.java
+/Users/Ann/Downloads/Antox-master/app/build/generated/source/r/androidTest/debug/android/support/test/espresso/R.java -> /Users/Ann/Downloads/Antox-master/app/build/generated/source/r/androidTest/debug/android/support/test/espresso/R.java
+/Users/Ann/Downloads/Antox-master/app/build/generated/source/r/androidTest/debug/android/support/test/rule/R.java -> /Users/Ann/Downloads/Antox-master/app/build/generated/source/r/androidTest/debug/android/support/test/rule/R.java
+/Users/Ann/Downloads/Antox-master/app/build/generated/source/r/androidTest/debug/chat/tox/antox/tests/R.java -> /Users/Ann/Downloads/Antox-master/app/build/generated/source/r/androidTest/debug/chat/tox/antox/tests/R.java
+member reference external dependencies:
+0 items
+inheritance internal dependencies:
+0 items
+inheritance external dependencies:
+0 items
+class names:
+18 items
+/Users/Ann/Downloads/Antox-master/app/build/generated/source/buildConfig/androidTest/debug/chat/tox/antox/tests/BuildConfig.java -> chat.tox.antox.tests.BuildConfig
+/Users/Ann/Downloads/Antox-master/app/build/generated/source/r/androidTest/debug/android/support/test/espresso/R.java -> android.support.test.espresso.R
+/Users/Ann/Downloads/Antox-master/app/build/generated/source/r/androidTest/debug/android/support/test/espresso/R.java -> android.support.test.espresso.R$string
+/Users/Ann/Downloads/Antox-master/app/build/generated/source/r/androidTest/debug/android/support/test/rule/R.java -> android.support.test.rule.R
+/Users/Ann/Downloads/Antox-master/app/build/generated/source/r/androidTest/debug/android/support/test/rule/R.java -> android.support.test.rule.R$string
+/Users/Ann/Downloads/Antox-master/app/build/generated/source/r/androidTest/debug/chat/tox/antox/tests/R.java -> chat.tox.antox.tests.R
+/Users/Ann/Downloads/Antox-master/app/build/generated/source/r/androidTest/debug/chat/tox/antox/tests/R.java -> chat.tox.antox.tests.R$attr
+/Users/Ann/Downloads/Antox-master/app/build/generated/source/r/androidTest/debug/chat/tox/antox/tests/R.java -> chat.tox.antox.tests.R$string
+/Users/Ann/Downloads/Antox-master/app/src/androidTest/scala/chat/tox/antox/tests/AntoxDBTest.scala -> chat.tox.antox.tests.AntoxDBTest
+/Users/Ann/Downloads/Antox-master/app/src/androidTest/scala/chat/tox/antox/tests/AntoxDBTest.scala -> chat.tox.antox.tests.AntoxDBTest$$anonfun$testAddFriend$1
+/Users/Ann/Downloads/Antox-master/app/src/androidTest/scala/chat/tox/antox/tests/AntoxDBTest.scala -> chat.tox.antox.tests.AntoxDBTest$$anonfun$testAddFriend$1$$anonfun$apply$1
+/Users/Ann/Downloads/Antox-master/app/src/androidTest/scala/chat/tox/antox/tests/AntoxDBTest.scala -> chat.tox.antox.tests.AntoxDBTest$$anonfun$testAddFriend$1$$anonfun$apply$2
+/Users/Ann/Downloads/Antox-master/app/src/androidTest/scala/chat/tox/antox/tests/AntoxDBTest.scala -> chat.tox.antox.tests.AntoxDBTest$$anonfun$testAddFriend$1$$anonfun$apply$3
+/Users/Ann/Downloads/Antox-master/app/src/androidTest/scala/chat/tox/antox/tests/AntoxDBTest.scala -> chat.tox.antox.tests.AntoxDBTest$$anonfun$testAddFriend$1$$anonfun$apply$4
+/Users/Ann/Downloads/Antox-master/app/src/androidTest/scala/chat/tox/antox/tests/AntoxDBTest.scala -> chat.tox.antox.tests.AntoxDBTest$$anonfun$testAddFriend$1$$anonfun$apply$5
+/Users/Ann/Downloads/Antox-master/app/src/androidTest/scala/chat/tox/antox/tests/MessageHelperTest.scala -> chat.tox.antox.tests.MessageHelperTest
+/Users/Ann/Downloads/Antox-master/app/src/androidTest/scala/chat/tox/antox/tests/ToxMeTest.scala -> chat.tox.antox.tests.ToxMeTest
+/Users/Ann/Downloads/Antox-master/app/src/androidTest/scala/chat/tox/antox/tests/ToxMeTest.scala -> chat.tox.antox.tests.ToxMeTest$$anonfun$testSearch$1
+used names:
+213 items
+/Users/Ann/Downloads/Antox-master/app/src/androidTest/scala/chat/tox/antox/tests/AntoxDBTest.scala -> <init>
+/Users/Ann/Downloads/Antox-master/app/src/androidTest/scala/chat/tox/antox/tests/AntoxDBTest.scala -> ==
+/Users/Ann/Downloads/Antox-master/app/src/androidTest/scala/chat/tox/antox/tests/AntoxDBTest.scala -> After
+/Users/Ann/Downloads/Antox-master/app/src/androidTest/scala/chat/tox/antox/tests/AntoxDBTest.scala -> AndroidJUnit4
+/Users/Ann/Downloads/Antox-master/app/src/androidTest/scala/chat/tox/antox/tests/AntoxDBTest.scala -> AndroidTestCase
+/Users/Ann/Downloads/Antox-master/app/src/androidTest/scala/chat/tox/antox/tests/AntoxDBTest.scala -> AntoxDB
+/Users/Ann/Downloads/Antox-master/app/src/androidTest/scala/chat/tox/antox/tests/AntoxDBTest.scala -> AntoxDBTest
+/Users/Ann/Downloads/Antox-master/app/src/androidTest/scala/chat/tox/antox/tests/AntoxDBTest.scala -> ArrayBuffer
+/Users/Ann/Downloads/Antox-master/app/src/androidTest/scala/chat/tox/antox/tests/AntoxDBTest.scala -> Assert
+/Users/Ann/Downloads/Antox-master/app/src/androidTest/scala/chat/tox/antox/tests/AntoxDBTest.scala -> Before
+/Users/Ann/Downloads/Antox-master/app/src/androidTest/scala/chat/tox/antox/tests/AntoxDBTest.scala -> FriendKey
+/Users/Ann/Downloads/Antox-master/app/src/androidTest/scala/chat/tox/antox/tests/AntoxDBTest.scala -> Message
+/Users/Ann/Downloads/Antox-master/app/src/androidTest/scala/chat/tox/antox/tests/AntoxDBTest.scala -> None
+/Users/Ann/Downloads/Antox-master/app/src/androidTest/scala/chat/tox/antox/tests/AntoxDBTest.scala -> Predef
+/Users/Ann/Downloads/Antox-master/app/src/androidTest/scala/chat/tox/antox/tests/AntoxDBTest.scala -> PreferenceManager
+/Users/Ann/Downloads/Antox-master/app/src/androidTest/scala/chat/tox/antox/tests/AntoxDBTest.scala -> RenamingDelegatingContext
+/Users/Ann/Downloads/Antox-master/app/src/androidTest/scala/chat/tox/antox/tests/AntoxDBTest.scala -> RunWith
+/Users/Ann/Downloads/Antox-master/app/src/androidTest/scala/chat/tox/antox/tests/AntoxDBTest.scala -> SelfKey
+/Users/Ann/Downloads/Antox-master/app/src/androidTest/scala/chat/tox/antox/tests/AntoxDBTest.scala -> String
+/Users/Ann/Downloads/Antox-master/app/src/androidTest/scala/chat/tox/antox/tests/AntoxDBTest.scala -> Test
+/Users/Ann/Downloads/Antox-master/app/src/androidTest/scala/chat/tox/antox/tests/AntoxDBTest.scala -> ToxKey
+/Users/Ann/Downloads/Antox-master/app/src/androidTest/scala/chat/tox/antox/tests/AntoxDBTest.scala -> ToxMessageType
+/Users/Ann/Downloads/Antox-master/app/src/androidTest/scala/chat/tox/antox/tests/AntoxDBTest.scala -> ToxNickname
+/Users/Ann/Downloads/Antox-master/app/src/androidTest/scala/chat/tox/antox/tests/AntoxDBTest.scala -> Unit
+/Users/Ann/Downloads/Antox-master/app/src/androidTest/scala/chat/tox/antox/tests/AntoxDBTest.scala -> addFriend
+/Users/Ann/Downloads/Antox-master/app/src/androidTest/scala/chat/tox/antox/tests/AntoxDBTest.scala -> addMessage
+/Users/Ann/Downloads/Antox-master/app/src/androidTest/scala/chat/tox/antox/tests/AntoxDBTest.scala -> alias
+/Users/Ann/Downloads/Antox-master/app/src/androidTest/scala/chat/tox/antox/tests/AntoxDBTest.scala -> android
+/Users/Ann/Downloads/Antox-master/app/src/androidTest/scala/chat/tox/antox/tests/AntoxDBTest.scala -> antox
+/Users/Ann/Downloads/Antox-master/app/src/androidTest/scala/chat/tox/antox/tests/AntoxDBTest.scala -> apply
+/Users/Ann/Downloads/Antox-master/app/src/androidTest/scala/chat/tox/antox/tests/AntoxDBTest.scala -> assert
+/Users/Ann/Downloads/Antox-master/app/src/androidTest/scala/chat/tox/antox/tests/AntoxDBTest.scala -> assertEquals
+/Users/Ann/Downloads/Antox-master/app/src/androidTest/scala/chat/tox/antox/tests/AntoxDBTest.scala -> chat
+/Users/Ann/Downloads/Antox-master/app/src/androidTest/scala/chat/tox/antox/tests/AntoxDBTest.scala -> collection
+/Users/Ann/Downloads/Antox-master/app/src/androidTest/scala/chat/tox/antox/tests/AntoxDBTest.scala -> context
+/Users/Ann/Downloads/Antox-master/app/src/androidTest/scala/chat/tox/antox/tests/AntoxDBTest.scala -> core
+/Users/Ann/Downloads/Antox-master/app/src/androidTest/scala/chat/tox/antox/tests/AntoxDBTest.scala -> data
+/Users/Ann/Downloads/Antox-master/app/src/androidTest/scala/chat/tox/antox/tests/AntoxDBTest.scala -> db
+/Users/Ann/Downloads/Antox-master/app/src/androidTest/scala/chat/tox/antox/tests/AntoxDBTest.scala -> db_=
+/Users/Ann/Downloads/Antox-master/app/src/androidTest/scala/chat/tox/antox/tests/AntoxDBTest.scala -> enums
+/Users/Ann/Downloads/Antox-master/app/src/androidTest/scala/chat/tox/antox/tests/AntoxDBTest.scala -> equals
+/Users/Ann/Downloads/Antox-master/app/src/androidTest/scala/chat/tox/antox/tests/AntoxDBTest.scala -> exists
+/Users/Ann/Downloads/Antox-master/app/src/androidTest/scala/chat/tox/antox/tests/AntoxDBTest.scala -> first
+/Users/Ann/Downloads/Antox-master/app/src/androidTest/scala/chat/tox/antox/tests/AntoxDBTest.scala -> friendInfoList
+/Users/Ann/Downloads/Antox-master/app/src/androidTest/scala/chat/tox/antox/tests/AntoxDBTest.scala -> friendKey
+/Users/Ann/Downloads/Antox-master/app/src/androidTest/scala/chat/tox/antox/tests/AntoxDBTest.scala -> friendList
+/Users/Ann/Downloads/Antox-master/app/src/androidTest/scala/chat/tox/antox/tests/AntoxDBTest.scala -> from
+/Users/Ann/Downloads/Antox-master/app/src/androidTest/scala/chat/tox/antox/tests/AntoxDBTest.scala -> get
+/Users/Ann/Downloads/Antox-master/app/src/androidTest/scala/chat/tox/antox/tests/AntoxDBTest.scala -> getBytes
+/Users/Ann/Downloads/Antox-master/app/src/androidTest/scala/chat/tox/antox/tests/AntoxDBTest.scala -> getContext
+/Users/Ann/Downloads/Antox-master/app/src/androidTest/scala/chat/tox/antox/tests/AntoxDBTest.scala -> getDefaultSharedPreferences
+/Users/Ann/Downloads/Antox-master/app/src/androidTest/scala/chat/tox/antox/tests/AntoxDBTest.scala -> getDisplayName
+/Users/Ann/Downloads/Antox-master/app/src/androidTest/scala/chat/tox/antox/tests/AntoxDBTest.scala -> im
+/Users/Ann/Downloads/Antox-master/app/src/androidTest/scala/chat/tox/antox/tests/AntoxDBTest.scala -> junit
+/Users/Ann/Downloads/Antox-master/app/src/androidTest/scala/chat/tox/antox/tests/AntoxDBTest.scala -> key
+/Users/Ann/Downloads/Antox-master/app/src/androidTest/scala/chat/tox/antox/tests/AntoxDBTest.scala -> lastFriendMessage
+/Users/Ann/Downloads/Antox-master/app/src/androidTest/scala/chat/tox/antox/tests/AntoxDBTest.scala -> lastMessages
+/Users/Ann/Downloads/Antox-master/app/src/androidTest/scala/chat/tox/antox/tests/AntoxDBTest.scala -> lastSelfMessage
+/Users/Ann/Downloads/Antox-master/app/src/androidTest/scala/chat/tox/antox/tests/AntoxDBTest.scala -> message
+/Users/Ann/Downloads/Antox-master/app/src/androidTest/scala/chat/tox/antox/tests/AntoxDBTest.scala -> mutable
+/Users/Ann/Downloads/Antox-master/app/src/androidTest/scala/chat/tox/antox/tests/AntoxDBTest.scala -> name
+/Users/Ann/Downloads/Antox-master/app/src/androidTest/scala/chat/tox/antox/tests/AntoxDBTest.scala -> org
+/Users/Ann/Downloads/Antox-master/app/src/androidTest/scala/chat/tox/antox/tests/AntoxDBTest.scala -> preference
+/Users/Ann/Downloads/Antox-master/app/src/androidTest/scala/chat/tox/antox/tests/AntoxDBTest.scala -> qual$1
+/Users/Ann/Downloads/Antox-master/app/src/androidTest/scala/chat/tox/antox/tests/AntoxDBTest.scala -> runner
+/Users/Ann/Downloads/Antox-master/app/src/androidTest/scala/chat/tox/antox/tests/AntoxDBTest.scala -> scala
+/Users/Ann/Downloads/Antox-master/app/src/androidTest/scala/chat/tox/antox/tests/AntoxDBTest.scala -> selfKey
+/Users/Ann/Downloads/Antox-master/app/src/androidTest/scala/chat/tox/antox/tests/AntoxDBTest.scala -> setUp
+/Users/Ann/Downloads/Antox-master/app/src/androidTest/scala/chat/tox/antox/tests/AntoxDBTest.scala -> size
+/Users/Ann/Downloads/Antox-master/app/src/androidTest/scala/chat/tox/antox/tests/AntoxDBTest.scala -> statusMessage
+/Users/Ann/Downloads/Antox-master/app/src/androidTest/scala/chat/tox/antox/tests/AntoxDBTest.scala -> subscribe
+/Users/Ann/Downloads/Antox-master/app/src/androidTest/scala/chat/tox/antox/tests/AntoxDBTest.scala -> support
+/Users/Ann/Downloads/Antox-master/app/src/androidTest/scala/chat/tox/antox/tests/AntoxDBTest.scala -> tearDown
+/Users/Ann/Downloads/Antox-master/app/src/androidTest/scala/chat/tox/antox/tests/AntoxDBTest.scala -> test
+/Users/Ann/Downloads/Antox-master/app/src/androidTest/scala/chat/tox/antox/tests/AntoxDBTest.scala -> tests
+/Users/Ann/Downloads/Antox-master/app/src/androidTest/scala/chat/tox/antox/tests/AntoxDBTest.scala -> text
+/Users/Ann/Downloads/Antox-master/app/src/androidTest/scala/chat/tox/antox/tests/AntoxDBTest.scala -> tmp
+/Users/Ann/Downloads/Antox-master/app/src/androidTest/scala/chat/tox/antox/tests/AntoxDBTest.scala -> toBlocking
+/Users/Ann/Downloads/Antox-master/app/src/androidTest/scala/chat/tox/antox/tests/AntoxDBTest.scala -> tox
+/Users/Ann/Downloads/Antox-master/app/src/androidTest/scala/chat/tox/antox/tests/AntoxDBTest.scala -> tox4j
+/Users/Ann/Downloads/Antox-master/app/src/androidTest/scala/chat/tox/antox/tests/AntoxDBTest.scala -> unreadMsgList
+/Users/Ann/Downloads/Antox-master/app/src/androidTest/scala/chat/tox/antox/tests/AntoxDBTest.scala -> unsafeFromValue
+/Users/Ann/Downloads/Antox-master/app/src/androidTest/scala/chat/tox/antox/tests/AntoxDBTest.scala -> value
+/Users/Ann/Downloads/Antox-master/app/src/androidTest/scala/chat/tox/antox/tests/AntoxDBTest.scala -> wrapper
+/Users/Ann/Downloads/Antox-master/app/src/androidTest/scala/chat/tox/antox/tests/AntoxDBTest.scala -> x$10
+/Users/Ann/Downloads/Antox-master/app/src/androidTest/scala/chat/tox/antox/tests/AntoxDBTest.scala -> x$11
+/Users/Ann/Downloads/Antox-master/app/src/androidTest/scala/chat/tox/antox/tests/AntoxDBTest.scala -> x$12
+/Users/Ann/Downloads/Antox-master/app/src/androidTest/scala/chat/tox/antox/tests/AntoxDBTest.scala -> x$13
+/Users/Ann/Downloads/Antox-master/app/src/androidTest/scala/chat/tox/antox/tests/AntoxDBTest.scala -> x$14
+/Users/Ann/Downloads/Antox-master/app/src/androidTest/scala/chat/tox/antox/tests/AntoxDBTest.scala -> x$6
+/Users/Ann/Downloads/Antox-master/app/src/androidTest/scala/chat/tox/antox/tests/AntoxDBTest.scala -> x$7
+/Users/Ann/Downloads/Antox-master/app/src/androidTest/scala/chat/tox/antox/tests/AntoxDBTest.scala -> x$8
+/Users/Ann/Downloads/Antox-master/app/src/androidTest/scala/chat/tox/antox/tests/AntoxDBTest.scala -> x$9
+/Users/Ann/Downloads/Antox-master/app/src/androidTest/scala/chat/tox/antox/tests/MessageHelperTest.scala -> *
+/Users/Ann/Downloads/Antox-master/app/src/androidTest/scala/chat/tox/antox/tests/MessageHelperTest.scala -> <init>
+/Users/Ann/Downloads/Antox-master/app/src/androidTest/scala/chat/tox/antox/tests/MessageHelperTest.scala -> AndroidJUnit4
+/Users/Ann/Downloads/Antox-master/app/src/androidTest/scala/chat/tox/antox/tests/MessageHelperTest.scala -> AndroidTestCase
+/Users/Ann/Downloads/Antox-master/app/src/androidTest/scala/chat/tox/antox/tests/MessageHelperTest.scala -> MessageHelper
+/Users/Ann/Downloads/Antox-master/app/src/androidTest/scala/chat/tox/antox/tests/MessageHelperTest.scala -> MessageHelperTest
+/Users/Ann/Downloads/Antox-master/app/src/androidTest/scala/chat/tox/antox/tests/MessageHelperTest.scala -> Predef
+/Users/Ann/Downloads/Antox-master/app/src/androidTest/scala/chat/tox/antox/tests/MessageHelperTest.scala -> RunWith
+/Users/Ann/Downloads/Antox-master/app/src/androidTest/scala/chat/tox/antox/tests/MessageHelperTest.scala -> Unit
+/Users/Ann/Downloads/Antox-master/app/src/androidTest/scala/chat/tox/antox/tests/MessageHelperTest.scala -> android
+/Users/Ann/Downloads/Antox-master/app/src/androidTest/scala/chat/tox/antox/tests/MessageHelperTest.scala -> antox
+/Users/Ann/Downloads/Antox-master/app/src/androidTest/scala/chat/tox/antox/tests/MessageHelperTest.scala -> augmentString
+/Users/Ann/Downloads/Antox-master/app/src/androidTest/scala/chat/tox/antox/tests/MessageHelperTest.scala -> chat
+/Users/Ann/Downloads/Antox-master/app/src/androidTest/scala/chat/tox/antox/tests/MessageHelperTest.scala -> junit
+/Users/Ann/Downloads/Antox-master/app/src/androidTest/scala/chat/tox/antox/tests/MessageHelperTest.scala -> org
+/Users/Ann/Downloads/Antox-master/app/src/androidTest/scala/chat/tox/antox/tests/MessageHelperTest.scala -> println
+/Users/Ann/Downloads/Antox-master/app/src/androidTest/scala/chat/tox/antox/tests/MessageHelperTest.scala -> result
+/Users/Ann/Downloads/Antox-master/app/src/androidTest/scala/chat/tox/antox/tests/MessageHelperTest.scala -> runner
+/Users/Ann/Downloads/Antox-master/app/src/androidTest/scala/chat/tox/antox/tests/MessageHelperTest.scala -> scala
+/Users/Ann/Downloads/Antox-master/app/src/androidTest/scala/chat/tox/antox/tests/MessageHelperTest.scala -> splitMessage
+/Users/Ann/Downloads/Antox-master/app/src/androidTest/scala/chat/tox/antox/tests/MessageHelperTest.scala -> support
+/Users/Ann/Downloads/Antox-master/app/src/androidTest/scala/chat/tox/antox/tests/MessageHelperTest.scala -> test
+/Users/Ann/Downloads/Antox-master/app/src/androidTest/scala/chat/tox/antox/tests/MessageHelperTest.scala -> tests
+/Users/Ann/Downloads/Antox-master/app/src/androidTest/scala/chat/tox/antox/tests/MessageHelperTest.scala -> tox
+/Users/Ann/Downloads/Antox-master/app/src/androidTest/scala/chat/tox/antox/tests/ToxMeTest.scala -> +
+/Users/Ann/Downloads/Antox-master/app/src/androidTest/scala/chat/tox/antox/tests/ToxMeTest.scala -> <init>
+/Users/Ann/Downloads/Antox-master/app/src/androidTest/scala/chat/tox/antox/tests/ToxMeTest.scala -> ==
+/Users/Ann/Downloads/Antox-master/app/src/androidTest/scala/chat/tox/antox/tests/ToxMeTest.scala -> AndroidJUnit4
+/Users/Ann/Downloads/Antox-master/app/src/androidTest/scala/chat/tox/antox/tests/ToxMeTest.scala -> AndroidTestCase
+/Users/Ann/Downloads/Antox-master/app/src/androidTest/scala/chat/tox/antox/tests/ToxMeTest.scala -> Assert
+/Users/Ann/Downloads/Antox-master/app/src/androidTest/scala/chat/tox/antox/tests/ToxMeTest.scala -> DEFAULT_TOXME_DOMAIN
+/Users/Ann/Downloads/Antox-master/app/src/androidTest/scala/chat/tox/antox/tests/ToxMeTest.scala -> None
+/Users/Ann/Downloads/Antox-master/app/src/androidTest/scala/chat/tox/antox/tests/ToxMeTest.scala -> Options
+/Users/Ann/Downloads/Antox-master/app/src/androidTest/scala/chat/tox/antox/tests/ToxMeTest.scala -> PRIVATE
+/Users/Ann/Downloads/Antox-master/app/src/androidTest/scala/chat/tox/antox/tests/ToxMeTest.scala -> Predef
+/Users/Ann/Downloads/Antox-master/app/src/androidTest/scala/chat/tox/antox/tests/ToxMeTest.scala -> PrivacyLevel
+/Users/Ann/Downloads/Antox-master/app/src/androidTest/scala/chat/tox/antox/tests/ToxMeTest.scala -> Random
+/Users/Ann/Downloads/Antox-master/app/src/androidTest/scala/chat/tox/antox/tests/ToxMeTest.scala -> RunWith
+/Users/Ann/Downloads/Antox-master/app/src/androidTest/scala/chat/tox/antox/tests/ToxMeTest.scala -> String
+/Users/Ann/Downloads/Antox-master/app/src/androidTest/scala/chat/tox/antox/tests/ToxMeTest.scala -> Test
+/Users/Ann/Downloads/Antox-master/app/src/androidTest/scala/chat/tox/antox/tests/ToxMeTest.scala -> ToxAddress
+/Users/Ann/Downloads/Antox-master/app/src/androidTest/scala/chat/tox/antox/tests/ToxMeTest.scala -> ToxCoreImpl
+/Users/Ann/Downloads/Antox-master/app/src/androidTest/scala/chat/tox/antox/tests/ToxMeTest.scala -> ToxData
+/Users/Ann/Downloads/Antox-master/app/src/androidTest/scala/chat/tox/antox/tests/ToxMeTest.scala -> ToxMe
+/Users/Ann/Downloads/Antox-master/app/src/androidTest/scala/chat/tox/antox/tests/ToxMeTest.scala -> ToxMeError
+/Users/Ann/Downloads/Antox-master/app/src/androidTest/scala/chat/tox/antox/tests/ToxMeTest.scala -> ToxMeName
+/Users/Ann/Downloads/Antox-master/app/src/androidTest/scala/chat/tox/antox/tests/ToxMeTest.scala -> ToxMeResult
+/Users/Ann/Downloads/Antox-master/app/src/androidTest/scala/chat/tox/antox/tests/ToxMeTest.scala -> ToxMeTest
+/Users/Ann/Downloads/Antox-master/app/src/androidTest/scala/chat/tox/antox/tests/ToxMeTest.scala -> ToxOptions
+/Users/Ann/Downloads/Antox-master/app/src/androidTest/scala/chat/tox/antox/tests/ToxMeTest.scala -> Unit
+/Users/Ann/Downloads/Antox-master/app/src/androidTest/scala/chat/tox/antox/tests/ToxMeTest.scala -> a
+/Users/Ann/Downloads/Antox-master/app/src/androidTest/scala/chat/tox/antox/tests/ToxMeTest.scala -> address_=
+/Users/Ann/Downloads/Antox-master/app/src/androidTest/scala/chat/tox/antox/tests/ToxMeTest.scala -> alphanumeric
+/Users/Ann/Downloads/Antox-master/app/src/androidTest/scala/chat/tox/antox/tests/ToxMeTest.scala -> android
+/Users/Ann/Downloads/Antox-master/app/src/androidTest/scala/chat/tox/antox/tests/ToxMeTest.scala -> antox
+/Users/Ann/Downloads/Antox-master/app/src/androidTest/scala/chat/tox/antox/tests/ToxMeTest.scala -> asInstanceOf
+/Users/Ann/Downloads/Antox-master/app/src/androidTest/scala/chat/tox/antox/tests/ToxMeTest.scala -> assertEquals
+/Users/Ann/Downloads/Antox-master/app/src/androidTest/scala/chat/tox/antox/tests/ToxMeTest.scala -> assertTrue
+/Users/Ann/Downloads/Antox-master/app/src/androidTest/scala/chat/tox/antox/tests/ToxMeTest.scala -> augmentString
+/Users/Ann/Downloads/Antox-master/app/src/androidTest/scala/chat/tox/antox/tests/ToxMeTest.scala -> b
+/Users/Ann/Downloads/Antox-master/app/src/androidTest/scala/chat/tox/antox/tests/ToxMeTest.scala -> chat
+/Users/Ann/Downloads/Antox-master/app/src/androidTest/scala/chat/tox/antox/tests/ToxMeTest.scala -> core
+/Users/Ann/Downloads/Antox-master/app/src/androidTest/scala/chat/tox/antox/tests/ToxMeTest.scala -> createToxData
+/Users/Ann/Downloads/Antox-master/app/src/androidTest/scala/chat/tox/antox/tests/ToxMeTest.scala -> data
+/Users/Ann/Downloads/Antox-master/app/src/androidTest/scala/chat/tox/antox/tests/ToxMeTest.scala -> deleteAccount
+/Users/Ann/Downloads/Antox-master/app/src/androidTest/scala/chat/tox/antox/tests/ToxMeTest.scala -> error
+/Users/Ann/Downloads/Antox-master/app/src/androidTest/scala/chat/tox/antox/tests/ToxMeTest.scala -> exists
+/Users/Ann/Downloads/Antox-master/app/src/androidTest/scala/chat/tox/antox/tests/ToxMeTest.scala -> fail
+/Users/Ann/Downloads/Antox-master/app/src/androidTest/scala/chat/tox/antox/tests/ToxMeTest.scala -> fileBytes_=
+/Users/Ann/Downloads/Antox-master/app/src/androidTest/scala/chat/tox/antox/tests/ToxMeTest.scala -> first
+/Users/Ann/Downloads/Antox-master/app/src/androidTest/scala/chat/tox/antox/tests/ToxMeTest.scala -> fromString
+/Users/Ann/Downloads/Antox-master/app/src/androidTest/scala/chat/tox/antox/tests/ToxMeTest.scala -> genRandomToxMeName
+/Users/Ann/Downloads/Antox-master/app/src/androidTest/scala/chat/tox/antox/tests/ToxMeTest.scala -> get
+/Users/Ann/Downloads/Antox-master/app/src/androidTest/scala/chat/tox/antox/tests/ToxMeTest.scala -> getAddress
+/Users/Ann/Downloads/Antox-master/app/src/androidTest/scala/chat/tox/antox/tests/ToxMeTest.scala -> getDebugDescription
+/Users/Ann/Downloads/Antox-master/app/src/androidTest/scala/chat/tox/antox/tests/ToxMeTest.scala -> getSavedata
+/Users/Ann/Downloads/Antox-master/app/src/androidTest/scala/chat/tox/antox/tests/ToxMeTest.scala -> id
+/Users/Ann/Downloads/Antox-master/app/src/androidTest/scala/chat/tox/antox/tests/ToxMeTest.scala -> im
+/Users/Ann/Downloads/Antox-master/app/src/androidTest/scala/chat/tox/antox/tests/ToxMeTest.scala -> impl
+/Users/Ann/Downloads/Antox-master/app/src/androidTest/scala/chat/tox/antox/tests/ToxMeTest.scala -> ipv6Enabled
+/Users/Ann/Downloads/Antox-master/app/src/androidTest/scala/chat/tox/antox/tests/ToxMeTest.scala -> isInstanceOf
+/Users/Ann/Downloads/Antox-master/app/src/androidTest/scala/chat/tox/antox/tests/ToxMeTest.scala -> jni
+/Users/Ann/Downloads/Antox-master/app/src/androidTest/scala/chat/tox/antox/tests/ToxMeTest.scala -> junit
+/Users/Ann/Downloads/Antox-master/app/src/androidTest/scala/chat/tox/antox/tests/ToxMeTest.scala -> lookup
+/Users/Ann/Downloads/Antox-master/app/src/androidTest/scala/chat/tox/antox/tests/ToxMeTest.scala -> lookupPublicKey
+/Users/Ann/Downloads/Antox-master/app/src/androidTest/scala/chat/tox/antox/tests/ToxMeTest.scala -> makeApiURL
+/Users/Ann/Downloads/Antox-master/app/src/androidTest/scala/chat/tox/antox/tests/ToxMeTest.scala -> maybeResults
+/Users/Ann/Downloads/Antox-master/app/src/androidTest/scala/chat/tox/antox/tests/ToxMeTest.scala -> message
+/Users/Ann/Downloads/Antox-master/app/src/androidTest/scala/chat/tox/antox/tests/ToxMeTest.scala -> mkString
+/Users/Ann/Downloads/Antox-master/app/src/androidTest/scala/chat/tox/antox/tests/ToxMeTest.scala -> name
+/Users/Ann/Downloads/Antox-master/app/src/androidTest/scala/chat/tox/antox/tests/ToxMeTest.scala -> nonEmpty
+/Users/Ann/Downloads/Antox-master/app/src/androidTest/scala/chat/tox/antox/tests/ToxMeTest.scala -> options
+/Users/Ann/Downloads/Antox-master/app/src/androidTest/scala/chat/tox/antox/tests/ToxMeTest.scala -> org
+/Users/Ann/Downloads/Antox-master/app/src/androidTest/scala/chat/tox/antox/tests/ToxMeTest.scala -> password
+/Users/Ann/Downloads/Antox-master/app/src/androidTest/scala/chat/tox/antox/tests/ToxMeTest.scala -> publicKey
+/Users/Ann/Downloads/Antox-master/app/src/androidTest/scala/chat/tox/antox/tests/ToxMeTest.scala -> registerAccount
+/Users/Ann/Downloads/Antox-master/app/src/androidTest/scala/chat/tox/antox/tests/ToxMeTest.scala -> registrationResult
+/Users/Ann/Downloads/Antox-master/app/src/androidTest/scala/chat/tox/antox/tests/ToxMeTest.scala -> result
+/Users/Ann/Downloads/Antox-master/app/src/androidTest/scala/chat/tox/antox/tests/ToxMeTest.scala -> results
+/Users/Ann/Downloads/Antox-master/app/src/androidTest/scala/chat/tox/antox/tests/ToxMeTest.scala -> runner
+/Users/Ann/Downloads/Antox-master/app/src/androidTest/scala/chat/tox/antox/tests/ToxMeTest.scala -> scala
+/Users/Ann/Downloads/Antox-master/app/src/androidTest/scala/chat/tox/antox/tests/ToxMeTest.scala -> search
+/Users/Ann/Downloads/Antox-master/app/src/androidTest/scala/chat/tox/antox/tests/ToxMeTest.scala -> support
+/Users/Ann/Downloads/Antox-master/app/src/androidTest/scala/chat/tox/antox/tests/ToxMeTest.scala -> take
+/Users/Ann/Downloads/Antox-master/app/src/androidTest/scala/chat/tox/antox/tests/ToxMeTest.scala -> test
+/Users/Ann/Downloads/Antox-master/app/src/androidTest/scala/chat/tox/antox/tests/ToxMeTest.scala -> tests
+/Users/Ann/Downloads/Antox-master/app/src/androidTest/scala/chat/tox/antox/tests/ToxMeTest.scala -> toBlocking
+/Users/Ann/Downloads/Antox-master/app/src/androidTest/scala/chat/tox/antox/tests/ToxMeTest.scala -> toString
+/Users/Ann/Downloads/Antox-master/app/src/androidTest/scala/chat/tox/antox/tests/ToxMeTest.scala -> tox
+/Users/Ann/Downloads/Antox-master/app/src/androidTest/scala/chat/tox/antox/tests/ToxMeTest.scala -> tox4j
+/Users/Ann/Downloads/Antox-master/app/src/androidTest/scala/chat/tox/antox/tests/ToxMeTest.scala -> toxData
+/Users/Ann/Downloads/Antox-master/app/src/androidTest/scala/chat/tox/antox/tests/ToxMeTest.scala -> toxMeName
+/Users/Ann/Downloads/Antox-master/app/src/androidTest/scala/chat/tox/antox/tests/ToxMeTest.scala -> toxOptions
+/Users/Ann/Downloads/Antox-master/app/src/androidTest/scala/chat/tox/antox/tests/ToxMeTest.scala -> toxme
+/Users/Ann/Downloads/Antox-master/app/src/androidTest/scala/chat/tox/antox/tests/ToxMeTest.scala -> udpEnabled
+/Users/Ann/Downloads/Antox-master/app/src/androidTest/scala/chat/tox/antox/tests/ToxMeTest.scala -> util
+/Users/Ann/Downloads/Antox-master/app/src/androidTest/scala/chat/tox/antox/tests/ToxMeTest.scala -> utils
+/Users/Ann/Downloads/Antox-master/app/src/androidTest/scala/chat/tox/antox/tests/ToxMeTest.scala -> value
+/Users/Ann/Downloads/Antox-master/app/src/androidTest/scala/chat/tox/antox/tests/ToxMeTest.scala -> wrapper
+/Users/Ann/Downloads/Antox-master/app/src/androidTest/scala/chat/tox/antox/tests/ToxMeTest.scala -> x
+product stamps:
+18 items
+/Users/Ann/Downloads/Antox-master/app/build/intermediates/classes/androidTest/debug/android/support/test/espresso/R$string.class -> lastModified(1451682292000)
+/Users/Ann/Downloads/Antox-master/app/build/intermediates/classes/androidTest/debug/android/support/test/espresso/R.class -> lastModified(1451682292000)
+/Users/Ann/Downloads/Antox-master/app/build/intermediates/classes/androidTest/debug/android/support/test/rule/R$string.class -> lastModified(1451682292000)
+/Users/Ann/Downloads/Antox-master/app/build/intermediates/classes/androidTest/debug/android/support/test/rule/R.class -> lastModified(1451682292000)
+/Users/Ann/Downloads/Antox-master/app/build/intermediates/classes/androidTest/debug/chat/tox/antox/tests/AntoxDBTest$$anonfun$testAddFriend$1$$anonfun$apply$1.class -> lastModified(1451682291000)
+/Users/Ann/Downloads/Antox-master/app/build/intermediates/classes/androidTest/debug/chat/tox/antox/tests/AntoxDBTest$$anonfun$testAddFriend$1$$anonfun$apply$2.class -> lastModified(1451682291000)
+/Users/Ann/Downloads/Antox-master/app/build/intermediates/classes/androidTest/debug/chat/tox/antox/tests/AntoxDBTest$$anonfun$testAddFriend$1$$anonfun$apply$3.class -> lastModified(1451682291000)
+/Users/Ann/Downloads/Antox-master/app/build/intermediates/classes/androidTest/debug/chat/tox/antox/tests/AntoxDBTest$$anonfun$testAddFriend$1$$anonfun$apply$4.class -> lastModified(1451682291000)
+/Users/Ann/Downloads/Antox-master/app/build/intermediates/classes/androidTest/debug/chat/tox/antox/tests/AntoxDBTest$$anonfun$testAddFriend$1$$anonfun$apply$5.class -> lastModified(1451682291000)
+/Users/Ann/Downloads/Antox-master/app/build/intermediates/classes/androidTest/debug/chat/tox/antox/tests/AntoxDBTest$$anonfun$testAddFriend$1.class -> lastModified(1451682291000)
+/Users/Ann/Downloads/Antox-master/app/build/intermediates/classes/androidTest/debug/chat/tox/antox/tests/AntoxDBTest.class -> lastModified(1451682291000)
+/Users/Ann/Downloads/Antox-master/app/build/intermediates/classes/androidTest/debug/chat/tox/antox/tests/BuildConfig.class -> lastModified(1451682292000)
+/Users/Ann/Downloads/Antox-master/app/build/intermediates/classes/androidTest/debug/chat/tox/antox/tests/MessageHelperTest.class -> lastModified(1451682291000)
+/Users/Ann/Downloads/Antox-master/app/build/intermediates/classes/androidTest/debug/chat/tox/antox/tests/R$attr.class -> lastModified(1451682292000)
+/Users/Ann/Downloads/Antox-master/app/build/intermediates/classes/androidTest/debug/chat/tox/antox/tests/R$string.class -> lastModified(1451682292000)
+/Users/Ann/Downloads/Antox-master/app/build/intermediates/classes/androidTest/debug/chat/tox/antox/tests/R.class -> lastModified(1451682292000)
+/Users/Ann/Downloads/Antox-master/app/build/intermediates/classes/androidTest/debug/chat/tox/antox/tests/ToxMeTest$$anonfun$testSearch$1.class -> lastModified(1451682291000)
+/Users/Ann/Downloads/Antox-master/app/build/intermediates/classes/androidTest/debug/chat/tox/antox/tests/ToxMeTest.class -> lastModified(1451682291000)
+source stamps:
+7 items
+/Users/Ann/Downloads/Antox-master/app/build/generated/source/buildConfig/androidTest/debug/chat/tox/antox/tests/BuildConfig.java -> hash(e6cbbebc2bc0ab775ec05ab317ca56cc229b3679)
+/Users/Ann/Downloads/Antox-master/app/build/generated/source/r/androidTest/debug/android/support/test/espresso/R.java -> hash(5008e2e764c303d696eddbc5520f3d1b44a9f382)
+/Users/Ann/Downloads/Antox-master/app/build/generated/source/r/androidTest/debug/android/support/test/rule/R.java -> hash(ba646bd4a55f2cd58b77436d86b197aa5f25ce0b)
+/Users/Ann/Downloads/Antox-master/app/build/generated/source/r/androidTest/debug/chat/tox/antox/tests/R.java -> hash(a3a8fd773df4c5e86452d964bba80371b4bb70aa)
+/Users/Ann/Downloads/Antox-master/app/src/androidTest/scala/chat/tox/antox/tests/AntoxDBTest.scala -> hash(5e7fd158dc810894ef714ab410ab1d35ce5707a9)
+/Users/Ann/Downloads/Antox-master/app/src/androidTest/scala/chat/tox/antox/tests/MessageHelperTest.scala -> hash(626d397af01f42b3b20a734e67425b9f4e0094b9)
+/Users/Ann/Downloads/Antox-master/app/src/androidTest/scala/chat/tox/antox/tests/ToxMeTest.scala -> hash(ec4557b7ba1a3ad881d5b38ab223beee23cf96a9)
+binary stamps:
+32 items
+/Library/Java/JavaVirtualMachines/jdk1.8.0_65.jdk/Contents/Home/jre/lib/rt.jar -> lastModified(1444172124000)
+/Users/Ann/.gradle/caches/modules-2/files-2.1/io.reactivex/rxscala_2.11/0.25.0/2870b857a26dd70d665a227bfcfe34cd9a67f225/rxscala_2.11-0.25.0.jar -> lastModified(1450403405000)
+/Users/Ann/.gradle/caches/modules-2/files-2.1/junit/junit/4.12/2973d150c0dc1fefe998f834810d68f278ea58ec/junit-4.12.jar -> lastModified(1450403423000)
+/Users/Ann/.gradle/caches/modules-2/files-2.1/org.scala-lang/scala-library/2.11.7/f75e7acabd57b213d6f61483240286c07213ec0e/scala-library-2.11.7.jar -> lastModified(1450403397000)
+/Users/Ann/Downloads/Antox-master/app/build/intermediates/classes/debug/chat/tox/antox/data/AntoxDB$.class -> lastModified(1451682253000)
+/Users/Ann/Downloads/Antox-master/app/build/intermediates/classes/debug/chat/tox/antox/data/AntoxDB.class -> lastModified(1451682253000)
+/Users/Ann/Downloads/Antox-master/app/build/intermediates/classes/debug/chat/tox/antox/tox/MessageHelper$.class -> lastModified(1451602385000)
+/Users/Ann/Downloads/Antox-master/app/build/intermediates/classes/debug/chat/tox/antox/tox/MessageHelper.class -> lastModified(1451602385000)
+/Users/Ann/Downloads/Antox-master/app/build/intermediates/classes/debug/chat/tox/antox/toxme/ToxData.class -> lastModified(1451602385000)
+/Users/Ann/Downloads/Antox-master/app/build/intermediates/classes/debug/chat/tox/antox/toxme/ToxMe$.class -> lastModified(1451602385000)
+/Users/Ann/Downloads/Antox-master/app/build/intermediates/classes/debug/chat/tox/antox/toxme/ToxMe.class -> lastModified(1451602385000)
+/Users/Ann/Downloads/Antox-master/app/build/intermediates/classes/debug/chat/tox/antox/toxme/ToxMeError$.class -> lastModified(1451602385000)
+/Users/Ann/Downloads/Antox-master/app/build/intermediates/classes/debug/chat/tox/antox/toxme/ToxMeError.class -> lastModified(1451602385000)
+/Users/Ann/Downloads/Antox-master/app/build/intermediates/classes/debug/chat/tox/antox/toxme/ToxMeName$.class -> lastModified(1451602385000)
+/Users/Ann/Downloads/Antox-master/app/build/intermediates/classes/debug/chat/tox/antox/toxme/ToxMeName.class -> lastModified(1451602385000)
+/Users/Ann/Downloads/Antox-master/app/build/intermediates/classes/debug/chat/tox/antox/utils/Options$.class -> lastModified(1451602386000)
+/Users/Ann/Downloads/Antox-master/app/build/intermediates/classes/debug/chat/tox/antox/utils/Options.class -> lastModified(1451602386000)
+/Users/Ann/Downloads/Antox-master/app/build/intermediates/classes/debug/chat/tox/antox/wrapper/ContactInfo.class -> lastModified(1451602386000)
+/Users/Ann/Downloads/Antox-master/app/build/intermediates/classes/debug/chat/tox/antox/wrapper/FriendInfo.class -> lastModified(1451602386000)
+/Users/Ann/Downloads/Antox-master/app/build/intermediates/classes/debug/chat/tox/antox/wrapper/FriendKey$.class -> lastModified(1451602386000)
+/Users/Ann/Downloads/Antox-master/app/build/intermediates/classes/debug/chat/tox/antox/wrapper/FriendKey.class -> lastModified(1451602386000)
+/Users/Ann/Downloads/Antox-master/app/build/intermediates/classes/debug/chat/tox/antox/wrapper/Message$.class -> lastModified(1451602386000)
+/Users/Ann/Downloads/Antox-master/app/build/intermediates/classes/debug/chat/tox/antox/wrapper/Message.class -> lastModified(1451602386000)
+/Users/Ann/Downloads/Antox-master/app/build/intermediates/classes/debug/chat/tox/antox/wrapper/SelfKey$.class -> lastModified(1451602386000)
+/Users/Ann/Downloads/Antox-master/app/build/intermediates/classes/debug/chat/tox/antox/wrapper/SelfKey.class -> lastModified(1451602386000)
+/Users/Ann/Downloads/Antox-master/app/build/intermediates/classes/debug/chat/tox/antox/wrapper/ToxAddress$.class -> lastModified(1451602386000)
+/Users/Ann/Downloads/Antox-master/app/build/intermediates/classes/debug/chat/tox/antox/wrapper/ToxAddress.class -> lastModified(1451602386000)
+/Users/Ann/Downloads/Antox-master/app/build/intermediates/classes/debug/chat/tox/antox/wrapper/ToxKey$.class -> lastModified(1451602386000)
+/Users/Ann/Downloads/Antox-master/app/build/intermediates/classes/debug/chat/tox/antox/wrapper/ToxKey.class -> lastModified(1451602386000)
+/Users/Ann/Downloads/Antox-master/app/build/intermediates/exploded-aar/com.android.support.test/runner/0.4.1/jars/classes.jar -> lastModified(1451602364000)
+/Users/Ann/Downloads/Antox-master/app/libs/tox4j_2.11.jar -> lastModified(1450716527000)
+/Users/Ann/Library/Android/sdk/platforms/android-23/android.jar -> lastModified(1450393845000)
+class names:
+32 items
+/Library/Java/JavaVirtualMachines/jdk1.8.0_65.jdk/Contents/Home/jre/lib/rt.jar -> java.lang.Object
+/Users/Ann/.gradle/caches/modules-2/files-2.1/io.reactivex/rxscala_2.11/0.25.0/2870b857a26dd70d665a227bfcfe34cd9a67f225/rxscala_2.11-0.25.0.jar -> rx.lang.scala.Observable
+/Users/Ann/.gradle/caches/modules-2/files-2.1/junit/junit/4.12/2973d150c0dc1fefe998f834810d68f278ea58ec/junit-4.12.jar -> org.junit.Test
+/Users/Ann/.gradle/caches/modules-2/files-2.1/org.scala-lang/scala-library/2.11.7/f75e7acabd57b213d6f61483240286c07213ec0e/scala-library-2.11.7.jar -> scala.collection.TraversableOnce
+/Users/Ann/Downloads/Antox-master/app/build/intermediates/classes/debug/chat/tox/antox/data/AntoxDB$.class -> chat.tox.antox.data.AntoxDB$
+/Users/Ann/Downloads/Antox-master/app/build/intermediates/classes/debug/chat/tox/antox/data/AntoxDB.class -> chat.tox.antox.data.AntoxDB
+/Users/Ann/Downloads/Antox-master/app/build/intermediates/classes/debug/chat/tox/antox/tox/MessageHelper$.class -> chat.tox.antox.tox.MessageHelper$
+/Users/Ann/Downloads/Antox-master/app/build/intermediates/classes/debug/chat/tox/antox/tox/MessageHelper.class -> chat.tox.antox.tox.MessageHelper
+/Users/Ann/Downloads/Antox-master/app/build/intermediates/classes/debug/chat/tox/antox/toxme/ToxData.class -> chat.tox.antox.toxme.ToxData
+/Users/Ann/Downloads/Antox-master/app/build/intermediates/classes/debug/chat/tox/antox/toxme/ToxMe$.class -> chat.tox.antox.toxme.ToxMe$
+/Users/Ann/Downloads/Antox-master/app/build/intermediates/classes/debug/chat/tox/antox/toxme/ToxMe.class -> chat.tox.antox.toxme.ToxMe
+/Users/Ann/Downloads/Antox-master/app/build/intermediates/classes/debug/chat/tox/antox/toxme/ToxMeError$.class -> chat.tox.antox.toxme.ToxMeError$
+/Users/Ann/Downloads/Antox-master/app/build/intermediates/classes/debug/chat/tox/antox/toxme/ToxMeError.class -> chat.tox.antox.toxme.ToxMeError
+/Users/Ann/Downloads/Antox-master/app/build/intermediates/classes/debug/chat/tox/antox/toxme/ToxMeName$.class -> chat.tox.antox.toxme.ToxMeName$
+/Users/Ann/Downloads/Antox-master/app/build/intermediates/classes/debug/chat/tox/antox/toxme/ToxMeName.class -> chat.tox.antox.toxme.ToxMeName
+/Users/Ann/Downloads/Antox-master/app/build/intermediates/classes/debug/chat/tox/antox/utils/Options$.class -> chat.tox.antox.utils.Options$
+/Users/Ann/Downloads/Antox-master/app/build/intermediates/classes/debug/chat/tox/antox/utils/Options.class -> chat.tox.antox.utils.Options
+/Users/Ann/Downloads/Antox-master/app/build/intermediates/classes/debug/chat/tox/antox/wrapper/ContactInfo.class -> chat.tox.antox.wrapper.ContactInfo
+/Users/Ann/Downloads/Antox-master/app/build/intermediates/classes/debug/chat/tox/antox/wrapper/FriendInfo.class -> chat.tox.antox.wrapper.FriendInfo
+/Users/Ann/Downloads/Antox-master/app/build/intermediates/classes/debug/chat/tox/antox/wrapper/FriendKey$.class -> chat.tox.antox.wrapper.FriendKey$
+/Users/Ann/Downloads/Antox-master/app/build/intermediates/classes/debug/chat/tox/antox/wrapper/FriendKey.class -> chat.tox.antox.wrapper.FriendKey
+/Users/Ann/Downloads/Antox-master/app/build/intermediates/classes/debug/chat/tox/antox/wrapper/Message$.class -> chat.tox.antox.wrapper.Message$
+/Users/Ann/Downloads/Antox-master/app/build/intermediates/classes/debug/chat/tox/antox/wrapper/Message.class -> chat.tox.antox.wrapper.Message
+/Users/Ann/Downloads/Antox-master/app/build/intermediates/classes/debug/chat/tox/antox/wrapper/SelfKey$.class -> chat.tox.antox.wrapper.SelfKey$
+/Users/Ann/Downloads/Antox-master/app/build/intermediates/classes/debug/chat/tox/antox/wrapper/SelfKey.class -> chat.tox.antox.wrapper.SelfKey
+/Users/Ann/Downloads/Antox-master/app/build/intermediates/classes/debug/chat/tox/antox/wrapper/ToxAddress$.class -> chat.tox.antox.wrapper.ToxAddress$
+/Users/Ann/Downloads/Antox-master/app/build/intermediates/classes/debug/chat/tox/antox/wrapper/ToxAddress.class -> chat.tox.antox.wrapper.ToxAddress
+/Users/Ann/Downloads/Antox-master/app/build/intermediates/classes/debug/chat/tox/antox/wrapper/ToxKey$.class -> chat.tox.antox.wrapper.ToxKey$
+/Users/Ann/Downloads/Antox-master/app/build/intermediates/classes/debug/chat/tox/antox/wrapper/ToxKey.class -> chat.tox.antox.wrapper.ToxKey
+/Users/Ann/Downloads/Antox-master/app/build/intermediates/exploded-aar/com.android.support.test/runner/0.4.1/jars/classes.jar -> android.support.test.runner.AndroidJUnit4
+/Users/Ann/Downloads/Antox-master/app/libs/tox4j_2.11.jar -> im.tox.tox4j.core.options.ToxOptions$
+/Users/Ann/Library/Android/sdk/platforms/android-23/android.jar -> android.test.AndroidTestCase
+internal apis:
+7 items
+/Users/Ann/Downloads/Antox-master/app/build/generated/source/buildConfig/androidTest/debug/chat/tox/antox/tests/BuildConfig.java -> 
+rO0ABXNyABB4c2J0aS5hcGkuU291cmNlFlpwRASfbtoCAAZJAAdhcGlIYXNoWgAIaGFzTWFjcm9MABhfaW50ZXJuYWxPbmx5X25hbWVIYXNoZXN0ACRMeHNidGkvYXBpL19pbnRlcm5hbE9ubHlfTmFtZUhhc2hlcztMAANhcGl0ABVMeHNidGkvYXBpL1NvdXJjZUFQSTtMAAtjb21waWxhdGlvbnQAF0x4c2J0aS9hcGkvQ29tcGlsYXRpb247WwAEaGFzaHQAAltCeHACCMfIAHNyACJ4c2J0aS5hcGkuX2ludGVybmFsT25seV9OYW1lSGFzaGVzVNq+mfrU7EwCAAJbAA9pbXBsaWNpdE1lbWJlcnN0ACNbTHhzYnRpL2FwaS9faW50ZXJuYWxPbmx5X05hbWVIYXNoO1sADnJlZ3VsYXJNZW1iZXJzcQB+AAd4cHVyACNbTHhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoO0lagLbdlov0AgAAeHAAAAAAdXEAfgAJAAAAD3NyACB4c2J0aS5hcGkuX2ludGVybmFsT25seV9OYW1lSGFzaFsO9SJ2OFfPAgACSQAEaGFzaEwABG5hbWV0ABJMamF2YS9sYW5nL1N0cmluZzt4cGiUTjh0AAZub3RpZnlzcQB+AAwb3t6hdAAMVkVSU0lPTl9DT0RFc3EAfgAMeTVRm3QABHdhaXRzcQB+AAzTZeYIdAAGZXF1YWxzc3EAfgAMRy5wsHQABURFQlVHc3EAfgAM/Iu133QACW5vdGlmeUFsbHNxAH4ADN91dT90AAZGTEFWT1JzcQB+AAxuaof5dAAMVkVSU0lPTl9OQU1Fc3EAfgAMLWa22XQABjxpbml0PnNxAH4ADF7Ig/t0AA5BUFBMSUNBVElPTl9JRHNxAH4ADAHuRuh0AAtCdWlsZENvbmZpZ3NxAH4ADL2+3Vp0AAh0b1N0cmluZ3NxAH4ADHpk1k10AAhnZXRDbGFzc3NxAH4ADM7bh8x0AApCVUlMRF9UWVBFc3EAfgAMO4IafnQACGhhc2hDb2Rlc3IAE3hzYnRpLmFwaS5Tb3VyY2VBUEm5Xqf5KSM4pAIAAlsAC2RlZmluaXRpb25zdAAXW0x4c2J0aS9hcGkvRGVmaW5pdGlvbjtbAAhwYWNrYWdlc3QAFFtMeHNidGkvYXBpL1BhY2thZ2U7eHB1cgAXW0x4c2J0aS5hcGkuRGVmaW5pdGlvbjuIyVzntONeDgIAAHhwAAAAAnNyABN4c2J0aS5hcGkuQ2xhc3NMaWtlgzQcod+wl2wCAARMAA5kZWZpbml0aW9uVHlwZXQAGkx4c2J0aS9hcGkvRGVmaW5pdGlvblR5cGU7WwAQc2F2ZWRBbm5vdGF0aW9uc3QAE1tMamF2YS9sYW5nL1N0cmluZztMAAhzZWxmVHlwZXQAEEx4c2J0aS9hcGkvTGF6eTtMAAlzdHJ1Y3R1cmVxAH4ANXhyACF4c2J0aS5hcGkuUGFyYW1ldGVyaXplZERlZmluaXRpb275EW6x1VA84gIAAVsADnR5cGVQYXJhbWV0ZXJzdAAaW0x4c2J0aS9hcGkvVHlwZVBhcmFtZXRlcjt4cgAUeHNidGkuYXBpLkRlZmluaXRpb26HKhvocULjRgIABEwABmFjY2Vzc3QAEkx4c2J0aS9hcGkvQWNjZXNzO1sAC2Fubm90YXRpb25zdAAXW0x4c2J0aS9hcGkvQW5ub3RhdGlvbjtMAAltb2RpZmllcnN0ABVMeHNidGkvYXBpL01vZGlmaWVycztMAARuYW1lcQB+AA14cHNyABB4c2J0aS5hcGkuUHVibGljulg9rmwtYEICAAB4cgAQeHNidGkuYXBpLkFjY2Vzc91imvgdYzFIAgAAeHB1cgAXW0x4c2J0aS5hcGkuQW5ub3RhdGlvbjvrl+sZEPaNSAIAAHhwAAAAAHNyABN4c2J0aS5hcGkuTW9kaWZpZXJzxxETIWmc3CQCAAFCAAVmbGFnc3hwBHQAIGNoYXQudG94LmFudG94LnRlc3RzLkJ1aWxkQ29uZmlndXIAGltMeHNidGkuYXBpLlR5cGVQYXJhbWV0ZXI72W0mDyid8rYCAAB4cAAAAAB+cgAYeHNidGkuYXBpLkRlZmluaXRpb25UeXBlAAAAAAAAAAASAAB4cgAOamF2YS5sYW5nLkVudW0AAAAAAAAAABIAAHhwdAAIQ2xhc3NEZWZ1cgATW0xqYXZhLmxhbmcuU3RyaW5nO63SVufpHXtHAgAAeHAAAAABdAAMc2NhbGEudGhyb3dzc3IAE3hzYnRpLlNhZmVMYXp5JEltcGxQAi6Tl5dAPwIAA1oACGJpdG1hcCQwTAACX3R0ABJMamF2YS9sYW5nL09iamVjdDtMAARldmFsdAARTHNjYWxhL0Z1bmN0aW9uMDt4cgAWeHNidGkuYXBpLkFic3RyYWN0TGF6edN3tQFfu+egAgAAeHAAcHNyACB4c2J0aS5TYWZlTGF6eSQkYW5vbmZ1biRzdHJpY3QkMQAAAAAAAAAAAgABTAAHdmFsdWUkMXEAfgBPeHBzcgATeHNidGkuYXBpLkVtcHR5VHlwZbz9nkZJO4kkAgAAeHIAFHhzYnRpLmFwaS5TaW1wbGVUeXBlcnhiiCEjv0ACAAB4cgAOeHNidGkuYXBpLlR5cGU/atkhFkmqygIAAHhwc3EAfgBOAHBzcQB+AFNzcgATeHNidGkuYXBpLlN0cnVjdHVyZamq+YCTb9gAAgADTAAIZGVjbGFyZWRxAH4ANUwACWluaGVyaXRlZHEAfgA1TAAHcGFyZW50c3EAfgA1eHEAfgBXc3EAfgBOAHBzcQB+AFN1cQB+ADAAAAAAc3EAfgBOAHBzcQB+AFN1cQB+ADAAAAAAc3EAfgBOAHBzcQB+AFN1cgARW0x4c2J0aS5hcGkuVHlwZTt0/6Vae/npQQIAAHhwAAAAAXNyABR4c2J0aS5hcGkuUHJvamVjdGlvbvPSjVTpRaQtAgACTAACaWRxAH4ADUwABnByZWZpeHQAFkx4c2J0aS9hcGkvU2ltcGxlVHlwZTt4cQB+AFZ0AAZPYmplY3RzcgATeHNidGkuYXBpLlNpbmdsZXRvbvynX/jPVuRGAgABTAAEcGF0aHQAEEx4c2J0aS9hcGkvUGF0aDt4cQB+AFZzcgAOeHNidGkuYXBpLlBhdGibPVwIzqUnhAIAAVsACmNvbXBvbmVudHN0ABpbTHhzYnRpL2FwaS9QYXRoQ29tcG9uZW50O3hwdXIAGltMeHNidGkuYXBpLlBhdGhDb21wb25lbnQ7Q9oJdC1nFnQCAAB4cAAAAANzcgAMeHNidGkuYXBpLklkmDJsizdTxEACAAFMAAJpZHEAfgANeHIAF3hzYnRpLmFwaS5QYXRoQ29tcG9uZW50X5oiWy6Gn7wCAAB4cHQABGphdmFzcQB+AHN0AARsYW5nc3IADnhzYnRpLmFwaS5UaGlz2wntpsxaQFwCAAB4cQB+AHRzcQB+ADJxAH4AP3EAfgBBcQB+AENxAH4ARHEAfgBGfnEAfgBHdAAGTW9kdWxldXEAfgBLAAAAAHNxAH4ATgBwc3EAfgBTcQB+AFhzcQB+AE4AcHNxAH4AU3NxAH4AW3NxAH4ATgBwc3EAfgBTdXEAfgAwAAAAAHNxAH4ATgBwc3EAfgBTdXEAfgAwAAAAAHNxAH4ATgBwc3EAfgBTdXEAfgBlAAAAAHVyABRbTHhzYnRpLmFwaS5QYWNrYWdlO1sTGTdwpyehAgAAeHAAAAABc3IAEXhzYnRpLmFwaS5QYWNrYWdlflmP9q7OOVgCAAFMAARuYW1lcQB+AA14cHQAFGNoYXQudG94LmFudG94LnRlc3Rzc3IAFXhzYnRpLmFwaS5Db21waWxhdGlvbu364MNq6KBCAgACSgAJc3RhcnRUaW1lWwAHb3V0cHV0c3QAGltMeHNidGkvYXBpL091dHB1dFNldHRpbmc7eHAAAAFR/wHHz3VyABpbTHhzYnRpLmFwaS5PdXRwdXRTZXR0aW5nO39qwvOnh6VCAgAAeHAAAAABc3IAF3hzYnRpLmFwaS5PdXRwdXRTZXR0aW5netmaR3T7HXsCAAJMAA9vdXRwdXREaXJlY3RvcnlxAH4ADUwAD3NvdXJjZURpcmVjdG9yeXEAfgANeHB0AFMvVXNlcnMvQW5uL0Rvd25sb2Fkcy9BbnRveC1tYXN0ZXIvYXBwL2J1aWxkL2ludGVybWVkaWF0ZXMvY2xhc3Nlcy9hbmRyb2lkVGVzdC9kZWJ1Z3QAAS91cgACW0Ks8xf4BghU4AIAAHhwAAAAFObLvrwrwKt3XsBasxfKVswimzZ5
+/Users/Ann/Downloads/Antox-master/app/build/generated/source/r/androidTest/debug/android/support/test/espresso/R.java -> 
+rO0ABXNyABB4c2J0aS5hcGkuU291cmNlFlpwRASfbtoCAAZJAAdhcGlIYXNoWgAIaGFzTWFjcm9MABhfaW50ZXJuYWxPbmx5X25hbWVIYXNoZXN0ACRMeHNidGkvYXBpL19pbnRlcm5hbE9ubHlfTmFtZUhhc2hlcztMAANhcGl0ABVMeHNidGkvYXBpL1NvdXJjZUFQSTtMAAtjb21waWxhdGlvbnQAF0x4c2J0aS9hcGkvQ29tcGlsYXRpb247WwAEaGFzaHQAAltCeHCKq0tFAHNyACJ4c2J0aS5hcGkuX2ludGVybmFsT25seV9OYW1lSGFzaGVzVNq+mfrU7EwCAAJbAA9pbXBsaWNpdE1lbWJlcnN0ACNbTHhzYnRpL2FwaS9faW50ZXJuYWxPbmx5X05hbWVIYXNoO1sADnJlZ3VsYXJNZW1iZXJzcQB+AAd4cHVyACNbTHhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoO0lagLbdlov0AgAAeHAAAAAAdXEAfgAJAAAAC3NyACB4c2J0aS5hcGkuX2ludGVybmFsT25seV9OYW1lSGFzaFsO9SJ2OFfPAgACSQAEaGFzaEwABG5hbWV0ABJMamF2YS9sYW5nL1N0cmluZzt4cMSI4pB0AAZub3RpZnlzcQB+AAwIMJwedAAEd2FpdHNxAH4ADHRibE10AAZlcXVhbHNzcQB+AAx0p7ufdAAJbm90aWZ5QWxsc3EAfgAMLgt5AnQACFIkc3RyaW5nc3EAfgAMSpYQInQABjxpbml0PnNxAH4ADEsqzWV0AAhhcHBfbmFtZXNxAH4ADMO+qfZ0AAh0b1N0cmluZ3NxAH4ADAHJvIl0AAhnZXRDbGFzc3NxAH4ADFhZm710AAFSc3EAfgAM6uJhNHQACGhhc2hDb2Rlc3IAE3hzYnRpLmFwaS5Tb3VyY2VBUEm5Xqf5KSM4pAIAAlsAC2RlZmluaXRpb25zdAAXW0x4c2J0aS9hcGkvRGVmaW5pdGlvbjtbAAhwYWNrYWdlc3QAFFtMeHNidGkvYXBpL1BhY2thZ2U7eHB1cgAXW0x4c2J0aS5hcGkuRGVmaW5pdGlvbjuIyVzntONeDgIAAHhwAAAAAnNyABN4c2J0aS5hcGkuQ2xhc3NMaWtlgzQcod+wl2wCAARMAA5kZWZpbml0aW9uVHlwZXQAGkx4c2J0aS9hcGkvRGVmaW5pdGlvblR5cGU7WwAQc2F2ZWRBbm5vdGF0aW9uc3QAE1tMamF2YS9sYW5nL1N0cmluZztMAAhzZWxmVHlwZXQAEEx4c2J0aS9hcGkvTGF6eTtMAAlzdHJ1Y3R1cmVxAH4ALXhyACF4c2J0aS5hcGkuUGFyYW1ldGVyaXplZERlZmluaXRpb275EW6x1VA84gIAAVsADnR5cGVQYXJhbWV0ZXJzdAAaW0x4c2J0aS9hcGkvVHlwZVBhcmFtZXRlcjt4cgAUeHNidGkuYXBpLkRlZmluaXRpb26HKhvocULjRgIABEwABmFjY2Vzc3QAEkx4c2J0aS9hcGkvQWNjZXNzO1sAC2Fubm90YXRpb25zdAAXW0x4c2J0aS9hcGkvQW5ub3RhdGlvbjtMAAltb2RpZmllcnN0ABVMeHNidGkvYXBpL01vZGlmaWVycztMAARuYW1lcQB+AA14cHNyABB4c2J0aS5hcGkuUHVibGljulg9rmwtYEICAAB4cgAQeHNidGkuYXBpLkFjY2Vzc91imvgdYzFIAgAAeHB1cgAXW0x4c2J0aS5hcGkuQW5ub3RhdGlvbjvrl+sZEPaNSAIAAHhwAAAAAHNyABN4c2J0aS5hcGkuTW9kaWZpZXJzxxETIWmc3CQCAAFCAAVmbGFnc3hwBHQAH2FuZHJvaWQuc3VwcG9ydC50ZXN0LmVzcHJlc3NvLlJ1cgAaW0x4c2J0aS5hcGkuVHlwZVBhcmFtZXRlcjvZbSYPKJ3ytgIAAHhwAAAAAH5yABh4c2J0aS5hcGkuRGVmaW5pdGlvblR5cGUAAAAAAAAAABIAAHhyAA5qYXZhLmxhbmcuRW51bQAAAAAAAAAAEgAAeHB0AAhDbGFzc0RlZnVyABNbTGphdmEubGFuZy5TdHJpbmc7rdJW5+kde0cCAAB4cAAAAAF0AAxzY2FsYS50aHJvd3NzcgATeHNidGkuU2FmZUxhenkkSW1wbFACLpOXl0A/AgADWgAIYml0bWFwJDBMAAJfdHQAEkxqYXZhL2xhbmcvT2JqZWN0O0wABGV2YWx0ABFMc2NhbGEvRnVuY3Rpb24wO3hyABZ4c2J0aS5hcGkuQWJzdHJhY3RMYXp503e1AV+756ACAAB4cABwc3IAIHhzYnRpLlNhZmVMYXp5JCRhbm9uZnVuJHN0cmljdCQxAAAAAAAAAAACAAFMAAd2YWx1ZSQxcQB+AEd4cHNyABN4c2J0aS5hcGkuRW1wdHlUeXBlvP2eRkk7iSQCAAB4cgAUeHNidGkuYXBpLlNpbXBsZVR5cGVyeGKIISO/QAIAAHhyAA54c2J0aS5hcGkuVHlwZT9q2SEWSarKAgAAeHBzcQB+AEYAcHNxAH4AS3NyABN4c2J0aS5hcGkuU3RydWN0dXJlqar5gJNv2AACAANMAAhkZWNsYXJlZHEAfgAtTAAJaW5oZXJpdGVkcQB+AC1MAAdwYXJlbnRzcQB+AC14cQB+AE9zcQB+AEYAcHNxAH4AS3VxAH4AKAAAAABzcQB+AEYAcHNxAH4AS3VxAH4AKAAAAABzcQB+AEYAcHNxAH4AS3VyABFbTHhzYnRpLmFwaS5UeXBlO3T/pVp7+elBAgAAeHAAAAABc3IAFHhzYnRpLmFwaS5Qcm9qZWN0aW9u89KNVOlFpC0CAAJMAAJpZHEAfgANTAAGcHJlZml4dAAWTHhzYnRpL2FwaS9TaW1wbGVUeXBlO3hxAH4ATnQABk9iamVjdHNyABN4c2J0aS5hcGkuU2luZ2xldG9u/Kdf+M9W5EYCAAFMAARwYXRodAAQTHhzYnRpL2FwaS9QYXRoO3hxAH4ATnNyAA54c2J0aS5hcGkuUGF0aJs9XAjOpSeEAgABWwAKY29tcG9uZW50c3QAGltMeHNidGkvYXBpL1BhdGhDb21wb25lbnQ7eHB1cgAaW0x4c2J0aS5hcGkuUGF0aENvbXBvbmVudDtD2gl0LWcWdAIAAHhwAAAAA3NyAAx4c2J0aS5hcGkuSWSYMmyLN1PEQAIAAUwAAmlkcQB+AA14cgAXeHNidGkuYXBpLlBhdGhDb21wb25lbnRfmiJbLoafvAIAAHhwdAAEamF2YXNxAH4Aa3QABGxhbmdzcgAOeHNidGkuYXBpLlRoaXPbCe2mzFpAXAIAAHhxAH4AbHNxAH4AKnEAfgA3cQB+ADlxAH4AO3EAfgA8cQB+AD5+cQB+AD90AAZNb2R1bGV1cQB+AEMAAAAAc3EAfgBGAHBzcQB+AEtxAH4AUHNxAH4ARgBwc3EAfgBLc3EAfgBTc3EAfgBGAHBzcQB+AEt1cQB+ACgAAAAAc3EAfgBGAHBzcQB+AEt1cQB+ACgAAAAAc3EAfgBGAHBzcQB+AEt1cQB+AF0AAAAAdXIAFFtMeHNidGkuYXBpLlBhY2thZ2U7WxMZN3CnJ6ECAAB4cAAAAAFzcgAReHNidGkuYXBpLlBhY2thZ2V+WY/2rs45WAIAAUwABG5hbWVxAH4ADXhwdAAdYW5kcm9pZC5zdXBwb3J0LnRlc3QuZXNwcmVzc29zcgAVeHNidGkuYXBpLkNvbXBpbGF0aW9u7frgw2rooEICAAJKAAlzdGFydFRpbWVbAAdvdXRwdXRzdAAaW0x4c2J0aS9hcGkvT3V0cHV0U2V0dGluZzt4cAAAAVH/AcfPdXIAGltMeHNidGkuYXBpLk91dHB1dFNldHRpbmc7f2rC86eHpUICAAB4cAAAAAFzcgAXeHNidGkuYXBpLk91dHB1dFNldHRpbmd62ZpHdPsdewIAAkwAD291dHB1dERpcmVjdG9yeXEAfgANTAAPc291cmNlRGlyZWN0b3J5cQB+AA14cHQAUy9Vc2Vycy9Bbm4vRG93bmxvYWRzL0FudG94LW1hc3Rlci9hcHAvYnVpbGQvaW50ZXJtZWRpYXRlcy9jbGFzc2VzL2FuZHJvaWRUZXN0L2RlYnVndAABL3VyAAJbQqzzF/gGCFTgAgAAeHAAAAAUUAji52TDA9aW7dvFUg89G0Sp84I=
+/Users/Ann/Downloads/Antox-master/app/build/generated/source/r/androidTest/debug/android/support/test/rule/R.java -> 
+rO0ABXNyABB4c2J0aS5hcGkuU291cmNlFlpwRASfbtoCAAZJAAdhcGlIYXNoWgAIaGFzTWFjcm9MABhfaW50ZXJuYWxPbmx5X25hbWVIYXNoZXN0ACRMeHNidGkvYXBpL19pbnRlcm5hbE9ubHlfTmFtZUhhc2hlcztMAANhcGl0ABVMeHNidGkvYXBpL1NvdXJjZUFQSTtMAAtjb21waWxhdGlvbnQAF0x4c2J0aS9hcGkvQ29tcGlsYXRpb247WwAEaGFzaHQAAltCeHDbqULwAHNyACJ4c2J0aS5hcGkuX2ludGVybmFsT25seV9OYW1lSGFzaGVzVNq+mfrU7EwCAAJbAA9pbXBsaWNpdE1lbWJlcnN0ACNbTHhzYnRpL2FwaS9faW50ZXJuYWxPbmx5X05hbWVIYXNoO1sADnJlZ3VsYXJNZW1iZXJzcQB+AAd4cHVyACNbTHhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoO0lagLbdlov0AgAAeHAAAAAAdXEAfgAJAAAAC3NyACB4c2J0aS5hcGkuX2ludGVybmFsT25seV9OYW1lSGFzaFsO9SJ2OFfPAgACSQAEaGFzaEwABG5hbWV0ABJMamF2YS9sYW5nL1N0cmluZzt4cDHuH1t0AAZub3RpZnlzcQB+AAz84PwYdAAEd2FpdHNxAH4ADKnQ27p0AAZlcXVhbHNzcQB+AAzkmMm2dAAJbm90aWZ5QWxsc3EAfgAMMtUlinQACFIkc3RyaW5nc3EAfgAM/HXtenQABjxpbml0PnNxAH4ADJCMQYR0AAhhcHBfbmFtZXNxAH4ADKbL3+Z0AAh0b1N0cmluZ3NxAH4ADBbwr5V0AAhnZXRDbGFzc3NxAH4ADBW9CcN0AAFSc3EAfgAMKWTRBHQACGhhc2hDb2Rlc3IAE3hzYnRpLmFwaS5Tb3VyY2VBUEm5Xqf5KSM4pAIAAlsAC2RlZmluaXRpb25zdAAXW0x4c2J0aS9hcGkvRGVmaW5pdGlvbjtbAAhwYWNrYWdlc3QAFFtMeHNidGkvYXBpL1BhY2thZ2U7eHB1cgAXW0x4c2J0aS5hcGkuRGVmaW5pdGlvbjuIyVzntONeDgIAAHhwAAAAAnNyABN4c2J0aS5hcGkuQ2xhc3NMaWtlgzQcod+wl2wCAARMAA5kZWZpbml0aW9uVHlwZXQAGkx4c2J0aS9hcGkvRGVmaW5pdGlvblR5cGU7WwAQc2F2ZWRBbm5vdGF0aW9uc3QAE1tMamF2YS9sYW5nL1N0cmluZztMAAhzZWxmVHlwZXQAEEx4c2J0aS9hcGkvTGF6eTtMAAlzdHJ1Y3R1cmVxAH4ALXhyACF4c2J0aS5hcGkuUGFyYW1ldGVyaXplZERlZmluaXRpb275EW6x1VA84gIAAVsADnR5cGVQYXJhbWV0ZXJzdAAaW0x4c2J0aS9hcGkvVHlwZVBhcmFtZXRlcjt4cgAUeHNidGkuYXBpLkRlZmluaXRpb26HKhvocULjRgIABEwABmFjY2Vzc3QAEkx4c2J0aS9hcGkvQWNjZXNzO1sAC2Fubm90YXRpb25zdAAXW0x4c2J0aS9hcGkvQW5ub3RhdGlvbjtMAAltb2RpZmllcnN0ABVMeHNidGkvYXBpL01vZGlmaWVycztMAARuYW1lcQB+AA14cHNyABB4c2J0aS5hcGkuUHVibGljulg9rmwtYEICAAB4cgAQeHNidGkuYXBpLkFjY2Vzc91imvgdYzFIAgAAeHB1cgAXW0x4c2J0aS5hcGkuQW5ub3RhdGlvbjvrl+sZEPaNSAIAAHhwAAAAAHNyABN4c2J0aS5hcGkuTW9kaWZpZXJzxxETIWmc3CQCAAFCAAVmbGFnc3hwBHQAG2FuZHJvaWQuc3VwcG9ydC50ZXN0LnJ1bGUuUnVyABpbTHhzYnRpLmFwaS5UeXBlUGFyYW1ldGVyO9ltJg8onfK2AgAAeHAAAAAAfnIAGHhzYnRpLmFwaS5EZWZpbml0aW9uVHlwZQAAAAAAAAAAEgAAeHIADmphdmEubGFuZy5FbnVtAAAAAAAAAAASAAB4cHQACENsYXNzRGVmdXIAE1tMamF2YS5sYW5nLlN0cmluZzut0lbn6R17RwIAAHhwAAAAAXQADHNjYWxhLnRocm93c3NyABN4c2J0aS5TYWZlTGF6eSRJbXBsUAIuk5eXQD8CAANaAAhiaXRtYXAkMEwAAl90dAASTGphdmEvbGFuZy9PYmplY3Q7TAAEZXZhbHQAEUxzY2FsYS9GdW5jdGlvbjA7eHIAFnhzYnRpLmFwaS5BYnN0cmFjdExhennTd7UBX7vnoAIAAHhwAHBzcgAgeHNidGkuU2FmZUxhenkkJGFub25mdW4kc3RyaWN0JDEAAAAAAAAAAAIAAUwAB3ZhbHVlJDFxAH4AR3hwc3IAE3hzYnRpLmFwaS5FbXB0eVR5cGW8/Z5GSTuJJAIAAHhyABR4c2J0aS5hcGkuU2ltcGxlVHlwZXJ4YoghI79AAgAAeHIADnhzYnRpLmFwaS5UeXBlP2rZIRZJqsoCAAB4cHNxAH4ARgBwc3EAfgBLc3IAE3hzYnRpLmFwaS5TdHJ1Y3R1cmWpqvmAk2/YAAIAA0wACGRlY2xhcmVkcQB+AC1MAAlpbmhlcml0ZWRxAH4ALUwAB3BhcmVudHNxAH4ALXhxAH4AT3NxAH4ARgBwc3EAfgBLdXEAfgAoAAAAAHNxAH4ARgBwc3EAfgBLdXEAfgAoAAAAAHNxAH4ARgBwc3EAfgBLdXIAEVtMeHNidGkuYXBpLlR5cGU7dP+lWnv56UECAAB4cAAAAAFzcgAUeHNidGkuYXBpLlByb2plY3Rpb27z0o1U6UWkLQIAAkwAAmlkcQB+AA1MAAZwcmVmaXh0ABZMeHNidGkvYXBpL1NpbXBsZVR5cGU7eHEAfgBOdAAGT2JqZWN0c3IAE3hzYnRpLmFwaS5TaW5nbGV0b278p1/4z1bkRgIAAUwABHBhdGh0ABBMeHNidGkvYXBpL1BhdGg7eHEAfgBOc3IADnhzYnRpLmFwaS5QYXRomz1cCM6lJ4QCAAFbAApjb21wb25lbnRzdAAaW0x4c2J0aS9hcGkvUGF0aENvbXBvbmVudDt4cHVyABpbTHhzYnRpLmFwaS5QYXRoQ29tcG9uZW50O0PaCXQtZxZ0AgAAeHAAAAADc3IADHhzYnRpLmFwaS5JZJgybIs3U8RAAgABTAACaWRxAH4ADXhyABd4c2J0aS5hcGkuUGF0aENvbXBvbmVudF+aIlsuhp+8AgAAeHB0AARqYXZhc3EAfgBrdAAEbGFuZ3NyAA54c2J0aS5hcGkuVGhpc9sJ7abMWkBcAgAAeHEAfgBsc3EAfgAqcQB+ADdxAH4AOXEAfgA7cQB+ADxxAH4APn5xAH4AP3QABk1vZHVsZXVxAH4AQwAAAABzcQB+AEYAcHNxAH4AS3EAfgBQc3EAfgBGAHBzcQB+AEtzcQB+AFNzcQB+AEYAcHNxAH4AS3VxAH4AKAAAAABzcQB+AEYAcHNxAH4AS3VxAH4AKAAAAABzcQB+AEYAcHNxAH4AS3VxAH4AXQAAAAB1cgAUW0x4c2J0aS5hcGkuUGFja2FnZTtbExk3cKcnoQIAAHhwAAAAAXNyABF4c2J0aS5hcGkuUGFja2FnZX5Zj/auzjlYAgABTAAEbmFtZXEAfgANeHB0ABlhbmRyb2lkLnN1cHBvcnQudGVzdC5ydWxlc3IAFXhzYnRpLmFwaS5Db21waWxhdGlvbu364MNq6KBCAgACSgAJc3RhcnRUaW1lWwAHb3V0cHV0c3QAGltMeHNidGkvYXBpL091dHB1dFNldHRpbmc7eHAAAAFR/wHHz3VyABpbTHhzYnRpLmFwaS5PdXRwdXRTZXR0aW5nO39qwvOnh6VCAgAAeHAAAAABc3IAF3hzYnRpLmFwaS5PdXRwdXRTZXR0aW5netmaR3T7HXsCAAJMAA9vdXRwdXREaXJlY3RvcnlxAH4ADUwAD3NvdXJjZURpcmVjdG9yeXEAfgANeHB0AFMvVXNlcnMvQW5uL0Rvd25sb2Fkcy9BbnRveC1tYXN0ZXIvYXBwL2J1aWxkL2ludGVybWVkaWF0ZXMvY2xhc3Nlcy9hbmRyb2lkVGVzdC9kZWJ1Z3QAAS91cgACW0Ks8xf4BghU4AIAAHhwAAAAFLpka9SlXyzVi3dDbYaxl6pfJc4L
+/Users/Ann/Downloads/Antox-master/app/build/generated/source/r/androidTest/debug/chat/tox/antox/tests/R.java -> 
+rO0ABXNyABB4c2J0aS5hcGkuU291cmNlFlpwRASfbtoCAAZJAAdhcGlIYXNoWgAIaGFzTWFjcm9MABhfaW50ZXJuYWxPbmx5X25hbWVIYXNoZXN0ACRMeHNidGkvYXBpL19pbnRlcm5hbE9ubHlfTmFtZUhhc2hlcztMAANhcGl0ABVMeHNidGkvYXBpL1NvdXJjZUFQSTtMAAtjb21waWxhdGlvbnQAF0x4c2J0aS9hcGkvQ29tcGlsYXRpb247WwAEaGFzaHQAAltCeHA55hiCAHNyACJ4c2J0aS5hcGkuX2ludGVybmFsT25seV9OYW1lSGFzaGVzVNq+mfrU7EwCAAJbAA9pbXBsaWNpdE1lbWJlcnN0ACNbTHhzYnRpL2FwaS9faW50ZXJuYWxPbmx5X05hbWVIYXNoO1sADnJlZ3VsYXJNZW1iZXJzcQB+AAd4cHVyACNbTHhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoO0lagLbdlov0AgAAeHAAAAAAdXEAfgAJAAAADHNyACB4c2J0aS5hcGkuX2ludGVybmFsT25seV9OYW1lSGFzaFsO9SJ2OFfPAgACSQAEaGFzaEwABG5hbWV0ABJMamF2YS9sYW5nL1N0cmluZzt4cF1MhlN0AAZub3RpZnlzcQB+AAwkdxBNdAAEd2FpdHNxAH4ADCOPItN0AAZSJGF0dHJzcQB+AAzr78x5dAAGZXF1YWxzc3EAfgAM286ZBnQACW5vdGlmeUFsbHNxAH4ADHH9dSx0AAhSJHN0cmluZ3NxAH4ADM6PZ5d0AAY8aW5pdD5zcQB+AAzYQMtadAAIYXBwX25hbWVzcQB+AAzugu2OdAAIdG9TdHJpbmdzcQB+AAyEAuwAdAAIZ2V0Q2xhc3NzcQB+AAxd5u11dAABUnNxAH4ADMptFGV0AAhoYXNoQ29kZXNyABN4c2J0aS5hcGkuU291cmNlQVBJuV6n+SkjOKQCAAJbAAtkZWZpbml0aW9uc3QAF1tMeHNidGkvYXBpL0RlZmluaXRpb247WwAIcGFja2FnZXN0ABRbTHhzYnRpL2FwaS9QYWNrYWdlO3hwdXIAF1tMeHNidGkuYXBpLkRlZmluaXRpb247iMlc57TjXg4CAAB4cAAAAAJzcgATeHNidGkuYXBpLkNsYXNzTGlrZYM0HKHfsJdsAgAETAAOZGVmaW5pdGlvblR5cGV0ABpMeHNidGkvYXBpL0RlZmluaXRpb25UeXBlO1sAEHNhdmVkQW5ub3RhdGlvbnN0ABNbTGphdmEvbGFuZy9TdHJpbmc7TAAIc2VsZlR5cGV0ABBMeHNidGkvYXBpL0xhenk7TAAJc3RydWN0dXJlcQB+AC94cgAheHNidGkuYXBpLlBhcmFtZXRlcml6ZWREZWZpbml0aW9u+RFusdVQPOICAAFbAA50eXBlUGFyYW1ldGVyc3QAGltMeHNidGkvYXBpL1R5cGVQYXJhbWV0ZXI7eHIAFHhzYnRpLmFwaS5EZWZpbml0aW9uhyob6HFC40YCAARMAAZhY2Nlc3N0ABJMeHNidGkvYXBpL0FjY2VzcztbAAthbm5vdGF0aW9uc3QAF1tMeHNidGkvYXBpL0Fubm90YXRpb247TAAJbW9kaWZpZXJzdAAVTHhzYnRpL2FwaS9Nb2RpZmllcnM7TAAEbmFtZXEAfgANeHBzcgAQeHNidGkuYXBpLlB1YmxpY7pYPa5sLWBCAgAAeHIAEHhzYnRpLmFwaS5BY2Nlc3PdYpr4HWMxSAIAAHhwdXIAF1tMeHNidGkuYXBpLkFubm90YXRpb24765frGRD2jUgCAAB4cAAAAABzcgATeHNidGkuYXBpLk1vZGlmaWVyc8cREyFpnNwkAgABQgAFZmxhZ3N4cAR0ABZjaGF0LnRveC5hbnRveC50ZXN0cy5SdXIAGltMeHNidGkuYXBpLlR5cGVQYXJhbWV0ZXI72W0mDyid8rYCAAB4cAAAAAB+cgAYeHNidGkuYXBpLkRlZmluaXRpb25UeXBlAAAAAAAAAAASAAB4cgAOamF2YS5sYW5nLkVudW0AAAAAAAAAABIAAHhwdAAIQ2xhc3NEZWZ1cgATW0xqYXZhLmxhbmcuU3RyaW5nO63SVufpHXtHAgAAeHAAAAABdAAMc2NhbGEudGhyb3dzc3IAE3hzYnRpLlNhZmVMYXp5JEltcGxQAi6Tl5dAPwIAA1oACGJpdG1hcCQwTAACX3R0ABJMamF2YS9sYW5nL09iamVjdDtMAARldmFsdAARTHNjYWxhL0Z1bmN0aW9uMDt4cgAWeHNidGkuYXBpLkFic3RyYWN0TGF6edN3tQFfu+egAgAAeHAAcHNyACB4c2J0aS5TYWZlTGF6eSQkYW5vbmZ1biRzdHJpY3QkMQAAAAAAAAAAAgABTAAHdmFsdWUkMXEAfgBJeHBzcgATeHNidGkuYXBpLkVtcHR5VHlwZbz9nkZJO4kkAgAAeHIAFHhzYnRpLmFwaS5TaW1wbGVUeXBlcnhiiCEjv0ACAAB4cgAOeHNidGkuYXBpLlR5cGU/atkhFkmqygIAAHhwc3EAfgBIAHBzcQB+AE1zcgATeHNidGkuYXBpLlN0cnVjdHVyZamq+YCTb9gAAgADTAAIZGVjbGFyZWRxAH4AL0wACWluaGVyaXRlZHEAfgAvTAAHcGFyZW50c3EAfgAveHEAfgBRc3EAfgBIAHBzcQB+AE11cQB+ACoAAAAAc3EAfgBIAHBzcQB+AE11cQB+ACoAAAAAc3EAfgBIAHBzcQB+AE11cgARW0x4c2J0aS5hcGkuVHlwZTt0/6Vae/npQQIAAHhwAAAAAXNyABR4c2J0aS5hcGkuUHJvamVjdGlvbvPSjVTpRaQtAgACTAACaWRxAH4ADUwABnByZWZpeHQAFkx4c2J0aS9hcGkvU2ltcGxlVHlwZTt4cQB+AFB0AAZPYmplY3RzcgATeHNidGkuYXBpLlNpbmdsZXRvbvynX/jPVuRGAgABTAAEcGF0aHQAEEx4c2J0aS9hcGkvUGF0aDt4cQB+AFBzcgAOeHNidGkuYXBpLlBhdGibPVwIzqUnhAIAAVsACmNvbXBvbmVudHN0ABpbTHhzYnRpL2FwaS9QYXRoQ29tcG9uZW50O3hwdXIAGltMeHNidGkuYXBpLlBhdGhDb21wb25lbnQ7Q9oJdC1nFnQCAAB4cAAAAANzcgAMeHNidGkuYXBpLklkmDJsizdTxEACAAFMAAJpZHEAfgANeHIAF3hzYnRpLmFwaS5QYXRoQ29tcG9uZW50X5oiWy6Gn7wCAAB4cHQABGphdmFzcQB+AG10AARsYW5nc3IADnhzYnRpLmFwaS5UaGlz2wntpsxaQFwCAAB4cQB+AG5zcQB+ACxxAH4AOXEAfgA7cQB+AD1xAH4APnEAfgBAfnEAfgBBdAAGTW9kdWxldXEAfgBFAAAAAHNxAH4ASABwc3EAfgBNcQB+AFJzcQB+AEgAcHNxAH4ATXNxAH4AVXNxAH4ASABwc3EAfgBNdXEAfgAqAAAAAHNxAH4ASABwc3EAfgBNdXEAfgAqAAAAAHNxAH4ASABwc3EAfgBNdXEAfgBfAAAAAHVyABRbTHhzYnRpLmFwaS5QYWNrYWdlO1sTGTdwpyehAgAAeHAAAAABc3IAEXhzYnRpLmFwaS5QYWNrYWdlflmP9q7OOVgCAAFMAARuYW1lcQB+AA14cHQAFGNoYXQudG94LmFudG94LnRlc3Rzc3IAFXhzYnRpLmFwaS5Db21waWxhdGlvbu364MNq6KBCAgACSgAJc3RhcnRUaW1lWwAHb3V0cHV0c3QAGltMeHNidGkvYXBpL091dHB1dFNldHRpbmc7eHAAAAFR/wHHz3VyABpbTHhzYnRpLmFwaS5PdXRwdXRTZXR0aW5nO39qwvOnh6VCAgAAeHAAAAABc3IAF3hzYnRpLmFwaS5PdXRwdXRTZXR0aW5netmaR3T7HXsCAAJMAA9vdXRwdXREaXJlY3RvcnlxAH4ADUwAD3NvdXJjZURpcmVjdG9yeXEAfgANeHB0AFMvVXNlcnMvQW5uL0Rvd25sb2Fkcy9BbnRveC1tYXN0ZXIvYXBwL2J1aWxkL2ludGVybWVkaWF0ZXMvY2xhc3Nlcy9hbmRyb2lkVGVzdC9kZWJ1Z3QAAS91cgACW0Ks8xf4BghU4AIAAHhwAAAAFKOo/Xc99MXoZFLZZLuoA3G0u3Cq
+/Users/Ann/Downloads/Antox-master/app/src/androidTest/scala/chat/tox/antox/tests/AntoxDBTest.scala -> 
+rO0ABXNyABB4c2J0aS5hcGkuU291cmNlFlpwRASfbtoCAAZJAAdhcGlIYXNoWgAIaGFzTWFjcm9MABhfaW50ZXJuYWxPbmx5X25hbWVIYXNoZXN0ACRMeHNidGkvYXBpL19pbnRlcm5hbE9ubHlfTmFtZUhhc2hlcztMAANhcGl0ABVMeHNidGkvYXBpL1NvdXJjZUFQSTtMAAtjb21waWxhdGlvbnQAF0x4c2J0aS9hcGkvQ29tcGlsYXRpb247WwAEaGFzaHQAAltCeHA/XI9jAHNyACJ4c2J0aS5hcGkuX2ludGVybmFsT25seV9OYW1lSGFzaGVzVNq+mfrU7EwCAAJbAA9pbXBsaWNpdE1lbWJlcnN0ACNbTHhzYnRpL2FwaS9faW50ZXJuYWxPbmx5X05hbWVIYXNoO1sADnJlZ3VsYXJNZW1iZXJzcQB+AAd4cHVyACNbTHhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoO0lagLbdlov0AgAAeHAAAAAAdXEAfgAJAAAAL3NyACB4c2J0aS5hcGkuX2ludGVybmFsT25seV9OYW1lSGFzaFsO9SJ2OFfPAgACSQAEaGFzaEwABG5hbWV0ABJMamF2YS9sYW5nL1N0cmluZzt4cCEq9BZ0AA5jb3VudFRlc3RDYXNlc3NxAH4ADIAMmWB0AAZub3RpZnlzcQB+AAzSfyYHdAApYXNzZXJ0UmVhZGluZ0NvbnRlbnRVcmlSZXF1aXJlc1Blcm1pc3Npb25zcQB+AAw64i5JdAAEbmFtZXNxAH4ADLuUud50AClhc3NlcnRXcml0aW5nQ29udGVudFVyaVJlcXVpcmVzUGVybWlzc2lvbnNxAH4ADPi2Ei50AAVzZXRVcHNxAH4ADFZTMV10AAR3YWl0c3EAfgAMHFEOcXQADSRhc0luc3RhbmNlT2ZzcQB+AAyXzMm2dAAHc2V0TmFtZXNxAH4ADJbkXxl0AAZlcXVhbHNzcQB+AAzLmVdmdAAMYXNJbnN0YW5jZU9mc3EAfgAMV7mrXnQAA3J1bnNxAH4ADJGN96B0AAxzeW5jaHJvbml6ZWRzcQB+AAzsRjy6dAACZGJzcQB+AAx3pCKEdAANdGVzdFVucmVhZE1zZ3NxAH4ADK055U50AA0kaXNJbnN0YW5jZU9mc3EAfgAMtxRHf3QAB3J1bkJhcmVzcQB+AAwid6S7dAAgdGVzdEFuZHJvaWRUZXN0Q2FzZVNldHVwUHJvcGVybHlzcQB+AAxeAJ3EdAANdGVzdEFkZEZyaWVuZHNxAH4ADJPNgpZ0AAdzZWxmS2V5c3EAfgAMcvT8B3QACW5vdGlmeUFsbHNxAH4ADKzAyQ50AAdnZXROYW1lc3EAfgAM1ZvHxHQAB3J1blRlc3RzcQB+AAxU4EJldAAMaXNJbnN0YW5jZU9mc3EAfgAMiKK6YHQABWFsaWFzc3EAfgAMxqEt9nQADGNyZWF0ZVJlc3VsdHNxAH4ADGaHUkF0AAY8aW5pdD5zcQB+AAxFwRAGdAALQW50b3hEQlRlc3RzcQB+AAyWTXi0dAACPT1zcQB+AAx0RmC5dAAIdGVhckRvd25zcQB+AAwaa2SXdAAFY2xvbmVzcQB+AAzPxPVWdAAQdGVzdExhc3RNZXNzYWdlc3NxAH4ADE8gAJF0AAlmcmllbmRLZXlzcQB+AAy1NHsrdAAKc2NydWJDbGFzc3NxAH4ADME/ssN0AApnZXRDb250ZXh0c3EAfgAM4ER9VHQACG1Db250ZXh0c3EAfgAMF158JXQACHRvU3RyaW5nc3EAfgAMhOkHQHQAAiE9c3EAfgAMdNJXUnQACGdldENsYXNzc3EAfgAMVASZG3QADXN0YXR1c01lc3NhZ2VzcQB+AAx0wg+GdAAgYXNzZXJ0QWN0aXZpdHlSZXF1aXJlc1Blcm1pc3Npb25zcQB+AAyQaRfidAACbmVzcQB+AAxhpKGTdAACZXFzcQB+AAwetHVGdAACIyNzcQB+AAwsJNqQdAAIZmluYWxpemVzcQB+AAwSSCUxdAAIaGFzaENvZGVzcQB+AAwgMfmZdAAKc2V0Q29udGV4dHNyABN4c2J0aS5hcGkuU291cmNlQVBJuV6n+SkjOKQCAAJbAAtkZWZpbml0aW9uc3QAF1tMeHNidGkvYXBpL0RlZmluaXRpb247WwAIcGFja2FnZXN0ABRbTHhzYnRpL2FwaS9QYWNrYWdlO3hwdXIAF1tMeHNidGkuYXBpLkRlZmluaXRpb247iMlc57TjXg4CAAB4cAAAAAFzcgATeHNidGkuYXBpLkNsYXNzTGlrZYM0HKHfsJdsAgAETAAOZGVmaW5pdGlvblR5cGV0ABpMeHNidGkvYXBpL0RlZmluaXRpb25UeXBlO1sAEHNhdmVkQW5ub3RhdGlvbnN0ABNbTGphdmEvbGFuZy9TdHJpbmc7TAAIc2VsZlR5cGV0ABBMeHNidGkvYXBpL0xhenk7TAAJc3RydWN0dXJlcQB+AHV4cgAheHNidGkuYXBpLlBhcmFtZXRlcml6ZWREZWZpbml0aW9u+RFusdVQPOICAAFbAA50eXBlUGFyYW1ldGVyc3QAGltMeHNidGkvYXBpL1R5cGVQYXJhbWV0ZXI7eHIAFHhzYnRpLmFwaS5EZWZpbml0aW9uhyob6HFC40YCAARMAAZhY2Nlc3N0ABJMeHNidGkvYXBpL0FjY2VzcztbAAthbm5vdGF0aW9uc3QAF1tMeHNidGkvYXBpL0Fubm90YXRpb247TAAJbW9kaWZpZXJzdAAVTHhzYnRpL2FwaS9Nb2RpZmllcnM7TAAEbmFtZXEAfgANeHBzcgAQeHNidGkuYXBpLlB1YmxpY7pYPa5sLWBCAgAAeHIAEHhzYnRpLmFwaS5BY2Nlc3PdYpr4HWMxSAIAAHhwdXIAF1tMeHNidGkuYXBpLkFubm90YXRpb24765frGRD2jUgCAAB4cAAAAAFzcgAUeHNidGkuYXBpLkFubm90YXRpb27eDoGi9lwKsgIAAlsACWFyZ3VtZW50c3QAH1tMeHNidGkvYXBpL0Fubm90YXRpb25Bcmd1bWVudDtMAARiYXNldAAQTHhzYnRpL2FwaS9UeXBlO3hwdXIAH1tMeHNidGkuYXBpLkFubm90YXRpb25Bcmd1bWVudDtRnaaPOCUPeAIAAHhwAAAAAXNyABx4c2J0aS5hcGkuQW5ub3RhdGlvbkFyZ3VtZW501kWx2AMbF3wCAAJMAARuYW1lcQB+AA1MAAV2YWx1ZXEAfgANeHB0AAV2YWx1ZXQAMmNsYXNzT2ZbYW5kcm9pZC5zdXBwb3J0LnRlc3QucnVubmVyLkFuZHJvaWRKVW5pdDRdc3IAFHhzYnRpLmFwaS5Qcm9qZWN0aW9u89KNVOlFpC0CAAJMAAJpZHEAfgANTAAGcHJlZml4dAAWTHhzYnRpL2FwaS9TaW1wbGVUeXBlO3hyABR4c2J0aS5hcGkuU2ltcGxlVHlwZXJ4YoghI79AAgAAeHIADnhzYnRpLmFwaS5UeXBlP2rZIRZJqsoCAAB4cHQAB1J1bldpdGhzcgATeHNidGkuYXBpLlNpbmdsZXRvbvynX/jPVuRGAgABTAAEcGF0aHQAEEx4c2J0aS9hcGkvUGF0aDt4cQB+AI5zcgAOeHNidGkuYXBpLlBhdGibPVwIzqUnhAIAAVsACmNvbXBvbmVudHN0ABpbTHhzYnRpL2FwaS9QYXRoQ29tcG9uZW50O3hwdXIAGltMeHNidGkuYXBpLlBhdGhDb21wb25lbnQ7Q9oJdC1nFnQCAAB4cAAAAARzcgAMeHNidGkuYXBpLklkmDJsizdTxEACAAFMAAJpZHEAfgANeHIAF3hzYnRpLmFwaS5QYXRoQ29tcG9uZW50X5oiWy6Gn7wCAAB4cHQAA29yZ3NxAH4AmnQABWp1bml0c3EAfgCadAAGcnVubmVyc3IADnhzYnRpLmFwaS5UaGlz2wntpsxaQFwCAAB4cQB+AJtzcgATeHNidGkuYXBpLk1vZGlmaWVyc8cREyFpnNwkAgABQgAFZmxhZ3N4cAB0ACBjaGF0LnRveC5hbnRveC50ZXN0cy5BbnRveERCVGVzdHVyABpbTHhzYnRpLmFwaS5UeXBlUGFyYW1ldGVyO9ltJg8onfK2AgAAeHAAAAAAfnIAGHhzYnRpLmFwaS5EZWZpbml0aW9uVHlwZQAAAAAAAAAAEgAAeHIADmphdmEubGFuZy5FbnVtAAAAAAAAAAASAAB4cHQACENsYXNzRGVmdXIAE1tMamF2YS5sYW5nLlN0cmluZzut0lbn6R17RwIAAHhwAAAAA3QAEG9yZy5qdW5pdC5CZWZvcmV0AA9vcmcuanVuaXQuQWZ0ZXJ0AA5vcmcuanVuaXQuVGVzdHNyABN4c2J0aS5TYWZlTGF6eSRJbXBsUAIuk5eXQD8CAANaAAhiaXRtYXAkMEwAAl90dAASTGphdmEvbGFuZy9PYmplY3Q7TAAEZXZhbHQAEUxzY2FsYS9GdW5jdGlvbjA7eHIAFnhzYnRpLmFwaS5BYnN0cmFjdExhennTd7UBX7vnoAIAAHhwAHBzcgAgeHNidGkuU2FmZUxhenkkJGFub25mdW4kc3RyaWN0JDEAAAAAAAAAAAIAAUwAB3ZhbHVlJDFxAH4As3hwc3IAE3hzYnRpLmFwaS5FbXB0eVR5cGW8/Z5GSTuJJAIAAHhxAH4AjnNxAH4AsgBwc3EAfgC3c3IAE3hzYnRpLmFwaS5TdHJ1Y3R1cmWpqvmAk2/YAAIAA0wACGRlY2xhcmVkcQB+AHVMAAlpbmhlcml0ZWRxAH4AdUwAB3BhcmVudHNxAH4AdXhxAH4Aj3NxAH4AsgBwc3EAfgC3dXEAfgBwAAAAAHNxAH4AsgBwc3EAfgC3dXEAfgBwAAAAAHNxAH4AsgBwc3EAfgC3dXIAEVtMeHNidGkuYXBpLlR5cGU7dP+lWnv56UECAAB4cAAAAAZzcQB+AIx0AA9BbmRyb2lkVGVzdENhc2VzcQB+AJJzcQB+AJV1cQB+AJgAAAADc3EAfgCadAAHYW5kcm9pZHNxAH4AmnQABHRlc3RxAH4Ao3NxAH4AjHQACFRlc3RDYXNlc3EAfgCSc3EAfgCVdXEAfgCYAAAAA3NxAH4AmnQABWp1bml0c3EAfgCadAAJZnJhbWV3b3JrcQB+AKNzcQB+AIx0AARUZXN0cQB+ANRzcQB+AIx0AAZBc3NlcnRxAH4A1HNxAH4AjHQABk9iamVjdHNxAH4AknNxAH4AlXVxAH4AmAAAAANzcQB+AJp0AARqYXZhc3EAfgCadAAEbGFuZ3EAfgCjc3EAfgCMdAADQW55c3EAfgCSc3EAfgCVdXEAfgCYAAAAAnNxAH4AmnQABXNjYWxhcQB+AKN1cgAUW0x4c2J0aS5hcGkuUGFja2FnZTtbExk3cKcnoQIAAHhwAAAABHNyABF4c2J0aS5hcGkuUGFja2FnZX5Zj/auzjlYAgABTAAEbmFtZXEAfgANeHB0AAhjaGF0LnRveHNxAH4A8XQABGNoYXRzcQB+APF0ABRjaGF0LnRveC5hbnRveC50ZXN0c3NxAH4A8XQADmNoYXQudG94LmFudG94c3IAFXhzYnRpLmFwaS5Db21waWxhdGlvbu364MNq6KBCAgACSgAJc3RhcnRUaW1lWwAHb3V0cHV0c3QAGltMeHNidGkvYXBpL091dHB1dFNldHRpbmc7eHAAAAFR/wHHz3VyABpbTHhzYnRpLmFwaS5PdXRwdXRTZXR0aW5nO39qwvOnh6VCAgAAeHAAAAABc3IAF3hzYnRpLmFwaS5PdXRwdXRTZXR0aW5netmaR3T7HXsCAAJMAA9vdXRwdXREaXJlY3RvcnlxAH4ADUwAD3NvdXJjZURpcmVjdG9yeXEAfgANeHB0AFMvVXNlcnMvQW5uL0Rvd25sb2Fkcy9BbnRveC1tYXN0ZXIvYXBwL2J1aWxkL2ludGVybWVkaWF0ZXMvY2xhc3Nlcy9hbmRyb2lkVGVzdC9kZWJ1Z3QAAS91cgACW0Ks8xf4BghU4AIAAHhwAAAAFF5/0VjcgQiU73FKtBCrHTXOVwep
+/Users/Ann/Downloads/Antox-master/app/src/androidTest/scala/chat/tox/antox/tests/MessageHelperTest.scala -> 
+rO0ABXNyABB4c2J0aS5hcGkuU291cmNlFlpwRASfbtoCAAZJAAdhcGlIYXNoWgAIaGFzTWFjcm9MABhfaW50ZXJuYWxPbmx5X25hbWVIYXNoZXN0ACRMeHNidGkvYXBpL19pbnRlcm5hbE9ubHlfTmFtZUhhc2hlcztMAANhcGl0ABVMeHNidGkvYXBpL1NvdXJjZUFQSTtMAAtjb21waWxhdGlvbnQAF0x4c2J0aS9hcGkvQ29tcGlsYXRpb247WwAEaGFzaHQAAltCeHBoGNrNAHNyACJ4c2J0aS5hcGkuX2ludGVybmFsT25seV9OYW1lSGFzaGVzVNq+mfrU7EwCAAJbAA9pbXBsaWNpdE1lbWJlcnN0ACNbTHhzYnRpL2FwaS9faW50ZXJuYWxPbmx5X05hbWVIYXNoO1sADnJlZ3VsYXJNZW1iZXJzcQB+AAd4cHVyACNbTHhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoO0lagLbdlov0AgAAeHAAAAAAdXEAfgAJAAAAJ3NyACB4c2J0aS5hcGkuX2ludGVybmFsT25seV9OYW1lSGFzaFsO9SJ2OFfPAgACSQAEaGFzaEwABG5hbWV0ABJMamF2YS9sYW5nL1N0cmluZzt4cAXDWEB0AA5jb3VudFRlc3RDYXNlc3NxAH4ADLHX9f10AAZub3RpZnlzcQB+AAyw51KFdAApYXNzZXJ0UmVhZGluZ0NvbnRlbnRVcmlSZXF1aXJlc1Blcm1pc3Npb25zcQB+AAylAkY6dAApYXNzZXJ0V3JpdGluZ0NvbnRlbnRVcmlSZXF1aXJlc1Blcm1pc3Npb25zcQB+AAxonjI7dAAFc2V0VXBzcQB+AAxOOKDIdAAEd2FpdHNxAH4ADMgPJxF0AA0kYXNJbnN0YW5jZU9mc3EAfgAM/35NX3QAB3NldE5hbWVzcQB+AAyhhkZYdAAGZXF1YWxzc3EAfgAMwZrLrXQADGFzSW5zdGFuY2VPZnNxAH4ADD7K83h0AANydW5zcQB+AAzu8012dAAMc3luY2hyb25pemVkc3EAfgAMpiH52nQADSRpc0luc3RhbmNlT2ZzcQB+AAxtRWEtdAAHcnVuQmFyZXNxAH4ADG9cc8N0ACB0ZXN0QW5kcm9pZFRlc3RDYXNlU2V0dXBQcm9wZXJseXNxAH4ADCWYYZN0AAlub3RpZnlBbGxzcQB+AAy/HqysdAAHZ2V0TmFtZXNxAH4ADJi4wN90AAdydW5UZXN0c3EAfgAMsgDsBXQADGlzSW5zdGFuY2VPZnNxAH4ADEXMmxh0ABFNZXNzYWdlSGVscGVyVGVzdHNxAH4ADEBosLZ0AAxjcmVhdGVSZXN1bHRzcQB+AAxPQlNAdAAGPGluaXQ+c3EAfgAMe9tHPHQAAj09c3EAfgAM1sp93HQACHRlYXJEb3duc3EAfgAMPzOje3QABWNsb25lc3EAfgAMsy2r+HQAEHRlc3RTcGxpdE1lc3NhZ2VzcQB+AAwc+ZDqdAAKc2NydWJDbGFzc3NxAH4ADBZK8CR0AApnZXRDb250ZXh0c3EAfgAMQCTsy3QACG1Db250ZXh0c3EAfgAMakKuznQACHRvU3RyaW5nc3EAfgAMRO6ZMHQAAiE9c3EAfgAMb3lHGXQACGdldENsYXNzc3EAfgAM8jCHgXQAIGFzc2VydEFjdGl2aXR5UmVxdWlyZXNQZXJtaXNzaW9uc3EAfgAMwW0xq3QAAm5lc3EAfgAMhgaTL3QAAmVxc3EAfgAMQbBgeXQAAiMjc3EAfgAMpst8LnQACGZpbmFsaXplc3EAfgAMrhFZN3QACGhhc2hDb2Rlc3EAfgAMbBdGrnQACnNldENvbnRleHRzcgATeHNidGkuYXBpLlNvdXJjZUFQSblep/kpIzikAgACWwALZGVmaW5pdGlvbnN0ABdbTHhzYnRpL2FwaS9EZWZpbml0aW9uO1sACHBhY2thZ2VzdAAUW0x4c2J0aS9hcGkvUGFja2FnZTt4cHVyABdbTHhzYnRpLmFwaS5EZWZpbml0aW9uO4jJXOe0414OAgAAeHAAAAABc3IAE3hzYnRpLmFwaS5DbGFzc0xpa2WDNByh37CXbAIABEwADmRlZmluaXRpb25UeXBldAAaTHhzYnRpL2FwaS9EZWZpbml0aW9uVHlwZTtbABBzYXZlZEFubm90YXRpb25zdAATW0xqYXZhL2xhbmcvU3RyaW5nO0wACHNlbGZUeXBldAAQTHhzYnRpL2FwaS9MYXp5O0wACXN0cnVjdHVyZXEAfgBleHIAIXhzYnRpLmFwaS5QYXJhbWV0ZXJpemVkRGVmaW5pdGlvbvkRbrHVUDziAgABWwAOdHlwZVBhcmFtZXRlcnN0ABpbTHhzYnRpL2FwaS9UeXBlUGFyYW1ldGVyO3hyABR4c2J0aS5hcGkuRGVmaW5pdGlvbocqG+hxQuNGAgAETAAGYWNjZXNzdAASTHhzYnRpL2FwaS9BY2Nlc3M7WwALYW5ub3RhdGlvbnN0ABdbTHhzYnRpL2FwaS9Bbm5vdGF0aW9uO0wACW1vZGlmaWVyc3QAFUx4c2J0aS9hcGkvTW9kaWZpZXJzO0wABG5hbWVxAH4ADXhwc3IAEHhzYnRpLmFwaS5QdWJsaWO6WD2ubC1gQgIAAHhyABB4c2J0aS5hcGkuQWNjZXNz3WKa+B1jMUgCAAB4cHVyABdbTHhzYnRpLmFwaS5Bbm5vdGF0aW9uO+uX6xkQ9o1IAgAAeHAAAAABc3IAFHhzYnRpLmFwaS5Bbm5vdGF0aW9u3g6BovZcCrICAAJbAAlhcmd1bWVudHN0AB9bTHhzYnRpL2FwaS9Bbm5vdGF0aW9uQXJndW1lbnQ7TAAEYmFzZXQAEEx4c2J0aS9hcGkvVHlwZTt4cHVyAB9bTHhzYnRpLmFwaS5Bbm5vdGF0aW9uQXJndW1lbnQ7UZ2mjzglD3gCAAB4cAAAAAFzcgAceHNidGkuYXBpLkFubm90YXRpb25Bcmd1bWVudNZFsdgDGxd8AgACTAAEbmFtZXEAfgANTAAFdmFsdWVxAH4ADXhwdAAFdmFsdWV0ADJjbGFzc09mW2FuZHJvaWQuc3VwcG9ydC50ZXN0LnJ1bm5lci5BbmRyb2lkSlVuaXQ0XXNyABR4c2J0aS5hcGkuUHJvamVjdGlvbvPSjVTpRaQtAgACTAACaWRxAH4ADUwABnByZWZpeHQAFkx4c2J0aS9hcGkvU2ltcGxlVHlwZTt4cgAUeHNidGkuYXBpLlNpbXBsZVR5cGVyeGKIISO/QAIAAHhyAA54c2J0aS5hcGkuVHlwZT9q2SEWSarKAgAAeHB0AAdSdW5XaXRoc3IAE3hzYnRpLmFwaS5TaW5nbGV0b278p1/4z1bkRgIAAUwABHBhdGh0ABBMeHNidGkvYXBpL1BhdGg7eHEAfgB+c3IADnhzYnRpLmFwaS5QYXRomz1cCM6lJ4QCAAFbAApjb21wb25lbnRzdAAaW0x4c2J0aS9hcGkvUGF0aENvbXBvbmVudDt4cHVyABpbTHhzYnRpLmFwaS5QYXRoQ29tcG9uZW50O0PaCXQtZxZ0AgAAeHAAAAAEc3IADHhzYnRpLmFwaS5JZJgybIs3U8RAAgABTAACaWRxAH4ADXhyABd4c2J0aS5hcGkuUGF0aENvbXBvbmVudF+aIlsuhp+8AgAAeHB0AANvcmdzcQB+AIp0AAVqdW5pdHNxAH4AinQABnJ1bm5lcnNyAA54c2J0aS5hcGkuVGhpc9sJ7abMWkBcAgAAeHEAfgCLc3IAE3hzYnRpLmFwaS5Nb2RpZmllcnPHERMhaZzcJAIAAUIABWZsYWdzeHAAdAAmY2hhdC50b3guYW50b3gudGVzdHMuTWVzc2FnZUhlbHBlclRlc3R1cgAaW0x4c2J0aS5hcGkuVHlwZVBhcmFtZXRlcjvZbSYPKJ3ytgIAAHhwAAAAAH5yABh4c2J0aS5hcGkuRGVmaW5pdGlvblR5cGUAAAAAAAAAABIAAHhyAA5qYXZhLmxhbmcuRW51bQAAAAAAAAAAEgAAeHB0AAhDbGFzc0RlZnVyABNbTGphdmEubGFuZy5TdHJpbmc7rdJW5+kde0cCAAB4cAAAAABzcgATeHNidGkuU2FmZUxhenkkSW1wbFACLpOXl0A/AgADWgAIYml0bWFwJDBMAAJfdHQAEkxqYXZhL2xhbmcvT2JqZWN0O0wABGV2YWx0ABFMc2NhbGEvRnVuY3Rpb24wO3hyABZ4c2J0aS5hcGkuQWJzdHJhY3RMYXp503e1AV+756ACAAB4cABwc3IAIHhzYnRpLlNhZmVMYXp5JCRhbm9uZnVuJHN0cmljdCQxAAAAAAAAAAACAAFMAAd2YWx1ZSQxcQB+AKB4cHNyABN4c2J0aS5hcGkuRW1wdHlUeXBlvP2eRkk7iSQCAAB4cQB+AH5zcQB+AJ8AcHNxAH4ApHNyABN4c2J0aS5hcGkuU3RydWN0dXJlqar5gJNv2AACAANMAAhkZWNsYXJlZHEAfgBlTAAJaW5oZXJpdGVkcQB+AGVMAAdwYXJlbnRzcQB+AGV4cQB+AH9zcQB+AJ8AcHNxAH4ApHVxAH4AYAAAAABzcQB+AJ8AcHNxAH4ApHVxAH4AYAAAAABzcQB+AJ8AcHNxAH4ApHVyABFbTHhzYnRpLmFwaS5UeXBlO3T/pVp7+elBAgAAeHAAAAAGc3EAfgB8dAAPQW5kcm9pZFRlc3RDYXNlc3EAfgCCc3EAfgCFdXEAfgCIAAAAA3NxAH4AinQAB2FuZHJvaWRzcQB+AIp0AAR0ZXN0cQB+AJNzcQB+AHx0AAhUZXN0Q2FzZXNxAH4AgnNxAH4AhXVxAH4AiAAAAANzcQB+AIp0AAVqdW5pdHNxAH4AinQACWZyYW1ld29ya3EAfgCTc3EAfgB8dAAEVGVzdHEAfgDBc3EAfgB8dAAGQXNzZXJ0cQB+AMFzcQB+AHx0AAZPYmplY3RzcQB+AIJzcQB+AIV1cQB+AIgAAAADc3EAfgCKdAAEamF2YXNxAH4AinQABGxhbmdxAH4Ak3NxAH4AfHQAA0FueXNxAH4AgnNxAH4AhXVxAH4AiAAAAAJzcQB+AIp0AAVzY2FsYXEAfgCTdXIAFFtMeHNidGkuYXBpLlBhY2thZ2U7WxMZN3CnJ6ECAAB4cAAAAARzcgAReHNidGkuYXBpLlBhY2thZ2V+WY/2rs45WAIAAUwABG5hbWVxAH4ADXhwdAAIY2hhdC50b3hzcQB+AN50AARjaGF0c3EAfgDedAAUY2hhdC50b3guYW50b3gudGVzdHNzcQB+AN50AA5jaGF0LnRveC5hbnRveHNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABUf8Bx891cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5cQB+AA1MAA9zb3VyY2VEaXJlY3RvcnlxAH4ADXhwdABTL1VzZXJzL0Fubi9Eb3dubG9hZHMvQW50b3gtbWFzdGVyL2FwcC9idWlsZC9pbnRlcm1lZGlhdGVzL2NsYXNzZXMvYW5kcm9pZFRlc3QvZGVidWd0AAEvdXIAAltCrPMX+AYIVOACAAB4cAAAABRibTl68B9Cs7IKc05nQlufTgCUuQ==
+/Users/Ann/Downloads/Antox-master/app/src/androidTest/scala/chat/tox/antox/tests/ToxMeTest.scala -> 
+rO0ABXNyABB4c2J0aS5hcGkuU291cmNlFlpwRASfbtoCAAZJAAdhcGlIYXNoWgAIaGFzTWFjcm9MABhfaW50ZXJuYWxPbmx5X25hbWVIYXNoZXN0ACRMeHNidGkvYXBpL19pbnRlcm5hbE9ubHlfTmFtZUhhc2hlcztMAANhcGl0ABVMeHNidGkvYXBpL1NvdXJjZUFQSTtMAAtjb21waWxhdGlvbnQAF0x4c2J0aS9hcGkvQ29tcGlsYXRpb247WwAEaGFzaHQAAltCeHA09M+0AHNyACJ4c2J0aS5hcGkuX2ludGVybmFsT25seV9OYW1lSGFzaGVzVNq+mfrU7EwCAAJbAA9pbXBsaWNpdE1lbWJlcnN0ACNbTHhzYnRpL2FwaS9faW50ZXJuYWxPbmx5X05hbWVIYXNoO1sADnJlZ3VsYXJNZW1iZXJzcQB+AAd4cHVyACNbTHhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoO0lagLbdlov0AgAAeHAAAAAAdXEAfgAJAAAAL3NyACB4c2J0aS5hcGkuX2ludGVybmFsT25seV9OYW1lSGFzaFsO9SJ2OFfPAgACSQAEaGFzaEwABG5hbWV0ABJMamF2YS9sYW5nL1N0cmluZzt4cCezAyZ0AA5jb3VudFRlc3RDYXNlc3NxAH4ADGEXnUx0AAZub3RpZnlzcQB+AAzZSv7LdAApYXNzZXJ0UmVhZGluZ0NvbnRlbnRVcmlSZXF1aXJlc1Blcm1pc3Npb25zcQB+AAzLnkKudAApYXNzZXJ0V3JpdGluZ0NvbnRlbnRVcmlSZXF1aXJlc1Blcm1pc3Npb25zcQB+AAwaGy6wdAAFc2V0VXBzcQB+AAx8YDjHdAAEd2FpdHNxAH4ADOWKZSR0ABJnZW5SYW5kb21Ub3hNZU5hbWVzcQB+AAy6OmZ+dAAKdGVzdExvb2t1cHNxAH4ADPKIP1x0AA0kYXNJbnN0YW5jZU9mc3EAfgAMce0IcHQAB3NldE5hbWVzcQB+AAxCwX8zdAAGZXF1YWxzc3EAfgAMktPfYXQAEHRlc3RSZWdpc3RyYXRpb25zcQB+AAz4iJVIdAAKdGVzdFNlYXJjaHNxAH4ADPDcA9V0AAxhc0luc3RhbmNlT2ZzcQB+AAyPtsKjdAADcnVuc3EAfgAMiGg6SHQADHN5bmNocm9uaXplZHNxAH4ADBwpJ1p0AA0kaXNJbnN0YW5jZU9mc3EAfgAM2DiJY3QAB3J1bkJhcmVzcQB+AAyDHYyOdAAgdGVzdEFuZHJvaWRUZXN0Q2FzZVNldHVwUHJvcGVybHlzcQB+AAzJ/fSIdAAMdGVzdERlbGV0aW9uc3EAfgAMJOCo43QAE3Rlc3RMb29rdXBQdWJsaWNLZXlzcQB+AAyWIwKqdAAJbm90aWZ5QWxsc3EAfgAMPvfPZ3QAB2dldE5hbWVzcQB+AAx/z/vzdAAHcnVuVGVzdHNxAH4ADFv8DKp0AAxpc0luc3RhbmNlT2ZzcQB+AAx2noUSdAARdGVzdExvb2t1cFVuaWNvZGVzcQB+AAwjsz0fdAAMY3JlYXRlUmVzdWx0c3EAfgAMf/xmtHQABjxpbml0PnNxAH4ADN86b4B0AAlUb3hNZVRlc3RzcQB+AAx5ENLNdAACPT1zcQB+AAyC3rEEdAAIdGVhckRvd25zcQB+AAwi0ju2dAAFY2xvbmVzcQB+AAzI7v6DdAAKc2NydWJDbGFzc3NxAH4ADOmkBTl0AApnZXRDb250ZXh0c3EAfgAMTJqNrnQACG1Db250ZXh0c3EAfgAM6li/BHQACHRvU3RyaW5nc3EAfgAMNe9maHQAAiE9c3EAfgAM3coCMXQAD3JlZ2lzdGVyQWNjb3VudHNxAH4ADCMNGFd0AAhnZXRDbGFzc3NxAH4ADHWS28x0ACBhc3NlcnRBY3Rpdml0eVJlcXVpcmVzUGVybWlzc2lvbnNxAH4ADDnj2Vh0AAJuZXNxAH4ADORFbPl0AAJlcXNxAH4ADOc9SLR0AA1jcmVhdGVUb3hEYXRhc3EAfgAMZdib+3QAAiMjc3EAfgAM1sAmzHQACGZpbmFsaXplc3EAfgAMEyB493QACGhhc2hDb2Rlc3EAfgAM0n7oPnQACnNldENvbnRleHRzcgATeHNidGkuYXBpLlNvdXJjZUFQSblep/kpIzikAgACWwALZGVmaW5pdGlvbnN0ABdbTHhzYnRpL2FwaS9EZWZpbml0aW9uO1sACHBhY2thZ2VzdAAUW0x4c2J0aS9hcGkvUGFja2FnZTt4cHVyABdbTHhzYnRpLmFwaS5EZWZpbml0aW9uO4jJXOe0414OAgAAeHAAAAABc3IAE3hzYnRpLmFwaS5DbGFzc0xpa2WDNByh37CXbAIABEwADmRlZmluaXRpb25UeXBldAAaTHhzYnRpL2FwaS9EZWZpbml0aW9uVHlwZTtbABBzYXZlZEFubm90YXRpb25zdAATW0xqYXZhL2xhbmcvU3RyaW5nO0wACHNlbGZUeXBldAAQTHhzYnRpL2FwaS9MYXp5O0wACXN0cnVjdHVyZXEAfgB1eHIAIXhzYnRpLmFwaS5QYXJhbWV0ZXJpemVkRGVmaW5pdGlvbvkRbrHVUDziAgABWwAOdHlwZVBhcmFtZXRlcnN0ABpbTHhzYnRpL2FwaS9UeXBlUGFyYW1ldGVyO3hyABR4c2J0aS5hcGkuRGVmaW5pdGlvbocqG+hxQuNGAgAETAAGYWNjZXNzdAASTHhzYnRpL2FwaS9BY2Nlc3M7WwALYW5ub3RhdGlvbnN0ABdbTHhzYnRpL2FwaS9Bbm5vdGF0aW9uO0wACW1vZGlmaWVyc3QAFUx4c2J0aS9hcGkvTW9kaWZpZXJzO0wABG5hbWVxAH4ADXhwc3IAEHhzYnRpLmFwaS5QdWJsaWO6WD2ubC1gQgIAAHhyABB4c2J0aS5hcGkuQWNjZXNz3WKa+B1jMUgCAAB4cHVyABdbTHhzYnRpLmFwaS5Bbm5vdGF0aW9uO+uX6xkQ9o1IAgAAeHAAAAABc3IAFHhzYnRpLmFwaS5Bbm5vdGF0aW9u3g6BovZcCrICAAJbAAlhcmd1bWVudHN0AB9bTHhzYnRpL2FwaS9Bbm5vdGF0aW9uQXJndW1lbnQ7TAAEYmFzZXQAEEx4c2J0aS9hcGkvVHlwZTt4cHVyAB9bTHhzYnRpLmFwaS5Bbm5vdGF0aW9uQXJndW1lbnQ7UZ2mjzglD3gCAAB4cAAAAAFzcgAceHNidGkuYXBpLkFubm90YXRpb25Bcmd1bWVudNZFsdgDGxd8AgACTAAEbmFtZXEAfgANTAAFdmFsdWVxAH4ADXhwdAAFdmFsdWV0ADJjbGFzc09mW2FuZHJvaWQuc3VwcG9ydC50ZXN0LnJ1bm5lci5BbmRyb2lkSlVuaXQ0XXNyABR4c2J0aS5hcGkuUHJvamVjdGlvbvPSjVTpRaQtAgACTAACaWRxAH4ADUwABnByZWZpeHQAFkx4c2J0aS9hcGkvU2ltcGxlVHlwZTt4cgAUeHNidGkuYXBpLlNpbXBsZVR5cGVyeGKIISO/QAIAAHhyAA54c2J0aS5hcGkuVHlwZT9q2SEWSarKAgAAeHB0AAdSdW5XaXRoc3IAE3hzYnRpLmFwaS5TaW5nbGV0b278p1/4z1bkRgIAAUwABHBhdGh0ABBMeHNidGkvYXBpL1BhdGg7eHEAfgCOc3IADnhzYnRpLmFwaS5QYXRomz1cCM6lJ4QCAAFbAApjb21wb25lbnRzdAAaW0x4c2J0aS9hcGkvUGF0aENvbXBvbmVudDt4cHVyABpbTHhzYnRpLmFwaS5QYXRoQ29tcG9uZW50O0PaCXQtZxZ0AgAAeHAAAAAEc3IADHhzYnRpLmFwaS5JZJgybIs3U8RAAgABTAACaWRxAH4ADXhyABd4c2J0aS5hcGkuUGF0aENvbXBvbmVudF+aIlsuhp+8AgAAeHB0AANvcmdzcQB+AJp0AAVqdW5pdHNxAH4AmnQABnJ1bm5lcnNyAA54c2J0aS5hcGkuVGhpc9sJ7abMWkBcAgAAeHEAfgCbc3IAE3hzYnRpLmFwaS5Nb2RpZmllcnPHERMhaZzcJAIAAUIABWZsYWdzeHAAdAAeY2hhdC50b3guYW50b3gudGVzdHMuVG94TWVUZXN0dXIAGltMeHNidGkuYXBpLlR5cGVQYXJhbWV0ZXI72W0mDyid8rYCAAB4cAAAAAB+cgAYeHNidGkuYXBpLkRlZmluaXRpb25UeXBlAAAAAAAAAAASAAB4cgAOamF2YS5sYW5nLkVudW0AAAAAAAAAABIAAHhwdAAIQ2xhc3NEZWZ1cgATW0xqYXZhLmxhbmcuU3RyaW5nO63SVufpHXtHAgAAeHAAAAABdAAOb3JnLmp1bml0LlRlc3RzcgATeHNidGkuU2FmZUxhenkkSW1wbFACLpOXl0A/AgADWgAIYml0bWFwJDBMAAJfdHQAEkxqYXZhL2xhbmcvT2JqZWN0O0wABGV2YWx0ABFMc2NhbGEvRnVuY3Rpb24wO3hyABZ4c2J0aS5hcGkuQWJzdHJhY3RMYXp503e1AV+756ACAAB4cABwc3IAIHhzYnRpLlNhZmVMYXp5JCRhbm9uZnVuJHN0cmljdCQxAAAAAAAAAAACAAFMAAd2YWx1ZSQxcQB+ALF4cHNyABN4c2J0aS5hcGkuRW1wdHlUeXBlvP2eRkk7iSQCAAB4cQB+AI5zcQB+ALAAcHNxAH4AtXNyABN4c2J0aS5hcGkuU3RydWN0dXJlqar5gJNv2AACAANMAAhkZWNsYXJlZHEAfgB1TAAJaW5oZXJpdGVkcQB+AHVMAAdwYXJlbnRzcQB+AHV4cQB+AI9zcQB+ALAAcHNxAH4AtXVxAH4AcAAAAABzcQB+ALAAcHNxAH4AtXVxAH4AcAAAAABzcQB+ALAAcHNxAH4AtXVyABFbTHhzYnRpLmFwaS5UeXBlO3T/pVp7+elBAgAAeHAAAAAGc3EAfgCMdAAPQW5kcm9pZFRlc3RDYXNlc3EAfgCSc3EAfgCVdXEAfgCYAAAAA3NxAH4AmnQAB2FuZHJvaWRzcQB+AJp0AAR0ZXN0cQB+AKNzcQB+AIx0AAhUZXN0Q2FzZXNxAH4AknNxAH4AlXVxAH4AmAAAAANzcQB+AJp0AAVqdW5pdHNxAH4AmnQACWZyYW1ld29ya3EAfgCjc3EAfgCMdAAEVGVzdHEAfgDSc3EAfgCMdAAGQXNzZXJ0cQB+ANJzcQB+AIx0AAZPYmplY3RzcQB+AJJzcQB+AJV1cQB+AJgAAAADc3EAfgCadAAEamF2YXNxAH4AmnQABGxhbmdxAH4Ao3NxAH4AjHQAA0FueXNxAH4AknNxAH4AlXVxAH4AmAAAAAJzcQB+AJp0AAVzY2FsYXEAfgCjdXIAFFtMeHNidGkuYXBpLlBhY2thZ2U7WxMZN3CnJ6ECAAB4cAAAAARzcgAReHNidGkuYXBpLlBhY2thZ2V+WY/2rs45WAIAAUwABG5hbWVxAH4ADXhwdAAIY2hhdC50b3hzcQB+AO90AARjaGF0c3EAfgDvdAAUY2hhdC50b3guYW50b3gudGVzdHNzcQB+AO90AA5jaGF0LnRveC5hbnRveHNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABUf8Bx891cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5cQB+AA1MAA9zb3VyY2VEaXJlY3RvcnlxAH4ADXhwdABTL1VzZXJzL0Fubi9Eb3dubG9hZHMvQW50b3gtbWFzdGVyL2FwcC9idWlsZC9pbnRlcm1lZGlhdGVzL2NsYXNzZXMvYW5kcm9pZFRlc3QvZGVidWd0AAEvdXIAAltCrPMX+AYIVOACAAB4cAAAABTsRVe3uho62IHVs4qyI77uI8+WqQ==
+external apis:
+0 items
+source infos:
+7 items
+/Users/Ann/Downloads/Antox-master/app/build/generated/source/buildConfig/androidTest/debug/chat/tox/antox/tests/BuildConfig.java -> 
+AAAAAAAAAAA=
+/Users/Ann/Downloads/Antox-master/app/build/generated/source/r/androidTest/debug/android/support/test/espresso/R.java -> 
+AAAAAAAAAAA=
+/Users/Ann/Downloads/Antox-master/app/build/generated/source/r/androidTest/debug/android/support/test/rule/R.java -> 
+AAAAAAAAAAA=
+/Users/Ann/Downloads/Antox-master/app/build/generated/source/r/androidTest/debug/chat/tox/antox/tests/R.java -> 
+AAAAAAAAAAA=
+/Users/Ann/Downloads/Antox-master/app/src/androidTest/scala/chat/tox/antox/tests/AntoxDBTest.scala -> 
+AAAAAAAAAAA=
+/Users/Ann/Downloads/Antox-master/app/src/androidTest/scala/chat/tox/antox/tests/MessageHelperTest.scala -> 
+AAAAAAAAAAA=
+/Users/Ann/Downloads/Antox-master/app/src/androidTest/scala/chat/tox/antox/tests/ToxMeTest.scala -> 
+AAAAAAAAAAA=
+compilations:
+1 items
+0 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABUf8Bx891cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAUy9Vc2Vycy9Bbm4vRG93bmxvYWRzL0FudG94LW1hc3Rlci9hcHAvYnVpbGQvaW50ZXJtZWRpYXRlcy9jbGFzc2VzL2FuZHJvaWRUZXN0L2RlYnVndAABLw==

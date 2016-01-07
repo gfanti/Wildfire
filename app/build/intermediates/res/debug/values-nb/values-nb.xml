@@ -1,0 +1,143 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- From: file:/Users/Ann/Downloads/Antox-master/app/src/main/res/values-nb/strings_activity_settings.xml -->
+    <eat-comment/>
+    <string-array name="pref_status_list_titles">
+    <item>Online</item>
+    <item>Ikke til stede</item>
+    <item>Opptatt</item>
+  </string-array>
+    <!-- From: file:/Users/Ann/Downloads/Antox-master/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/res/values-nb/values-nb.xml -->
+    <eat-comment/>
+    <string msgid="4600421777120114993" name="abc_action_bar_home_description">"Gå til startsiden"</string>
+    <string msgid="1397052879051804371" name="abc_action_bar_home_description_format">"%1$s – %2$s"</string>
+    <string msgid="6623331958280229229" name="abc_action_bar_home_subtitle_description_format">"%1$s – %2$s – %3$s"</string>
+    <string msgid="1594238315039666878" name="abc_action_bar_up_description">"Gå opp"</string>
+    <string msgid="3588849162933574182" name="abc_action_menu_overflow_description">"Flere alternativer"</string>
+    <string msgid="4076576682505996667" name="abc_action_mode_done">"Ferdig"</string>
+    <string msgid="7468859129482906941" name="abc_activity_chooser_view_see_all">"Se alle"</string>
+    <string msgid="2031811694353399454" name="abc_activitychooserview_choose_application">"Velg en app"</string>
+    <string msgid="7723749260725869598" name="abc_search_hint">"Søk …"</string>
+    <string msgid="3691816814315814921" name="abc_searchview_description_clear">"Slett søket"</string>
+    <string msgid="2550479030709304392" name="abc_searchview_description_query">"Søkeord"</string>
+    <string msgid="8264924765203268293" name="abc_searchview_description_search">"Søk"</string>
+    <string msgid="8928215447528550784" name="abc_searchview_description_submit">"Utfør søket"</string>
+    <string msgid="893419373245838918" name="abc_searchview_description_voice">"Talesøk"</string>
+    <string msgid="3421042268587513524" name="abc_shareactionprovider_share_with">"Del med"</string>
+    <string msgid="7165123711973476752" name="abc_shareactionprovider_share_with_application">"Del med %s"</string>
+    <string msgid="1603543279005712093" name="abc_toolbar_collapse_description">"Skjul"</string>
+    <!-- From: file:/Users/Ann/Downloads/Antox-master/app/src/main/res/values-nb/strings.xml -->
+    <eat-comment/>
+    <string name="about_antox_2">Dette virker nå:</string>
+    <string name="action_settings">Innstillinger</string>
+    <string name="addfriend_button">Legg til venn</string>
+    <string name="addfriend_default_message">Hei! Kan du godta min venne-forespørsel?</string>
+    <string name="addfriend_friend_added">Venn lagt til</string>
+    <string name="addfriend_friend_exists">Venn finnes allerede</string>
+    <string name="addfriend_friend_key">Din venns Tox ID</string>
+    <string name="addfriend_friend_message">Send en melding med din forespørsel </string>
+    <string name="addfriend_friend_pin_text">Skriv inn din venns PIN</string>
+    <string name="addfriend_friend_pin_title">Skriv inn din venns PIN</string>
+    <string name="addfriend_invalid_pin">Feil PIN</string>
+    <string name="addfriend_nick_hint">Sett kallenavn for din venn</string>
+    <string name="addfriend_own_key">Du kan ikke legge til deg selv</string>
+    <string name="attachment_file">Legg til fil</string>
+    <string name="attachment_photo">Legg til bilde</string>
+    <string name="attachment_takephoto">Ta bilde</string>
+    <string name="button_cancel">Avbryt</string>
+    <string name="button_confirm">Godta</string>
+    <string name="button_no">Nei</string>
+    <string name="button_ok">OK</string>
+    <string name="button_yes">Ja</string>
+    <string name="chat_enter_message">Send melding</string>
+    <string name="chat_file_transfer">Fil-overføring</string>
+    <string name="connection_has">har</string>
+    <string name="connection_offline">gått offline</string>
+    <string name="connection_online">kommet online</string>
+    <string name="contacts_delimiter_friends">Venner</string>
+    <string name="contacts_delimiter_offline">Offline</string>
+    <string name="contacts_delimiter_online">Online</string>
+    <string name="contacts_delimiter_requests">Forespørsel</string>
+    <string name="contacts_resend_friend_request">Send venne-forespørsel på nytt</string>
+    <!-- From: file:/Users/Ann/Downloads/Antox-master/app/src/main/res/values-nb/strings_activity_settings.xml -->
+    <eat-comment/>
+    <string name="copy_tox_id">Kopier Tox ID</string>
+    <!-- From: file:/Users/Ann/Downloads/Antox-master/app/src/main/res/values-nb/strings.xml -->
+    <eat-comment/>
+    <string name="create_bad_profile_name">Profilnavnet kan ikke inneholde mellomrom, skråstek, eller vær blankt</string>
+    <string name="create_must_fill_in">Du må fylle ut alle felt</string>
+    <string name="create_name_hint">Profilnavn</string>
+    <string name="create_profile_exists">Dette profilnavnet finnes allerede </string>
+    <string name="create_register">Registrer</string>
+    <string name="create_skip">Tillat alle å inkludere deg via ditt profilnavn</string>
+    <string name="dialog_pin">Skriv inn din venns PIN</string>
+    <string name="friend_action_block">Blokker</string>
+    <string name="friend_action_delete">Slett venn</string>
+    <string name="friend_action_delete_chat">Slett samtalelogger</string>
+    <string name="friend_action_delete_chat_confirmation">Er du sikker du vil slette samtalelogger?</string>
+    <string name="friend_action_delete_friend_confirmation">Er du sikker du vil slette denne vennen?</string>
+    <string name="friend_action_profile">Profil</string>
+    <string name="friend_profile_button">Oppdatering</string>
+    <string name="friend_profile_copied">Tox ID kopiert</string>
+    <string name="friend_profile_key">Tox ID</string>
+    <string name="friend_profile_nick">Kallenavn</string>
+    <string name="friend_profile_note">Status</string>
+    <string name="friend_profile_updated">Profilen er oppdatert</string>
+    <string name="friend_request">Ny venne-forespørsel</string>
+    <string name="friendrequest_accept">Godta</string>
+    <string name="friendrequest_reject">Avvise</string>
+    <string name="invalid_friend_ID">Feil Tox ID</string>
+    <string name="login_account_hint">Profilnavn</string>
+    <string name="login_bad_login">Profilnavnet er ukjent</string>
+    <string name="login_create_account_text">Lag Tox profil</string>
+    <string name="login_login">Log inn</string>
+    <string name="login_must_fill_in">Du må oppgi et profilnavn</string>
+    <string name="main_no_internet">Ingen Internet-tilgang</string>
+    <string name="main_recent_no">Ingen nylige samtaler</string>
+    <string name="message_copy">Kopier melding</string>
+    <string name="message_delete">Slett melding</string>
+    <!-- From: file:/Users/Ann/Downloads/Antox-master/app/src/main/res/values-nb/strings_activity_settings.xml -->
+    <eat-comment/>
+    <string name="pref_advanced">Avansert </string>
+    <string name="pref_default_nickname">Antox bruker</string>
+    <string name="pref_default_status_message">Hei! Jeg bruker Antox</string>
+    <string name="pref_header_notifications">Varslinger</string>
+    <string name="pref_header_other">Annet</string>
+    <string name="pref_header_profile">Profil</string>
+    <string name="pref_title_account_name">Profil Navn</string>
+    <string name="pref_title_enable_notifications">Slå på varsler</string>
+    <string name="pref_title_language">Språk</string>
+    <string name="pref_title_logout">Log ut</string>
+    <string name="pref_title_new_friend_notifications">Ny venn varsel</string>
+    <string name="pref_title_new_message_notifications">Meldings varsler</string>
+    <string name="pref_title_nickname">Navn</string>
+    <string name="pref_title_status">Status</string>
+    <string name="pref_title_status_message">Statusmelding</string>
+    <string name="pref_title_tox_id">Tox ID</string>
+    <string name="pref_title_wifi_only">Bare Wi-Fi</string>
+    <string name="pref_udp">Bruk UDP</string>
+    <!-- From: file:/Users/Ann/Downloads/Antox-master/app/src/main/res/values-nb/strings.xml -->
+    <eat-comment/>
+    <string name="qr_button_no">Nei</string>
+    <string name="qr_button_yes">Ja</string>
+    <string name="qr_default_message">Denne app\'en trenger en strekkode app. Vil du installere en slik nå? </string>
+    <string name="qr_default_title">Installer strekkode skanner app</string>
+    <string name="scanqr_button">Les en QR-kode</string>
+    <string name="search_all_contacts">Søk i alle kontakter</string>
+    <string name="share_with">Del med</string>
+    <!-- From: file:/Users/Ann/Downloads/Antox-master/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/res/values-nb/values-nb.xml -->
+    <eat-comment/>
+    <string msgid="2869576371154716097" name="status_bar_notification_info_overflow">"999+"</string>
+    <!-- From: file:/Users/Ann/Downloads/Antox-master/app/src/main/res/values-nb/strings.xml -->
+    <eat-comment/>
+    <string name="title_activity_friend_profile">Venneprofil</string>
+    <string name="title_activity_profile_settings">Profilinnstillinger </string>
+    <!-- From: file:/Users/Ann/Downloads/Antox-master/app/src/main/res/values-nb/strings_activity_settings.xml -->
+    <eat-comment/>
+    <string name="title_activity_settings">Innstillinger</string>
+    <!-- From: file:/Users/Ann/Downloads/Antox-master/app/src/main/res/values-nb/strings.xml -->
+    <eat-comment/>
+    <string name="titles_contacts">Kontakter</string>
+    <string name="titles_recent">Nylig</string>
+    <string name="titles_settings">Innstillinger</string>
+</resources>

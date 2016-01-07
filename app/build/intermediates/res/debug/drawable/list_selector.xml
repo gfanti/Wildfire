@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<selector xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:drawable="@color/grey_light" android:state_pressed="true"></item>
+    <item android:drawable="@color/grey_light" android:state_focused="true"></item>
+    <item android:drawable="@color/white_absolute"/>
+</selector>
+<!-- From: file:/Users/Ann/Downloads/Antox-master/app/src/main/res/drawable/list_selector.xml -->

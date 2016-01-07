@@ -1,0 +1,5 @@
+int attr border_color 0x7f010001
+int attr border_width 0x7f010000
+int[] styleable CircleImageView { 0x7f010000, 0x7f010001 }
+int styleable CircleImageView_border_color 1
+int styleable CircleImageView_border_width 0

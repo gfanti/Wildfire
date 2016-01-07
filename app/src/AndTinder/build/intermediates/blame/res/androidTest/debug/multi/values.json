@@ -1,0 +1,140 @@
+[
+    {
+        "outputFile": "/Users/Ann/Downloads/Swipeable-Cards-master/AndTinder/build/intermediates/res/merged/androidTest/debug/values/values.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 41,
+                    "endOffset": 92
+                },
+                "from": {
+                    "file": "/Users/Ann/Downloads/Swipeable-Cards-master/AndTinder/build/intermediates/bundles/debug/res/values/values.xml",
+                    "position": {
+                        "startLine": 2,
+                        "startColumn": 4,
+                        "startOffset": 55,
+                        "endColumn": 41,
+                        "endOffset": 92
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 3,
+                    "startColumn": 4,
+                    "startOffset": 97,
+                    "endColumn": 46,
+                    "endOffset": 139
+                },
+                "from": {
+                    "file": "/Users/Ann/Downloads/Swipeable-Cards-master/AndTinder/build/intermediates/bundles/debug/res/values/values.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 97,
+                        "endColumn": 46,
+                        "endOffset": 139
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 5,
+                    "startColumn": 4,
+                    "startOffset": 352,
+                    "endColumn": 57,
+                    "endOffset": 405
+                },
+                "from": {
+                    "file": "/Users/Ann/Downloads/Swipeable-Cards-master/AndTinder/build/intermediates/bundles/debug/res/values/values.xml",
+                    "position": {
+                        "startLine": 5,
+                        "startColumn": 4,
+                        "startOffset": 352,
+                        "endColumn": 57,
+                        "endOffset": 405
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 6,
+                    "startColumn": 4,
+                    "startOffset": 410,
+                    "endColumn": 55,
+                    "endOffset": 461
+                },
+                "from": {
+                    "file": "/Users/Ann/Downloads/Swipeable-Cards-master/AndTinder/build/intermediates/bundles/debug/res/values/values.xml",
+                    "position": {
+                        "startLine": 6,
+                        "startColumn": 4,
+                        "startOffset": 410,
+                        "endColumn": 55,
+                        "endOffset": 461
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 7,
+                    "startColumn": 4,
+                    "startOffset": 466,
+                    "endColumn": 52,
+                    "endOffset": 514
+                },
+                "from": {
+                    "file": "/Users/Ann/Downloads/Swipeable-Cards-master/AndTinder/build/intermediates/bundles/debug/res/values/values.xml",
+                    "position": {
+                        "startLine": 7,
+                        "startColumn": 4,
+                        "startOffset": 466,
+                        "endColumn": 52,
+                        "endOffset": 514
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 8,
+                    "startColumn": 4,
+                    "startOffset": 519,
+                    "endColumn": 52,
+                    "endOffset": 567
+                },
+                "from": {
+                    "file": "/Users/Ann/Downloads/Swipeable-Cards-master/AndTinder/build/intermediates/bundles/debug/res/values/values.xml",
+                    "position": {
+                        "startLine": 8,
+                        "startColumn": 4,
+                        "startOffset": 519,
+                        "endColumn": 52,
+                        "endOffset": 567
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 9,
+                    "startColumn": 4,
+                    "startOffset": 572,
+                    "endColumn": 52,
+                    "endOffset": 620
+                },
+                "from": {
+                    "file": "/Users/Ann/Downloads/Swipeable-Cards-master/AndTinder/build/intermediates/bundles/debug/res/values/values.xml",
+                    "position": {
+                        "startLine": 9,
+                        "startColumn": 4,
+                        "startOffset": 572,
+                        "endColumn": 52,
+                        "endOffset": 620
+                    }
+                }
+            }
+        ]
+    }
+]

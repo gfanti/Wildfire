@@ -1,0 +1,247 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- From: file:/Users/Ann/Downloads/Antox-master/app/src/main/res/values-hu/strings_activity_settings.xml -->
+    <eat-comment/>
+    <string-array name="pref_status_list_titles">
+    <item>Elérhető</item>
+    <item>Távol</item>
+    <item>Elfoglalt</item>
+  </string-array>
+    <!-- From: file:/Users/Ann/Downloads/Antox-master/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/res/values-hu/values-hu.xml -->
+    <eat-comment/>
+    <string msgid="4600421777120114993" name="abc_action_bar_home_description">"Ugrás a főoldalra"</string>
+    <string msgid="1397052879051804371" name="abc_action_bar_home_description_format">"%1$s, %2$s"</string>
+    <string msgid="6623331958280229229" name="abc_action_bar_home_subtitle_description_format">"%1$s, %2$s, %3$s"</string>
+    <string msgid="1594238315039666878" name="abc_action_bar_up_description">"Felfelé mozgatás"</string>
+    <string msgid="3588849162933574182" name="abc_action_menu_overflow_description">"További lehetőségek"</string>
+    <string msgid="4076576682505996667" name="abc_action_mode_done">"Kész"</string>
+    <string msgid="7468859129482906941" name="abc_activity_chooser_view_see_all">"Összes megtekintése"</string>
+    <string msgid="2031811694353399454" name="abc_activitychooserview_choose_application">"Válasszon ki egy alkalmazást"</string>
+    <string msgid="7723749260725869598" name="abc_search_hint">"Keresés…"</string>
+    <string msgid="3691816814315814921" name="abc_searchview_description_clear">"Lekérdezés törlése"</string>
+    <string msgid="2550479030709304392" name="abc_searchview_description_query">"Keresési lekérdezés"</string>
+    <string msgid="8264924765203268293" name="abc_searchview_description_search">"Keresés"</string>
+    <string msgid="8928215447528550784" name="abc_searchview_description_submit">"Lekérdezés küldése"</string>
+    <string msgid="893419373245838918" name="abc_searchview_description_voice">"Hangalapú keresés"</string>
+    <string msgid="3421042268587513524" name="abc_shareactionprovider_share_with">"Megosztás a következővel:"</string>
+    <string msgid="7165123711973476752" name="abc_shareactionprovider_share_with_application">"Megosztás a következővel: %s"</string>
+    <string msgid="1603543279005712093" name="abc_toolbar_collapse_description">"Összecsukás"</string>
+    <!-- From: file:/Users/Ann/Downloads/Antox-master/app/src/main/res/values-hu/strings.xml -->
+    <eat-comment/>
+    <string name="about">Névjegy</string>
+    <string name="about_antox_1">A kormányzati ellenőrzőprogramok elterjedése miatt a Toxot úgy alkották meg, hogy könnyen kapcsolatba tudjunk lépni barátainkkal és a családunkkal, anélkül, hogy bárki lehallgathatná.</string>
+    <string name="about_antox_2">Ami jelenleg működik:</string>
+    <string name="about_antox_3">- Közvetlen üzenetküldés</string>
+    <string name="about_antox_4">- Értesítések</string>
+    <string name="about_antox_5">- Fájl átvitelek</string>
+    <string name="about_antox_6">Nem működnek:</string>
+    <string name="about_antox_7">- Audio/video</string>
+    <string name="about_antox_8">- Csoportok</string>
+    <string name="action_settings">Beállítások</string>
+    <string name="add_contact">Kapcsolat hozzáadása</string>
+    <string name="addfriend_button">Partner hozzáadása</string>
+    <string name="addfriend_default_message">Üdv! Kérem, fogadja el a partnerkérelmemet!</string>
+    <string name="addfriend_friend_added">Partner hozzáadva</string>
+    <string name="addfriend_friend_exists">A partner már létezik</string>
+    <string name="addfriend_friend_key">Partner Tox ID-je</string>
+    <string name="addfriend_friend_message">Üzenet küldése az Ön partnerkérelmével</string>
+    <string name="addfriend_friend_pin_text">Írja be a partnere pinjét</string>
+    <string name="addfriend_friend_pin_title">Írja be a partnere pinjét</string>
+    <string name="addfriend_invalid_pin">Érvénytelen Pin</string>
+    <string name="addfriend_nick_hint">Becenév beállítása a partnerhez</string>
+    <string name="addfriend_optional_title">További extrák</string>
+    <string name="addfriend_own_key">Nem lehet önmagát hozzáadni</string>
+    <string name="addgroup_alias_hint">Álnév beállítása a csoporthoz</string>
+    <string name="addgroup_button">Belépés csoportba</string>
+    <string name="addgroup_group_added">Belépve</string>
+    <string name="addgroup_group_exists">A csoport már létezik</string>
+    <string name="addgroup_group_id">Csoport ID</string>
+    <string name="addgroup_optional_title">További extrák</string>
+    <string name="addpane_friend_label">Partner</string>
+    <string name="addpane_group_label">Csoport</string>
+    <string name="attachment_file">Fájl csatolása</string>
+    <string name="attachment_photo">Fotó csatolása</string>
+    <string name="attachment_takephoto">Fotó készítése</string>
+    <string name="avatar_too_large_error">Hiba: Az avatarkép túl nagy.</string>
+    <string name="button_cancel">Mégsem</string>
+    <string name="button_confirm">Elfogadás</string>
+    <string name="button_no">Nem</string>
+    <string name="button_ok">OK</string>
+    <string name="button_yes">Igen</string>
+    <string name="chat_enter_message">Üzenet küldése</string>
+    <string name="chat_file_transfer">Fájl átvitel</string>
+    <string name="chat_ft_failed_friend_offline">Küldési hiba - Nem lehet fájlt küldeni nem elérhető partnernek</string>
+    <string name="chat_message_too_long">Az üzenet túl hosszú, és nem került elküldésre</string>
+    <string name="connection_has">éppen</string>
+    <string name="connection_offline">kilépett</string>
+    <string name="connection_online">elérhető lett</string>
+    <string name="contacts_actions_on">Teendők ehhez:</string>
+    <string name="contacts_delimiter_friends">Partnerek</string>
+    <string name="contacts_delimiter_groups">Csoportok</string>
+    <string name="contacts_delimiter_invites">Csoport meghívók</string>
+    <string name="contacts_delimiter_offline">Nem elérhető</string>
+    <string name="contacts_delimiter_online">Elérhető</string>
+    <string name="contacts_delimiter_requests">Kérelmek</string>
+    <string name="contacts_resend_friend_request">Partnerkérelem újraküldése</string>
+    <!-- From: file:/Users/Ann/Downloads/Antox-master/app/src/main/res/values-hu/strings_activity_settings.xml -->
+    <eat-comment/>
+    <string name="copy_tox_id">Tox ID másolása</string>
+    <!-- From: file:/Users/Ann/Downloads/Antox-master/app/src/main/res/values-hu/strings.xml -->
+    <eat-comment/>
+    <string name="create_account_encrypted_profile_error">Az Antox még nem támogatja a titkosított profilokat</string>
+    <string name="create_account_exists">Ez a név már foglalt</string>
+    <string name="create_account_internal_error">Belső Antox hiba. Kérem, indítsa újra, és próbálja meg ismét</string>
+    <string name="create_account_kalium_link_error">Egy szükséges könyvtár betöltése meghiúsult. Nem lehet létrehozni nem inkognitó módú fiókokat</string>
+    <string name="create_account_reached_registration_limit">Ön csak 13 fiókot regisztrálhat egy órán belül. Elérte ezt a korlátot</string>
+    <string name="create_account_unknown_error">Ismeretlen regisztrációs hiba, kérem, próbálja meg később</string>
+    <string name="create_bad_profile_name">A profilnév nem tartalmazhat szóközt, vagy perjelet, vagy nem lehet üres</string>
+    <string name="create_group_dialog_cancel">Mégsem</string>
+    <string name="create_group_dialog_create_group">Csoport létrehozása</string>
+    <string name="create_group_dialog_message">Új csoportos chat létrehozása</string>
+    <string name="create_group_dialog_name_header">Csoportnév</string>
+    <string name="create_import_profile">Profil importálása</string>
+    <string name="create_must_fill_in">Minden mezőt ki kell töltenie</string>
+    <string name="create_name_hint">Profilnév</string>
+    <string name="create_profile_exists">Ez a profilnév már létezik</string>
+    <string name="create_register">Regisztráció</string>
+    <string name="create_register_incog">Regisztráció inkognitó módban</string>
+    <string name="create_skip">Engedélyezi, hogy mások megtalálják az Ön profilnevének használatával</string>
+    <string name="create_text">Biztonságos üzenetküldés mindenkinek.</string>
+    <string name="dialog_avatar_description">avatarkép</string>
+    <string name="dialog_avatar_take_photo">Fotó készítése</string>
+    <string name="dialog_avatar_use_file">Fájl használata</string>
+    <string name="dialog_color_picker_title">Téma színének kiválasztása</string>
+    <string name="dialog_pin">Írja be a partnere pinjét</string>
+    <string name="dialog_tox_id">Tox ID másolása a vágólapra</string>
+    <string name="drawer_close">Navigációs menü bezárása</string>
+    <string name="drawer_open">Navigációs menü megnyitása</string>
+    <string name="end_call">Hívás befejezése</string>
+    <string name="file_failed">Sikertelen</string>
+    <string name="file_finished">Befejezve</string>
+    <string name="file_in_progress">Folyamatban</string>
+    <string name="file_rejected">Elutasítva</string>
+    <string name="file_request_sent">Elküldött kérelem</string>
+    <string name="file_time_remaining">%s mp van hátra</string>
+    <string name="friend_action_block">Blokkolás</string>
+    <string name="friend_action_block_friend_confirmation">A partnere letiltásakor eltávolítja őt a partnerlistáról, és nem fogja többé látni a
+partnerkérelmeit sem.\n\nBiztosan folytatni szeretné?</string>
+    <string name="friend_action_chat_log_export_failed">Chat napló exportálás nem sikerült.</string>
+    <string name="friend_action_chat_log_exported">Chat napló sikeresen exportálva ide: %s</string>
+    <string name="friend_action_delete">Partner eltávolítása</string>
+    <string name="friend_action_delete_chat">Chat naplók törlése</string>
+    <string name="friend_action_delete_chat_confirmation">Biztosan ki akarja törölni a chat naplókat?</string>
+    <string name="friend_action_delete_friend_confirmation">Biztosan el akarja távolítani ezt a partnert?</string>
+    <string name="friend_action_export_chat">Chat naplók exportálása</string>
+    <string name="friend_action_profile">Profil</string>
+    <string name="friend_profile_button">Frissítés</string>
+    <string name="friend_profile_copied">Tox ID másolva</string>
+    <string name="friend_profile_key">Tox ID</string>
+    <string name="friend_profile_nick">Becenév</string>
+    <string name="friend_profile_note">Állapot</string>
+    <string name="friend_profile_title">%1$s profilja</string>
+    <string name="friend_profile_updated">A profil frissítve</string>
+    <string name="friend_request">Új partnerkérelem</string>
+    <string name="friendrequest_accept">Elfogadás</string>
+    <string name="friendrequest_reject">Elutasítás</string>
+    <string name="group_action_delete">Csoportból kilépés</string>
+    <string name="group_default_part_message">Viszlát!</string>
+    <string name="group_default_peer_name">Névtelen</string>
+    <string name="group_invite">Új csoport meghívó</string>
+    <string name="group_profile_peer_list_head">Résztvevők</string>
+    <string name="groupinvite_accept">Elfogadás</string>
+    <string name="groupinvite_reject">Elutasítás</string>
+    <string name="import_profile_invalid_file">A kiválasztott fájl nem érvényes Tox profil</string>
+    <string name="invalid_friend_ID">Érvénytelen Tox ID</string>
+    <string name="invalid_group_ID">Érvénytelen csoport ID</string>
+    <string name="invited_by">Meghívta Önt:</string>
+    <string name="license2">A forráskód elérhető itt:\nhttps://github.com/subliun/Antox</string>
+    <string name="login_account_hint">Profilnév</string>
+    <string name="login_bad_login">Profilnév nem ismerhető fel</string>
+    <string name="login_create_account_text">Tox profil létrehozása</string>
+    <string name="login_login">Bejelentkezés</string>
+    <string name="login_must_fill_in">A profilnevet ki kell töltenie</string>
+    <string name="main_group_coming_soon">Hamarosan...</string>
+    <string name="main_mobile_disabled">Jelenleg nem elérhető a Csak WiFi mód engedélyezése. Érintse meg a beállításokhoz.</string>
+    <string name="main_no_active_chat">Nincs aktív chat. Indítson egyet egy partner kiválasztásával a bal oldali panelről!</string>
+    <string name="main_no_internet">Nincs internetkapcsolat</string>
+    <string name="main_not_connected">Nincs észlelve internetkapcsolat. Enélkül a program funkciói korlátozottak lesznek,
+kivéve, ha az Antoxot csak LAN-kapcsolaton használja</string>
+    <string name="main_recent_no">Nincs korábbi beszélgetés</string>
+    <string name="message_copy">Üzenet másolása</string>
+    <string name="message_delete">Üzenet törlése</string>
+    <string name="mute_call">Némítás</string>
+    <string name="mute_mic">Mikrofon némítás</string>
+    <string name="n_about">A projektről</string>
+    <string name="n_add_person">Személy hozzáadása</string>
+    <string name="n_create_group">Csoport létrehozása</string>
+    <string name="n_logout">Kijelentkezés</string>
+    <string name="n_open_source">Nyílt forrású licensz</string>
+    <string name="n_profile_options">Profil</string>
+    <string name="n_settings">Beállítások</string>
+    <string name="no_camera_intent_error">Hiba: Nem található érvényes webkamera alkalmazás</string>
+    <string name="open_source_license">Nyílt forrású licensz</string>
+    <!-- From: file:/Users/Ann/Downloads/Antox-master/app/src/main/res/values-hu/strings_activity_settings.xml -->
+    <eat-comment/>
+    <string name="pref_advanced">Továbbiak</string>
+    <string name="pref_autostart">Antox indítása rendszerinduláskor</string>
+    <string name="pref_default_nickname">Antox felhasználó</string>
+    <string name="pref_default_password">Nincs beállítva jelszó</string>
+    <string name="pref_default_status_message">Üdv! Antoxot használok</string>
+    <string name="pref_default_tox_id">Alapértelmezett Tox ID - Ezt nem kellene látnia</string>
+    <string name="pref_header_notifications">Értesítések</string>
+    <string name="pref_header_other">Egyéb</string>
+    <string name="pref_header_profile">Profil</string>
+    <string name="pref_nospam">Tox ID visszaállítása</string>
+    <string name="pref_title_account_name">Profilnév</string>
+    <string name="pref_title_avatar">Avatarkép</string>
+    <string name="pref_title_connection_status_messages">Műveleti üzenetek</string>
+    <string name="pref_title_enable_notifications">Értesítések engedélyezése</string>
+    <string name="pref_title_export">Profil exportálása</string>
+    <string name="pref_title_language">Nyelv</string>
+    <string name="pref_title_logging_enabled">Chat előzmény megtartása kijelentkezéskor</string>
+    <string name="pref_title_logout">Kijelentkezés</string>
+    <string name="pref_title_new_friend_notifications">Partnerkérelem értesítések</string>
+    <string name="pref_title_new_message_notifications">Üzenet értesítések</string>
+    <string name="pref_title_nickname">Név</string>
+    <string name="pref_title_status">Állapot</string>
+    <string name="pref_title_status_message">Állapot üzenet</string>
+    <string name="pref_title_tox_id">Tox ID</string>
+    <string name="pref_title_wifi_only">Csak Wi-Fi</string>
+    <string name="pref_udp">UDP engedélyezése</string>
+    <!-- From: file:/Users/Ann/Downloads/Antox-master/app/src/main/res/values-hu/strings.xml -->
+    <eat-comment/>
+    <string name="profile_info_description">Felhasználó infó lekérés</string>
+    <string name="qr_button_no">Nem</string>
+    <string name="qr_button_yes">Igen</string>
+    <string name="qr_default_message">Az alkalmazáshoz a Barcode Scanner szükséges. Szeretné telepíteni?</string>
+    <string name="qr_default_title">Telepíti a Barcode Scannert?</string>
+    <string name="reset_tox_id_dialog_cancel">Mégsem</string>
+    <string name="reset_tox_id_dialog_confirm">ID visszaállítás</string>
+    <string name="reset_tox_id_dialog_message">A Tox ID visszaállítás véglegesen megváltoztatja a Tox azonosítóját. Ez
+megtartja a jelenlegi partnerlistáját, de mások nem tudják majd hozzáadni Önt a régi azonosítójával. </string>
+    <string name="reset_tox_id_dialog_title">Tox ID visszaállítás megerősítése</string>
+    <string name="scanqr_button">QR-kód leolvasása</string>
+    <string name="search_all_contacts">Keresés a partnerek között</string>
+    <string name="share_with">Megosztás ezzel:</string>
+    <!-- From: file:/Users/Ann/Downloads/Antox-master/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/res/values-hu/values-hu.xml -->
+    <eat-comment/>
+    <string msgid="2869576371154716097" name="status_bar_notification_info_overflow">"999+"</string>
+    <!-- From: file:/Users/Ann/Downloads/Antox-master/app/src/main/res/values-hu/strings.xml -->
+    <eat-comment/>
+    <string name="title_activity_add">Partner hozzáadása</string>
+    <string name="title_activity_call">HívásAktivitás</string>
+    <string name="title_activity_create_account">CreateAccountActivity</string>
+    <string name="title_activity_friend_profile">Partnerprofil</string>
+    <string name="title_activity_group_profile">Csoport infó</string>
+    <string name="title_activity_profile_settings">Profil beállítások</string>
+    <!-- From: file:/Users/Ann/Downloads/Antox-master/app/src/main/res/values-hu/strings_activity_settings.xml -->
+    <eat-comment/>
+    <string name="title_activity_settings">Beállítások</string>
+    <!-- From: file:/Users/Ann/Downloads/Antox-master/app/src/main/res/values-hu/strings.xml -->
+    <eat-comment/>
+    <string name="titles_contacts">Kapcsolatok</string>
+    <string name="titles_recent">Legutóbbi</string>
+    <string name="titles_settings">Beállítások</string>
+    <string name="tox_id_reset">A Tox azonosítója visszaállt</string>
+    <string name="ver">Verzió</string>
+</resources>

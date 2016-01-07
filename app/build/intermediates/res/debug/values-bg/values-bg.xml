@@ -1,0 +1,186 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- From: file:/Users/Ann/Downloads/Antox-master/app/src/main/res/values-bg/strings_activity_settings.xml -->
+    <eat-comment/>
+    <string-array name="pref_status_list_titles">
+    <item>На линия</item>
+    <item>Отсъства</item>
+    <item>Зает</item>
+  </string-array>
+    <!-- From: file:/Users/Ann/Downloads/Antox-master/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/res/values-bg/values-bg.xml -->
+    <eat-comment/>
+    <string msgid="4600421777120114993" name="abc_action_bar_home_description">"Придвижване към „Начало“"</string>
+    <string msgid="1397052879051804371" name="abc_action_bar_home_description_format">"„%1$s“ – %2$s"</string>
+    <string msgid="6623331958280229229" name="abc_action_bar_home_subtitle_description_format">"„%1$s“, „%2$s“ – %3$s"</string>
+    <string msgid="1594238315039666878" name="abc_action_bar_up_description">"Придвижване нагоре"</string>
+    <string msgid="3588849162933574182" name="abc_action_menu_overflow_description">"Още опции"</string>
+    <string msgid="4076576682505996667" name="abc_action_mode_done">"Готово"</string>
+    <string msgid="7468859129482906941" name="abc_activity_chooser_view_see_all">"Вижте всички"</string>
+    <string msgid="2031811694353399454" name="abc_activitychooserview_choose_application">"Изберете приложение"</string>
+    <string msgid="7723749260725869598" name="abc_search_hint">"Търсете…"</string>
+    <string msgid="3691816814315814921" name="abc_searchview_description_clear">"Изчистване на заявката"</string>
+    <string msgid="2550479030709304392" name="abc_searchview_description_query">"Заявка за търсене"</string>
+    <string msgid="8264924765203268293" name="abc_searchview_description_search">"Търсене"</string>
+    <string msgid="8928215447528550784" name="abc_searchview_description_submit">"Изпращане на заявката"</string>
+    <string msgid="893419373245838918" name="abc_searchview_description_voice">"Гласово търсене"</string>
+    <string msgid="3421042268587513524" name="abc_shareactionprovider_share_with">"Споделяне със:"</string>
+    <string msgid="7165123711973476752" name="abc_shareactionprovider_share_with_application">"Споделяне със: %s"</string>
+    <string msgid="1603543279005712093" name="abc_toolbar_collapse_description">"Свиване"</string>
+    <!-- From: file:/Users/Ann/Downloads/Antox-master/app/src/main/res/values-bg/strings.xml -->
+    <eat-comment/>
+    <string name="about">За Програмата</string>
+    <string name="about_antox_1">С разрастването на правителствените програми за наблюдение, Tox предоставя лесна за употреба програма, която ти позволява да се свързваш с приятели и семейство без никой да те подслушва.</string>
+    <string name="about_antox_2">Какво Работи в Момента:</string>
+    <string name="about_antox_3">-Рудаментален чат - това не вклчва групов чат</string>
+    <string name="about_antox_4">-Трансфер на файлове</string>
+    <string name="about_antox_5">В момента се разработва:</string>
+    <string name="about_antox_6">-Аудио/Видео в Antox</string>
+    <string name="action_settings">Настройки</string>
+    <string name="add_contact">Добави Приятел</string>
+    <string name="addfriend_button">Добави Приятел</string>
+    <string name="addfriend_default_message">Здравей! Моля, приеми моята покана за приятелство.</string>
+    <string name="addfriend_friend_added">Приятелят е добавен</string>
+    <string name="addfriend_friend_exists">Приятелят вече съществува</string>
+    <string name="addfriend_friend_key">Tox ID на твоя приятел</string>
+    <string name="addfriend_friend_message">Изпрати съобщение с поканата</string>
+    <string name="addfriend_friend_pin_text">Въведи ПИН-а на Приятеля</string>
+    <string name="addfriend_friend_pin_title">Въведи ПИН-а на Приятеля</string>
+    <string name="addfriend_invalid_pin">Невалиден ПИН</string>
+    <string name="addfriend_nick_hint">Задай прякор на своя приятел</string>
+    <string name="addfriend_optional_title">Допълнителни</string>
+    <string name="addfriend_own_key">Не може да добавяш себе си</string>
+    <string name="attachment_file">Прикачи Файл</string>
+    <string name="attachment_photo">Прикачи снимка</string>
+    <string name="attachment_takephoto">Направи снимка</string>
+    <string name="button_cancel">Откажи</string>
+    <string name="button_confirm">Потвърди</string>
+    <string name="button_no">Не</string>
+    <string name="button_ok">OK</string>
+    <string name="button_yes">Да</string>
+    <string name="chat_enter_message">Изпрати съобщение</string>
+    <string name="chat_file_transfer">Трансфер на файл</string>
+    <string name="connection_has">се</string>
+    <string name="connection_offline">отписа</string>
+    <string name="connection_online">появи на линия</string>
+    <string name="contacts_actions_on">Действия върху</string>
+    <string name="contacts_delimiter_friends">Приятели</string>
+    <string name="contacts_delimiter_offline">Отписан</string>
+    <string name="contacts_delimiter_online">На линия</string>
+    <string name="contacts_delimiter_requests">Покани</string>
+    <string name="contacts_resend_friend_request">Изпрати Повторна Покана за Приятелство</string>
+    <!-- From: file:/Users/Ann/Downloads/Antox-master/app/src/main/res/values-bg/strings_activity_settings.xml -->
+    <eat-comment/>
+    <string name="copy_tox_id">Копирай Tox ID</string>
+    <!-- From: file:/Users/Ann/Downloads/Antox-master/app/src/main/res/values-bg/strings.xml -->
+    <eat-comment/>
+    <string name="create_bad_profile_name">Името на профила не може да има интервали, наклонени черти или да бъде празно</string>
+    <string name="create_must_fill_in">Трябва да попълниш всички полета</string>
+    <string name="create_name_hint">Име на Профила</string>
+    <string name="create_register">Регистрирай се</string>
+    <string name="create_register_incog">Регистрирай се Инкогнито</string>
+    <string name="create_skip">Разреши на всекиго да те добавя използвайки името на профила ти</string>
+    <string name="create_text">Девиз Тук</string>
+    <string name="dialog_pin">Въведи ПИН-а на твоя приятел</string>
+    <string name="dialog_tox_id">Копирай Tox ID</string>
+    <string name="drawer_close">Затвори менюто за навигация</string>
+    <string name="drawer_open">Отвори менюто за навигация</string>
+    <string name="friend_action_block">Блокирай</string>
+    <string name="friend_action_block_friend_confirmation">Блокирайки този прятел ще го изтриеш от списъка ти с пряители и повече няма да виждаш покани за приятелство от него/нея.\n\nСигрен ли, че искаш да продължиш?</string>
+    <string name="friend_action_delete">Премахни Приятел</string>
+    <string name="friend_action_delete_chat">Изтрий Чат Архива</string>
+    <string name="friend_action_delete_chat_confirmation">Сигурен ли си, че искаш да изтриеш чат историята?</string>
+    <string name="friend_action_delete_friend_confirmation">Сигурен ли си, че искаш да изтриеш този приятел?</string>
+    <string name="friend_action_profile">Профил</string>
+    <string name="friend_profile_button">Обнови</string>
+    <string name="friend_profile_copied">Tox ID Копиран</string>
+    <string name="friend_profile_key">Tox ID</string>
+    <string name="friend_profile_nick">Прякор</string>
+    <string name="friend_profile_note">Статус</string>
+    <string name="friend_profile_title">Профилът на %1$s</string>
+    <string name="friend_profile_updated">Профилът е обновен</string>
+    <string name="friend_request">Нова Покана за Приятелство</string>
+    <string name="friendrequest_accept">Приеми</string>
+    <string name="friendrequest_reject">Отхвърли</string>
+    <string name="invalid_friend_ID">Невалиден Tox ID</string>
+    <string name="license1">Разпространено под GNU GPL v3</string>
+    <string name="license2">Сорс кодът се намира на\nhttps://github.com/subliun/Antox</string>
+    <string name="login_account_hint">Име на профила</string>
+    <string name="login_bad_login">Името на профила не бе познато</string>
+    <string name="login_create_account_text">Създай Тох Профил</string>
+    <string name="login_login">Вписване</string>
+    <string name="login_must_fill_in">Трябва да въвдеш име на профила</string>
+    <string name="main_no_active_chat">Няма скорошни разговори. Започни нов като избереш приятел от полето в ляво.</string>
+    <string name="main_no_internet">Няма Интернет Връзка</string>
+    <string name="main_not_connected">Не е открита интернет връзка. Без интернет връзка, ще имаш ограничена функционалност освен ако не използваш Antox през LAN</string>
+    <string name="main_recent_no">Няма скорошни разговори.</string>
+    <string name="message_copy">Копирай съобщение</string>
+    <string name="message_delete">Изтрий съобщение</string>
+    <string name="n_about">ЗА ПРОГРАМАТА</string>
+    <string name="n_add_person">ДОБАВИ ПРИЯТЕЛ</string>
+    <string name="n_create_group">СЪЗДАЙ ГРУПА</string>
+    <string name="n_logout">ОТПИСВАНЕ</string>
+    <string name="n_open_source">OPEN SOURCE ЛИЦЕНЗ</string>
+    <string name="n_profile_options">ПРОФИЛ</string>
+    <string name="n_settings">НАСТРОЙКИ</string>
+    <string name="open_source_license">Open source лиценз</string>
+    <!-- From: file:/Users/Ann/Downloads/Antox-master/app/src/main/res/values-bg/strings_activity_settings.xml -->
+    <eat-comment/>
+    <string name="pref_advanced">Допълнителни</string>
+    <string name="pref_autostart">Стартирай Антох при рестартиране</string>
+    <string name="pref_default_nickname">Antox потребител</string>
+    <string name="pref_default_password">Няма зададена парола</string>
+    <string name="pref_default_status_message">Ей! Аз ползвам Antox</string>
+    <string name="pref_default_tox_id">Default Tox ID - Не би трябвало да го виждате</string>
+    <string name="pref_default_toxme">В момента профилът е в режим инкогнито</string>
+    <string name="pref_header_notifications">Известия</string>
+    <string name="pref_header_other">Други</string>
+    <string name="pref_header_profile">Профил</string>
+    <string name="pref_nospam">Изтрий Tox  ID</string>
+    <string name="pref_title_account_name">Име на профила</string>
+    <string name="pref_title_avatar">Аватар</string>
+    <string name="pref_title_connection_status_messages">Съобщения за действия</string>
+    <string name="pref_title_delete">Изтрий профила</string>
+    <string name="pref_title_enable_notifications">Включи известията за...</string>
+    <string name="pref_title_export">Износ на профила</string>
+    <string name="pref_title_language">Език</string>
+    <string name="pref_title_logging_enabled">Пази чат историята при отписване</string>
+    <string name="pref_title_logout">Отписване</string>
+    <string name="pref_title_new_friend_notifications">покани за приятелство</string>
+    <string name="pref_title_new_message_notifications">съобщения</string>
+    <string name="pref_title_nickname">Име</string>
+    <string name="pref_title_password">ToxMe парола</string>
+    <string name="pref_title_status">Статус</string>
+    <string name="pref_title_status_message">Статус съобщение</string>
+    <string name="pref_title_theme_color">Смени цвета на темата</string>
+    <string name="pref_title_tox_id">Tox ID</string>
+    <string name="pref_title_toxme">ToxMe адрес</string>
+    <string name="pref_title_wifi_only">Само през Wi-Fi</string>
+    <string name="pref_udp">Разреши UDP</string>
+    <!-- From: file:/Users/Ann/Downloads/Antox-master/app/src/main/res/values-bg/strings.xml -->
+    <eat-comment/>
+    <string name="qr_button_no">Не</string>
+    <string name="qr_button_yes">Да</string>
+    <string name="qr_default_message">Това приложение се нуждае от баркод скенер. Искаш ли да го инсталираш?</string>
+    <string name="qr_default_title">Инсталирай Баркод Скенер?</string>
+    <string name="scanqr_button">Сканирай QR код</string>
+    <string name="search_all_contacts">Търси всички контакти</string>
+    <string name="share_with">Сподели с</string>
+    <!-- From: file:/Users/Ann/Downloads/Antox-master/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/res/values-bg/values-bg.xml -->
+    <eat-comment/>
+    <string msgid="2869576371154716097" name="status_bar_notification_info_overflow">"999+"</string>
+    <!-- From: file:/Users/Ann/Downloads/Antox-master/app/src/main/res/values-bg/strings.xml -->
+    <eat-comment/>
+    <string name="title_activity_add">Добави Приятел</string>
+    <string name="title_activity_create_account">Създай Акаунт</string>
+    <string name="title_activity_friend_profile">Профил на Приятеля</string>
+    <string name="title_activity_profile_settings">Настройки на профила</string>
+    <!-- From: file:/Users/Ann/Downloads/Antox-master/app/src/main/res/values-bg/strings_activity_settings.xml -->
+    <eat-comment/>
+    <string name="title_activity_settings">Настройки</string>
+    <!-- From: file:/Users/Ann/Downloads/Antox-master/app/src/main/res/values-bg/strings.xml -->
+    <eat-comment/>
+    <string name="titles_contacts">Контакти</string>
+    <string name="titles_recent">Скорошни</string>
+    <string name="titles_settings">Настройки</string>
+    <string name="ver">Версия</string>
+</resources>

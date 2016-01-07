@@ -1,0 +1,261 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- From: file:/Users/Ann/Downloads/Antox-master/app/src/main/res/values-ar/strings_activity_settings.xml -->
+    <eat-comment/>
+    <string-array name="pref_status_list_titles"/>
+    <!-- From: file:/Users/Ann/Downloads/Antox-master/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/res/values-ar/values-ar.xml -->
+    <eat-comment/>
+    <string msgid="4600421777120114993" name="abc_action_bar_home_description">"التنقل إلى الشاشة الرئيسية"</string>
+    <string msgid="1397052879051804371" name="abc_action_bar_home_description_format">"%1$s، %2$s"</string>
+    <string msgid="6623331958280229229" name="abc_action_bar_home_subtitle_description_format">"%1$s، %2$s، %3$s"</string>
+    <string msgid="1594238315039666878" name="abc_action_bar_up_description">"التنقل إلى أعلى"</string>
+    <string msgid="3588849162933574182" name="abc_action_menu_overflow_description">"خيارات إضافية"</string>
+    <string msgid="4076576682505996667" name="abc_action_mode_done">"تم"</string>
+    <string msgid="7468859129482906941" name="abc_activity_chooser_view_see_all">"عرض الكل"</string>
+    <string msgid="2031811694353399454" name="abc_activitychooserview_choose_application">"اختيار تطبيق"</string>
+    <string msgid="7723749260725869598" name="abc_search_hint">"بحث…"</string>
+    <string msgid="3691816814315814921" name="abc_searchview_description_clear">"محو طلب البحث"</string>
+    <string msgid="2550479030709304392" name="abc_searchview_description_query">"طلب البحث"</string>
+    <string msgid="8264924765203268293" name="abc_searchview_description_search">"بحث"</string>
+    <string msgid="8928215447528550784" name="abc_searchview_description_submit">"إرسال طلب البحث"</string>
+    <string msgid="893419373245838918" name="abc_searchview_description_voice">"البحث الصوتي"</string>
+    <string msgid="3421042268587513524" name="abc_shareactionprovider_share_with">"مشاركة مع"</string>
+    <string msgid="7165123711973476752" name="abc_shareactionprovider_share_with_application">"‏مشاركة مع %s"</string>
+    <string msgid="1603543279005712093" name="abc_toolbar_collapse_description">"تصغير"</string>
+    <!-- From: file:/Users/Ann/Downloads/Antox-master/app/src/main/res/values-ar/strings.xml -->
+    <eat-comment/>
+    <string name="about">عن</string>
+    <string name="about_antox_1">بسبب زيادة برامج المراقبة الحكومبة, Tox يقدم وسيلة سهلة لإستخدام تطبيق يسمح بالتواصل مع الاصدقاء و الأهل بدون مرقبة احد اخر.</string>
+    <string name="about_antox_2">ما يعمل حاليا:</string>
+    <string name="about_antox_3">- المراسلة من واحد لواحد</string>
+    <string name="about_antox_4">- التنبيهات</string>
+    <string name="about_antox_5">- نقل الملفات</string>
+    <string name="about_antox_6">ما لا يعمل حاليا:</string>
+    <string name="about_antox_7">- الصوت / الصورة</string>
+    <string name="about_antox_8">- المجموعات</string>
+    <string name="action_settings">الإعدادات</string>
+    <string name="add_contact">أضف جهة إتصال</string>
+    <string name="addfriend_button">اضف صديق</string>
+    <string name="addfriend_default_message">مرحبا! الرجاء قبول طلب صداقة</string>
+    <string name="addfriend_friend_added">تم اضافة صديق</string>
+    <string name="addfriend_friend_exists">الصديق موجود مسبقاً</string>
+    <string name="addfriend_friend_key">اسم معرف Tox لصديقك</string>
+    <string name="addfriend_friend_message">ارسل رسالة بالطلب</string>
+    <string name="addfriend_friend_pin_text">ادخل الرقم المعرف للصديق</string>
+    <string name="addfriend_friend_pin_title">ادخل الرقم المعرف للصديق</string>
+    <string name="addfriend_invalid_pin">رقم معرف غير صحيح</string>
+    <string name="addfriend_nick_hint">ضع اسم رمزي لصديقك</string>
+    <string name="addfriend_optional_title">اضافات اختيارية</string>
+    <string name="addfriend_own_key">لا يمكنك اضافة نفسك</string>
+    <string name="addgroup_alias_hint">ضع رمزا لها المجموعة</string>
+    <string name="addgroup_button">انتمي للمجموعة</string>
+    <string name="addgroup_group_added">تم الإنتماء للمجموعة</string>
+    <string name="addgroup_group_exists">المجموعة موجودة مسبقا</string>
+    <string name="addgroup_group_id">معرف المجموعة</string>
+    <string name="addgroup_optional_title">اضافات اختيارية</string>
+    <string name="addpane_friend_label">صديق</string>
+    <string name="addpane_group_label">مجموعة</string>
+    <string name="attachment_file">ارفق ملف</string>
+    <string name="attachment_photo">ارفق صورة</string>
+    <string name="attachment_takephoto">التقط صورة</string>
+    <string name="avatar_too_large_error">خطأ: ملف صورة رمزية كبير جدا.</string>
+    <string name="button_cancel">الغ</string>
+    <string name="button_confirm">اكّد</string>
+    <string name="button_no">لا</string>
+    <string name="button_ok">حسنا</string>
+    <string name="button_yes">نعم</string>
+    <string name="chat_enter_message">ارسل رسالة</string>
+    <string name="chat_file_transfer">نقل الملفات</string>
+    <string name="chat_ft_failed_friend_offline">فشل الارسال - لا يمكن ارسال الملف لصديق غير مرتبط</string>
+    <string name="chat_message_too_long">هذه الرسالة طويلة جدا و لا يمكن ارسالها</string>
+    <string name="connection_has">لديه</string>
+    <string name="connection_offline">فقد الارتباط</string>
+    <string name="connection_online">تم الارتباط</string>
+    <string name="contacts_actions_on">الاحداث مفعّلة</string>
+    <string name="contacts_delimiter_friends">الاصدقاء</string>
+    <string name="contacts_delimiter_groups">المجموعات</string>
+    <string name="contacts_delimiter_invites">دعوات المجموعة</string>
+    <string name="contacts_delimiter_offline">غير مرتبط</string>
+    <string name="contacts_delimiter_online">مرتبط</string>
+    <string name="contacts_delimiter_requests">الطلبات</string>
+    <string name="contacts_resend_friend_request">اعد ارسال طلب الصداقة</string>
+    <!-- From: file:/Users/Ann/Downloads/Antox-master/app/src/main/res/values-ar/strings_activity_settings.xml -->
+    <eat-comment/>
+    <string name="copy_tox_id">انسخ معرف Tox</string>
+    <!-- From: file:/Users/Ann/Downloads/Antox-master/app/src/main/res/values-ar/strings.xml -->
+    <eat-comment/>
+    <string name="create_account_connection_error">فشل بالتسجيل: لا يمكن الوصول للإنترنت.</string>
+    <string name="create_account_encrypted_profile_error">لا يقبل انتوكس الملفات الشخصية المشفرة حاليا</string>
+    <string name="create_account_exists">هذا الاسم مستخدم</string>
+    <string name="create_account_internal_error">خطأ Antox داخلي. الرجاء أعد تشغيل البرنامج</string>
+    <string name="create_account_invalid_domain">مجال toxme المزود غير صالح</string>
+    <string name="create_account_kalium_link_error">فشل تحميل مكتبة مطلوبة. غير قابل لإنشاء حساب غير مخفي</string>
+    <string name="create_account_load_profile_unknown">خطأ مجهول اثناء تحميل الملف الشخصي</string>
+    <string name="create_account_reached_registration_limit">قد وصلت الى حدّك في التسجيل, يمكنك ان تسجل 13 حساب فقط في الساعة.</string>
+    <string name="create_account_unknown_error">خطأ تسجيل مجهول, الرجاء اعد المحاولة لاحقا</string>
+    <string name="create_bad_profile_name">يجب ان لا يحتوي اسم الملف الشخصي على / او ان يكون فارغا</string>
+    <string name="create_group_dialog_cancel">الغ</string>
+    <string name="create_group_dialog_create_group">انشئ مجموعة</string>
+    <string name="create_group_dialog_message">انشئ مجموعة دردشة جديدة</string>
+    <string name="create_group_dialog_name_header">اسم المجموعة</string>
+    <string name="create_import_profile">إستورد الملف الشخصي</string>
+    <string name="create_must_fill_in">يجب ان تعبئ كل الحقول</string>
+    <string name="create_name_hint">اسم الملف الشخصي</string>
+    <string name="create_profile_exists">اسم الملف الشخصي هذا موجود</string>
+    <string name="create_register">سجّل</string>
+    <string name="create_register_incog">رمز التسجيل</string>
+    <string name="create_registering">يتم تسجيل الحساب</string>
+    <string name="create_skip">اسمح للكل بإضافتك بإستخدام اسم ملفك الشخصي</string>
+    <string name="create_text">مراسلة آمنة للكل</string>
+    <string name="delete_account_dialog_cancel">الغ</string>
+    <string name="delete_account_dialog_confirm">احذف الحساب</string>
+    <string name="delete_account_dialog_message">هذا سوف يحذف مستخدم انتوكس بشكل دائم و من اي خدمة ToxME مرتبطة بالحساب</string>
+    <string name="delete_account_dialog_title">اكّد حذف حساب انتوكس</string>
+    <string name="delete_account_error">حصل خطأ اثناء محاولة حذف حساب انتوكس</string>
+    <string name="delete_account_successful">تم حذف الحساب بنجاح</string>
+    <string name="dialog_avatar_description">صورة رمزية</string>
+    <string name="dialog_avatar_take_photo">التقط صورة</string>
+    <string name="dialog_avatar_use_file">استخدم ملف</string>
+    <string name="dialog_color_picker_title">اختر نمط اللون</string>
+    <string name="dialog_password">انسخ للذاكرة</string>
+    <string name="dialog_pin">ادخل الرقم المعرف لصديقك</string>
+    <string name="dialog_tox_id">انسخ معرف Tox للذاكرة</string>
+    <string name="dialog_toxme">انسخ للذاكرة</string>
+    <string name="drawer_close">اغلق درج التصفح</string>
+    <string name="drawer_open">افتح درج التصفح</string>
+    <string name="end_call">انهِ المكالمة</string>
+    <string name="file_delete">احذف الملف</string>
+    <string name="file_failed">فشل</string>
+    <string name="file_finished">انتهى</string>
+    <string name="file_in_progress">جاري العمل</string>
+    <string name="file_rejected">المرفوض</string>
+    <string name="file_request_sent">الطلب المرسل</string>
+    <string name="file_time_remaining">بقي %s ثوان</string>
+    <string name="friend_accepted_default_status">تم قبول الصديق</string>
+    <string name="friend_action_block">امنع</string>
+    <string name="friend_action_block_friend_confirmation">منع هذا المستخدم سيؤدي لإزالته من قائمة الاصدقاء, و لن تستطيع رؤية طلبات الصداقة منهم, هل تريد الاستمرار؟</string>
+    <string name="friend_action_chat_log_export_failed">فشل تصدير سجل الدردشة</string>
+    <string name="friend_action_chat_log_exported">تم تصدير سجل الدردشة بنجاح الى %s</string>
+    <string name="friend_action_delete">احذف صديق</string>
+    <string name="friend_action_delete_chat">احذف سجل الدردشة</string>
+    <string name="friend_action_delete_chat_confirmation">ها انت متأكد من انك تريد حذف سجلات الدردشة</string>
+    <string name="friend_action_delete_friend_confirmation">هل انت متأكد من انك تريد حذف هذا الصديق؟</string>
+    <string name="friend_action_export_chat">صدّر سجل الدردشة</string>
+    <string name="friend_action_profile">الملف الشخصي</string>
+    <string name="friend_profile_button">حدّث</string>
+    <string name="friend_profile_copied">تم نسخ معرف Tox</string>
+    <string name="friend_profile_key">معرف Tox</string>
+    <string name="friend_profile_nick">الاسم الرمزي</string>
+    <string name="friend_profile_note">الحالة</string>
+    <string name="friend_profile_title">%1$s\'s ملف شخصي</string>
+    <string name="friend_profile_updated">تم تحديث الملف الشخصي</string>
+    <string name="friend_request">طلب صديق جديد</string>
+    <string name="friendrequest_accept">أقبل</string>
+    <string name="friendrequest_reject">أرفض</string>
+    <string name="group_action_delete">اترك المجموعة</string>
+    <string name="group_default_part_message">مع السلامة</string>
+    <string name="group_default_peer_name">مجهول</string>
+    <string name="group_invite">دعوة مجموعة جديدة</string>
+    <string name="group_profile_peer_list_head">المشاركين</string>
+    <string name="groupinvite_accept">اقبل</string>
+    <string name="groupinvite_reject">ارفض</string>
+    <string name="import_profile_invalid_file">الملف المختار ليس ملف Tox شخصي صالح</string>
+    <string name="invalid_friend_ID">معرف Tox غير صالح</string>
+    <string name="invalid_group_ID">معرف مجموعة غير صالح</string>
+    <string name="invited_by">قد تم دعوتك من قبل</string>
+    <string name="license1">يوزع تحت ترخيص GNU GPL v3. انشئ من قبل مارك وينتر, محفوظ من قبل subliun و غيره.</string>
+    <string name="license2">شيفرة المصدر موجودة في https://github.com/subliun/Antox</string>
+    <string name="login_account_hint">اسم الملف الشخصي</string>
+    <string name="login_bad_login">لم يتم التعرف على اسم الملف الشخصي</string>
+    <string name="login_create_account_text">اضف ملف Tox شخصي</string>
+    <string name="login_login">الدخول</string>
+    <string name="login_must_fill_in">اكتب اسم الملف الشخصي</string>
+    <string name="main_group_coming_soon">آتٍ قربياً</string>
+    <string name="main_mobile_disabled">غير مرتبط حاليا لأن نمط Wi-Fi مفعّل. اضغط لتفتح الإعدادات.</string>
+    <string name="main_no_active_chat">لا يوجد دردشة فعّالة. ابدأ واحدة بإختيار صديق من القائمة على اليسار.</string>
+    <string name="main_no_internet">لا يوجد اتصال بالإنترنت</string>
+    <string name="main_not_connected">لم يتم الكشف عن إتصال بالانترنت. ستكون الوظائف محدودة بدون اتصال انترنت الا اذا كان الإستخدام على الشبكة المحلية فقط</string>
+    <string name="main_recent_no">لا توجد محادثات اخيرة</string>
+    <string name="message_copy">انسخ الرسالة</string>
+    <string name="message_delete">احذف الرسالة</string>
+    <string name="mute_call">صامت</string>
+    <string name="mute_mic">اقفل المايك</string>
+    <string name="n_about">عن</string>
+    <string name="n_add_person">اضف شخص</string>
+    <string name="n_create_group">انشئ مجموعة</string>
+    <string name="n_logout">خروج</string>
+    <string name="n_open_source">ترخيص مفتوح المصدر</string>
+    <string name="n_profile_options">الملف الشخصي</string>
+    <string name="n_settings">الإعدادات</string>
+    <string name="no_camera_intent_error">خطأ: لا يوجد تطبيق كاميرا صالح.</string>
+    <string name="open_source_license">ترخيص مفتوح المصدر</string>
+    <!-- From: file:/Users/Ann/Downloads/Antox-master/app/src/main/res/values-ar/strings_activity_settings.xml -->
+    <eat-comment/>
+    <string name="pref_advanced">متقدم</string>
+    <string name="pref_autostart">ابدأ انتوكس عند التشغيل</string>
+    <string name="pref_default_nickname">مستخدم انتوكس</string>
+    <string name="pref_default_password">لا توجد كلمة سر محددة</string>
+    <string name="pref_default_status_message">يا! انا استخدم انتوكس</string>
+    <string name="pref_default_tox_id">معرف Tox الافتراضي - من المفترض ان لا ترى هذا</string>
+    <string name="pref_default_toxme">الملف الشخصي هذا حاليا في وضع التخفي</string>
+    <string name="pref_header_notifications">التنبيهات</string>
+    <string name="pref_header_other">اخرى</string>
+    <string name="pref_header_profile">الملف الشخصي</string>
+    <string name="pref_nospam">اعد تحديد معرف Tox</string>
+    <string name="pref_title_account_name">اسم الملف الشخصي</string>
+    <string name="pref_title_avatar">الصورة الرمزية</string>
+    <string name="pref_title_connection_status_messages">رسائل الفعالية</string>
+    <string name="pref_title_delete">احذف الحساب</string>
+    <string name="pref_title_enable_notifications">فعّل التنبيهات</string>
+    <string name="pref_title_export">صدّر الملف الشخصي</string>
+    <string name="pref_title_language">اللغة</string>
+    <string name="pref_title_logging_enabled">ابق سجل الدردشة عند الخروج</string>
+    <string name="pref_title_logout">خروج</string>
+    <string name="pref_title_new_friend_notifications">تنبيهات طلب صديق</string>
+    <string name="pref_title_new_message_notifications">تنبيهات الرسائل</string>
+    <string name="pref_title_nickname">الاسم</string>
+    <string name="pref_title_password">كلمة سر ToxMe</string>
+    <string name="pref_title_status">الحالة</string>
+    <string name="pref_title_status_message">رسالة الحالة</string>
+    <string name="pref_title_theme_color">غير نمط اللون</string>
+    <string name="pref_title_tox_id">معرف Tox</string>
+    <string name="pref_title_toxme">عنوان ToxMe</string>
+    <string name="pref_title_wifi_only">فقط Wi-Fi</string>
+    <string name="pref_udp">فعل UDP</string>
+    <!-- From: file:/Users/Ann/Downloads/Antox-master/app/src/main/res/values-ar/strings.xml -->
+    <eat-comment/>
+    <string name="profile_info_description">اجلب معلومات المستخدم</string>
+    <string name="qr_button_no">لا</string>
+    <string name="qr_button_yes">نعم</string>
+    <string name="qr_default_message">هذا التطبيق يحتاج الى ماسح شيفرة. هل تريد ان تنصّبه؟</string>
+    <string name="qr_default_title">نصّب ماسح الشيفرة؟</string>
+    <string name="reset_tox_id_dialog_cancel">الغِ</string>
+    <string name="reset_tox_id_dialog_confirm">اعد تحديد المعرف</string>
+    <string name="reset_tox_id_dialog_message">اعادة تحديد معرف Tox يغير معرفك بشكل دائم, سوف تحتفظ بقائمة جهات الاتصال الحالية, لكن لن يستطيع الاشخاص الاخرين اضافتك باستخدام معرفك القديم.</string>
+    <string name="reset_tox_id_dialog_title">اكّد اعادة تحديد معرف Tox</string>
+    <string name="scanqr_button">امسح شيفرة QR</string>
+    <string name="search_all_contacts">ابحث في كل جهات الاتصال</string>
+    <string name="share_with">شارك مع</string>
+    <!-- From: file:/Users/Ann/Downloads/Antox-master/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/res/values-ar/values-ar.xml -->
+    <eat-comment/>
+    <string msgid="2869576371154716097" name="status_bar_notification_info_overflow">"+999"</string>
+    <!-- From: file:/Users/Ann/Downloads/Antox-master/app/src/main/res/values-ar/strings.xml -->
+    <eat-comment/>
+    <string name="title_activity_add">أضف جهة إتصال</string>
+    <string name="title_activity_call">فعالية المكالمة</string>
+    <string name="title_activity_create_account">انشئ فعالية الحساب</string>
+    <string name="title_activity_friend_profile">ملف شخصي لصديق</string>
+    <string name="title_activity_group_profile">معلومات المجموعة</string>
+    <string name="title_activity_profile_settings">خيارات الملف الشخصي</string>
+    <!-- From: file:/Users/Ann/Downloads/Antox-master/app/src/main/res/values-ar/strings_activity_settings.xml -->
+    <eat-comment/>
+    <string name="title_activity_settings">الإعدادات</string>
+    <!-- From: file:/Users/Ann/Downloads/Antox-master/app/src/main/res/values-ar/strings.xml -->
+    <eat-comment/>
+    <string name="titles_contacts">جهات الاتصال</string>
+    <string name="titles_recent">الاخيرة</string>
+    <string name="titles_settings">الإعدادات</string>
+    <string name="tox_id_reset">تم اعادة تحديد معرف Tox خاصتك</string>
+    <string name="unread_count">%s رسائل غير مقرؤة</string>
+    <string name="ver">النسخة</string>
+</resources>
