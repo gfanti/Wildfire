@@ -64,9 +64,10 @@ class LeftPaneFragment extends Fragment {
     }
 
     override def getItem(pos: Int): Fragment = pos match {
-      case 0 => new RecentFragment()
+      //case 0 => new RecentFragment()
         // modified by Gong
       //case _ => new ContactsFragment()
+      case 0 => new BroadcastFragment()
       case 1 => new ContactsFragment()
       case _ => new EvalFragment()
         // modified by Gong

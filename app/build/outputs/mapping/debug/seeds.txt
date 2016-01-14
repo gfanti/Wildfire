@@ -1728,6 +1728,7 @@ chat.tox.antox.R$id: int avatar_takephoto
 chat.tox.antox.R$id: int beginning
 chat.tox.antox.R$id: int bold
 chat.tox.antox.R$id: int bottom
+chat.tox.antox.R$id: int broadcastFragButton
 chat.tox.antox.R$id: int buttonPanel
 chat.tox.antox.R$id: int camera_button
 chat.tox.antox.R$id: int cancel_action
@@ -1736,6 +1737,7 @@ chat.tox.antox.R$id: int center_horizontal
 chat.tox.antox.R$id: int center_text
 chat.tox.antox.R$id: int center_vertical
 chat.tox.antox.R$id: int chat_messages
+chat.tox.antox.R$id: int chat_messages_person
 chat.tox.antox.R$id: int checkbox
 chat.tox.antox.R$id: int chronometer
 chat.tox.antox.R$id: int clip_horizontal
@@ -1967,6 +1969,7 @@ chat.tox.antox.R$layout: int about
 chat.tox.antox.R$layout: int activity_add
 chat.tox.antox.R$layout: int activity_call
 chat.tox.antox.R$layout: int activity_chat
+chat.tox.antox.R$layout: int activity_chat_person
 chat.tox.antox.R$layout: int activity_create_account
 chat.tox.antox.R$layout: int activity_eval
 chat.tox.antox.R$layout: int activity_friend_profile
@@ -2001,6 +2004,7 @@ chat.tox.antox.R$layout: int file_list_row
 chat.tox.antox.R$layout: int floating_action_button
 chat.tox.antox.R$layout: int fragment_add_friend
 chat.tox.antox.R$layout: int fragment_add_group
+chat.tox.antox.R$layout: int fragment_broadcast
 chat.tox.antox.R$layout: int fragment_contacts
 chat.tox.antox.R$layout: int fragment_create_group
 chat.tox.antox.R$layout: int fragment_eval
@@ -3124,6 +3128,66 @@ chat.tox.antox.activities.BetterPreferenceActivity: void onDestroy()
 chat.tox.antox.activities.BetterPreferenceActivity: void invalidateOptionsMenu()
 chat.tox.antox.activities.BetterPreferenceActivity: android.support.v7.app.AppCompatDelegate getDelegate()
 chat.tox.antox.activities.BetterPreferenceActivity: BetterPreferenceActivity()
+chat.tox.antox.activities.BroadcastActivity
+chat.tox.antox.activities.BroadcastActivity: java.lang.String photoPathSaveKey
+chat.tox.antox.activities.BroadcastActivity: scala.Option photoPath
+chat.tox.antox.activities.BroadcastActivity: java.lang.String photoPathSaveKey()
+chat.tox.antox.activities.BroadcastActivity: scala.Option photoPath()
+chat.tox.antox.activities.BroadcastActivity: void photoPath_$eq(scala.Option)
+chat.tox.antox.activities.BroadcastActivity: void onCreate(android.os.Bundle)
+chat.tox.antox.activities.BroadcastActivity: void onSaveInstanceState(android.os.Bundle)
+chat.tox.antox.activities.BroadcastActivity: void onRestoreInstanceState(android.os.Bundle)
+chat.tox.antox.activities.BroadcastActivity: void onResume()
+chat.tox.antox.activities.BroadcastActivity: void onActivityResult(int,int,android.content.Intent)
+chat.tox.antox.activities.BroadcastActivity: void onClickVoiceCallFriend(android.view.View)
+chat.tox.antox.activities.BroadcastActivity: void onClickVideoCallFriend(android.view.View)
+chat.tox.antox.activities.BroadcastActivity: void onClickInfo(android.view.View)
+chat.tox.antox.activities.BroadcastActivity: void onPause()
+chat.tox.antox.activities.BroadcastActivity: void sendMessage(java.lang.String,im.tox.tox4j.core.enums.ToxMessageType,android.content.Context)
+chat.tox.antox.activities.BroadcastActivity: BroadcastActivity()
+chat.tox.antox.activities.BroadcastActivity$$anon$1
+chat.tox.antox.activities.BroadcastActivity$$anon$1: void onClick(android.view.View)
+chat.tox.antox.activities.BroadcastActivity$$anon$1: BroadcastActivity$$anon$1(chat.tox.antox.activities.BroadcastActivity)
+chat.tox.antox.activities.BroadcastActivity$$anon$2
+chat.tox.antox.activities.BroadcastActivity$$anon$2: void onClick(android.view.View)
+chat.tox.antox.activities.BroadcastActivity$$anon$2: BroadcastActivity$$anon$2(chat.tox.antox.activities.BroadcastActivity)
+chat.tox.antox.activities.BroadcastActivity$$anon$3
+chat.tox.antox.activities.BroadcastActivity$$anon$3: void onClick(android.view.View)
+chat.tox.antox.activities.BroadcastActivity$$anon$3: BroadcastActivity$$anon$3(chat.tox.antox.activities.BroadcastActivity)
+chat.tox.antox.activities.BroadcastActivity$$anonfun$onActivityResult$1
+chat.tox.antox.activities.BroadcastActivity$$anonfun$onActivityResult$1: long serialVersionUID
+chat.tox.antox.activities.BroadcastActivity$$anonfun$onActivityResult$1: chat.tox.antox.activities.BroadcastActivity $outer
+chat.tox.antox.activities.BroadcastActivity$$anonfun$onActivityResult$1: java.lang.String filePath$1
+chat.tox.antox.activities.BroadcastActivity$$anonfun$onActivityResult$1: void apply(chat.tox.antox.wrapper.FriendKey)
+chat.tox.antox.activities.BroadcastActivity$$anonfun$onActivityResult$1: java.lang.Object apply(java.lang.Object)
+chat.tox.antox.activities.BroadcastActivity$$anonfun$onActivityResult$1: BroadcastActivity$$anonfun$onActivityResult$1(chat.tox.antox.activities.BroadcastActivity,java.lang.String)
+chat.tox.antox.activities.BroadcastActivity$$anonfun$onActivityResult$2
+chat.tox.antox.activities.BroadcastActivity$$anonfun$onActivityResult$2: long serialVersionUID
+chat.tox.antox.activities.BroadcastActivity$$anonfun$onActivityResult$2: chat.tox.antox.activities.BroadcastActivity $outer
+chat.tox.antox.activities.BroadcastActivity$$anonfun$onActivityResult$2: void apply(chat.tox.antox.wrapper.FriendKey)
+chat.tox.antox.activities.BroadcastActivity$$anonfun$onActivityResult$2: chat.tox.antox.activities.BroadcastActivity chat$tox$antox$activities$BroadcastActivity$$anonfun$$$outer()
+chat.tox.antox.activities.BroadcastActivity$$anonfun$onActivityResult$2: java.lang.Object apply(java.lang.Object)
+chat.tox.antox.activities.BroadcastActivity$$anonfun$onActivityResult$2: BroadcastActivity$$anonfun$onActivityResult$2(chat.tox.antox.activities.BroadcastActivity)
+chat.tox.antox.activities.BroadcastActivity$$anonfun$onActivityResult$2$$anonfun$apply$1
+chat.tox.antox.activities.BroadcastActivity$$anonfun$onActivityResult$2$$anonfun$apply$1: long serialVersionUID
+chat.tox.antox.activities.BroadcastActivity$$anonfun$onActivityResult$2$$anonfun$apply$1: chat.tox.antox.activities.BroadcastActivity$$anonfun$onActivityResult$2 $outer
+chat.tox.antox.activities.BroadcastActivity$$anonfun$onActivityResult$2$$anonfun$apply$1: chat.tox.antox.wrapper.FriendKey friendKey$1
+chat.tox.antox.activities.BroadcastActivity$$anonfun$onActivityResult$2$$anonfun$apply$1: void apply(java.lang.String)
+chat.tox.antox.activities.BroadcastActivity$$anonfun$onActivityResult$2$$anonfun$apply$1: java.lang.Object apply(java.lang.Object)
+chat.tox.antox.activities.BroadcastActivity$$anonfun$onActivityResult$2$$anonfun$apply$1: BroadcastActivity$$anonfun$onActivityResult$2$$anonfun$apply$1(chat.tox.antox.activities.BroadcastActivity$$anonfun$onActivityResult$2,chat.tox.antox.wrapper.FriendKey)
+chat.tox.antox.activities.BroadcastActivity$$anonfun$onSaveInstanceState$1
+chat.tox.antox.activities.BroadcastActivity$$anonfun$onSaveInstanceState$1: long serialVersionUID
+chat.tox.antox.activities.BroadcastActivity$$anonfun$onSaveInstanceState$1: java.lang.String apply()
+chat.tox.antox.activities.BroadcastActivity$$anonfun$onSaveInstanceState$1: java.lang.Object apply()
+chat.tox.antox.activities.BroadcastActivity$$anonfun$onSaveInstanceState$1: BroadcastActivity$$anonfun$onSaveInstanceState$1(chat.tox.antox.activities.BroadcastActivity)
+chat.tox.antox.activities.BroadcastActivity$$anonfun$sendMessage$1
+chat.tox.antox.activities.BroadcastActivity$$anonfun$sendMessage$1: long serialVersionUID
+chat.tox.antox.activities.BroadcastActivity$$anonfun$sendMessage$1: chat.tox.antox.activities.BroadcastActivity $outer
+chat.tox.antox.activities.BroadcastActivity$$anonfun$sendMessage$1: java.lang.String message$1
+chat.tox.antox.activities.BroadcastActivity$$anonfun$sendMessage$1: im.tox.tox4j.core.enums.ToxMessageType messageType$1
+chat.tox.antox.activities.BroadcastActivity$$anonfun$sendMessage$1: void apply(chat.tox.antox.wrapper.FriendKey)
+chat.tox.antox.activities.BroadcastActivity$$anonfun$sendMessage$1: java.lang.Object apply(java.lang.Object)
+chat.tox.antox.activities.BroadcastActivity$$anonfun$sendMessage$1: BroadcastActivity$$anonfun$sendMessage$1(chat.tox.antox.activities.BroadcastActivity,java.lang.String,im.tox.tox4j.core.enums.ToxMessageType)
 chat.tox.antox.activities.ChatActivity
 chat.tox.antox.activities.ChatActivity: java.lang.String photoPathSaveKey
 chat.tox.antox.activities.ChatActivity: scala.Option photoPath
@@ -3141,30 +3205,8 @@ chat.tox.antox.activities.ChatActivity: void onClickVoiceCallFriend(android.view
 chat.tox.antox.activities.ChatActivity: void onClickVideoCallFriend(android.view.View)
 chat.tox.antox.activities.ChatActivity: void onClickInfo(android.view.View)
 chat.tox.antox.activities.ChatActivity: void onPause()
-chat.tox.antox.activities.ChatActivity: void sendMessage(java.lang.String,im.tox.tox4j.core.enums.ToxMessageType,android.content.Context)
-chat.tox.antox.activities.ChatActivity: void setTyping(boolean)
 chat.tox.antox.activities.ChatActivity: chat.tox.antox.wrapper.ContactKey getKey(java.lang.String)
 chat.tox.antox.activities.ChatActivity: ChatActivity()
-chat.tox.antox.activities.ChatActivity$$anon$1
-chat.tox.antox.activities.ChatActivity$$anon$1: chat.tox.antox.activities.ChatActivity $outer
-chat.tox.antox.activities.ChatActivity$$anon$1: chat.tox.antox.activities.ChatActivity thisActivity$1
-chat.tox.antox.activities.ChatActivity$$anon$1: void onClick(android.view.View)
-chat.tox.antox.activities.ChatActivity$$anon$1: chat.tox.antox.activities.ChatActivity chat$tox$antox$activities$ChatActivity$$anon$$$outer()
-chat.tox.antox.activities.ChatActivity$$anon$1: ChatActivity$$anon$1(chat.tox.antox.activities.ChatActivity,chat.tox.antox.activities.ChatActivity)
-chat.tox.antox.activities.ChatActivity$$anon$1$$anon$2
-chat.tox.antox.activities.ChatActivity$$anon$1$$anon$2: chat.tox.antox.activities.ChatActivity$$anon$1 $outer
-chat.tox.antox.activities.ChatActivity$$anon$1$$anon$2: void fileSelected(java.io.File)
-chat.tox.antox.activities.ChatActivity$$anon$1$$anon$2: ChatActivity$$anon$1$$anon$2(chat.tox.antox.activities.ChatActivity$$anon$1)
-chat.tox.antox.activities.ChatActivity$$anon$3
-chat.tox.antox.activities.ChatActivity$$anon$3: chat.tox.antox.activities.ChatActivity $outer
-chat.tox.antox.activities.ChatActivity$$anon$3: chat.tox.antox.activities.ChatActivity thisActivity$1
-chat.tox.antox.activities.ChatActivity$$anon$3: void onClick(android.view.View)
-chat.tox.antox.activities.ChatActivity$$anon$3: ChatActivity$$anon$3(chat.tox.antox.activities.ChatActivity,chat.tox.antox.activities.ChatActivity)
-chat.tox.antox.activities.ChatActivity$$anon$4
-chat.tox.antox.activities.ChatActivity$$anon$4: chat.tox.antox.activities.ChatActivity $outer
-chat.tox.antox.activities.ChatActivity$$anon$4: chat.tox.antox.activities.ChatActivity thisActivity$1
-chat.tox.antox.activities.ChatActivity$$anon$4: void onClick(android.view.View)
-chat.tox.antox.activities.ChatActivity$$anon$4: ChatActivity$$anon$4(chat.tox.antox.activities.ChatActivity,chat.tox.antox.activities.ChatActivity)
 chat.tox.antox.activities.ChatActivity$$anonfun$1
 chat.tox.antox.activities.ChatActivity$$anonfun$1: long serialVersionUID
 chat.tox.antox.activities.ChatActivity$$anonfun$1: chat.tox.antox.wrapper.FriendKey key$1
@@ -3322,10 +3364,98 @@ chat.tox.antox.activities.FriendProfileActivity$$anonfun$onCreate$1$$anonfun$app
 chat.tox.antox.activities.FriendProfileActivity$$anonfun$onCreate$1$$anonfun$apply$1: void apply(android.graphics.Bitmap)
 chat.tox.antox.activities.FriendProfileActivity$$anonfun$onCreate$1$$anonfun$apply$1: java.lang.Object apply(java.lang.Object)
 chat.tox.antox.activities.FriendProfileActivity$$anonfun$onCreate$1$$anonfun$apply$1: FriendProfileActivity$$anonfun$onCreate$1$$anonfun$apply$1(chat.tox.antox.activities.FriendProfileActivity$$anonfun$onCreate$1,de.hdodenhof.circleimageview.CircleImageView)
+chat.tox.antox.activities.GenericBroadcastActivity
+chat.tox.antox.activities.GenericBroadcastActivity: chat.tox.antox.adapters.ChatMessagesAdapter adapter
+chat.tox.antox.activities.GenericBroadcastActivity: android.widget.EditText messageBox
+chat.tox.antox.activities.GenericBroadcastActivity: android.widget.TextView isTypingBox
+chat.tox.antox.activities.GenericBroadcastActivity: android.widget.TextView statusTextBox
+chat.tox.antox.activities.GenericBroadcastActivity: android.support.v7.widget.RecyclerView chatListView
+chat.tox.antox.activities.GenericBroadcastActivity: rx.lang.scala.Subscription messagesSub
+chat.tox.antox.activities.GenericBroadcastActivity: rx.lang.scala.Subscription titleSub
+chat.tox.antox.activities.GenericBroadcastActivity: boolean scrolling
+chat.tox.antox.activities.GenericBroadcastActivity: android.support.v7.widget.LinearLayoutManager layoutManager
+chat.tox.antox.activities.GenericBroadcastActivity: boolean fromNotifications
+chat.tox.antox.activities.GenericBroadcastActivity: int MESSAGE_LENGTH_LIMIT
+chat.tox.antox.activities.GenericBroadcastActivity: int defaultMessagePageSize
+chat.tox.antox.activities.GenericBroadcastActivity: int numMessagesShown
+chat.tox.antox.activities.GenericBroadcastActivity: chat.tox.antox.adapters.ChatMessagesAdapter adapter()
+chat.tox.antox.activities.GenericBroadcastActivity: void adapter_$eq(chat.tox.antox.adapters.ChatMessagesAdapter)
+chat.tox.antox.activities.GenericBroadcastActivity: android.widget.EditText messageBox()
+chat.tox.antox.activities.GenericBroadcastActivity: void messageBox_$eq(android.widget.EditText)
+chat.tox.antox.activities.GenericBroadcastActivity: android.widget.TextView isTypingBox()
+chat.tox.antox.activities.GenericBroadcastActivity: void isTypingBox_$eq(android.widget.TextView)
+chat.tox.antox.activities.GenericBroadcastActivity: android.widget.TextView statusTextBox()
+chat.tox.antox.activities.GenericBroadcastActivity: void statusTextBox_$eq(android.widget.TextView)
+chat.tox.antox.activities.GenericBroadcastActivity: android.support.v7.widget.RecyclerView chatListView()
+chat.tox.antox.activities.GenericBroadcastActivity: void chatListView_$eq(android.support.v7.widget.RecyclerView)
+chat.tox.antox.activities.GenericBroadcastActivity: rx.lang.scala.Subscription messagesSub()
+chat.tox.antox.activities.GenericBroadcastActivity: void messagesSub_$eq(rx.lang.scala.Subscription)
+chat.tox.antox.activities.GenericBroadcastActivity: rx.lang.scala.Subscription titleSub()
+chat.tox.antox.activities.GenericBroadcastActivity: void titleSub_$eq(rx.lang.scala.Subscription)
+chat.tox.antox.activities.GenericBroadcastActivity: boolean scrolling()
+chat.tox.antox.activities.GenericBroadcastActivity: void scrolling_$eq(boolean)
+chat.tox.antox.activities.GenericBroadcastActivity: android.support.v7.widget.LinearLayoutManager layoutManager()
+chat.tox.antox.activities.GenericBroadcastActivity: boolean fromNotifications()
+chat.tox.antox.activities.GenericBroadcastActivity: void fromNotifications_$eq(boolean)
+chat.tox.antox.activities.GenericBroadcastActivity: int MESSAGE_LENGTH_LIMIT()
+chat.tox.antox.activities.GenericBroadcastActivity: int defaultMessagePageSize()
+chat.tox.antox.activities.GenericBroadcastActivity: int numMessagesShown()
+chat.tox.antox.activities.GenericBroadcastActivity: void numMessagesShown_$eq(int)
+chat.tox.antox.activities.GenericBroadcastActivity: void onCreate(android.os.Bundle)
+chat.tox.antox.activities.GenericBroadcastActivity: boolean onCreateOptionsMenu(android.view.Menu)
+chat.tox.antox.activities.GenericBroadcastActivity: void onResume()
+chat.tox.antox.activities.GenericBroadcastActivity: void updateChat(scala.collection.Seq)
+chat.tox.antox.activities.GenericBroadcastActivity: scala.Option validateMessageBox()
+chat.tox.antox.activities.GenericBroadcastActivity: void chat$tox$antox$activities$GenericBroadcastActivity$$onScrolledToTop()
+chat.tox.antox.activities.GenericBroadcastActivity: void chat$tox$antox$activities$GenericBroadcastActivity$$onSendMessage()
+chat.tox.antox.activities.GenericBroadcastActivity: rx.lang.scala.Observable getActiveMessagesUpdatedObservable()
+chat.tox.antox.activities.GenericBroadcastActivity: scala.collection.mutable.ArrayBuffer getActiveMessageList(int)
+chat.tox.antox.activities.GenericBroadcastActivity: void onPause()
+chat.tox.antox.activities.GenericBroadcastActivity: void onBackPressed()
+chat.tox.antox.activities.GenericBroadcastActivity: void sendMessage(java.lang.String,im.tox.tox4j.core.enums.ToxMessageType,android.content.Context)
+chat.tox.antox.activities.GenericBroadcastActivity: GenericBroadcastActivity()
+chat.tox.antox.activities.GenericBroadcastActivity$$anon$1
+chat.tox.antox.activities.GenericBroadcastActivity$$anon$1: chat.tox.antox.activities.GenericBroadcastActivity $outer
+chat.tox.antox.activities.GenericBroadcastActivity$$anon$1: void onScrolled(android.support.v7.widget.RecyclerView,int,int)
+chat.tox.antox.activities.GenericBroadcastActivity$$anon$1: void onScrollStateChanged(android.support.v7.widget.RecyclerView,int)
+chat.tox.antox.activities.GenericBroadcastActivity$$anon$1: GenericBroadcastActivity$$anon$1(chat.tox.antox.activities.GenericBroadcastActivity)
+chat.tox.antox.activities.GenericBroadcastActivity$$anon$2
+chat.tox.antox.activities.GenericBroadcastActivity$$anon$2: chat.tox.antox.activities.GenericBroadcastActivity $outer
+chat.tox.antox.activities.GenericBroadcastActivity$$anon$2: void onClick(android.view.View)
+chat.tox.antox.activities.GenericBroadcastActivity$$anon$2: GenericBroadcastActivity$$anon$2(chat.tox.antox.activities.GenericBroadcastActivity)
+chat.tox.antox.activities.GenericBroadcastActivity$$anonfun$chat$tox$antox$activities$GenericBroadcastActivity$$onScrolledToTop$1
+chat.tox.antox.activities.GenericBroadcastActivity$$anonfun$chat$tox$antox$activities$GenericBroadcastActivity$$onScrolledToTop$1: long serialVersionUID
+chat.tox.antox.activities.GenericBroadcastActivity$$anonfun$chat$tox$antox$activities$GenericBroadcastActivity$$onScrolledToTop$1: chat.tox.antox.activities.GenericBroadcastActivity $outer
+chat.tox.antox.activities.GenericBroadcastActivity$$anonfun$chat$tox$antox$activities$GenericBroadcastActivity$$onScrolledToTop$1: void apply(rx.lang.scala.Subscriber)
+chat.tox.antox.activities.GenericBroadcastActivity$$anonfun$chat$tox$antox$activities$GenericBroadcastActivity$$onScrolledToTop$1: java.lang.Object apply(java.lang.Object)
+chat.tox.antox.activities.GenericBroadcastActivity$$anonfun$chat$tox$antox$activities$GenericBroadcastActivity$$onScrolledToTop$1: GenericBroadcastActivity$$anonfun$chat$tox$antox$activities$GenericBroadcastActivity$$onScrolledToTop$1(chat.tox.antox.activities.GenericBroadcastActivity)
+chat.tox.antox.activities.GenericBroadcastActivity$$anonfun$chat$tox$antox$activities$GenericBroadcastActivity$$onScrolledToTop$2
+chat.tox.antox.activities.GenericBroadcastActivity$$anonfun$chat$tox$antox$activities$GenericBroadcastActivity$$onScrolledToTop$2: long serialVersionUID
+chat.tox.antox.activities.GenericBroadcastActivity$$anonfun$chat$tox$antox$activities$GenericBroadcastActivity$$onScrolledToTop$2: chat.tox.antox.activities.GenericBroadcastActivity $outer
+chat.tox.antox.activities.GenericBroadcastActivity$$anonfun$chat$tox$antox$activities$GenericBroadcastActivity$$onScrolledToTop$2: void apply(scala.collection.Seq)
+chat.tox.antox.activities.GenericBroadcastActivity$$anonfun$chat$tox$antox$activities$GenericBroadcastActivity$$onScrolledToTop$2: java.lang.Object apply(java.lang.Object)
+chat.tox.antox.activities.GenericBroadcastActivity$$anonfun$chat$tox$antox$activities$GenericBroadcastActivity$$onScrolledToTop$2: GenericBroadcastActivity$$anonfun$chat$tox$antox$activities$GenericBroadcastActivity$$onScrolledToTop$2(chat.tox.antox.activities.GenericBroadcastActivity)
+chat.tox.antox.activities.GenericBroadcastActivity$$anonfun$chat$tox$antox$activities$GenericBroadcastActivity$$onSendMessage$1
+chat.tox.antox.activities.GenericBroadcastActivity$$anonfun$chat$tox$antox$activities$GenericBroadcastActivity$$onSendMessage$1: long serialVersionUID
+chat.tox.antox.activities.GenericBroadcastActivity$$anonfun$chat$tox$antox$activities$GenericBroadcastActivity$$onSendMessage$1: chat.tox.antox.activities.GenericBroadcastActivity $outer
+chat.tox.antox.activities.GenericBroadcastActivity$$anonfun$chat$tox$antox$activities$GenericBroadcastActivity$$onSendMessage$1: void apply(java.lang.String)
+chat.tox.antox.activities.GenericBroadcastActivity$$anonfun$chat$tox$antox$activities$GenericBroadcastActivity$$onSendMessage$1: java.lang.Object apply(java.lang.Object)
+chat.tox.antox.activities.GenericBroadcastActivity$$anonfun$chat$tox$antox$activities$GenericBroadcastActivity$$onSendMessage$1: GenericBroadcastActivity$$anonfun$chat$tox$antox$activities$GenericBroadcastActivity$$onSendMessage$1(chat.tox.antox.activities.GenericBroadcastActivity)
+chat.tox.antox.activities.GenericBroadcastActivity$$anonfun$onResume$1
+chat.tox.antox.activities.GenericBroadcastActivity$$anonfun$onResume$1: long serialVersionUID
+chat.tox.antox.activities.GenericBroadcastActivity$$anonfun$onResume$1: chat.tox.antox.activities.GenericBroadcastActivity $outer
+chat.tox.antox.activities.GenericBroadcastActivity$$anonfun$onResume$1: void apply(int)
+chat.tox.antox.activities.GenericBroadcastActivity$$anonfun$onResume$1: void apply$mcVI$sp(int)
+chat.tox.antox.activities.GenericBroadcastActivity$$anonfun$onResume$1: java.lang.Object apply(java.lang.Object)
+chat.tox.antox.activities.GenericBroadcastActivity$$anonfun$onResume$1: GenericBroadcastActivity$$anonfun$onResume$1(chat.tox.antox.activities.GenericBroadcastActivity)
+chat.tox.antox.activities.GenericBroadcastActivity$$anonfun$updateChat$1
+chat.tox.antox.activities.GenericBroadcastActivity$$anonfun$updateChat$1: long serialVersionUID
+chat.tox.antox.activities.GenericBroadcastActivity$$anonfun$updateChat$1: chat.tox.antox.activities.GenericBroadcastActivity $outer
+chat.tox.antox.activities.GenericBroadcastActivity$$anonfun$updateChat$1: void apply(chat.tox.antox.wrapper.Message)
+chat.tox.antox.activities.GenericBroadcastActivity$$anonfun$updateChat$1: java.lang.Object apply(java.lang.Object)
+chat.tox.antox.activities.GenericBroadcastActivity$$anonfun$updateChat$1: GenericBroadcastActivity$$anonfun$updateChat$1(chat.tox.antox.activities.GenericBroadcastActivity)
 chat.tox.antox.activities.GenericChatActivity
 chat.tox.antox.activities.GenericChatActivity: chat.tox.antox.adapters.ChatMessagesAdapter adapter
-chat.tox.antox.activities.GenericChatActivity: android.widget.EditText messageBox
-chat.tox.antox.activities.GenericChatActivity: android.widget.TextView isTypingBox
 chat.tox.antox.activities.GenericChatActivity: android.widget.TextView statusTextBox
 chat.tox.antox.activities.GenericChatActivity: android.support.v7.widget.RecyclerView chatListView
 chat.tox.antox.activities.GenericChatActivity: android.widget.TextView displayNameView
@@ -3342,10 +3472,6 @@ chat.tox.antox.activities.GenericChatActivity: int defaultMessagePageSize
 chat.tox.antox.activities.GenericChatActivity: int numMessagesShown
 chat.tox.antox.activities.GenericChatActivity: chat.tox.antox.adapters.ChatMessagesAdapter adapter()
 chat.tox.antox.activities.GenericChatActivity: void adapter_$eq(chat.tox.antox.adapters.ChatMessagesAdapter)
-chat.tox.antox.activities.GenericChatActivity: android.widget.EditText messageBox()
-chat.tox.antox.activities.GenericChatActivity: void messageBox_$eq(android.widget.EditText)
-chat.tox.antox.activities.GenericChatActivity: android.widget.TextView isTypingBox()
-chat.tox.antox.activities.GenericChatActivity: void isTypingBox_$eq(android.widget.TextView)
 chat.tox.antox.activities.GenericChatActivity: android.widget.TextView statusTextBox()
 chat.tox.antox.activities.GenericChatActivity: void statusTextBox_$eq(android.widget.TextView)
 chat.tox.antox.activities.GenericChatActivity: android.support.v7.widget.RecyclerView chatListView()
@@ -3376,37 +3502,22 @@ chat.tox.antox.activities.GenericChatActivity: boolean onCreateOptionsMenu(andro
 chat.tox.antox.activities.GenericChatActivity: void setDisplayName(java.lang.String)
 chat.tox.antox.activities.GenericChatActivity: void onResume()
 chat.tox.antox.activities.GenericChatActivity: void updateChat(scala.collection.Seq)
-chat.tox.antox.activities.GenericChatActivity: scala.Option validateMessageBox()
 chat.tox.antox.activities.GenericChatActivity: void chat$tox$antox$activities$GenericChatActivity$$onScrolledToTop()
-chat.tox.antox.activities.GenericChatActivity: void chat$tox$antox$activities$GenericChatActivity$$onSendMessage()
 chat.tox.antox.activities.GenericChatActivity: rx.lang.scala.Observable getActiveMessagesUpdatedObservable()
 chat.tox.antox.activities.GenericChatActivity: scala.collection.mutable.ArrayBuffer getActiveMessageList(int)
 chat.tox.antox.activities.GenericChatActivity: void onPause()
 chat.tox.antox.activities.GenericChatActivity: void onBackPressed()
 chat.tox.antox.activities.GenericChatActivity: chat.tox.antox.wrapper.ContactKey getKey(java.lang.String)
-chat.tox.antox.activities.GenericChatActivity: void sendMessage(java.lang.String,im.tox.tox4j.core.enums.ToxMessageType,android.content.Context)
-chat.tox.antox.activities.GenericChatActivity: void setTyping(boolean)
 chat.tox.antox.activities.GenericChatActivity: GenericChatActivity()
 chat.tox.antox.activities.GenericChatActivity$$anon$1
-chat.tox.antox.activities.GenericChatActivity$$anon$1: chat.tox.antox.activities.GenericChatActivity $outer
-chat.tox.antox.activities.GenericChatActivity$$anon$1: chat.tox.antox.data.AntoxDB db$1
-chat.tox.antox.activities.GenericChatActivity$$anon$1: void beforeTextChanged(java.lang.CharSequence,int,int,int)
-chat.tox.antox.activities.GenericChatActivity$$anon$1: void onTextChanged(java.lang.CharSequence,int,int,int)
-chat.tox.antox.activities.GenericChatActivity$$anon$1: void afterTextChanged(android.text.Editable)
-chat.tox.antox.activities.GenericChatActivity$$anon$1: GenericChatActivity$$anon$1(chat.tox.antox.activities.GenericChatActivity,chat.tox.antox.data.AntoxDB)
+chat.tox.antox.activities.GenericChatActivity$$anon$1: chat.tox.antox.activities.GenericChatActivity thisActivity$1
+chat.tox.antox.activities.GenericChatActivity$$anon$1: void onClick(android.view.View)
+chat.tox.antox.activities.GenericChatActivity$$anon$1: GenericChatActivity$$anon$1(chat.tox.antox.activities.GenericChatActivity,chat.tox.antox.activities.GenericChatActivity)
 chat.tox.antox.activities.GenericChatActivity$$anon$2
-chat.tox.antox.activities.GenericChatActivity$$anon$2: chat.tox.antox.activities.GenericChatActivity thisActivity$1
-chat.tox.antox.activities.GenericChatActivity$$anon$2: void onClick(android.view.View)
-chat.tox.antox.activities.GenericChatActivity$$anon$2: GenericChatActivity$$anon$2(chat.tox.antox.activities.GenericChatActivity,chat.tox.antox.activities.GenericChatActivity)
-chat.tox.antox.activities.GenericChatActivity$$anon$3
-chat.tox.antox.activities.GenericChatActivity$$anon$3: chat.tox.antox.activities.GenericChatActivity $outer
-chat.tox.antox.activities.GenericChatActivity$$anon$3: void onScrolled(android.support.v7.widget.RecyclerView,int,int)
-chat.tox.antox.activities.GenericChatActivity$$anon$3: void onScrollStateChanged(android.support.v7.widget.RecyclerView,int)
-chat.tox.antox.activities.GenericChatActivity$$anon$3: GenericChatActivity$$anon$3(chat.tox.antox.activities.GenericChatActivity)
-chat.tox.antox.activities.GenericChatActivity$$anon$4
-chat.tox.antox.activities.GenericChatActivity$$anon$4: chat.tox.antox.activities.GenericChatActivity $outer
-chat.tox.antox.activities.GenericChatActivity$$anon$4: void onClick(android.view.View)
-chat.tox.antox.activities.GenericChatActivity$$anon$4: GenericChatActivity$$anon$4(chat.tox.antox.activities.GenericChatActivity)
+chat.tox.antox.activities.GenericChatActivity$$anon$2: chat.tox.antox.activities.GenericChatActivity $outer
+chat.tox.antox.activities.GenericChatActivity$$anon$2: void onScrolled(android.support.v7.widget.RecyclerView,int,int)
+chat.tox.antox.activities.GenericChatActivity$$anon$2: void onScrollStateChanged(android.support.v7.widget.RecyclerView,int)
+chat.tox.antox.activities.GenericChatActivity$$anon$2: GenericChatActivity$$anon$2(chat.tox.antox.activities.GenericChatActivity)
 chat.tox.antox.activities.GenericChatActivity$$anonfun$chat$tox$antox$activities$GenericChatActivity$$onScrolledToTop$1
 chat.tox.antox.activities.GenericChatActivity$$anonfun$chat$tox$antox$activities$GenericChatActivity$$onScrolledToTop$1: long serialVersionUID
 chat.tox.antox.activities.GenericChatActivity$$anonfun$chat$tox$antox$activities$GenericChatActivity$$onScrolledToTop$1: chat.tox.antox.activities.GenericChatActivity $outer
@@ -3419,12 +3530,6 @@ chat.tox.antox.activities.GenericChatActivity$$anonfun$chat$tox$antox$activities
 chat.tox.antox.activities.GenericChatActivity$$anonfun$chat$tox$antox$activities$GenericChatActivity$$onScrolledToTop$2: void apply(scala.collection.Seq)
 chat.tox.antox.activities.GenericChatActivity$$anonfun$chat$tox$antox$activities$GenericChatActivity$$onScrolledToTop$2: java.lang.Object apply(java.lang.Object)
 chat.tox.antox.activities.GenericChatActivity$$anonfun$chat$tox$antox$activities$GenericChatActivity$$onScrolledToTop$2: GenericChatActivity$$anonfun$chat$tox$antox$activities$GenericChatActivity$$onScrolledToTop$2(chat.tox.antox.activities.GenericChatActivity)
-chat.tox.antox.activities.GenericChatActivity$$anonfun$chat$tox$antox$activities$GenericChatActivity$$onSendMessage$1
-chat.tox.antox.activities.GenericChatActivity$$anonfun$chat$tox$antox$activities$GenericChatActivity$$onSendMessage$1: long serialVersionUID
-chat.tox.antox.activities.GenericChatActivity$$anonfun$chat$tox$antox$activities$GenericChatActivity$$onSendMessage$1: chat.tox.antox.activities.GenericChatActivity $outer
-chat.tox.antox.activities.GenericChatActivity$$anonfun$chat$tox$antox$activities$GenericChatActivity$$onSendMessage$1: void apply(java.lang.String)
-chat.tox.antox.activities.GenericChatActivity$$anonfun$chat$tox$antox$activities$GenericChatActivity$$onSendMessage$1: java.lang.Object apply(java.lang.Object)
-chat.tox.antox.activities.GenericChatActivity$$anonfun$chat$tox$antox$activities$GenericChatActivity$$onSendMessage$1: GenericChatActivity$$anonfun$chat$tox$antox$activities$GenericChatActivity$$onSendMessage$1(chat.tox.antox.activities.GenericChatActivity)
 chat.tox.antox.activities.GenericChatActivity$$anonfun$onResume$1
 chat.tox.antox.activities.GenericChatActivity$$anonfun$onResume$1: long serialVersionUID
 chat.tox.antox.activities.GenericChatActivity$$anonfun$onResume$1: chat.tox.antox.activities.GenericChatActivity $outer
@@ -3449,8 +3554,6 @@ chat.tox.antox.activities.GroupChatActivity: void onClickVoiceCallFriend(android
 chat.tox.antox.activities.GroupChatActivity: void onClickVideoCallFriend(android.view.View)
 chat.tox.antox.activities.GroupChatActivity: void onClickInfo(android.view.View)
 chat.tox.antox.activities.GroupChatActivity: void onPause()
-chat.tox.antox.activities.GroupChatActivity: void sendMessage(java.lang.String,im.tox.tox4j.core.enums.ToxMessageType,android.content.Context)
-chat.tox.antox.activities.GroupChatActivity: void setTyping(boolean)
 chat.tox.antox.activities.GroupChatActivity: chat.tox.antox.wrapper.ContactKey getKey(java.lang.String)
 chat.tox.antox.activities.GroupChatActivity: GroupChatActivity()
 chat.tox.antox.activities.GroupChatActivity$$anonfun$onResume$1
@@ -4122,12 +4225,21 @@ chat.tox.antox.data.AntoxDB: void clearFileNumber(chat.tox.antox.wrapper.Contact
 chat.tox.antox.data.AntoxDB: void fileTransferFinished(chat.tox.antox.wrapper.ContactKey,int)
 chat.tox.antox.data.AntoxDB: rx.lang.scala.Observable lastMessages()
 chat.tox.antox.data.AntoxDB: rx.lang.scala.Observable messageListUpdatedObservable(scala.Option)
+chat.tox.antox.data.AntoxDB: rx.lang.scala.Observable messageListUpdatedObservable()
 chat.tox.antox.data.AntoxDB: rx.lang.scala.Observable messageListObservable(scala.Option)
-chat.tox.antox.data.AntoxDB: scala.collection.mutable.ArrayBuffer getMessageList(scala.Option,int)
-chat.tox.antox.data.AntoxDB: int getMessageList$default$2()
+chat.tox.antox.data.AntoxDB: scala.collection.mutable.ArrayBuffer getAllMessageList(scala.Option,int)
+chat.tox.antox.data.AntoxDB: int getAllMessageList$default$2()
 chat.tox.antox.data.AntoxDB: java.lang.String getMessageQuery(scala.Option,scala.Enumeration$Value,int)
 chat.tox.antox.data.AntoxDB: int getMessageQuery$default$3()
+chat.tox.antox.data.AntoxDB: java.lang.String getSentMessageQuery(scala.Option,scala.Enumeration$Value,int)
+chat.tox.antox.data.AntoxDB: int getSentMessageQuery$default$3()
+chat.tox.antox.data.AntoxDB: java.lang.String getBroadcastMessageQuery(scala.Enumeration$Value,int)
+chat.tox.antox.data.AntoxDB: int getBroadcastMessageQuery$default$2()
 chat.tox.antox.data.AntoxDB: scala.collection.mutable.ArrayBuffer unreadMsgList()
+chat.tox.antox.data.AntoxDB: scala.collection.mutable.ArrayBuffer getMessageList(scala.Option,int)
+chat.tox.antox.data.AntoxDB: int getMessageList$default$2()
+chat.tox.antox.data.AntoxDB: scala.collection.mutable.ArrayBuffer getBroadcastMessageList(int)
+chat.tox.antox.data.AntoxDB: int getBroadcastMessageList$default$1()
 chat.tox.antox.data.AntoxDB: scala.collection.mutable.ArrayBuffer chat$tox$antox$data$AntoxDB$$messageListFromCursor(android.database.Cursor)
 chat.tox.antox.data.AntoxDB: scala.collection.mutable.Set getMessageIds(scala.Option)
 chat.tox.antox.data.AntoxDB: rx.lang.scala.Observable friendRequests()
@@ -4194,76 +4306,65 @@ chat.tox.antox.data.AntoxDB$$anonfun$11: java.lang.Object apply(java.lang.Object
 chat.tox.antox.data.AntoxDB$$anonfun$11: AntoxDB$$anonfun$11(chat.tox.antox.data.AntoxDB)
 chat.tox.antox.data.AntoxDB$$anonfun$12
 chat.tox.antox.data.AntoxDB$$anonfun$12: long serialVersionUID
-chat.tox.antox.data.AntoxDB$$anonfun$12: scala.Enumeration$Value apply(int)
+chat.tox.antox.data.AntoxDB$$anonfun$12: chat.tox.antox.data.AntoxDB $outer
+chat.tox.antox.data.AntoxDB$$anonfun$12: scala.collection.mutable.ArrayBuffer apply(android.database.Cursor)
 chat.tox.antox.data.AntoxDB$$anonfun$12: java.lang.Object apply(java.lang.Object)
 chat.tox.antox.data.AntoxDB$$anonfun$12: AntoxDB$$anonfun$12(chat.tox.antox.data.AntoxDB)
 chat.tox.antox.data.AntoxDB$$anonfun$13
 chat.tox.antox.data.AntoxDB$$anonfun$13: long serialVersionUID
-chat.tox.antox.data.AntoxDB$$anonfun$13: boolean apply(chat.tox.antox.wrapper.Message)
+chat.tox.antox.data.AntoxDB$$anonfun$13: chat.tox.antox.data.AntoxDB $outer
+chat.tox.antox.data.AntoxDB$$anonfun$13: scala.collection.mutable.ArrayBuffer apply(android.database.Cursor)
 chat.tox.antox.data.AntoxDB$$anonfun$13: java.lang.Object apply(java.lang.Object)
 chat.tox.antox.data.AntoxDB$$anonfun$13: AntoxDB$$anonfun$13(chat.tox.antox.data.AntoxDB)
 chat.tox.antox.data.AntoxDB$$anonfun$14
 chat.tox.antox.data.AntoxDB$$anonfun$14: long serialVersionUID
-chat.tox.antox.data.AntoxDB$$anonfun$14: boolean apply(chat.tox.antox.wrapper.Message)
+chat.tox.antox.data.AntoxDB$$anonfun$14: scala.Enumeration$Value apply(int)
 chat.tox.antox.data.AntoxDB$$anonfun$14: java.lang.Object apply(java.lang.Object)
 chat.tox.antox.data.AntoxDB$$anonfun$14: AntoxDB$$anonfun$14(chat.tox.antox.data.AntoxDB)
 chat.tox.antox.data.AntoxDB$$anonfun$15
 chat.tox.antox.data.AntoxDB$$anonfun$15: long serialVersionUID
-chat.tox.antox.data.AntoxDB$$anonfun$15: chat.tox.antox.data.AntoxDB $outer
 chat.tox.antox.data.AntoxDB$$anonfun$15: boolean apply(chat.tox.antox.wrapper.Message)
 chat.tox.antox.data.AntoxDB$$anonfun$15: java.lang.Object apply(java.lang.Object)
 chat.tox.antox.data.AntoxDB$$anonfun$15: AntoxDB$$anonfun$15(chat.tox.antox.data.AntoxDB)
 chat.tox.antox.data.AntoxDB$$anonfun$16
 chat.tox.antox.data.AntoxDB$$anonfun$16: long serialVersionUID
-chat.tox.antox.data.AntoxDB$$anonfun$16: chat.tox.antox.data.AntoxDB $outer
-chat.tox.antox.data.AntoxDB$$anonfun$16: scala.collection.mutable.ArrayBuffer apply(chat.tox.antox.data.ClosedCursor)
-chat.tox.antox.data.AntoxDB$$anonfun$16: chat.tox.antox.data.AntoxDB chat$tox$antox$data$AntoxDB$$anonfun$$$outer()
+chat.tox.antox.data.AntoxDB$$anonfun$16: boolean apply(chat.tox.antox.wrapper.Message)
 chat.tox.antox.data.AntoxDB$$anonfun$16: java.lang.Object apply(java.lang.Object)
 chat.tox.antox.data.AntoxDB$$anonfun$16: AntoxDB$$anonfun$16(chat.tox.antox.data.AntoxDB)
-chat.tox.antox.data.AntoxDB$$anonfun$16$$anonfun$apply$9
-chat.tox.antox.data.AntoxDB$$anonfun$16$$anonfun$apply$9: long serialVersionUID
-chat.tox.antox.data.AntoxDB$$anonfun$16$$anonfun$apply$9: chat.tox.antox.data.AntoxDB$$anonfun$16 $outer
-chat.tox.antox.data.AntoxDB$$anonfun$16$$anonfun$apply$9: scala.collection.mutable.ArrayBuffer friendList$1
-chat.tox.antox.data.AntoxDB$$anonfun$16$$anonfun$apply$9: void apply(android.database.Cursor)
-chat.tox.antox.data.AntoxDB$$anonfun$16$$anonfun$apply$9: java.lang.Object apply(java.lang.Object)
-chat.tox.antox.data.AntoxDB$$anonfun$16$$anonfun$apply$9: AntoxDB$$anonfun$16$$anonfun$apply$9(chat.tox.antox.data.AntoxDB$$anonfun$16,scala.collection.mutable.ArrayBuffer)
 chat.tox.antox.data.AntoxDB$$anonfun$17
 chat.tox.antox.data.AntoxDB$$anonfun$17: long serialVersionUID
 chat.tox.antox.data.AntoxDB$$anonfun$17: chat.tox.antox.data.AntoxDB $outer
-chat.tox.antox.data.AntoxDB$$anonfun$17: scala.collection.mutable.ArrayBuffer apply(chat.tox.antox.data.ClosedCursor)
-chat.tox.antox.data.AntoxDB$$anonfun$17: chat.tox.antox.data.AntoxDB chat$tox$antox$data$AntoxDB$$anonfun$$$outer()
+chat.tox.antox.data.AntoxDB$$anonfun$17: boolean apply(chat.tox.antox.wrapper.Message)
 chat.tox.antox.data.AntoxDB$$anonfun$17: java.lang.Object apply(java.lang.Object)
 chat.tox.antox.data.AntoxDB$$anonfun$17: AntoxDB$$anonfun$17(chat.tox.antox.data.AntoxDB)
-chat.tox.antox.data.AntoxDB$$anonfun$17$$anonfun$apply$10
-chat.tox.antox.data.AntoxDB$$anonfun$17$$anonfun$apply$10: long serialVersionUID
-chat.tox.antox.data.AntoxDB$$anonfun$17$$anonfun$apply$10: chat.tox.antox.data.AntoxDB$$anonfun$17 $outer
-chat.tox.antox.data.AntoxDB$$anonfun$17$$anonfun$apply$10: scala.collection.mutable.ArrayBuffer groupList$1
-chat.tox.antox.data.AntoxDB$$anonfun$17$$anonfun$apply$10: void apply(android.database.Cursor)
-chat.tox.antox.data.AntoxDB$$anonfun$17$$anonfun$apply$10: java.lang.Object apply(java.lang.Object)
-chat.tox.antox.data.AntoxDB$$anonfun$17$$anonfun$apply$10: AntoxDB$$anonfun$17$$anonfun$apply$10(chat.tox.antox.data.AntoxDB$$anonfun$17,scala.collection.mutable.ArrayBuffer)
 chat.tox.antox.data.AntoxDB$$anonfun$18
 chat.tox.antox.data.AntoxDB$$anonfun$18: long serialVersionUID
-chat.tox.antox.data.AntoxDB$$anonfun$18: scala.Tuple2 apply(scala.collection.Seq,scala.collection.immutable.Map)
-chat.tox.antox.data.AntoxDB$$anonfun$18: java.lang.Object apply(java.lang.Object,java.lang.Object)
+chat.tox.antox.data.AntoxDB$$anonfun$18: chat.tox.antox.data.AntoxDB $outer
+chat.tox.antox.data.AntoxDB$$anonfun$18: scala.collection.mutable.ArrayBuffer apply(chat.tox.antox.data.ClosedCursor)
+chat.tox.antox.data.AntoxDB$$anonfun$18: chat.tox.antox.data.AntoxDB chat$tox$antox$data$AntoxDB$$anonfun$$$outer()
+chat.tox.antox.data.AntoxDB$$anonfun$18: java.lang.Object apply(java.lang.Object)
 chat.tox.antox.data.AntoxDB$$anonfun$18: AntoxDB$$anonfun$18(chat.tox.antox.data.AntoxDB)
+chat.tox.antox.data.AntoxDB$$anonfun$18$$anonfun$apply$10
+chat.tox.antox.data.AntoxDB$$anonfun$18$$anonfun$apply$10: long serialVersionUID
+chat.tox.antox.data.AntoxDB$$anonfun$18$$anonfun$apply$10: chat.tox.antox.data.AntoxDB$$anonfun$18 $outer
+chat.tox.antox.data.AntoxDB$$anonfun$18$$anonfun$apply$10: scala.collection.mutable.ArrayBuffer friendList$1
+chat.tox.antox.data.AntoxDB$$anonfun$18$$anonfun$apply$10: void apply(android.database.Cursor)
+chat.tox.antox.data.AntoxDB$$anonfun$18$$anonfun$apply$10: java.lang.Object apply(java.lang.Object)
+chat.tox.antox.data.AntoxDB$$anonfun$18$$anonfun$apply$10: AntoxDB$$anonfun$18$$anonfun$apply$10(chat.tox.antox.data.AntoxDB$$anonfun$18,scala.collection.mutable.ArrayBuffer)
 chat.tox.antox.data.AntoxDB$$anonfun$19
 chat.tox.antox.data.AntoxDB$$anonfun$19: long serialVersionUID
-chat.tox.antox.data.AntoxDB$$anonfun$19: scala.collection.Seq apply(scala.Tuple2,scala.collection.immutable.Map)
-chat.tox.antox.data.AntoxDB$$anonfun$19: java.lang.Object apply(java.lang.Object,java.lang.Object)
+chat.tox.antox.data.AntoxDB$$anonfun$19: chat.tox.antox.data.AntoxDB $outer
+chat.tox.antox.data.AntoxDB$$anonfun$19: scala.collection.mutable.ArrayBuffer apply(chat.tox.antox.data.ClosedCursor)
+chat.tox.antox.data.AntoxDB$$anonfun$19: chat.tox.antox.data.AntoxDB chat$tox$antox$data$AntoxDB$$anonfun$$$outer()
+chat.tox.antox.data.AntoxDB$$anonfun$19: java.lang.Object apply(java.lang.Object)
 chat.tox.antox.data.AntoxDB$$anonfun$19: AntoxDB$$anonfun$19(chat.tox.antox.data.AntoxDB)
 chat.tox.antox.data.AntoxDB$$anonfun$19$$anonfun$apply$11
 chat.tox.antox.data.AntoxDB$$anonfun$19$$anonfun$apply$11: long serialVersionUID
-chat.tox.antox.data.AntoxDB$$anonfun$19$$anonfun$apply$11: scala.collection.immutable.Map lm$1
-chat.tox.antox.data.AntoxDB$$anonfun$19$$anonfun$apply$11: scala.collection.immutable.Map unreadCountList$1
-chat.tox.antox.data.AntoxDB$$anonfun$19$$anonfun$apply$11: chat.tox.antox.wrapper.FriendInfo apply(chat.tox.antox.wrapper.FriendInfo)
+chat.tox.antox.data.AntoxDB$$anonfun$19$$anonfun$apply$11: chat.tox.antox.data.AntoxDB$$anonfun$19 $outer
+chat.tox.antox.data.AntoxDB$$anonfun$19$$anonfun$apply$11: scala.collection.mutable.ArrayBuffer groupList$1
+chat.tox.antox.data.AntoxDB$$anonfun$19$$anonfun$apply$11: void apply(android.database.Cursor)
 chat.tox.antox.data.AntoxDB$$anonfun$19$$anonfun$apply$11: java.lang.Object apply(java.lang.Object)
-chat.tox.antox.data.AntoxDB$$anonfun$19$$anonfun$apply$11: AntoxDB$$anonfun$19$$anonfun$apply$11(chat.tox.antox.data.AntoxDB$$anonfun$19,scala.collection.immutable.Map,scala.collection.immutable.Map)
-chat.tox.antox.data.AntoxDB$$anonfun$19$$anonfun$apply$11$$anonfun$1
-chat.tox.antox.data.AntoxDB$$anonfun$19$$anonfun$apply$11$$anonfun$1: long serialVersionUID
-chat.tox.antox.data.AntoxDB$$anonfun$19$$anonfun$apply$11$$anonfun$1: int apply()
-chat.tox.antox.data.AntoxDB$$anonfun$19$$anonfun$apply$11$$anonfun$1: int apply$mcI$sp()
-chat.tox.antox.data.AntoxDB$$anonfun$19$$anonfun$apply$11$$anonfun$1: java.lang.Object apply()
-chat.tox.antox.data.AntoxDB$$anonfun$19$$anonfun$apply$11$$anonfun$1: AntoxDB$$anonfun$19$$anonfun$apply$11$$anonfun$1(chat.tox.antox.data.AntoxDB$$anonfun$19$$anonfun$apply$11)
+chat.tox.antox.data.AntoxDB$$anonfun$19$$anonfun$apply$11: AntoxDB$$anonfun$19$$anonfun$apply$11(chat.tox.antox.data.AntoxDB$$anonfun$19,scala.collection.mutable.ArrayBuffer)
 chat.tox.antox.data.AntoxDB$$anonfun$20
 chat.tox.antox.data.AntoxDB$$anonfun$20: long serialVersionUID
 chat.tox.antox.data.AntoxDB$$anonfun$20: scala.Tuple2 apply(scala.collection.Seq,scala.collection.immutable.Map)
@@ -4276,62 +4377,72 @@ chat.tox.antox.data.AntoxDB$$anonfun$21: java.lang.Object apply(java.lang.Object
 chat.tox.antox.data.AntoxDB$$anonfun$21: AntoxDB$$anonfun$21(chat.tox.antox.data.AntoxDB)
 chat.tox.antox.data.AntoxDB$$anonfun$21$$anonfun$apply$12
 chat.tox.antox.data.AntoxDB$$anonfun$21$$anonfun$apply$12: long serialVersionUID
-chat.tox.antox.data.AntoxDB$$anonfun$21$$anonfun$apply$12: scala.collection.immutable.Map lm$2
-chat.tox.antox.data.AntoxDB$$anonfun$21$$anonfun$apply$12: scala.collection.immutable.Map uc$1
-chat.tox.antox.data.AntoxDB$$anonfun$21$$anonfun$apply$12: chat.tox.antox.wrapper.GroupInfo apply(chat.tox.antox.wrapper.GroupInfo)
+chat.tox.antox.data.AntoxDB$$anonfun$21$$anonfun$apply$12: scala.collection.immutable.Map lm$1
+chat.tox.antox.data.AntoxDB$$anonfun$21$$anonfun$apply$12: scala.collection.immutable.Map unreadCountList$1
+chat.tox.antox.data.AntoxDB$$anonfun$21$$anonfun$apply$12: chat.tox.antox.wrapper.FriendInfo apply(chat.tox.antox.wrapper.FriendInfo)
 chat.tox.antox.data.AntoxDB$$anonfun$21$$anonfun$apply$12: java.lang.Object apply(java.lang.Object)
 chat.tox.antox.data.AntoxDB$$anonfun$21$$anonfun$apply$12: AntoxDB$$anonfun$21$$anonfun$apply$12(chat.tox.antox.data.AntoxDB$$anonfun$21,scala.collection.immutable.Map,scala.collection.immutable.Map)
-chat.tox.antox.data.AntoxDB$$anonfun$21$$anonfun$apply$12$$anonfun$2
-chat.tox.antox.data.AntoxDB$$anonfun$21$$anonfun$apply$12$$anonfun$2: long serialVersionUID
-chat.tox.antox.data.AntoxDB$$anonfun$21$$anonfun$apply$12$$anonfun$2: int apply()
-chat.tox.antox.data.AntoxDB$$anonfun$21$$anonfun$apply$12$$anonfun$2: int apply$mcI$sp()
-chat.tox.antox.data.AntoxDB$$anonfun$21$$anonfun$apply$12$$anonfun$2: java.lang.Object apply()
-chat.tox.antox.data.AntoxDB$$anonfun$21$$anonfun$apply$12$$anonfun$2: AntoxDB$$anonfun$21$$anonfun$apply$12$$anonfun$2(chat.tox.antox.data.AntoxDB$$anonfun$21$$anonfun$apply$12)
+chat.tox.antox.data.AntoxDB$$anonfun$21$$anonfun$apply$12$$anonfun$1
+chat.tox.antox.data.AntoxDB$$anonfun$21$$anonfun$apply$12$$anonfun$1: long serialVersionUID
+chat.tox.antox.data.AntoxDB$$anonfun$21$$anonfun$apply$12$$anonfun$1: int apply()
+chat.tox.antox.data.AntoxDB$$anonfun$21$$anonfun$apply$12$$anonfun$1: int apply$mcI$sp()
+chat.tox.antox.data.AntoxDB$$anonfun$21$$anonfun$apply$12$$anonfun$1: java.lang.Object apply()
+chat.tox.antox.data.AntoxDB$$anonfun$21$$anonfun$apply$12$$anonfun$1: AntoxDB$$anonfun$21$$anonfun$apply$12$$anonfun$1(chat.tox.antox.data.AntoxDB$$anonfun$21$$anonfun$apply$12)
 chat.tox.antox.data.AntoxDB$$anonfun$22
 chat.tox.antox.data.AntoxDB$$anonfun$22: long serialVersionUID
-chat.tox.antox.data.AntoxDB$$anonfun$22: scala.Tuple2 apply(scala.collection.Seq,scala.collection.Seq)
+chat.tox.antox.data.AntoxDB$$anonfun$22: scala.Tuple2 apply(scala.collection.Seq,scala.collection.immutable.Map)
 chat.tox.antox.data.AntoxDB$$anonfun$22: java.lang.Object apply(java.lang.Object,java.lang.Object)
 chat.tox.antox.data.AntoxDB$$anonfun$22: AntoxDB$$anonfun$22(chat.tox.antox.data.AntoxDB)
 chat.tox.antox.data.AntoxDB$$anonfun$23
 chat.tox.antox.data.AntoxDB$$anonfun$23: long serialVersionUID
-chat.tox.antox.data.AntoxDB$$anonfun$23: scala.Tuple3 apply(scala.Tuple2,scala.collection.Seq)
+chat.tox.antox.data.AntoxDB$$anonfun$23: scala.collection.Seq apply(scala.Tuple2,scala.collection.immutable.Map)
 chat.tox.antox.data.AntoxDB$$anonfun$23: java.lang.Object apply(java.lang.Object,java.lang.Object)
 chat.tox.antox.data.AntoxDB$$anonfun$23: AntoxDB$$anonfun$23(chat.tox.antox.data.AntoxDB)
+chat.tox.antox.data.AntoxDB$$anonfun$23$$anonfun$apply$13
+chat.tox.antox.data.AntoxDB$$anonfun$23$$anonfun$apply$13: long serialVersionUID
+chat.tox.antox.data.AntoxDB$$anonfun$23$$anonfun$apply$13: scala.collection.immutable.Map lm$2
+chat.tox.antox.data.AntoxDB$$anonfun$23$$anonfun$apply$13: scala.collection.immutable.Map uc$1
+chat.tox.antox.data.AntoxDB$$anonfun$23$$anonfun$apply$13: chat.tox.antox.wrapper.GroupInfo apply(chat.tox.antox.wrapper.GroupInfo)
+chat.tox.antox.data.AntoxDB$$anonfun$23$$anonfun$apply$13: java.lang.Object apply(java.lang.Object)
+chat.tox.antox.data.AntoxDB$$anonfun$23$$anonfun$apply$13: AntoxDB$$anonfun$23$$anonfun$apply$13(chat.tox.antox.data.AntoxDB$$anonfun$23,scala.collection.immutable.Map,scala.collection.immutable.Map)
+chat.tox.antox.data.AntoxDB$$anonfun$23$$anonfun$apply$13$$anonfun$2
+chat.tox.antox.data.AntoxDB$$anonfun$23$$anonfun$apply$13$$anonfun$2: long serialVersionUID
+chat.tox.antox.data.AntoxDB$$anonfun$23$$anonfun$apply$13$$anonfun$2: int apply()
+chat.tox.antox.data.AntoxDB$$anonfun$23$$anonfun$apply$13$$anonfun$2: int apply$mcI$sp()
+chat.tox.antox.data.AntoxDB$$anonfun$23$$anonfun$apply$13$$anonfun$2: java.lang.Object apply()
+chat.tox.antox.data.AntoxDB$$anonfun$23$$anonfun$apply$13$$anonfun$2: AntoxDB$$anonfun$23$$anonfun$apply$13$$anonfun$2(chat.tox.antox.data.AntoxDB$$anonfun$23$$anonfun$apply$13)
 chat.tox.antox.data.AntoxDB$$anonfun$24
 chat.tox.antox.data.AntoxDB$$anonfun$24: long serialVersionUID
-chat.tox.antox.data.AntoxDB$$anonfun$24: scala.Tuple4 apply(scala.Tuple3,scala.collection.Seq)
+chat.tox.antox.data.AntoxDB$$anonfun$24: scala.Tuple2 apply(scala.collection.Seq,scala.collection.Seq)
 chat.tox.antox.data.AntoxDB$$anonfun$24: java.lang.Object apply(java.lang.Object,java.lang.Object)
 chat.tox.antox.data.AntoxDB$$anonfun$24: AntoxDB$$anonfun$24(chat.tox.antox.data.AntoxDB)
 chat.tox.antox.data.AntoxDB$$anonfun$25
 chat.tox.antox.data.AntoxDB$$anonfun$25: long serialVersionUID
-chat.tox.antox.data.AntoxDB$$anonfun$25: java.lang.String apply(android.database.Cursor)
-chat.tox.antox.data.AntoxDB$$anonfun$25: java.lang.Object apply(java.lang.Object)
+chat.tox.antox.data.AntoxDB$$anonfun$25: scala.Tuple3 apply(scala.Tuple2,scala.collection.Seq)
+chat.tox.antox.data.AntoxDB$$anonfun$25: java.lang.Object apply(java.lang.Object,java.lang.Object)
 chat.tox.antox.data.AntoxDB$$anonfun$25: AntoxDB$$anonfun$25(chat.tox.antox.data.AntoxDB)
 chat.tox.antox.data.AntoxDB$$anonfun$26
 chat.tox.antox.data.AntoxDB$$anonfun$26: long serialVersionUID
-chat.tox.antox.data.AntoxDB$$anonfun$26: java.lang.String apply(android.database.Cursor)
-chat.tox.antox.data.AntoxDB$$anonfun$26: java.lang.Object apply(java.lang.Object)
+chat.tox.antox.data.AntoxDB$$anonfun$26: scala.Tuple4 apply(scala.Tuple3,scala.collection.Seq)
+chat.tox.antox.data.AntoxDB$$anonfun$26: java.lang.Object apply(java.lang.Object,java.lang.Object)
 chat.tox.antox.data.AntoxDB$$anonfun$26: AntoxDB$$anonfun$26(chat.tox.antox.data.AntoxDB)
 chat.tox.antox.data.AntoxDB$$anonfun$27
 chat.tox.antox.data.AntoxDB$$anonfun$27: long serialVersionUID
-chat.tox.antox.data.AntoxDB$$anonfun$27: chat.tox.antox.data.AntoxDB $outer
-chat.tox.antox.data.AntoxDB$$anonfun$27: chat.tox.antox.wrapper.FriendKey key$1
-chat.tox.antox.data.AntoxDB$$anonfun$27: chat.tox.antox.wrapper.FriendInfo apply(android.database.Cursor)
+chat.tox.antox.data.AntoxDB$$anonfun$27: java.lang.String apply(android.database.Cursor)
 chat.tox.antox.data.AntoxDB$$anonfun$27: java.lang.Object apply(java.lang.Object)
-chat.tox.antox.data.AntoxDB$$anonfun$27: AntoxDB$$anonfun$27(chat.tox.antox.data.AntoxDB,chat.tox.antox.wrapper.FriendKey)
+chat.tox.antox.data.AntoxDB$$anonfun$27: AntoxDB$$anonfun$27(chat.tox.antox.data.AntoxDB)
 chat.tox.antox.data.AntoxDB$$anonfun$28
 chat.tox.antox.data.AntoxDB$$anonfun$28: long serialVersionUID
-chat.tox.antox.data.AntoxDB$$anonfun$28: chat.tox.antox.data.AntoxDB $outer
-chat.tox.antox.data.AntoxDB$$anonfun$28: scala.collection.mutable.ArrayBuffer apply(android.database.Cursor)
+chat.tox.antox.data.AntoxDB$$anonfun$28: java.lang.String apply(android.database.Cursor)
 chat.tox.antox.data.AntoxDB$$anonfun$28: java.lang.Object apply(java.lang.Object)
 chat.tox.antox.data.AntoxDB$$anonfun$28: AntoxDB$$anonfun$28(chat.tox.antox.data.AntoxDB)
 chat.tox.antox.data.AntoxDB$$anonfun$29
 chat.tox.antox.data.AntoxDB$$anonfun$29: long serialVersionUID
 chat.tox.antox.data.AntoxDB$$anonfun$29: chat.tox.antox.data.AntoxDB $outer
-chat.tox.antox.data.AntoxDB$$anonfun$29: chat.tox.antox.wrapper.ContactKey key$2
-chat.tox.antox.data.AntoxDB$$anonfun$29: chat.tox.antox.wrapper.GroupInfo apply(android.database.Cursor)
+chat.tox.antox.data.AntoxDB$$anonfun$29: chat.tox.antox.wrapper.FriendKey key$1
+chat.tox.antox.data.AntoxDB$$anonfun$29: chat.tox.antox.wrapper.FriendInfo apply(android.database.Cursor)
 chat.tox.antox.data.AntoxDB$$anonfun$29: java.lang.Object apply(java.lang.Object)
-chat.tox.antox.data.AntoxDB$$anonfun$29: AntoxDB$$anonfun$29(chat.tox.antox.data.AntoxDB,chat.tox.antox.wrapper.ContactKey)
+chat.tox.antox.data.AntoxDB$$anonfun$29: AntoxDB$$anonfun$29(chat.tox.antox.data.AntoxDB,chat.tox.antox.wrapper.FriendKey)
 chat.tox.antox.data.AntoxDB$$anonfun$3
 chat.tox.antox.data.AntoxDB$$anonfun$3: long serialVersionUID
 chat.tox.antox.data.AntoxDB$$anonfun$3: boolean apply(chat.tox.antox.wrapper.FileKind)
@@ -4339,39 +4450,52 @@ chat.tox.antox.data.AntoxDB$$anonfun$3: java.lang.Object apply(java.lang.Object)
 chat.tox.antox.data.AntoxDB$$anonfun$3: AntoxDB$$anonfun$3(chat.tox.antox.data.AntoxDB)
 chat.tox.antox.data.AntoxDB$$anonfun$30
 chat.tox.antox.data.AntoxDB$$anonfun$30: long serialVersionUID
-chat.tox.antox.data.AntoxDB$$anonfun$30: scala.Option apply(java.lang.String)
+chat.tox.antox.data.AntoxDB$$anonfun$30: chat.tox.antox.data.AntoxDB $outer
+chat.tox.antox.data.AntoxDB$$anonfun$30: scala.collection.mutable.ArrayBuffer apply(android.database.Cursor)
 chat.tox.antox.data.AntoxDB$$anonfun$30: java.lang.Object apply(java.lang.Object)
 chat.tox.antox.data.AntoxDB$$anonfun$30: AntoxDB$$anonfun$30(chat.tox.antox.data.AntoxDB)
 chat.tox.antox.data.AntoxDB$$anonfun$31
 chat.tox.antox.data.AntoxDB$$anonfun$31: long serialVersionUID
-chat.tox.antox.data.AntoxDB$$anonfun$31: byte[] apply(java.lang.String)
+chat.tox.antox.data.AntoxDB$$anonfun$31: chat.tox.antox.data.AntoxDB $outer
+chat.tox.antox.data.AntoxDB$$anonfun$31: chat.tox.antox.wrapper.ContactKey key$2
+chat.tox.antox.data.AntoxDB$$anonfun$31: chat.tox.antox.wrapper.GroupInfo apply(android.database.Cursor)
 chat.tox.antox.data.AntoxDB$$anonfun$31: java.lang.Object apply(java.lang.Object)
-chat.tox.antox.data.AntoxDB$$anonfun$31: AntoxDB$$anonfun$31(chat.tox.antox.data.AntoxDB)
+chat.tox.antox.data.AntoxDB$$anonfun$31: AntoxDB$$anonfun$31(chat.tox.antox.data.AntoxDB,chat.tox.antox.wrapper.ContactKey)
 chat.tox.antox.data.AntoxDB$$anonfun$32
 chat.tox.antox.data.AntoxDB$$anonfun$32: long serialVersionUID
-chat.tox.antox.data.AntoxDB$$anonfun$32: byte[] apply(byte[])
+chat.tox.antox.data.AntoxDB$$anonfun$32: scala.Option apply(java.lang.String)
 chat.tox.antox.data.AntoxDB$$anonfun$32: java.lang.Object apply(java.lang.Object)
 chat.tox.antox.data.AntoxDB$$anonfun$32: AntoxDB$$anonfun$32(chat.tox.antox.data.AntoxDB)
 chat.tox.antox.data.AntoxDB$$anonfun$33
 chat.tox.antox.data.AntoxDB$$anonfun$33: long serialVersionUID
-chat.tox.antox.data.AntoxDB$$anonfun$33: scala.Option apply(java.lang.String)
+chat.tox.antox.data.AntoxDB$$anonfun$33: byte[] apply(java.lang.String)
 chat.tox.antox.data.AntoxDB$$anonfun$33: java.lang.Object apply(java.lang.Object)
 chat.tox.antox.data.AntoxDB$$anonfun$33: AntoxDB$$anonfun$33(chat.tox.antox.data.AntoxDB)
 chat.tox.antox.data.AntoxDB$$anonfun$34
 chat.tox.antox.data.AntoxDB$$anonfun$34: long serialVersionUID
-chat.tox.antox.data.AntoxDB$$anonfun$34: byte[] apply(java.lang.String)
+chat.tox.antox.data.AntoxDB$$anonfun$34: byte[] apply(byte[])
 chat.tox.antox.data.AntoxDB$$anonfun$34: java.lang.Object apply(java.lang.Object)
 chat.tox.antox.data.AntoxDB$$anonfun$34: AntoxDB$$anonfun$34(chat.tox.antox.data.AntoxDB)
 chat.tox.antox.data.AntoxDB$$anonfun$35
 chat.tox.antox.data.AntoxDB$$anonfun$35: long serialVersionUID
-chat.tox.antox.data.AntoxDB$$anonfun$35: byte[] apply(byte[])
+chat.tox.antox.data.AntoxDB$$anonfun$35: scala.Option apply(java.lang.String)
 chat.tox.antox.data.AntoxDB$$anonfun$35: java.lang.Object apply(java.lang.Object)
 chat.tox.antox.data.AntoxDB$$anonfun$35: AntoxDB$$anonfun$35(chat.tox.antox.data.AntoxDB)
 chat.tox.antox.data.AntoxDB$$anonfun$36
 chat.tox.antox.data.AntoxDB$$anonfun$36: long serialVersionUID
-chat.tox.antox.data.AntoxDB$$anonfun$36: boolean apply(android.database.Cursor)
+chat.tox.antox.data.AntoxDB$$anonfun$36: byte[] apply(java.lang.String)
 chat.tox.antox.data.AntoxDB$$anonfun$36: java.lang.Object apply(java.lang.Object)
 chat.tox.antox.data.AntoxDB$$anonfun$36: AntoxDB$$anonfun$36(chat.tox.antox.data.AntoxDB)
+chat.tox.antox.data.AntoxDB$$anonfun$37
+chat.tox.antox.data.AntoxDB$$anonfun$37: long serialVersionUID
+chat.tox.antox.data.AntoxDB$$anonfun$37: byte[] apply(byte[])
+chat.tox.antox.data.AntoxDB$$anonfun$37: java.lang.Object apply(java.lang.Object)
+chat.tox.antox.data.AntoxDB$$anonfun$37: AntoxDB$$anonfun$37(chat.tox.antox.data.AntoxDB)
+chat.tox.antox.data.AntoxDB$$anonfun$38
+chat.tox.antox.data.AntoxDB$$anonfun$38: long serialVersionUID
+chat.tox.antox.data.AntoxDB$$anonfun$38: boolean apply(android.database.Cursor)
+chat.tox.antox.data.AntoxDB$$anonfun$38: java.lang.Object apply(java.lang.Object)
+chat.tox.antox.data.AntoxDB$$anonfun$38: AntoxDB$$anonfun$38(chat.tox.antox.data.AntoxDB)
 chat.tox.antox.data.AntoxDB$$anonfun$4
 chat.tox.antox.data.AntoxDB$$anonfun$4: long serialVersionUID
 chat.tox.antox.data.AntoxDB$$anonfun$4: int apply(chat.tox.antox.wrapper.FileKind)
@@ -4436,12 +4560,12 @@ chat.tox.antox.data.AntoxDB$$anonfun$friendRequests$1: long serialVersionUID
 chat.tox.antox.data.AntoxDB$$anonfun$friendRequests$1: scala.collection.mutable.ArrayBuffer apply(chat.tox.antox.data.ClosedCursor)
 chat.tox.antox.data.AntoxDB$$anonfun$friendRequests$1: java.lang.Object apply(java.lang.Object)
 chat.tox.antox.data.AntoxDB$$anonfun$friendRequests$1: AntoxDB$$anonfun$friendRequests$1(chat.tox.antox.data.AntoxDB)
-chat.tox.antox.data.AntoxDB$$anonfun$friendRequests$1$$anonfun$apply$7
-chat.tox.antox.data.AntoxDB$$anonfun$friendRequests$1$$anonfun$apply$7: long serialVersionUID
-chat.tox.antox.data.AntoxDB$$anonfun$friendRequests$1$$anonfun$apply$7: scala.collection.mutable.ArrayBuffer friendRequestsList$1
-chat.tox.antox.data.AntoxDB$$anonfun$friendRequests$1$$anonfun$apply$7: void apply(android.database.Cursor)
-chat.tox.antox.data.AntoxDB$$anonfun$friendRequests$1$$anonfun$apply$7: java.lang.Object apply(java.lang.Object)
-chat.tox.antox.data.AntoxDB$$anonfun$friendRequests$1$$anonfun$apply$7: AntoxDB$$anonfun$friendRequests$1$$anonfun$apply$7(chat.tox.antox.data.AntoxDB$$anonfun$friendRequests$1,scala.collection.mutable.ArrayBuffer)
+chat.tox.antox.data.AntoxDB$$anonfun$friendRequests$1$$anonfun$apply$8
+chat.tox.antox.data.AntoxDB$$anonfun$friendRequests$1$$anonfun$apply$8: long serialVersionUID
+chat.tox.antox.data.AntoxDB$$anonfun$friendRequests$1$$anonfun$apply$8: scala.collection.mutable.ArrayBuffer friendRequestsList$1
+chat.tox.antox.data.AntoxDB$$anonfun$friendRequests$1$$anonfun$apply$8: void apply(android.database.Cursor)
+chat.tox.antox.data.AntoxDB$$anonfun$friendRequests$1$$anonfun$apply$8: java.lang.Object apply(java.lang.Object)
+chat.tox.antox.data.AntoxDB$$anonfun$friendRequests$1$$anonfun$apply$8: AntoxDB$$anonfun$friendRequests$1$$anonfun$apply$8(chat.tox.antox.data.AntoxDB$$anonfun$friendRequests$1,scala.collection.mutable.ArrayBuffer)
 chat.tox.antox.data.AntoxDB$$anonfun$getFileId$1
 chat.tox.antox.data.AntoxDB$$anonfun$getFileId$1: long serialVersionUID
 chat.tox.antox.data.AntoxDB$$anonfun$getFileId$1: int apply(android.database.Cursor)
@@ -4458,12 +4582,12 @@ chat.tox.antox.data.AntoxDB$$anonfun$groupInvites$1: long serialVersionUID
 chat.tox.antox.data.AntoxDB$$anonfun$groupInvites$1: scala.collection.mutable.ArrayBuffer apply(chat.tox.antox.data.ClosedCursor)
 chat.tox.antox.data.AntoxDB$$anonfun$groupInvites$1: java.lang.Object apply(java.lang.Object)
 chat.tox.antox.data.AntoxDB$$anonfun$groupInvites$1: AntoxDB$$anonfun$groupInvites$1(chat.tox.antox.data.AntoxDB)
-chat.tox.antox.data.AntoxDB$$anonfun$groupInvites$1$$anonfun$apply$8
-chat.tox.antox.data.AntoxDB$$anonfun$groupInvites$1$$anonfun$apply$8: long serialVersionUID
-chat.tox.antox.data.AntoxDB$$anonfun$groupInvites$1$$anonfun$apply$8: scala.collection.mutable.ArrayBuffer groupInvitesList$1
-chat.tox.antox.data.AntoxDB$$anonfun$groupInvites$1$$anonfun$apply$8: void apply(android.database.Cursor)
-chat.tox.antox.data.AntoxDB$$anonfun$groupInvites$1$$anonfun$apply$8: java.lang.Object apply(java.lang.Object)
-chat.tox.antox.data.AntoxDB$$anonfun$groupInvites$1$$anonfun$apply$8: AntoxDB$$anonfun$groupInvites$1$$anonfun$apply$8(chat.tox.antox.data.AntoxDB$$anonfun$groupInvites$1,scala.collection.mutable.ArrayBuffer)
+chat.tox.antox.data.AntoxDB$$anonfun$groupInvites$1$$anonfun$apply$9
+chat.tox.antox.data.AntoxDB$$anonfun$groupInvites$1$$anonfun$apply$9: long serialVersionUID
+chat.tox.antox.data.AntoxDB$$anonfun$groupInvites$1$$anonfun$apply$9: scala.collection.mutable.ArrayBuffer groupInvitesList$1
+chat.tox.antox.data.AntoxDB$$anonfun$groupInvites$1$$anonfun$apply$9: void apply(android.database.Cursor)
+chat.tox.antox.data.AntoxDB$$anonfun$groupInvites$1$$anonfun$apply$9: java.lang.Object apply(java.lang.Object)
+chat.tox.antox.data.AntoxDB$$anonfun$groupInvites$1$$anonfun$apply$9: AntoxDB$$anonfun$groupInvites$1$$anonfun$apply$9(chat.tox.antox.data.AntoxDB$$anonfun$groupInvites$1,scala.collection.mutable.ArrayBuffer)
 chat.tox.antox.data.AntoxDB$$anonfun$messageListObservable$1
 chat.tox.antox.data.AntoxDB$$anonfun$messageListObservable$1: long serialVersionUID
 chat.tox.antox.data.AntoxDB$$anonfun$messageListObservable$1: chat.tox.antox.data.AntoxDB $outer
@@ -4471,12 +4595,12 @@ chat.tox.antox.data.AntoxDB$$anonfun$messageListObservable$1: scala.collection.m
 chat.tox.antox.data.AntoxDB$$anonfun$messageListObservable$1: chat.tox.antox.data.AntoxDB chat$tox$antox$data$AntoxDB$$anonfun$$$outer()
 chat.tox.antox.data.AntoxDB$$anonfun$messageListObservable$1: java.lang.Object apply(java.lang.Object)
 chat.tox.antox.data.AntoxDB$$anonfun$messageListObservable$1: AntoxDB$$anonfun$messageListObservable$1(chat.tox.antox.data.AntoxDB)
-chat.tox.antox.data.AntoxDB$$anonfun$messageListObservable$1$$anonfun$apply$6
-chat.tox.antox.data.AntoxDB$$anonfun$messageListObservable$1$$anonfun$apply$6: long serialVersionUID
-chat.tox.antox.data.AntoxDB$$anonfun$messageListObservable$1$$anonfun$apply$6: chat.tox.antox.data.AntoxDB$$anonfun$messageListObservable$1 $outer
-chat.tox.antox.data.AntoxDB$$anonfun$messageListObservable$1$$anonfun$apply$6: scala.collection.mutable.ArrayBuffer apply(android.database.Cursor)
-chat.tox.antox.data.AntoxDB$$anonfun$messageListObservable$1$$anonfun$apply$6: java.lang.Object apply(java.lang.Object)
-chat.tox.antox.data.AntoxDB$$anonfun$messageListObservable$1$$anonfun$apply$6: AntoxDB$$anonfun$messageListObservable$1$$anonfun$apply$6(chat.tox.antox.data.AntoxDB$$anonfun$messageListObservable$1)
+chat.tox.antox.data.AntoxDB$$anonfun$messageListObservable$1$$anonfun$apply$7
+chat.tox.antox.data.AntoxDB$$anonfun$messageListObservable$1$$anonfun$apply$7: long serialVersionUID
+chat.tox.antox.data.AntoxDB$$anonfun$messageListObservable$1$$anonfun$apply$7: chat.tox.antox.data.AntoxDB$$anonfun$messageListObservable$1 $outer
+chat.tox.antox.data.AntoxDB$$anonfun$messageListObservable$1$$anonfun$apply$7: scala.collection.mutable.ArrayBuffer apply(android.database.Cursor)
+chat.tox.antox.data.AntoxDB$$anonfun$messageListObservable$1$$anonfun$apply$7: java.lang.Object apply(java.lang.Object)
+chat.tox.antox.data.AntoxDB$$anonfun$messageListObservable$1$$anonfun$apply$7: AntoxDB$$anonfun$messageListObservable$1$$anonfun$apply$7(chat.tox.antox.data.AntoxDB$$anonfun$messageListObservable$1)
 chat.tox.antox.data.AntoxDB$$anonfun$messageListUpdatedObservable$1
 chat.tox.antox.data.AntoxDB$$anonfun$messageListUpdatedObservable$1: long serialVersionUID
 chat.tox.antox.data.AntoxDB$$anonfun$messageListUpdatedObservable$1: int apply(chat.tox.antox.data.ClosedCursor)
@@ -4487,6 +4611,16 @@ chat.tox.antox.data.AntoxDB$$anonfun$messageListUpdatedObservable$1$$anonfun$app
 chat.tox.antox.data.AntoxDB$$anonfun$messageListUpdatedObservable$1$$anonfun$apply$5: int apply(android.database.Cursor)
 chat.tox.antox.data.AntoxDB$$anonfun$messageListUpdatedObservable$1$$anonfun$apply$5: java.lang.Object apply(java.lang.Object)
 chat.tox.antox.data.AntoxDB$$anonfun$messageListUpdatedObservable$1$$anonfun$apply$5: AntoxDB$$anonfun$messageListUpdatedObservable$1$$anonfun$apply$5(chat.tox.antox.data.AntoxDB$$anonfun$messageListUpdatedObservable$1)
+chat.tox.antox.data.AntoxDB$$anonfun$messageListUpdatedObservable$2
+chat.tox.antox.data.AntoxDB$$anonfun$messageListUpdatedObservable$2: long serialVersionUID
+chat.tox.antox.data.AntoxDB$$anonfun$messageListUpdatedObservable$2: int apply(chat.tox.antox.data.ClosedCursor)
+chat.tox.antox.data.AntoxDB$$anonfun$messageListUpdatedObservable$2: java.lang.Object apply(java.lang.Object)
+chat.tox.antox.data.AntoxDB$$anonfun$messageListUpdatedObservable$2: AntoxDB$$anonfun$messageListUpdatedObservable$2(chat.tox.antox.data.AntoxDB)
+chat.tox.antox.data.AntoxDB$$anonfun$messageListUpdatedObservable$2$$anonfun$apply$6
+chat.tox.antox.data.AntoxDB$$anonfun$messageListUpdatedObservable$2$$anonfun$apply$6: long serialVersionUID
+chat.tox.antox.data.AntoxDB$$anonfun$messageListUpdatedObservable$2$$anonfun$apply$6: int apply(android.database.Cursor)
+chat.tox.antox.data.AntoxDB$$anonfun$messageListUpdatedObservable$2$$anonfun$apply$6: java.lang.Object apply(java.lang.Object)
+chat.tox.antox.data.AntoxDB$$anonfun$messageListUpdatedObservable$2$$anonfun$apply$6: AntoxDB$$anonfun$messageListUpdatedObservable$2$$anonfun$apply$6(chat.tox.antox.data.AntoxDB$$anonfun$messageListUpdatedObservable$2)
 chat.tox.antox.data.AntoxDB$$anonfun$synchroniseWithTox$1
 chat.tox.antox.data.AntoxDB$$anonfun$synchroniseWithTox$1: long serialVersionUID
 chat.tox.antox.data.AntoxDB$$anonfun$synchroniseWithTox$1: chat.tox.antox.data.AntoxDB $outer
@@ -4982,6 +5116,16 @@ chat.tox.antox.fragments.AvatarDialog$$anonfun$isShowing$1: long serialVersionUI
 chat.tox.antox.fragments.AvatarDialog$$anonfun$isShowing$1: boolean apply(android.app.Dialog)
 chat.tox.antox.fragments.AvatarDialog$$anonfun$isShowing$1: java.lang.Object apply(java.lang.Object)
 chat.tox.antox.fragments.AvatarDialog$$anonfun$isShowing$1: AvatarDialog$$anonfun$isShowing$1(chat.tox.antox.fragments.AvatarDialog)
+chat.tox.antox.fragments.BroadcastFragment
+chat.tox.antox.fragments.BroadcastFragment: android.view.View onCreateView(android.view.LayoutInflater,android.view.ViewGroup,android.os.Bundle)
+chat.tox.antox.fragments.BroadcastFragment: void onResume()
+chat.tox.antox.fragments.BroadcastFragment: void onPause()
+chat.tox.antox.fragments.BroadcastFragment: void onClick(android.view.View)
+chat.tox.antox.fragments.BroadcastFragment: BroadcastFragment()
+chat.tox.antox.fragments.BroadcastFragment$$anon$1
+chat.tox.antox.fragments.BroadcastFragment$$anon$1: chat.tox.antox.fragments.BroadcastFragment $outer
+chat.tox.antox.fragments.BroadcastFragment$$anon$1: void onClick(android.view.View)
+chat.tox.antox.fragments.BroadcastFragment$$anon$1: BroadcastFragment$$anon$1(chat.tox.antox.fragments.BroadcastFragment)
 chat.tox.antox.fragments.ColorPickerDialog
 chat.tox.antox.fragments.ColorPickerDialog: android.app.Activity chat$tox$antox$fragments$ColorPickerDialog$$activity
 chat.tox.antox.fragments.ColorPickerDialog: chat.tox.antox.fragments.ColorPickerDialog$Callback callback

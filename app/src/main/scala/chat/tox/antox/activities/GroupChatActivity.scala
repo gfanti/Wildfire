@@ -49,12 +49,12 @@ class GroupChatActivity extends GenericChatActivity[GroupKey] {
     super.onPause()
   }
 
-  override def sendMessage(message: String, messageType: ToxMessageType, context: Context): Unit = {
+  /*override def sendMessage(message: String, messageType: ToxMessageType, context: Context): Unit = {
     MessageHelper.sendGroupMessage(context, activeKey, message, messageType, None)
   }
 
   override def setTyping(typing: Boolean): Unit = {
     // not yet implemented in toxcore
-  }
+  }*/
 }
 

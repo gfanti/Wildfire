@@ -29,8 +29,8 @@ abstract class GenericChatActivity[KeyType <: ContactKey] extends AppCompatActiv
 
   //var ARG_CONTACT_NUMBER: String = "contact_number"
   var adapter: ChatMessagesAdapter = _
-  var messageBox: EditText = _
-  var isTypingBox: TextView = _
+  //var messageBox: EditText = _
+  //var isTypingBox: TextView = _
   var statusTextBox: TextView = _
   var chatListView: RecyclerView = _
   var displayNameView: TextView = _
@@ -52,7 +52,7 @@ abstract class GenericChatActivity[KeyType <: ContactKey] extends AppCompatActiv
   override def onCreate(savedInstanceState: Bundle): Unit = {
     super.onCreate(savedInstanceState)
     overridePendingTransition(R.anim.slide_from_right, R.anim.fade_scale_out)
-    setContentView(R.layout.activity_chat)
+    setContentView(R.layout.activity_chat_person)
     val actionBar = getSupportActionBar
     val avatarView = getLayoutInflater.inflate(R.layout.avatar_actionview, null)
     actionBar.setCustomView(avatarView)
@@ -81,7 +81,7 @@ abstract class GenericChatActivity[KeyType <: ContactKey] extends AppCompatActiv
 
     layoutManager.setStackFromEnd(true)
 
-    chatListView = this.findViewById(R.id.chat_messages).asInstanceOf[RecyclerView]
+    chatListView = this.findViewById(R.id.chat_messages_person).asInstanceOf[RecyclerView]
     chatListView.setLayoutManager(layoutManager)
     chatListView.setAdapter(adapter)
     chatListView.setItemAnimator(new LandingAnimator())
@@ -100,7 +100,7 @@ abstract class GenericChatActivity[KeyType <: ContactKey] extends AppCompatActiv
 
     })
 
-    val b = this.findViewById(R.id.send_message_button)
+    /*val b = this.findViewById(R.id.send_message_button)
     b.setOnClickListener(new View.OnClickListener() {
       override def onClick(v: View) {
         onSendMessage()
@@ -124,7 +124,7 @@ abstract class GenericChatActivity[KeyType <: ContactKey] extends AppCompatActiv
 
       override def afterTextChanged(editable: Editable) {
       }
-    })
+    })*/
 
   }
 
@@ -171,7 +171,7 @@ abstract class GenericChatActivity[KeyType <: ContactKey] extends AppCompatActiv
     AntoxLog.debug("changing chat list cursor")
   }
 
-  def validateMessageBox(): Option[String] = {
+  /*def validateMessageBox(): Option[String] = {
     if (messageBox.getText != null && messageBox.getText.toString.length() == 0) {
       return None
     }
@@ -184,7 +184,7 @@ abstract class GenericChatActivity[KeyType <: ContactKey] extends AppCompatActiv
     }
 
     Some(msg)
-  }
+  }*/
 
   private def onScrolledToTop(): Unit = {
     numMessagesShown += defaultMessagePageSize
@@ -196,7 +196,7 @@ abstract class GenericChatActivity[KeyType <: ContactKey] extends AppCompatActiv
       .subscribe(updateChat(_))
   }
 
-  private def onSendMessage() {
+  /*private def onSendMessage() {
     AntoxLog.debug("sendMessage")
     val mMessage = validateMessageBox()
 
@@ -212,7 +212,7 @@ abstract class GenericChatActivity[KeyType <: ContactKey] extends AppCompatActiv
         }
       sendMessage(message, messageType, this)
     })
-  }
+  }*/
 
   def getActiveMessagesUpdatedObservable: Observable[Int] = {
     val db = State.db
@@ -243,7 +243,7 @@ abstract class GenericChatActivity[KeyType <: ContactKey] extends AppCompatActiv
   //Abstract Methods
   def getKey(key: String): KeyType
 
-  def sendMessage(message: String, messageType: ToxMessageType, context: Context): Unit
+  //def sendMessage(message: String, messageType: ToxMessageType, context: Context): Unit
 
-  def setTyping(typing: Boolean): Unit
+  //def setTyping(typing: Boolean): Unit
 }

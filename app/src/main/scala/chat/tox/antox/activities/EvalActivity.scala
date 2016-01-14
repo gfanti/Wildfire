@@ -52,7 +52,8 @@ class EvalActivity extends Activity with OnClickListener{
       messageString = msg.message
       msgId = msg.messageId
       messageType = msg.`type`
-      contactView.setText(contactString)
+      //contactView.setText(contactString)
+      contactView.setText("")
       messageView.setText(messageString)
     }
     else {
@@ -106,7 +107,8 @@ class EvalActivity extends Activity with OnClickListener{
         messageString = msg.message
         msgId = msg.messageId
         messageType = msg.`type`
-        contactView.setText(contactString)
+        //contactView.setText(contactString)
+        contactView.setText("")
         messageView.setText(messageString)
       }
       else {

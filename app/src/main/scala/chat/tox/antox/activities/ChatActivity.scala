@@ -43,7 +43,7 @@ class ChatActivity extends GenericChatActivity[FriendKey] {
     this.findViewById(R.id.info).setVisibility(View.GONE)
 
     /* Set up on click actions for attachment buttons. Could possible just add onClick to the XML?? */
-    val attachmentButton = this.findViewById(R.id.attachment_button)
+    /*val attachmentButton = this.findViewById(R.id.attachment_button)
     val cameraButton = this.findViewById(R.id.camera_button)
     val imageButton = this.findViewById(R.id.image_button)
 
@@ -103,7 +103,7 @@ class ChatActivity extends GenericChatActivity[FriendKey] {
         val intent = new Intent(Intent.ACTION_PICK, android.provider.MediaStore.Images.Media.EXTERNAL_CONTENT_URI)
         startActivityForResult(intent, Constants.IMAGE_RESULT)
       }
-    })
+    })*/
   }
 
   override def onSaveInstanceState(savedInstanceState: Bundle): Unit = {
@@ -202,7 +202,7 @@ class ChatActivity extends GenericChatActivity[FriendKey] {
     super.onPause()
   }
 
-  override def sendMessage(message: String, messageType: ToxMessageType, context: Context): Unit = {
+  /*override def sendMessage(message: String, messageType: ToxMessageType, context: Context): Unit = {
     MessageHelper.sendMessage(this, activeKey, message, messageType, None)
   }
 
@@ -213,5 +213,5 @@ class ChatActivity extends GenericChatActivity[FriendKey] {
       case te: ToxException[_] =>
       case e: Exception =>
     }
-  }
+  }*/
 }
