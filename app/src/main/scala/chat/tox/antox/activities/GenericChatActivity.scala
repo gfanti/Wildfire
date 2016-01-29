@@ -145,7 +145,7 @@ abstract class GenericChatActivity[KeyType <: ContactKey] extends AppCompatActiv
     State.chatActive.onNext(true)
 
     val db = State.db
-    db.markIncomingMessagesRead(activeKey)
+    //db.markIncomingMessagesRead(activeKey)
 
     messagesSub =
       getActiveMessagesUpdatedObservable

@@ -43,6 +43,16 @@ object DatabaseConstants {
   val TABLE_GROUP_INVITES = "group_invites"
 
   /**
+   * Table used to store private messages, added by Ann
+   */
+  val TABLE_PRIVATE_MESSAGES = "private_messages"
+
+  /**
+   * Table used to store pending messages, added by Ann
+   */
+  val TABLE_PENDING_MESSAGES = "private_messages"
+
+  /**
    * Table used by [[chat.tox.antox.data.UserDB]] to store profile information.
    * When a profile is removed it is deleted from the table.
    */
@@ -109,6 +119,17 @@ object DatabaseConstants {
   val COLUMN_NAME_SUCCESSFULLY_SENT = "successfully_sent"
 
   val COLUMN_NAME_SIZE = "size"
+
+  /* added by Ann for Private_message database */
+  val COLUMN_NAME_MINE = "is_mine"
+  val COLUMN_NAME_HOP = "hop"
+  val COLUMN_NAME_UPDOWN = "updown"
+  val COLUMN_NAME_SPREADTIME = "spread_time"
+  val COLUMN_NAME_EXPTIME = "exp_time"
+  val COLUMN_NAME_PARENT = "parent"
+  val COLUMN_NAME_ACTIVE = "active"
+  val COLUMN_NAME_NEXTSOURCE = "next_source"
+  /* added by Ann for Private_message database */
 
   /**
    * File kind of a message. [[chat.tox.antox.wrapper.FileKind.INVALID]] if the message is not a file.

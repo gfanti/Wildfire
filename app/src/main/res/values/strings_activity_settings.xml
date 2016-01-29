@@ -8,7 +8,7 @@
     <string name="pref_header_profile">Profile</string>
 
     <string name="pref_title_nickname">Name</string>
-    <string name="pref_default_nickname">Antox User</string>
+    <string name="pref_default_nickname">Wildfire User</string>
 
     <string name="pref_title_password">ToxMe Password</string>
     <string name="pref_default_password">No Set Password</string>
@@ -26,7 +26,7 @@
     </string-array>
 
     <string name="pref_title_status_message">Status Message</string>
-    <string name="pref_default_status_message">Hey! I\'m using Antox</string>
+    <string name="pref_default_status_message">Hey! I\'m using Wildfire</string>
     <string name="pref_title_tox_id">Tox ID</string>
     <string name="pref_default_tox_id">Default Tox ID - You should not see this</string>
     <string name="pref_title_toxme">ToxMe Address</string>
@@ -131,5 +131,5 @@
     <string name="pref_udp">Enable UDP</string>
     <string name="pref_advanced">Advanced</string>
     <string name="pref_nospam">Reset Tox ID</string>
-    <string name="pref_autostart">Start Antox On Boot</string>
+    <string name="pref_autostart">Start Wildfire On Boot</string>
 </resources>

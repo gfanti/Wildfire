@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
 
-    <string name="app_name" translatable="false">Antox</string>
+    <string name="app_name" translatable="false">Wildfire</string>
 
     <!-- Activity titles -->
     <string name="title_activity_add">Add Contact</string>
@@ -16,7 +16,7 @@
     <string name="login_must_fill_in">You must fill in a profile name</string>
     <string name="login_login">Login</string>
     <string name="login_account_hint">Profile Name</string>
-    <string name="login_create_account_text">Create Tox Profile</string>
+    <string name="login_create_account_text">Create Wildfire Profile</string>
     <string name="login_bad_login">Profile name was not recognised</string>
 
     <!-- Create Account Activity -->
@@ -32,13 +32,13 @@
     <string name="create_profile_exists">This profile name already exists</string>
     <string name="import_profile_invalid_file">The file chosen is not a valid tox profile </string>
     <string name="create_account_exists">This name is already taken</string>
-    <string name="create_account_internal_error">Internal Antox Error. Please restart and try again</string>
+    <string name="create_account_internal_error">Internal Wildfire Error. Please restart and try again</string>
     <string name="create_account_reached_registration_limit">You can only register 13 accounts an hour. You have reached this limit</string>
     <string name="create_account_unknown_error">Unknown registration error, please try again later</string>
     <string name="create_account_kalium_link_error">Failed to load a required library. Unable to create non-incognito accounts</string>
     <string name="create_account_invalid_domain">Invalid toxme domain supplied.</string>
     <string name="create_account_connection_error">Registration Failed: Could not connect to the internet.</string>
-    <string name="create_account_encrypted_profile_error">Antox does not support encrypted profiles yet</string>
+    <string name="create_account_encrypted_profile_error">Wildfire does not support encrypted profiles yet</string>
     <string name="create_account_load_profile_unknown">Unknown error loading profile</string>
 
     <!-- Main Activity -->
@@ -46,7 +46,7 @@
     <string name="main_recent_no">No recent conversations</string>
     <string name="main_no_internet">No Internet Connection</string>
     <string name="main_not_connected">No internet connection has been detected. Without an internet connection, you will have
-        limited functionality unless you are using Antox for LAN only</string>
+        limited functionality unless you are using Wildfire for LAN only</string>
     <string name="main_mobile_disabled">Currently offline as Wi-Fi only mode is enabled. Touch to open settings. </string>
     <string name="search_all_contacts">Search all contacts</string>
     <string name='main_group_coming_soon'>"Coming soon…"</string>
@@ -155,12 +155,12 @@
     <string name="tox_id_reset">Your Tox ID has been reset</string>
 
     <!-- Delete Account Dialog -->
-    <string name="delete_account_dialog_message">This will permanently delete this Antox user and remove you from any ToxMe service tied to your account</string>
-    <string name="delete_account_dialog_title">Confirm Antox Account Deletion</string>
+    <string name="delete_account_dialog_message">This will permanently delete this Wildfire user and remove you from any ToxMe service tied to your account</string>
+    <string name="delete_account_dialog_title">Confirm Wildfire Account Deletion</string>
     <string name="delete_account_dialog_confirm">Delete Account</string>
     <string name="delete_account_dialog_cancel">Cancel</string>
     <string name="delete_account_successful">Account was successfully deleted</string>
-    <string name="delete_account_error">An error occurred while deleting your Antox accont</string>
+    <string name="delete_account_error">An error occurred while deleting your Wildfire accont</string>
 
     <!-- Create Group Dialog -->
     <string name="create_group_dialog_message">Create a new Group Chat</string>
@@ -249,7 +249,7 @@
     <string name="drawer_close">Close navigation drawer</string>
     <string name="open_source_license">Open source license</string>
     <string name="license1">Distributed under the GNU GPL v3. Created by Mark Winter, maintained by subliun and others.</string>
-    <string name="license2">Source code is available at\nhttps://github.com/subliun/Antox</string>
+    <string name="license2">Source code is available at\nhttps://github.com/gfanti/Wildfire</string>
     <string name="ver">Version</string>
     <string name="about">About</string>
     <string name="about_antox_1">With the rise of government monitoring programs, Tox provides an easy to use application that allows you to connect with friends and family without anyone else listening in.</string>

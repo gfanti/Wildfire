@@ -1,7 +1,7 @@
 package chat.tox.antox.fragments
 
 import android.os.{Build, Bundle}
-import android.support.v4.app.{Fragment, FragmentManager, FragmentPagerAdapter}
+import android.support.v4.app.{FragmentStatePagerAdapter, Fragment, FragmentManager, FragmentPagerAdapter}
 import android.support.v4.view.ViewPager
 import android.view.ViewGroup.LayoutParams
 import android.view.{LayoutInflater, View, ViewGroup}
@@ -18,6 +18,7 @@ class LeftPaneFragment extends Fragment {
   var pager: ViewPager = _
 
   class LeftPagerAdapter(fm: FragmentManager) extends FragmentPagerAdapter(fm) with CustomTabProvider {
+    //class LeftPagerAdapter(fm: FragmentManager) extends FragmentPagerAdapter(fm) with CustomTabProvider {
 
     // modified by Gong
     //val ICONS: Array[Int] = Array(R.drawable.ic_chat_white_24dp, R.drawable.ic_person_white_24dp)
@@ -52,11 +53,11 @@ class LeftPaneFragment extends Fragment {
 
     override def getPageTitle(position: Int): CharSequence = {
       position match {
-        case 0 => return "Recent"
+        case 0 => {return "Recent"}
           // modified by Gong
         //case _ => return "Contacts"
-        case 1 => return "Contacts"
-        case _ => return "SwipeEval"
+        case 1 => {return "Contacts"}
+        case _ => {return "SwipeEval"}
           // modified by Gong
       }
 
@@ -67,9 +68,9 @@ class LeftPaneFragment extends Fragment {
       //case 0 => new RecentFragment()
         // modified by Gong
       //case _ => new ContactsFragment()
-      case 0 => new BroadcastFragment()
-      case 1 => new ContactsFragment()
-      case _ => new EvalFragment()
+      case 0 => new BroadcastFragment();
+      case 1 => new ContactsFragment();
+      case _ => new EvalFragment();
         // modified by Gong
     }
 

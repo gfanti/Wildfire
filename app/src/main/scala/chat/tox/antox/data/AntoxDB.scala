@@ -1,6 +1,7 @@
 package chat.tox.antox.data
 
 import java.sql.Timestamp
+import java.util
 
 import android.content.{ContentValues, Context}
 import android.database.Cursor
@@ -76,17 +77,49 @@ object AntoxDB {
          |$COLUMN_NAME_GROUP_INVITER text,
          |$COLUMN_NAME_GROUP_DATA BLOB)""".stripMargin
 
+    val CREATE_TABLE_PRIVATE_MESSAGES: String =
+      s"""CREATE TABLE IF NOT EXISTS $TABLE_PRIVATE_MESSAGES (
+         |$COLUMN_NAME_ID integer primary key,
+         |$COLUMN_NAME_TIMESTAMP DATETIME DEFAULT CURRENT_TIMESTAMP,
+         |$COLUMN_NAME_MINE boolean,
+         |$COLUMN_NAME_MESSAGE text,
+         |$COLUMN_NAME_HOP int,
+         |$COLUMN_NAME_UPDOWN text,
+         |$COLUMN_NAME_SPREADTIME DATETIME,
+         |$COLUMN_NAME_EXPTIME DATETIME,
+         |$COLUMN_NAME_PARENT text,
+         |$COLUMN_NAME_ACTIVE boolean)""".stripMargin
+
+    val CREATE_TABLE_PENDING_MESSAGES: String =
+      s"""CREATE TABLE IF NOT EXISTS $TABLE_PENDING_MESSAGES (
+         |$COLUMN_NAME_ID integer primary key,
+         |$COLUMN_NAME_NEXTSOURCE text,
+         |$COLUMN_NAME_MESSAGE text,
+         |$COLUMN_NAME_HOP int,
+         |$COLUMN_NAME_UPDOWN text,
+         |$COLUMN_NAME_SPREADTIME DATETIME,
+         |$COLUMN_NAME_EXPTIME DATETIME,
+         |$COLUMN_NAME_ACTIVE boolean)""".stripMargin
+
     def onCreate(mDb: SQLiteDatabase) {
       mDb.execSQL(CREATE_TABLE_CONTACTS)
       mDb.execSQL(CREATE_TABLE_FRIEND_REQUESTS)
       mDb.execSQL(CREATE_TABLE_GROUP_INVITES)
       mDb.execSQL(CREATE_TABLE_MESSAGES)
+      /* added by Ann for private message database */
+      mDb.execSQL(CREATE_TABLE_PRIVATE_MESSAGES)
+      mDb.execSQL(CREATE_TABLE_PENDING_MESSAGES)
+      /* added by Ann for private message database */
     }
 
     override def onUpgrade(mDb: SQLiteDatabase, oldVersion: Int, newVersion: Int) {
       mDb.execSQL("DROP TABLE IF EXISTS " + TABLE_CONTACTS)
       mDb.execSQL("DROP TABLE IF EXISTS " + TABLE_MESSAGES)
       mDb.execSQL("DROP TABLE IF EXISTS " + TABLE_FRIEND_REQUESTS)
+      /* added by Ann for private message database */
+      mDb.execSQL("DROP TABLE IF EXISTS " + TABLE_PRIVATE_MESSAGES)
+      mDb.execSQL("DROP TABLE IF EXISTS " + TABLE_PENDING_MESSAGES)
+      /* added by Ann for private message database */
       onCreate(mDb)
     }
 
@@ -94,6 +127,10 @@ object AntoxDB {
       mDb.execSQL("DROP TABLE IF EXISTS " + TABLE_CONTACTS)
       mDb.execSQL("DROP TABLE IF EXISTS " + TABLE_MESSAGES)
       mDb.execSQL("DROP TABLE IF EXISTS " + TABLE_FRIEND_REQUESTS)
+      /* added by Ann for private message database */
+      mDb.execSQL("DROP TABLE IF EXISTS " + TABLE_PRIVATE_MESSAGES)
+      mDb.execSQL("DROP TABLE IF EXISTS " + TABLE_PENDING_MESSAGES)
+      /* added by Ann for private message database */
     }
   }
 }
@@ -232,6 +269,35 @@ class AntoxDB(ctx: Context, activeDatabase: String, selfKey: SelfKey) {
     values.put(COLUMN_NAME_FILE_KIND, -1.asInstanceOf[java.lang.Integer])
     mDb.insert(TABLE_MESSAGES, values)
   }
+
+
+  /* added by Ann for Private_message database */
+  def addPrivateMessage(isMine: Boolean, message: String, hop: Int, updown: String, spreadtime: Timestamp, exptime: Timestamp, parent: FriendKey, active: Boolean): Unit = {
+    val values = new ContentValues()
+    values.put(COLUMN_NAME_MINE, isMine)
+    values.put(COLUMN_NAME_MESSAGE, message)
+    values.put(COLUMN_NAME_HOP, hop:java.lang.Integer)
+    values.put(COLUMN_NAME_UPDOWN, updown)
+    values.put(COLUMN_NAME_SPREADTIME, spreadtime.toString)
+    values.put(COLUMN_NAME_EXPTIME, exptime.toString)
+    values.put(COLUMN_NAME_PARENT, parent.toString)
+    values.put(COLUMN_NAME_ACTIVE, active)
+    mDb.insert(TABLE_PRIVATE_MESSAGES,values)
+    AntoxLog.debug(s"Regular message stores into database.", AntoxDB.TAG)
+  }
+
+  def addPendingMessage(nextSource: String, message: String, hop: Int, updown: String, spreadtime: Timestamp, exptime: Timestamp, active: Boolean): Unit = {
+    val values = new ContentValues()
+    values.put(COLUMN_NAME_NEXTSOURCE, nextSource)
+    values.put(COLUMN_NAME_MESSAGE, message)
+    values.put(COLUMN_NAME_HOP, hop: java.lang.Integer)
+    values.put(COLUMN_NAME_UPDOWN, updown)
+    values.put(COLUMN_NAME_SPREADTIME, spreadtime.toString)
+    values.put(COLUMN_NAME_EXPTIME, exptime.toString)
+    values.put(COLUMN_NAME_ACTIVE, active)
+    mDb.insert(TABLE_PENDING_MESSAGES,values)
+  }
+  /* added by Ann for private_message database */
 
   def contactKeyFromContactType(key: String, contactType: ContactType): ContactKey = {
     contactType match {
@@ -435,9 +501,7 @@ class AntoxDB(ctx: Context, activeDatabase: String, selfKey: SelfKey) {
   def messageListUpdatedObservable(): Observable[Int] = {
 
     val query =
-      s"""SELECT COUNT(*) FROM $TABLE_MESSAGES
-         |WHERE $COLUMN_NAME_SENDER_KEY == '${selfKey.toString}'
-      """.stripMargin
+      s"""SELECT COUNT(*) FROM $TABLE_MESSAGES""".stripMargin
 
     mDb.createQuery(TABLE_MESSAGES, query).map { closedCursor =>
       closedCursor.use { cursor =>
@@ -612,7 +676,7 @@ class AntoxDB(ctx: Context, activeDatabase: String, selfKey: SelfKey) {
   // get all messages by the user
   def getBroadcastMessageList(takeLast: Int = -1): ArrayBuffer[Message] = {
     val selectQuery: String = getBroadcastMessageQuery(RowOrder.ASCENDING)
-    val messageList = mDb.query(selectQuery).use(messageListFromCursor)
+    var messageList = mDb.query(selectQuery).use(messageListFromCursor)
 
     if (takeLast >= 0) {
       val messageListSizeDifference = messageList.size - takeLast
@@ -622,10 +686,120 @@ class AntoxDB(ctx: Context, activeDatabase: String, selfKey: SelfKey) {
     } else {
       messageList
     }
+    //messageList = new ArrayBuffer[Message]() //1/18/2016
     // messages might be sent to multiple persons, duplication
   }
   //modified by Ann on 1/10/2016
 
+  /* Modified by Ann
+  * get all messages from Private_Message_Database to show
+   */
+  def getPrivateMsgList(): util.ArrayList[MsgItem] = {
+    val order = s"ORDER BY $COLUMN_NAME_TIMESTAMP ${RowOrder.ASCENDING.toString}"
+    val selectQuery =
+      s"""SELECT *
+         |FROM $TABLE_PRIVATE_MESSAGES
+         |$order""".stripMargin
+    val messageList = mDb.query(selectQuery).use(privateMsgListFromCursor)
+    messageList
+  }
+
+  private def privateMsgListFromCursor(cursor: Cursor): util.ArrayList[MsgItem] = {
+    val messageList = new util.ArrayList[MsgItem]()
+    if (cursor.moveToFirst()) {
+      do {
+        val timestamp = Timestamp.valueOf(cursor.getString(COLUMN_NAME_TIMESTAMP))
+        val isMine = cursor.getBoolean(COLUMN_NAME_MINE)
+        val message = cursor.getString(COLUMN_NAME_MESSAGE)
+        messageList.add(new MsgItem(message, isMine, timestamp))
+      } while (cursor.moveToNext())
+    }
+    messageList
+  }
+
+  // !!! add exptime !!!
+  def getNewPrivateMsgList(msgContent: String, exptime: Timestamp): Boolean = {
+    val selectQuery =
+      s"""SELECT *
+         |FROM $TABLE_PRIVATE_MESSAGES
+         |WHERE $COLUMN_NAME_MESSAGE = '$msgContent'
+         |AND $COLUMN_NAME_EXPTIME == '$exptime'""".stripMargin
+    // |AND $COLUMN_NAME_EXPTIME = $exptime""".stripMargin
+    AntoxLog.debug(selectQuery, AntoxDB.TAG)
+    var isExist = false
+    mDb.query(selectQuery).use { cursor =>
+      //AntoxLog.debug(cursor.toString, AntoxDB.TAG)
+      if (cursor.moveToFirst()) {
+        //cursor.getString(0)
+        //var id = cursor.getInt(0)
+        AntoxLog.debug("Test Cursor Yes", AntoxDB.TAG)
+        isExist = true
+      }
+    }
+    isExist
+  }
+  // def updatePrivateMsgList(id: Int, hop: Int, updown: String, spreadtime: Timestamp, exptime: Timestamp, parent: Fr)
+  def getPendingMsg(msgContent: String): ArrayBuffer[Int] = {
+    val where = s"WHERE $COLUMN_NAME_MESSAGE = '$msgContent'"
+    val selectQuery =
+      s"""SELECT $COLUMN_NAME_ID
+         |FROM $TABLE_PENDING_MESSAGES
+         |$where""".stripMargin
+
+    val idBuffer = new ArrayBuffer[Int]()
+    mDb.query(selectQuery).use { cursor =>
+      //AntoxLog.debug(cursor.toString, AntoxDB.TAG)
+      if (cursor.moveToFirst()) {
+        //cursor.getString(0)
+        //var id = cursor.getInt(0)
+        AntoxLog.debug("Test Cursor Yes", AntoxDB.TAG)
+        var id = cursor.getInt(COLUMN_NAME_ID)
+        idBuffer += id
+      }
+    }
+    AntoxLog.debug("Searching for Pending messages", AntoxDB.TAG)
+    idBuffer
+  }
+
+  def getPendingSource(id: Int): String = {
+    AntoxLog.debug("Searching for source BEGINS", AntoxDB.TAG)
+    val where = s"WHERE $COLUMN_NAME_ID = $id"
+    val selectQuery =
+      s"""SELECT *
+         |FROM $TABLE_PENDING_MESSAGES
+         |$where""".stripMargin
+    var nextSources: String = ""
+    mDb.query(selectQuery).use { cursor =>
+      //AntoxLog.debug(cursor.toString, AntoxDB.TAG)
+      if (cursor.moveToFirst()) {
+        //nextSources  = cursor.getString(cursor.getColumnIndexOrThrow(COLUMN_NAME_NEXTSOURCE))
+        nextSources = cursor.getString(s"$COLUMN_NAME_NEXTSOURCE")
+        AntoxLog.debug("Searching for next sources", AntoxDB.TAG)
+      }
+    }
+    AntoxLog.debug("Searching for next sources", AntoxDB.TAG)
+    nextSources
+  }
+
+  def updatePendingNextSource(id: Int, friend: String): Unit = {
+    val prevSources = getPendingSource(id)
+    var curSources = "None"
+    if (prevSources.equals("None")) {
+      curSources = friend
+    } else {
+      curSources = prevSources + "&" + friend
+    }
+    val values = new ContentValues()
+    values.put(COLUMN_NAME_NEXTSOURCE, curSources)
+    mDb.update(TABLE_PENDING_MESSAGES, values, s"_id = $id")
+    AntoxLog.debug("Source has been updated", AntoxDB.TAG)
+  }
+
+  def removePendingMsg(id: Int): Unit = {
+    val where = s"COLUMN_NAME_ID == $id"
+    mDb.delete(TABLE_PENDING_MESSAGES, where)
+  }
+  /* Modified by Ann for private and pending messages */
 
   private def messageListFromCursor(cursor: Cursor): ArrayBuffer[Message] = {
     val messageList = new ArrayBuffer[Message]()

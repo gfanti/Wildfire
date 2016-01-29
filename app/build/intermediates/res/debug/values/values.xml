@@ -522,7 +522,7 @@
     <string name="addgroup_optional_title">Optional Extras</string>
     <string name="addpane_friend_label">Friend</string>
     <string name="addpane_group_label">Group</string>
-    <string name="app_name" translatable="false">Antox</string>
+    <string name="app_name" translatable="false">Wildfire</string>
     <!-- From: file:/Users/Ann/Desktop/Wildfire-master/app/build/intermediates/exploded-aar/com.android.support/design/23.0.1/res/values/values.xml -->
     <eat-comment/>
     <string name="appbar_scrolling_view_behavior" translatable="false">android.support.design.widget.AppBarLayout$ScrollingViewBehavior</string>
@@ -558,9 +558,9 @@
     <!-- From: file:/Users/Ann/Desktop/Wildfire-master/app/src/main/res/values/strings.xml -->
     <eat-comment/>
     <string name="create_account_connection_error">Registration Failed: Could not connect to the internet.</string>
-    <string name="create_account_encrypted_profile_error">Antox does not support encrypted profiles yet</string>
+    <string name="create_account_encrypted_profile_error">Wildfire does not support encrypted profiles yet</string>
     <string name="create_account_exists">This name is already taken</string>
-    <string name="create_account_internal_error">Internal Antox Error. Please restart and try again</string>
+    <string name="create_account_internal_error">Internal Wildfire Error. Please restart and try again</string>
     <string name="create_account_invalid_domain">Invalid toxme domain supplied.</string>
     <string name="create_account_kalium_link_error">Failed to load a required library. Unable to create non-incognito accounts</string>
     <string name="create_account_load_profile_unknown">Unknown error loading profile</string>
@@ -582,9 +582,9 @@
     <string name="create_text">Secure messaging for everyone.</string>
     <string name="delete_account_dialog_cancel">Cancel</string>
     <string name="delete_account_dialog_confirm">Delete Account</string>
-    <string name="delete_account_dialog_message">This will permanently delete this Antox user and remove you from any ToxMe service tied to your account</string>
-    <string name="delete_account_dialog_title">Confirm Antox Account Deletion</string>
-    <string name="delete_account_error">An error occurred while deleting your Antox accont</string>
+    <string name="delete_account_dialog_message">This will permanently delete this Wildfire user and remove you from any ToxMe service tied to your account</string>
+    <string name="delete_account_dialog_title">Confirm Wildfire Account Deletion</string>
+    <string name="delete_account_error">An error occurred while deleting your Wildfire accont</string>
     <string name="delete_account_successful">Account was successfully deleted</string>
     <string name="dialog_avatar_description">avatar</string>
     <string name="dialog_avatar_take_photo">Take Photo</string>
@@ -642,10 +642,10 @@
     <string name="invalid_group_ID">Invalid Group ID</string>
     <string name="invited_by">You were invited by </string>
     <string name="license1">Distributed under the GNU GPL v3. Created by Mark Winter, maintained by subliun and others.</string>
-    <string name="license2">Source code is available at\nhttps://github.com/subliun/Antox</string>
+    <string name="license2">Source code is available at\nhttps://github.com/gfanti/Wildfire</string>
     <string name="login_account_hint">Profile Name</string>
     <string name="login_bad_login">Profile name was not recognised</string>
-    <string name="login_create_account_text">Create Tox Profile</string>
+    <string name="login_create_account_text">Create Wildfire Profile</string>
     <string name="login_login">Login</string>
     <string name="login_must_fill_in">You must fill in a profile name</string>
     <string name="main_group_coming_soon">"Coming soon…"</string>
@@ -653,7 +653,7 @@
     <string name="main_no_active_chat">No active chat. Start one by choosing a friend from the pane on the left.</string>
     <string name="main_no_internet">No Internet Connection</string>
     <string name="main_not_connected">No internet connection has been detected. Without an internet connection, you will have
-        limited functionality unless you are using Antox for LAN only</string>
+        limited functionality unless you are using Wildfire for LAN only</string>
     <string name="main_recent_no">No recent conversations</string>
     <string name="message_copy">Copy message</string>
     <string name="message_delete">Delete message</string>
@@ -671,10 +671,10 @@
     <!-- From: file:/Users/Ann/Desktop/Wildfire-master/app/src/main/res/values/strings_activity_settings.xml -->
     <eat-comment/>
     <string name="pref_advanced">Advanced</string>
-    <string name="pref_autostart">Start Antox On Boot</string>
-    <string name="pref_default_nickname">Antox User</string>
+    <string name="pref_autostart">Start Wildfire On Boot</string>
+    <string name="pref_default_nickname">Wildfire User</string>
     <string name="pref_default_password">No Set Password</string>
-    <string name="pref_default_status_message">Hey! I\'m using Antox</string>
+    <string name="pref_default_status_message">Hey! I\'m using Wildfire</string>
     <string name="pref_default_tox_id">Default Tox ID - You should not see this</string>
     <string name="pref_default_toxme">This profile is currently in incognito mode</string>
     <string name="pref_description_notification_sound">Play sound</string>

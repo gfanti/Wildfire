@@ -80,7 +80,6 @@
 # view res/layout/abc_action_menu_layout.xml #generated:17
 -keep class android.support.v7.widget.ActionMenuView { <init>(...); }
 
-# view res/layout/activity_chat.xml #generated:7
 # view res/layout/activity_chat_person.xml #generated:7
 -keep class android.support.v7.widget.RecyclerView { <init>(...); }
 
@@ -95,31 +94,28 @@
 # view AndroidManifest.xml #generated:24
 -keep class android.test.InstrumentationTestRunner { <init>(...); }
 
-# view AndroidManifest.xml #generated:149
+# view AndroidManifest.xml #generated:141
 -keep class chat.tox.antox.activities.AboutActivity { <init>(...); }
 
-# view AndroidManifest.xml #generated:100
+# view AndroidManifest.xml #generated:92
 -keep class chat.tox.antox.activities.AddActivity { <init>(...); }
-
-# view AndroidManifest.xml #generated:85
--keep class chat.tox.antox.activities.BroadcastActivity { <init>(...); }
 
 # view AndroidManifest.xml #generated:70
 -keep class chat.tox.antox.activities.ChatActivity { <init>(...); }
 
-# view AndroidManifest.xml #generated:142
+# view AndroidManifest.xml #generated:134
 -keep class chat.tox.antox.activities.CreateAccountActivity { <init>(...); }
 
-# view AndroidManifest.xml #generated:93
+# view AndroidManifest.xml #generated:85
 -keep class chat.tox.antox.activities.EvalActivity { <init>(...); }
 
-# view AndroidManifest.xml #generated:117
+# view AndroidManifest.xml #generated:109
 -keep class chat.tox.antox.activities.FriendProfileActivity { <init>(...); }
 
 # view AndroidManifest.xml #generated:78
 -keep class chat.tox.antox.activities.GroupChatActivity { <init>(...); }
 
-# view AndroidManifest.xml #generated:125
+# view AndroidManifest.xml #generated:117
 -keep class chat.tox.antox.activities.GroupProfileActivity { <init>(...); }
 
 # view AndroidManifest.xml #generated:59
@@ -128,10 +124,10 @@
 # view AndroidManifest.xml #generated:53
 -keep class chat.tox.antox.activities.MainActivity { <init>(...); }
 
-# view AndroidManifest.xml #generated:146
+# view AndroidManifest.xml #generated:138
 -keep class chat.tox.antox.activities.ProfileSettingsActivity { <init>(...); }
 
-# view AndroidManifest.xml #generated:152
+# view AndroidManifest.xml #generated:144
 -keep class chat.tox.antox.activities.SettingsActivity { <init>(...); }
 
 # view res/layout/activity_add.xml #generated:7
@@ -152,7 +148,7 @@
 # view AndroidManifest.xml #generated:47
 -keep class chat.tox.antox.utils.BootReceiver { <init>(...); }
 
-# view AndroidManifest.xml #generated:134
+# view AndroidManifest.xml #generated:126
 -keep class chat.tox.antox.utils.ConnectionManager { <init>(...); }
 
 # view res/layout/fragment_leftpane.xml #generated:26

@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical" android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="100dp"
+        android:orientation="horizontal">
+    <!--<ImageView
+        android:layout_width="wrap_content"
+        android:layout_height="match_parent"
+        android:src="@drawable/circle_online"
+        android:id="@+id/msgStatus"
+        android:layout_weight="1" >
+    </ImageView>-->
+    <TextView
+        android:id="@+id/msgString"
+        android:textSize="16sp"
+        android:textColor="#f7f1f7"
+        android:layout_width="wrap_content"
+        android:layout_height="match_parent"
+        android:layout_gravity="center"
+        android:text="This is a test info"
+        android:layout_weight="6"/>
+    </LinearLayout>
+</LinearLayout><!-- From: file:/Users/Ann/Desktop/Wildfire-master/app/src/main/res/layout/list_msg_item.xml -->

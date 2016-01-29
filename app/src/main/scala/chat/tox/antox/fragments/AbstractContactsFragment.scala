@@ -26,7 +26,7 @@ import im.tox.tox4j.exceptions.ToxException
 import rx.lang.scala.schedulers.{AndroidMainThreadScheduler, IOScheduler}
 import rx.lang.scala.{Observable, Subscription}
 
-abstract class AbstractContactsFragment extends Fragment with OnItemClickListener with OnItemLongClickListener {
+abstract class AbstractContactsFragment extends android.support.v4.app.Fragment with OnItemClickListener with OnItemLongClickListener {
 
   var showSearch: Boolean = _
 
@@ -102,7 +102,7 @@ abstract class AbstractContactsFragment extends Fragment with OnItemClickListene
   }
 
   override def onItemClick(parent: AdapterView[_], view: View, position: Int, id: Long) {
-    val item = parent.getAdapter.asInstanceOf[Adapter].getItem(position).asInstanceOf[LeftPaneItem]
+    /*val item = parent.getAdapter.asInstanceOf[Adapter].getItem(position).asInstanceOf[LeftPaneItem]
     val `type` = item.viewType
     if (`type` != ContactItemType.FRIEND_REQUEST && `type` != ContactItemType.GROUP_INVITE) {
       val key = item.key
@@ -114,7 +114,7 @@ abstract class AbstractContactsFragment extends Fragment with OnItemClickListene
       }
       intent.putExtra("key", key.toString)
       startActivity(intent)
-    }
+    }*/
   }
 
   override def onItemLongClick(parent: AdapterView[_], itemView: View, index: Int, id: Long): Boolean = {

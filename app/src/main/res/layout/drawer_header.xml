@@ -41,7 +41,7 @@
         android:id="@+id/status_message"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
-        android:text="I'm using Antox"
+        android:text="I'm using Wildfire"
         android:textColor="@color/grey"
         android:textSize="@dimen/text_smallish"
         android:maxLines="2"

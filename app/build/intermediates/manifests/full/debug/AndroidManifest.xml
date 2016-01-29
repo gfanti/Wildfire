@@ -83,14 +83,6 @@
                 android:value="chat.tox.antox.activities.MainActivity" />
         </activity>
         <activity
-            android:name="chat.tox.antox.activities.BroadcastActivity"
-            android:parentActivityName="chat.tox.antox.activities.MainActivity"
-            android:windowSoftInputMode="stateHidden|adjustResize" >
-            <meta-data
-                android:name="android.support.PARENT_ACTIVITY"
-                android:value="chat.tox.antox.activities.MainActivity" />
-        </activity>
-        <activity
             android:name="chat.tox.antox.activities.EvalActivity"
             android:parentActivityName="chat.tox.antox.activities.MainActivity" >
             <meta-data
