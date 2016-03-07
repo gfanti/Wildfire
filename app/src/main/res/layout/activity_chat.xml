@@ -4,6 +4,39 @@
     android:layout_height="fill_parent"
     android:orientation="vertical">
 
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+
+        <EditText
+            android:id="@+id/your_message"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center_vertical"
+            android:layout_weight="1"
+            android:background="@android:color/transparent"
+            android:gravity="center_vertical"
+            android:hint="@string/chat_enter_message"
+            android:imeOptions="actionSend"
+            android:inputType="textShortMessage|textCapSentences|textMultiLine|textAutoCorrect"
+            android:maxLines="4"
+            android:minLines="2"
+            android:paddingBottom="@dimen/margin_small"
+            android:paddingLeft="20dp"
+            android:paddingTop="@dimen/margin_small"
+            android:textColor="@color/black"
+            android:textSize="@dimen/text_medium"/>
+
+        <ImageView
+            android:id="@+id/send_message_button"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center_vertical"
+            android:contentDescription="Send Button"
+            android:paddingRight="15dp"
+            android:src="@drawable/ic_send"/>
+    </LinearLayout>
+
     <ListView
         android:id = "@+id/msgListView"
         android:layout_width="match_parent"
@@ -21,37 +54,5 @@
             android:layout_height="1px"
             android:background="@color/grey_dark"/>
 
-        <LinearLayout
-            android:layout_width="match_parent"
-            android:layout_height="wrap_content">
-
-            <EditText
-                android:id="@+id/your_message"
-                android:layout_width="0dp"
-                android:layout_height="wrap_content"
-                android:layout_gravity="center_vertical"
-                android:layout_weight="1"
-                android:background="@android:color/transparent"
-                android:gravity="center_vertical"
-                android:hint="@string/chat_enter_message"
-                android:imeOptions="actionSend"
-                android:inputType="textShortMessage|textCapSentences|textMultiLine|textAutoCorrect"
-                android:maxLines="4"
-                android:minLines="2"
-                android:paddingBottom="@dimen/margin_small"
-                android:paddingLeft="20dp"
-                android:paddingTop="@dimen/margin_small"
-                android:textColor="@color/black"
-                android:textSize="@dimen/text_medium"/>
-
-            <ImageView
-                android:id="@+id/send_message_button"
-                android:layout_width="wrap_content"
-                android:layout_height="wrap_content"
-                android:layout_gravity="center_vertical"
-                android:contentDescription="Send Button"
-                android:paddingRight="15dp"
-                android:src="@drawable/ic_send"/>
-        </LinearLayout>
     </RelativeLayout>
 </LinearLayout>
