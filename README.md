@@ -17,6 +17,6 @@ Compiling instructions for developer:
 — Install Scala plugin in Android Studio and restart it
 — Download source code from: https://github.com/gfanti/Wildfire
 — Open the project in Android Studio
-— Enter File > Import Existing Project, and then select build.grade file in the root of Wildfire folder
+— Enter File > Import Existing Project, and then select build.gradle file in the root of Wildfire folder
 — Download the lastest tox4j binaries (this can be done by running download-depedencies.sh / download-dependecies,bat)
 — Build the project and run it. You can test the app on an emulator, or on you real phone through developer mode
