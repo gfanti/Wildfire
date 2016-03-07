@@ -1,8 +1,10 @@
-Wildfire is an anonymous messaging app running on Android 4.0+ platform. It is designed with adaptive spreading mechanism for communication privacy. Currently an alpha version of Wildfire is available.
+Wildfire is an anonymous messaging app running on Android 4.0+ platform. It uses the adaptive diffusion spreading mechanism from (Fanti et al., Sigmetrics 2015) to provide users with strong anonymity guarantees. Currently an alpha version of Wildfire is available. 
+
+Disclaimer: This version of Wildfire does NOT currently provide full anonymity guarantees, and is intended as a proof-of-concept. It is run over Antox, a distributed, peer-to-peer messaging platform (www.github.com/astonex/Antox). This platform uses a DHT for namespace resolution, and we have no guarantees that this DHT is not compromised or monitored. In practice, this could compromise the anonymity guarantees provided by adaptive diffusion.  
 
 Current functions:
 — Anonymous posts
-— Optionally message forwarding
+— Optional message forwarding
 — Adaptive transmission
 
 Getting Wildfire
